@@ -1,0 +1,3 @@
+- pkg:nuget/aadog.DotNetCore.CAP.NATS@8.5.0-dv-275652504
+- pkg:nuget/aadog.DotNetCore.CAP.NATS@8.5.1-dv-275657903
+- pkg:nuget/aadog.DotNetCore.CAP.NATS@8.8.1-dv-275661699

@@ -1,0 +1,6 @@
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.5.0-dv-275652504
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.5.1-dv-275657903
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.8.0-dv-275659502
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.8.1-dv-275659539
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.8.1-dv-275661591
+- pkg:nuget/aadog.DotNetCore.CAP.AmazonSQS@8.8.1-dv-275661699

@@ -1,0 +1,3 @@
+- pkg:nuget/AIC.Core.Messaging.Services.RabbitMQ.Extensions@2025.11.16.5
+- pkg:nuget/AIC.Core.Messaging.Services.RabbitMQ.Extensions@2025.11.20.2
+- pkg:nuget/AIC.Core.Messaging.Services.RabbitMQ.Extensions@2025.11.23.3

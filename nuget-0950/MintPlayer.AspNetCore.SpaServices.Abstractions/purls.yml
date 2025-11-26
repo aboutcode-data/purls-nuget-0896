@@ -1,0 +1,6 @@
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@10.0.0-rc.5
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@10.0.0-rc.6
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@8.1.0
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@8.2.0
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@8.3.0
+- pkg:nuget/MintPlayer.AspNetCore.SpaServices.Abstractions@9.0.0

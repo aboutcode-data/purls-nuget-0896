@@ -1,4 +1,5 @@
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.11.16.2
+- pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.11.26.1
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.6.11.1
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.6.12.1
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.6.17.1

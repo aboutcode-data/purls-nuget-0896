@@ -1,3 +1,5 @@
+- pkg:nuget/BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres@10.0.2-preview.0.2
+- pkg:nuget/BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres@10.0.2-preview.0.3
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres@9.0.1-preview.0.140
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres@9.0.1-preview.0.141
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EntityFramework.Postgres@9.0.1-preview.0.145

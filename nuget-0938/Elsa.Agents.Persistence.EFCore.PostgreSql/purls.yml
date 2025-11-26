@@ -1,0 +1,5 @@
+- pkg:nuget/Elsa.Agents.Persistence.EFCore.PostgreSql@3.4.0
+- pkg:nuget/Elsa.Agents.Persistence.EFCore.PostgreSql@3.5.0
+- pkg:nuget/Elsa.Agents.Persistence.EFCore.PostgreSql@3.5.0-rc1
+- pkg:nuget/Elsa.Agents.Persistence.EFCore.PostgreSql@3.5.0-rc2
+- pkg:nuget/Elsa.Agents.Persistence.EFCore.PostgreSql@3.5.1

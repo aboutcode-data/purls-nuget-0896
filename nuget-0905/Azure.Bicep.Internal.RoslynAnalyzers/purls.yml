@@ -1,0 +1,6 @@
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.17
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.31
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.32
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.38
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.45
+- pkg:nuget/Azure.Bicep.Internal.RoslynAnalyzers@0.1.60

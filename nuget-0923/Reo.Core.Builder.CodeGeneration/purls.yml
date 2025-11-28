@@ -48,3 +48,5 @@
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@8.0.673
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@8.0.676
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@8.0.680
+- pkg:nuget/Reo.Core.Builder.CodeGeneration@8.0.707
+- pkg:nuget/Reo.Core.Builder.CodeGeneration@8.0.708

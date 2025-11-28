@@ -7,6 +7,7 @@
 - pkg:nuget/DataFac.UnsafeHelpers@0.14.2
 - pkg:nuget/DataFac.UnsafeHelpers@0.14.4
 - pkg:nuget/DataFac.UnsafeHelpers@0.15.2
+- pkg:nuget/DataFac.UnsafeHelpers@0.16.7
 - pkg:nuget/DataFac.UnsafeHelpers@0.4.6
 - pkg:nuget/DataFac.UnsafeHelpers@0.5.1
 - pkg:nuget/DataFac.UnsafeHelpers@0.6.1

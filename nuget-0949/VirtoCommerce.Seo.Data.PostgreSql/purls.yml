@@ -7,3 +7,4 @@
 - pkg:nuget/VirtoCommerce.Seo.Data.PostgreSql@3.806.0-alpha.40-vcst-3534
 - pkg:nuget/VirtoCommerce.Seo.Data.PostgreSql@3.807.0
 - pkg:nuget/VirtoCommerce.Seo.Data.PostgreSql@3.807.0-alpha.42-vcst-3775
+- pkg:nuget/VirtoCommerce.Seo.Data.PostgreSql@3.811.0

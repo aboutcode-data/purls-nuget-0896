@@ -67,6 +67,7 @@
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.70
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.71
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.72
+- pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.77
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.8
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@0.0.9
 - pkg:nuget/AgentHub.Module.Client.EntityFrameworkCore@6.0.1

@@ -1,3 +1,4 @@
+- pkg:nuget/Codeworx.Synchronization.Primitives@10.0.0
 - pkg:nuget/Codeworx.Synchronization.Primitives@3.1.0
 - pkg:nuget/Codeworx.Synchronization.Primitives@3.1.0-beta-31022
 - pkg:nuget/Codeworx.Synchronization.Primitives@3.1.1

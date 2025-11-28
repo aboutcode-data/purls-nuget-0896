@@ -8,6 +8,7 @@
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.14.0
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.14.1
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.14.2
+- pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.16.1
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.2.0
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.3.0
 - pkg:nuget/CK.DB.Actor.WeakActor.Tests@0.4.0

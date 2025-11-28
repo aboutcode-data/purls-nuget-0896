@@ -22,3 +22,4 @@
 - pkg:nuget/CK.MQTT.LocalMQTTDemiServer@0.30.0
 - pkg:nuget/CK.MQTT.LocalMQTTDemiServer@0.31.0
 - pkg:nuget/CK.MQTT.LocalMQTTDemiServer@0.31.1
+- pkg:nuget/CK.MQTT.LocalMQTTDemiServer@0.33.1

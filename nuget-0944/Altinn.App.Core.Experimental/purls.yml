@@ -214,3 +214,4 @@
 - pkg:nuget/Altinn.App.Core.Experimental@8.8.0-pr.2584.subform-service-task.d7f89a04
 - pkg:nuget/Altinn.App.Core.Experimental@8.9.0-pr.2891.graceful-shutdown.c472cc38
 - pkg:nuget/Altinn.App.Core.Experimental@8.9.0-pr.3076.fiks-io-client.189206c6
+- pkg:nuget/Altinn.App.Core.Experimental@8.9.0-pr.3409.subform-service-task.5eeacd80

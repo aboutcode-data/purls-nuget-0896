@@ -1186,4 +1186,7 @@
 - pkg:nuget/MassTransit.Azure.ServiceBus.Core@8.5.4-develop.2374
 - pkg:nuget/MassTransit.Azure.ServiceBus.Core@8.5.4-develop.2375
 - pkg:nuget/MassTransit.Azure.ServiceBus.Core@8.5.6-develop.2397
+- pkg:nuget/MassTransit.Azure.ServiceBus.Core@8.5.7-develop.2403
+- pkg:nuget/MassTransit.Azure.ServiceBus.Core@8.5.7-develop.2404
+- pkg:nuget/MassTransit.Azure.ServiceBus.Core@9.0.0-develop.23
 - pkg:nuget/MassTransit.Azure.ServiceBus.Core@9.0.0-develop.25

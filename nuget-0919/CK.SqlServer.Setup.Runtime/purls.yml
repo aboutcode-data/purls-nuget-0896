@@ -63,6 +63,7 @@
 - pkg:nuget/CK.SqlServer.Setup.Runtime@31.0.0
 - pkg:nuget/CK.SqlServer.Setup.Runtime@31.0.1
 - pkg:nuget/CK.SqlServer.Setup.Runtime@31.0.2
+- pkg:nuget/CK.SqlServer.Setup.Runtime@32.1.1
 - pkg:nuget/CK.SqlServer.Setup.Runtime@4.0.0
 - pkg:nuget/CK.SqlServer.Setup.Runtime@4.0.0-b01
 - pkg:nuget/CK.SqlServer.Setup.Runtime@6.0.0

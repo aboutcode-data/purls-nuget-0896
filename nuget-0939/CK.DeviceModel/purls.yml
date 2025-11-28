@@ -4,6 +4,7 @@
 - pkg:nuget/CK.DeviceModel@11.0.0
 - pkg:nuget/CK.DeviceModel@12.0.0
 - pkg:nuget/CK.DeviceModel@12.0.1
+- pkg:nuget/CK.DeviceModel@13.2.1
 - pkg:nuget/CK.DeviceModel@5.0.0
 - pkg:nuget/CK.DeviceModel@5.1.0
 - pkg:nuget/CK.DeviceModel@5.1.1

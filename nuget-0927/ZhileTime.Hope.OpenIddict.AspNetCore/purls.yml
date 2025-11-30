@@ -118,3 +118,4 @@
 - pkg:nuget/ZhileTime.Hope.OpenIddict.AspNetCore@5.5.1
 - pkg:nuget/ZhileTime.Hope.OpenIddict.AspNetCore@5.8.2
 - pkg:nuget/ZhileTime.Hope.OpenIddict.AspNetCore@6.0.2
+- pkg:nuget/ZhileTime.Hope.OpenIddict.AspNetCore@6.0.5

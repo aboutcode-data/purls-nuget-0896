@@ -33,6 +33,7 @@
 - pkg:nuget/ServiceStack.Kestrel@1.0.42
 - pkg:nuget/ServiceStack.Kestrel@1.0.43
 - pkg:nuget/ServiceStack.Kestrel@1.0.44
+- pkg:nuget/ServiceStack.Kestrel@10.0.0
 - pkg:nuget/ServiceStack.Kestrel@5.0.0
 - pkg:nuget/ServiceStack.Kestrel@5.0.2
 - pkg:nuget/ServiceStack.Kestrel@5.1.0

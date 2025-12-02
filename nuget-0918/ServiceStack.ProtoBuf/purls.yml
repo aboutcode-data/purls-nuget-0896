@@ -1,3 +1,4 @@
+- pkg:nuget/ServiceStack.ProtoBuf@10.0.0
 - pkg:nuget/ServiceStack.ProtoBuf@4.0.10
 - pkg:nuget/ServiceStack.ProtoBuf@4.0.11
 - pkg:nuget/ServiceStack.ProtoBuf@4.0.12

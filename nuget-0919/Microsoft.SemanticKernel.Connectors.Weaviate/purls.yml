@@ -80,6 +80,7 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.63.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.64.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.65.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.68.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.7.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.7.1-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Weaviate@1.8.0-alpha

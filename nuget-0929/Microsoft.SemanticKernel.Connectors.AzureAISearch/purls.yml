@@ -81,6 +81,7 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.63.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.64.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.65.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.68.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.7.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.7.1-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAISearch@1.8.0-alpha

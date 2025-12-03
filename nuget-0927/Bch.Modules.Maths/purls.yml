@@ -5,6 +5,8 @@
 - pkg:nuget/Bch.Modules.Maths@0.0.13-alpha
 - pkg:nuget/Bch.Modules.Maths@0.0.14-alpha
 - pkg:nuget/Bch.Modules.Maths@0.0.15-alpha
+- pkg:nuget/Bch.Modules.Maths@0.0.18-alpha
+- pkg:nuget/Bch.Modules.Maths@0.0.19-alpha
 - pkg:nuget/Bch.Modules.Maths@0.0.2-alpha
 - pkg:nuget/Bch.Modules.Maths@0.0.3-alpha
 - pkg:nuget/Bch.Modules.Maths@0.0.4-alpha

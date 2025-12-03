@@ -14,3 +14,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.PgVector@1.63.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.PgVector@1.64.0-preview
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.PgVector@1.65.0-preview
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.PgVector@1.68.0-preview

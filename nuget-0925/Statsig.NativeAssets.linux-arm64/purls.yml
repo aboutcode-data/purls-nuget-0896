@@ -2,6 +2,7 @@
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.11.2-rc.2511040014
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.12.1-rc.2511121816
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.12.2-beta.2511200035
+- pkg:nuget/Statsig.NativeAssets.linux-arm64@0.13.1-beta.2512030239
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.6.1-beta.1
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.6.1-beta.2
 - pkg:nuget/Statsig.NativeAssets.linux-arm64@0.6.2-beta.2507161836

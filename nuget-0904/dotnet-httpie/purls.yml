@@ -42,6 +42,7 @@
 - pkg:nuget/dotnet-httpie@0.14.0-preview-20250905-143426
 - pkg:nuget/dotnet-httpie@0.14.0-preview-20250905-144623
 - pkg:nuget/dotnet-httpie@0.14.0-preview-20250907-111458
+- pkg:nuget/dotnet-httpie@0.15.0
 - pkg:nuget/dotnet-httpie@0.15.0-preview-20250916-052534
 - pkg:nuget/dotnet-httpie@0.2.0
 - pkg:nuget/dotnet-httpie@0.2.0-preview-20220105-005800

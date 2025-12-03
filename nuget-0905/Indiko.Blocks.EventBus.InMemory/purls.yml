@@ -38,3 +38,4 @@
 - pkg:nuget/Indiko.Blocks.EventBus.InMemory@1.7.5
 - pkg:nuget/Indiko.Blocks.EventBus.InMemory@1.7.8
 - pkg:nuget/Indiko.Blocks.EventBus.InMemory@1.7.9
+- pkg:nuget/Indiko.Blocks.EventBus.InMemory@2.1.1

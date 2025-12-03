@@ -252,6 +252,7 @@
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.45
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.46
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.5
+- pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.50
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.6
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.7
 - pkg:nuget/Microsoft.ReactNative.Managed.Debug@0.74.8

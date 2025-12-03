@@ -41,6 +41,7 @@
 - pkg:nuget/Gemstone.Threading@1.0.142
 - pkg:nuget/Gemstone.Threading@1.0.143
 - pkg:nuget/Gemstone.Threading@1.0.15
+- pkg:nuget/Gemstone.Threading@1.0.157
 - pkg:nuget/Gemstone.Threading@1.0.16
 - pkg:nuget/Gemstone.Threading@1.0.17
 - pkg:nuget/Gemstone.Threading@1.0.18

@@ -54,6 +54,7 @@
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.41
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.44
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.45
+- pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.47
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.5
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.6
 - pkg:nuget/Microsoft.CST.RecursiveExtractor.CLI@1.2.7

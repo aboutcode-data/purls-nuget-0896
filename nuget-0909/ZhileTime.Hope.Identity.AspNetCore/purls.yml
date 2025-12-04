@@ -136,3 +136,4 @@
 - pkg:nuget/ZhileTime.Hope.Identity.AspNetCore@5.8.2
 - pkg:nuget/ZhileTime.Hope.Identity.AspNetCore@6.0.2
 - pkg:nuget/ZhileTime.Hope.Identity.AspNetCore@6.0.5
+- pkg:nuget/ZhileTime.Hope.Identity.AspNetCore@6.1.3

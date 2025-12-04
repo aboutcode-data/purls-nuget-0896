@@ -134,3 +134,4 @@
 - pkg:nuget/ZhileTime.Hope.Users.EntityFrameworkCore@5.8.2
 - pkg:nuget/ZhileTime.Hope.Users.EntityFrameworkCore@6.0.2
 - pkg:nuget/ZhileTime.Hope.Users.EntityFrameworkCore@6.0.5
+- pkg:nuget/ZhileTime.Hope.Users.EntityFrameworkCore@6.1.3

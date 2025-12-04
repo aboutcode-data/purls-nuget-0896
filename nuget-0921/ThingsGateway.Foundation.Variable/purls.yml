@@ -237,6 +237,7 @@
 - pkg:nuget/ThingsGateway.Foundation.Variable@10.9.5
 - pkg:nuget/ThingsGateway.Foundation.Variable@10.9.7
 - pkg:nuget/ThingsGateway.Foundation.Variable@10.9.8
+- pkg:nuget/ThingsGateway.Foundation.Variable@12.4.11
 - pkg:nuget/ThingsGateway.Foundation.Variable@5.0.2.1
 - pkg:nuget/ThingsGateway.Foundation.Variable@5.0.2.14
 - pkg:nuget/ThingsGateway.Foundation.Variable@5.0.2.15

@@ -14,6 +14,7 @@
 - pkg:nuget/IKVM.MSBuild@8.13.1
 - pkg:nuget/IKVM.MSBuild@8.13.2
 - pkg:nuget/IKVM.MSBuild@8.13.4
+- pkg:nuget/IKVM.MSBuild@8.15.0-dev.46
 - pkg:nuget/IKVM.MSBuild@8.2.2-prerelease0163
 - pkg:nuget/IKVM.MSBuild@8.2.2-prerelease0241
 - pkg:nuget/IKVM.MSBuild@8.2.2-prerelease0396

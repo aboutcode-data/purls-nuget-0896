@@ -128,3 +128,4 @@
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@3.0.98
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@3.0.99
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@4.0.188
+- pkg:nuget/Soenneker.Cloudflare.DnsSettings@4.0.207

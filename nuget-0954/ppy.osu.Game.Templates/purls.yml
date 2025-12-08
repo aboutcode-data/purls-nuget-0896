@@ -262,6 +262,7 @@
 - pkg:nuget/ppy.osu.Game.Templates@2025.118.1
 - pkg:nuget/ppy.osu.Game.Templates@2025.118.2
 - pkg:nuget/ppy.osu.Game.Templates@2025.118.3
+- pkg:nuget/ppy.osu.Game.Templates@2025.1208.0
 - pkg:nuget/ppy.osu.Game.Templates@2025.122.0
 - pkg:nuget/ppy.osu.Game.Templates@2025.204.0
 - pkg:nuget/ppy.osu.Game.Templates@2025.220.0

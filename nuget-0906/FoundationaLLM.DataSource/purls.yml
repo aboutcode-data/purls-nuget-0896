@@ -176,3 +176,4 @@
 - pkg:nuget/FoundationaLLM.DataSource@0.9.7-rc408
 - pkg:nuget/FoundationaLLM.DataSource@0.9.7-rc418
 - pkg:nuget/FoundationaLLM.DataSource@0.9.7-rc467
+- pkg:nuget/FoundationaLLM.DataSource@0.9.8-beta107

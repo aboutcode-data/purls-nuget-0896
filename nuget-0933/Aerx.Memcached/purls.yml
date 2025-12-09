@@ -59,3 +59,4 @@
 - pkg:nuget/Aerx.Memcached@2.2.0
 - pkg:nuget/Aerx.Memcached@2.2.1-diagnostics-beta
 - pkg:nuget/Aerx.Memcached@3.2.3-beta
+- pkg:nuget/Aerx.Memcached@3.2.7-beta

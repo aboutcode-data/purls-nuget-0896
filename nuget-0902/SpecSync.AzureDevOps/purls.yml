@@ -239,3 +239,4 @@
 - pkg:nuget/SpecSync.AzureDevOps@5.0.0-pre20250228-1
 - pkg:nuget/SpecSync.AzureDevOps@5.0.0-pre20250514-1
 - pkg:nuget/SpecSync.AzureDevOps@5.0.0-pre20250821-1
+- pkg:nuget/SpecSync.AzureDevOps@5.0.0-pre20251209-1

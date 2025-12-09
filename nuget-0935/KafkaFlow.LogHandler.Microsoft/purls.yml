@@ -81,3 +81,4 @@
 - pkg:nuget/KafkaFlow.LogHandler.Microsoft@4.0.0-beta3
 - pkg:nuget/KafkaFlow.LogHandler.Microsoft@4.0.0-beta4
 - pkg:nuget/KafkaFlow.LogHandler.Microsoft@4.0.1
+- pkg:nuget/KafkaFlow.LogHandler.Microsoft@4.1.0

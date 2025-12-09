@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@10.0.100-preview.6.25358.103
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@10.0.100-preview.7.25380.108
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@10.0.100-rc.1.25451.107
+- pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@10.0.101
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@8.0.100
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@8.0.100-preview.1.23111.1
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Templates@8.0.100-preview.2.23151.4

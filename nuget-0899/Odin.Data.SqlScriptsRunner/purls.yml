@@ -96,3 +96,4 @@
 - pkg:nuget/Odin.Data.SqlScriptsRunner@0.2.0
 - pkg:nuget/Odin.Data.SqlScriptsRunner@0.2.1
 - pkg:nuget/Odin.Data.SqlScriptsRunner@0.2.10
+- pkg:nuget/Odin.Data.SqlScriptsRunner@0.9.1

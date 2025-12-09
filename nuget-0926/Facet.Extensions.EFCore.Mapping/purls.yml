@@ -1,3 +1,4 @@
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@4.3.1
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@4.4.3
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@5.0.2
+- pkg:nuget/Facet.Extensions.EFCore.Mapping@5.1.11

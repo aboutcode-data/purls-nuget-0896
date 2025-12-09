@@ -3,3 +3,4 @@
 - pkg:nuget/E.DataLinq.Engine.Postgres@7.25.1110
 - pkg:nuget/E.DataLinq.Engine.Postgres@7.25.1701
 - pkg:nuget/E.DataLinq.Engine.Postgres@7.25.2801
+- pkg:nuget/E.DataLinq.Engine.Postgres@7.25.4007

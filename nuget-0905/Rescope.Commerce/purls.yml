@@ -44,3 +44,4 @@
 - pkg:nuget/Rescope.Commerce@15.0.0-beta001
 - pkg:nuget/Rescope.Commerce@15.0.1
 - pkg:nuget/Rescope.Commerce@16.0.0
+- pkg:nuget/Rescope.Commerce@16.1.0

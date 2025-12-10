@@ -989,6 +989,7 @@
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.40
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.403
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.41
+- pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.410
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.42
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.43
 - pkg:nuget/PeanutButter.WindowsServiceManagement@3.0.44

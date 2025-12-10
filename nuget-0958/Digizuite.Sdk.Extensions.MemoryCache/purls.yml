@@ -1,5 +1,6 @@
 - pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.13.1
 - pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.14.1
+- pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.25.1
 - pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.4.2
 - pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.5.1
 - pkg:nuget/Digizuite.Sdk.Extensions.MemoryCache@5.10.6.1

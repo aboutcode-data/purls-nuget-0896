@@ -1,1 +1,2 @@
 - pkg:nuget/CleanArchitecture.Extensions.Validation@0.1.5
+- pkg:nuget/CleanArchitecture.Extensions.Validation@0.1.6-preview.13

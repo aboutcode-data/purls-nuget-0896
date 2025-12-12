@@ -72,5 +72,6 @@
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.8
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.80
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.9
+- pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.124
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.94
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.96

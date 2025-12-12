@@ -11,6 +11,7 @@
 - pkg:nuget/QwWebFrameworkCore@1.0.110
 - pkg:nuget/QwWebFrameworkCore@1.0.111
 - pkg:nuget/QwWebFrameworkCore@1.0.112
+- pkg:nuget/QwWebFrameworkCore@1.0.123
 - pkg:nuget/QwWebFrameworkCore@1.0.56
 - pkg:nuget/QwWebFrameworkCore@1.0.57
 - pkg:nuget/QwWebFrameworkCore@1.0.59

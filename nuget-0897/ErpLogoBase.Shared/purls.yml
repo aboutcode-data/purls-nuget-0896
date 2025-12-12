@@ -1,5 +1,6 @@
 - pkg:nuget/ErpLogoBase.Shared@1.0.0
 - pkg:nuget/ErpLogoBase.Shared@1.0.2
+- pkg:nuget/ErpLogoBase.Shared@10.0.5
 - pkg:nuget/ErpLogoBase.Shared@2.0.0
 - pkg:nuget/ErpLogoBase.Shared@2.0.1
 - pkg:nuget/ErpLogoBase.Shared@2.0.2

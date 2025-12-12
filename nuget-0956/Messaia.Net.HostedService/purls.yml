@@ -1,3 +1,4 @@
+- pkg:nuget/Messaia.Net.HostedService@10.0.0-RC06
 - pkg:nuget/Messaia.Net.HostedService@5.0.10
 - pkg:nuget/Messaia.Net.HostedService@5.0.11
 - pkg:nuget/Messaia.Net.HostedService@5.0.12
@@ -204,3 +205,4 @@
 - pkg:nuget/Messaia.Net.HostedService@9.1.1-RC05
 - pkg:nuget/Messaia.Net.HostedService@9.1.1-RC06
 - pkg:nuget/Messaia.Net.HostedService@9.1.1-RC07
+- pkg:nuget/Messaia.Net.HostedService@9.3.1

@@ -127,3 +127,4 @@
 - pkg:nuget/nanoFramework.Runtime.Events@1.9.2-preview.14
 - pkg:nuget/nanoFramework.Runtime.Events@1.9.2-preview.5
 - pkg:nuget/nanoFramework.Runtime.Events@1.9.2-preview.8
+- pkg:nuget/nanoFramework.Runtime.Events@2.0.0-preview.2

@@ -46,6 +46,7 @@
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@8.0.18.2
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.0
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.0-preview1
+- pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.2025.1
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.5
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.5.1
 - pkg:nuget/Quick.EntityFrameworkCore.Plus@9.0.7

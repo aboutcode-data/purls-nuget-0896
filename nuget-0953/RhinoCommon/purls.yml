@@ -695,6 +695,8 @@
 - pkg:nuget/RhinoCommon@8.24.25266.14031-rc
 - pkg:nuget/RhinoCommon@8.24.25281.15001
 - pkg:nuget/RhinoCommon@8.26.25328.9001-rc
+- pkg:nuget/RhinoCommon@8.26.25349.19001
+- pkg:nuget/RhinoCommon@8.27.25350.10541-rc
 - pkg:nuget/RhinoCommon@8.3.23346.14001-rc
 - pkg:nuget/RhinoCommon@8.3.23354.9001-rc
 - pkg:nuget/RhinoCommon@8.3.23360.13001-rc
@@ -757,3 +759,4 @@
 - pkg:nuget/RhinoCommon@9.0.25259.12305-wip
 - pkg:nuget/RhinoCommon@9.0.25266.10145-wip
 - pkg:nuget/RhinoCommon@9.0.25287.12305-wip
+- pkg:nuget/RhinoCommon@9.0.25350.305-wip

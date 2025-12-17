@@ -106,3 +106,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomRecycle.EntityFrameworkCore@4.6.1
 - pkg:nuget/Kayisoft.Abp.DicomRecycle.EntityFrameworkCore@4.6.2
 - pkg:nuget/Kayisoft.Abp.DicomRecycle.EntityFrameworkCore@4.7.4
+- pkg:nuget/Kayisoft.Abp.DicomRecycle.EntityFrameworkCore@4.8.0

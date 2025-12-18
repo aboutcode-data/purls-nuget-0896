@@ -21,3 +21,4 @@
 - pkg:nuget/JetBrains.DotNetCore.Runtime.macos-arm64@8.0.20240428.9
 - pkg:nuget/JetBrains.DotNetCore.Runtime.macos-arm64@8.0.20241125.13
 - pkg:nuget/JetBrains.DotNetCore.Runtime.macos-arm64@9.0.20250811.10
+- pkg:nuget/JetBrains.DotNetCore.Runtime.macos-arm64@9.0.20251117.12

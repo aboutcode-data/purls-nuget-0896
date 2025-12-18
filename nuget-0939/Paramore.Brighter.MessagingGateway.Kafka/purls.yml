@@ -8,6 +8,7 @@
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@10.0.0-preview.8
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@10.0.1
+- pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@10.0.5
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@7.2.10-beta
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@7.3.15-beta
 - pkg:nuget/Paramore.Brighter.MessagingGateway.Kafka@7.3.2-beta

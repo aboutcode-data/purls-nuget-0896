@@ -1,5 +1,6 @@
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@10.0.1-preview.0.18
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@10.0.2-preview.0.2
+- pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@10.0.2-preview.0.22
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@10.0.2-preview.0.8
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@3.0.1
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.EventSourcing@3.0.1-preview.0.10

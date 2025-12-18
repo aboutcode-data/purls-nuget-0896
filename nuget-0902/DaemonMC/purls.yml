@@ -11,6 +11,7 @@
 - pkg:nuget/DaemonMC@1.0.19-alpha
 - pkg:nuget/DaemonMC@1.0.20-alpha
 - pkg:nuget/DaemonMC@1.0.21-alpha
+- pkg:nuget/DaemonMC@1.0.28-alpha
 - pkg:nuget/DaemonMC@1.0.3-alpha
 - pkg:nuget/DaemonMC@1.0.4-alpha
 - pkg:nuget/DaemonMC@1.0.5-alpha

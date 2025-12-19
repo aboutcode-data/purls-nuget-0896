@@ -29,3 +29,7 @@
 - pkg:nuget/Devart.Data.DB2.EFCore@4.2.290.7
 - pkg:nuget/Devart.Data.DB2.EFCore@4.2.290.8
 - pkg:nuget/Devart.Data.DB2.EFCore@4.2.290.9
+- pkg:nuget/Devart.Data.DB2.EFCore@5.0.0
+- pkg:nuget/Devart.Data.DB2.EFCore@5.0.0.7
+- pkg:nuget/Devart.Data.DB2.EFCore@5.0.0.8
+- pkg:nuget/Devart.Data.DB2.EFCore@5.0.0.9

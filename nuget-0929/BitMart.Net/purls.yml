@@ -40,3 +40,4 @@
 - pkg:nuget/BitMart.Net@2.6.1
 - pkg:nuget/BitMart.Net@2.7.0
 - pkg:nuget/BitMart.Net@2.8.0
+- pkg:nuget/BitMart.Net@3.0.1

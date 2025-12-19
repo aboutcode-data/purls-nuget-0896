@@ -27,3 +27,7 @@
 - pkg:nuget/Devart.Data.ZohoBooks.EFCore@1.1.290.7
 - pkg:nuget/Devart.Data.ZohoBooks.EFCore@1.1.290.8
 - pkg:nuget/Devart.Data.ZohoBooks.EFCore@1.1.290.9
+- pkg:nuget/Devart.Data.ZohoBooks.EFCore@2.0.0
+- pkg:nuget/Devart.Data.ZohoBooks.EFCore@2.0.0.7
+- pkg:nuget/Devart.Data.ZohoBooks.EFCore@2.0.0.8
+- pkg:nuget/Devart.Data.ZohoBooks.EFCore@2.0.0.9

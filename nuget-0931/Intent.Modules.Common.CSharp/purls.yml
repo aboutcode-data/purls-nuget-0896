@@ -155,6 +155,7 @@
 - pkg:nuget/Intent.Modules.Common.CSharp@3.8.9
 - pkg:nuget/Intent.Modules.Common.CSharp@3.9.0
 - pkg:nuget/Intent.Modules.Common.CSharp@3.9.1
+- pkg:nuget/Intent.Modules.Common.CSharp@3.9.12
 - pkg:nuget/Intent.Modules.Common.CSharp@3.9.2
 - pkg:nuget/Intent.Modules.Common.CSharp@3.9.3
 - pkg:nuget/Intent.Modules.Common.CSharp@3.9.4

@@ -21,3 +21,4 @@
 - pkg:nuget/DotNetDocs.Sdk@1.0.0-preview.8
 - pkg:nuget/DotNetDocs.Sdk@1.0.0-preview.9
 - pkg:nuget/DotNetDocs.Sdk@1.0.1
+- pkg:nuget/DotNetDocs.Sdk@1.2.0

@@ -15,6 +15,7 @@
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.13-alpha.1754681548
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.14
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.14-alpha.1754693338
+- pkg:nuget/Pulumi.ProviderBoilerplate@0.0.149-alpha.1766174045
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.15
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.15-alpha.1754696250
 - pkg:nuget/Pulumi.ProviderBoilerplate@0.0.16

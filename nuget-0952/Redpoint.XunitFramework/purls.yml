@@ -305,3 +305,5 @@
 - pkg:nuget/Redpoint.XunitFramework@2025.1289.355
 - pkg:nuget/Redpoint.XunitFramework@2025.1317.1416
 - pkg:nuget/Redpoint.XunitFramework@2025.1320.190
+- pkg:nuget/Redpoint.XunitFramework@2025.1355.582
+- pkg:nuget/Redpoint.XunitFramework@2025.1355.597

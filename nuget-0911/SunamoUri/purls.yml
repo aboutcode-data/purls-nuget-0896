@@ -21,5 +21,6 @@
 - pkg:nuget/SunamoUri@24.7.15.1
 - pkg:nuget/SunamoUri@24.7.16.1
 - pkg:nuget/SunamoUri@24.9.20.1
+- pkg:nuget/SunamoUri@25.12.21.1
 - pkg:nuget/SunamoUri@25.3.29.1
 - pkg:nuget/SunamoUri@25.3.8.1

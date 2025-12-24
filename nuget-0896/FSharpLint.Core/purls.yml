@@ -158,6 +158,7 @@
 - pkg:nuget/FSharpLint.Core@0.26.7--date20251114-0104.git-508e87b
 - pkg:nuget/FSharpLint.Core@0.26.9--date20251215-1051.git-9bec3ed
 - pkg:nuget/FSharpLint.Core@0.26.9--date20251222-1245.git-ee95fc3
+- pkg:nuget/FSharpLint.Core@0.26.9--date20251224-0951.git-d0f34e0
 - pkg:nuget/FSharpLint.Core@0.3.0-beta
 - pkg:nuget/FSharpLint.Core@0.4.0-beta
 - pkg:nuget/FSharpLint.Core@0.4.1-beta

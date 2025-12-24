@@ -1,5 +1,6 @@
 - pkg:nuget/Marraia.MySql@1.0.0
 - pkg:nuget/Marraia.MySql@1.0.1
+- pkg:nuget/Marraia.MySql@1.0.14-prerelease
 - pkg:nuget/Marraia.MySql@1.0.2
 - pkg:nuget/Marraia.MySql@1.0.3
 - pkg:nuget/Marraia.MySql@1.0.4

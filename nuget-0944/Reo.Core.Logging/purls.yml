@@ -3727,6 +3727,8 @@
 - pkg:nuget/Reo.Core.Logging@8.0.78
 - pkg:nuget/Reo.Core.Logging@8.0.782
 - pkg:nuget/Reo.Core.Logging@8.0.783
+- pkg:nuget/Reo.Core.Logging@8.0.787
+- pkg:nuget/Reo.Core.Logging@8.0.788
 - pkg:nuget/Reo.Core.Logging@8.0.79
 - pkg:nuget/Reo.Core.Logging@8.0.8
 - pkg:nuget/Reo.Core.Logging@8.0.80

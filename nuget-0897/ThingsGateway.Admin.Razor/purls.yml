@@ -356,6 +356,7 @@
 - pkg:nuget/ThingsGateway.Admin.Razor@10.9.97
 - pkg:nuget/ThingsGateway.Admin.Razor@10.9.98
 - pkg:nuget/ThingsGateway.Admin.Razor@10.9.99
+- pkg:nuget/ThingsGateway.Admin.Razor@12.4.23
 - pkg:nuget/ThingsGateway.Admin.Razor@6.0.4.10
 - pkg:nuget/ThingsGateway.Admin.Razor@6.0.4.11
 - pkg:nuget/ThingsGateway.Admin.Razor@6.0.4.13

@@ -1,3 +1,4 @@
 - pkg:nuget/Cirreum.Runtime.Client@1.0.11
+- pkg:nuget/Cirreum.Runtime.Client@1.0.16
 - pkg:nuget/Cirreum.Runtime.Client@1.0.2
 - pkg:nuget/Cirreum.Runtime.Client@1.0.4

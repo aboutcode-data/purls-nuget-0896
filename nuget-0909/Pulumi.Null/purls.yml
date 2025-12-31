@@ -6,6 +6,8 @@
 - pkg:nuget/Pulumi.Null@0.0.11-alpha.1745378985
 - pkg:nuget/Pulumi.Null@0.0.12
 - pkg:nuget/Pulumi.Null@0.0.12-alpha.1753397930
+- pkg:nuget/Pulumi.Null@0.0.14
+- pkg:nuget/Pulumi.Null@0.0.14-alpha.1767139801
 - pkg:nuget/Pulumi.Null@0.0.2
 - pkg:nuget/Pulumi.Null@0.0.2-alpha.1695076774%2B12546910
 - pkg:nuget/Pulumi.Null@0.0.2-alpha.1695187989%2B71ccaf1e

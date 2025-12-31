@@ -248,3 +248,5 @@
 - pkg:nuget/TcpWtf.NumberSequence.Tool@3.3.1
 - pkg:nuget/TcpWtf.NumberSequence.Tool@3.3.2
 - pkg:nuget/TcpWtf.NumberSequence.Tool@3.3.3
+- pkg:nuget/TcpWtf.NumberSequence.Tool@4.0.2
+- pkg:nuget/TcpWtf.NumberSequence.Tool@4.0.3

@@ -2,3 +2,4 @@
 - pkg:nuget/Zafiro.FileSystem.Core@42.0.3
 - pkg:nuget/Zafiro.FileSystem.Core@45.0.1
 - pkg:nuget/Zafiro.FileSystem.Core@45.0.2
+- pkg:nuget/Zafiro.FileSystem.Core@45.0.5

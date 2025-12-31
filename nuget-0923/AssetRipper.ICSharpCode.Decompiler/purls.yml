@@ -9,6 +9,7 @@
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@10.0.0.8176-preview2
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@10.0.0.8218-preview2
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@10.0.0.8233-preview2
+- pkg:nuget/AssetRipper.ICSharpCode.Decompiler@10.0.0.8283-preview3
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@9.0.0.7959
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@9.0.0.7962
 - pkg:nuget/AssetRipper.ICSharpCode.Decompiler@9.0.0.7973

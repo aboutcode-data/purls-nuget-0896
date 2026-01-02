@@ -1,2 +1,3 @@
 - pkg:nuget/MicroPlumberd.Protobuf@1.0.126.2
 - pkg:nuget/MicroPlumberd.Protobuf@1.0.126.3
+- pkg:nuget/MicroPlumberd.Protobuf@1.1.4

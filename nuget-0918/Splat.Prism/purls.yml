@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.Prism@16.1.1
 - pkg:nuget/Splat.Prism@16.2.1
 - pkg:nuget/Splat.Prism@17.0.1
+- pkg:nuget/Splat.Prism@19.1.1
 - pkg:nuget/Splat.Prism@9.2.1
 - pkg:nuget/Splat.Prism@9.2.11
 - pkg:nuget/Splat.Prism@9.2.4

@@ -15,6 +15,8 @@
 - pkg:nuget/Pacioli.Contracts@1.1.9
 - pkg:nuget/Pacioli.Contracts@1.10.3
 - pkg:nuget/Pacioli.Contracts@1.13.1
+- pkg:nuget/Pacioli.Contracts@1.13.7
+- pkg:nuget/Pacioli.Contracts@1.13.8
 - pkg:nuget/Pacioli.Contracts@1.2.0
 - pkg:nuget/Pacioli.Contracts@1.3.2
 - pkg:nuget/Pacioli.Contracts@1.4.6

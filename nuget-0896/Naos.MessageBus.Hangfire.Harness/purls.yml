@@ -288,4 +288,5 @@
 - pkg:nuget/Naos.MessageBus.Hangfire.Harness@1.3.71
 - pkg:nuget/Naos.MessageBus.Hangfire.Harness@1.3.72
 - pkg:nuget/Naos.MessageBus.Hangfire.Harness@1.3.73
+- pkg:nuget/Naos.MessageBus.Hangfire.Harness@1.3.76
 - pkg:nuget/Naos.MessageBus.Hangfire.Harness@1.3.9

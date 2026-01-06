@@ -68,6 +68,7 @@
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.22.8
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.22.9
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.23.0
+- pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.23.1
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.3.1
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.3.2
 - pkg:nuget/Microsoft.Bot.Builder.TemplateManager@4.4.0

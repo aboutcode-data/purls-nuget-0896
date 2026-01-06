@@ -1,5 +1,6 @@
 - pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.20.0-alpha.1062
 - pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.20.0-alpha.1074
+- pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.6.0-alpha.1006
 - pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.7.0-alpha.1006
 - pkg:nuget/FractalDataWorks.Data.DataStores.FileSystem@0.7.0-alpha.1008

@@ -1,4 +1,5 @@
 - pkg:nuget/FractalDataWorks.Data.JsonSchema@0.20.0-alpha.1062
 - pkg:nuget/FractalDataWorks.Data.JsonSchema@0.20.0-alpha.1074
+- pkg:nuget/FractalDataWorks.Data.JsonSchema@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.Data.JsonSchema@0.9.0-alpha.1009.g7f6817e985
 - pkg:nuget/FractalDataWorks.Data.JsonSchema@0.9.0-alpha.1010.gecd88aac50

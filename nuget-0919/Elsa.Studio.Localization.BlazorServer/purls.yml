@@ -20,3 +20,4 @@
 - pkg:nuget/Elsa.Studio.Localization.BlazorServer@3.5.0-rc3
 - pkg:nuget/Elsa.Studio.Localization.BlazorServer@3.5.0-rc4
 - pkg:nuget/Elsa.Studio.Localization.BlazorServer@3.5.1
+- pkg:nuget/Elsa.Studio.Localization.BlazorServer@3.6.0-rc2

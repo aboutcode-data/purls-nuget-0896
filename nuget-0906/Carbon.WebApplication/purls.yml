@@ -28,6 +28,7 @@
 - pkg:nuget/Carbon.WebApplication@4.5.6
 - pkg:nuget/Carbon.WebApplication@4.6.0
 - pkg:nuget/Carbon.WebApplication@4.6.1
+- pkg:nuget/Carbon.WebApplication@4.6.11
 - pkg:nuget/Carbon.WebApplication@4.6.2
 - pkg:nuget/Carbon.WebApplication@4.6.3
 - pkg:nuget/Carbon.WebApplication@4.6.3-alpha1

@@ -94,3 +94,4 @@
 - pkg:nuget/Juice.MediatR.RequestManager.EF.SqlServer@8.4.2
 - pkg:nuget/Juice.MediatR.RequestManager.EF.SqlServer@8.4.3
 - pkg:nuget/Juice.MediatR.RequestManager.EF.SqlServer@8.5.0
+- pkg:nuget/Juice.MediatR.RequestManager.EF.SqlServer@9.0.0-beta.11

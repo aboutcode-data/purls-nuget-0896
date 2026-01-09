@@ -1,1 +1,3 @@
 - pkg:nuget/Mostlylucid.Ephemeral.Patterns.CircuitBreaker@1.6.6
+- pkg:nuget/Mostlylucid.Ephemeral.Patterns.CircuitBreaker@2.3.1
+- pkg:nuget/Mostlylucid.Ephemeral.Patterns.CircuitBreaker@2.3.1-alpha0

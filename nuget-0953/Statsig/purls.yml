@@ -49,3 +49,4 @@
 - pkg:nuget/Statsig@2.3.0
 - pkg:nuget/Statsig@2.3.0-beta
 - pkg:nuget/Statsig@2.3.1
+- pkg:nuget/Statsig@2.4.1

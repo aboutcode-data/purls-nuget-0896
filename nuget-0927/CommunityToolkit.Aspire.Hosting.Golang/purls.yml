@@ -3,6 +3,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@1.0.0-beta.57
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@1.0.0-beta.58
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@1.0.0-beta.60
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@13.0.1-beta.486
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@8.2.0-beta.32
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@8.2.0-beta.33
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Golang@8.2.0-beta.34

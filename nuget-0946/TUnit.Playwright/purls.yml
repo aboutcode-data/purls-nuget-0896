@@ -289,3 +289,4 @@
 - pkg:nuget/TUnit.Playwright@0.9.6
 - pkg:nuget/TUnit.Playwright@0.9.8
 - pkg:nuget/TUnit.Playwright@1.9.42
+- pkg:nuget/TUnit.Playwright@1.9.81

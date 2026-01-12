@@ -4,6 +4,7 @@
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@1.1.1
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@10.2.0
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@10.6.0
+- pkg:nuget/MintPlayer.SourceGenerators.Attributes@10.9.0
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@2.0.0
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@2.1.0
 - pkg:nuget/MintPlayer.SourceGenerators.Attributes@2.1.1

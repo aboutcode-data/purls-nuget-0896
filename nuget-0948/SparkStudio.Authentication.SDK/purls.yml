@@ -1,3 +1,4 @@
 - pkg:nuget/SparkStudio.Authentication.SDK@1.0.14
 - pkg:nuget/SparkStudio.Authentication.SDK@1.0.15
 - pkg:nuget/SparkStudio.Authentication.SDK@1.0.30
+- pkg:nuget/SparkStudio.Authentication.SDK@1.0.33

@@ -238,6 +238,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.IDE@8.0.413
 - pkg:nuget/Microsoft.TemplateEngine.IDE@8.0.414
 - pkg:nuget/Microsoft.TemplateEngine.IDE@8.0.415
+- pkg:nuget/Microsoft.TemplateEngine.IDE@8.0.417
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.100
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.100-preview.1.24081.1
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.100-preview.2.24128.3
@@ -257,6 +258,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.108
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.109
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.110
+- pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.113
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.200
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.201
 - pkg:nuget/Microsoft.TemplateEngine.IDE@9.0.203

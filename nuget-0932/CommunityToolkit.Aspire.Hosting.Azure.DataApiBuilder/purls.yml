@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@1.0.0-beta.58
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@1.0.0-beta.60
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@13.0.1-beta.486
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@13.1.0-beta.499
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@9.0.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@9.0.0-beta.54
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder@9.0.0-beta.63

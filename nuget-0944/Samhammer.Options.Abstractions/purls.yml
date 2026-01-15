@@ -1,4 +1,5 @@
 - pkg:nuget/Samhammer.Options.Abstractions@1.0.0
+- pkg:nuget/Samhammer.Options.Abstractions@10.0.0
 - pkg:nuget/Samhammer.Options.Abstractions@6.0.0
 - pkg:nuget/Samhammer.Options.Abstractions@8.0.0
 - pkg:nuget/Samhammer.Options.Abstractions@8.0.1

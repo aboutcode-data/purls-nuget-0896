@@ -34,3 +34,4 @@
 - pkg:nuget/Dynatrace.OpenTelemetry@1.313.1
 - pkg:nuget/Dynatrace.OpenTelemetry@1.317.1
 - pkg:nuget/Dynatrace.OpenTelemetry@1.319.1
+- pkg:nuget/Dynatrace.OpenTelemetry@1.329.2

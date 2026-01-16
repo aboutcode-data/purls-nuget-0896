@@ -10,3 +10,5 @@
 - pkg:nuget/MyIdentity@1.0.7
 - pkg:nuget/MyIdentity@1.0.8
 - pkg:nuget/MyIdentity@1.0.9
+- pkg:nuget/MyIdentity@2.0.5
+- pkg:nuget/MyIdentity@2.0.6

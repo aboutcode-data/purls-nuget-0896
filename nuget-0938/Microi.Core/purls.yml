@@ -1,1 +1,3 @@
 - pkg:nuget/Microi.Core@4.4.0
+- pkg:nuget/Microi.Core@4.6.0
+- pkg:nuget/Microi.Core@4.6.1

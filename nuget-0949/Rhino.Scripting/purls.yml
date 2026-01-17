@@ -3,6 +3,7 @@
 - pkg:nuget/Rhino.Scripting@0.11.0
 - pkg:nuget/Rhino.Scripting@0.11.0-net7
 - pkg:nuget/Rhino.Scripting@0.12.0
+- pkg:nuget/Rhino.Scripting@0.13.0
 - pkg:nuget/Rhino.Scripting@0.2.0
 - pkg:nuget/Rhino.Scripting@0.3.0
 - pkg:nuget/Rhino.Scripting@0.4.0

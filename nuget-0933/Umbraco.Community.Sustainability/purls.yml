@@ -28,3 +28,5 @@
 - pkg:nuget/Umbraco.Community.Sustainability@3.0.6
 - pkg:nuget/Umbraco.Community.Sustainability@3.0.7
 - pkg:nuget/Umbraco.Community.Sustainability@4.0.0
+- pkg:nuget/Umbraco.Community.Sustainability@4.0.1
+- pkg:nuget/Umbraco.Community.Sustainability@5.0.1

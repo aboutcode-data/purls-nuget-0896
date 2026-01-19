@@ -1,3 +1,4 @@
+- pkg:nuget/Pacem.Storage.FileSystem@0.10.0-descartes
 - pkg:nuget/Pacem.Storage.FileSystem@0.7.0-baalbek
 - pkg:nuget/Pacem.Storage.FileSystem@0.7.0-bithynia
 - pkg:nuget/Pacem.Storage.FileSystem@0.7.0-byzantium

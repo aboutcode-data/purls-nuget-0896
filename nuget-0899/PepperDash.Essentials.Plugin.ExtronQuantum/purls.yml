@@ -6,3 +6,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.ExtronQuantum@1.0.2-feature-CentralizedSwitching.1
 - pkg:nuget/PepperDash.Essentials.Plugin.ExtronQuantum@1.0.2-hotfixUpdateLoginProcess.1
 - pkg:nuget/PepperDash.Essentials.Plugin.ExtronQuantum@1.0.2-hotfixUpdateOnlineOnResponseReceived.1
+- pkg:nuget/PepperDash.Essentials.Plugin.ExtronQuantum@1.0.3-hotfixUpdateOnlineOnResponseReceived.2

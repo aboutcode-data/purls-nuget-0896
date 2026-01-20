@@ -32,3 +32,4 @@
 - pkg:nuget/FINT.Model.Utdanning@3.8.10
 - pkg:nuget/FINT.Model.Utdanning@3.9.0
 - pkg:nuget/FINT.Model.Utdanning@3.9.0-rc-1
+- pkg:nuget/FINT.Model.Utdanning@4.0.0

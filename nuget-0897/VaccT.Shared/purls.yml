@@ -48,4 +48,5 @@
 - pkg:nuget/VaccT.Shared@1.9.1
 - pkg:nuget/VaccT.Shared@1.9.2
 - pkg:nuget/VaccT.Shared@2.1.2
+- pkg:nuget/VaccT.Shared@2.10.0-RC01
 - pkg:nuget/VaccT.Shared@2.2.3

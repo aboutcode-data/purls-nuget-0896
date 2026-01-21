@@ -1,3 +1,4 @@
+- pkg:nuget/DKNet.RandomCreator@10.0.18
 - pkg:nuget/DKNet.RandomCreator@10.0.3
 - pkg:nuget/DKNet.RandomCreator@9.0.26
 - pkg:nuget/DKNet.RandomCreator@9.0.32

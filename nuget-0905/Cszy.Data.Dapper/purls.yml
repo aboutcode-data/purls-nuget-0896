@@ -87,6 +87,7 @@
 - pkg:nuget/Cszy.Data.Dapper@0.0.200
 - pkg:nuget/Cszy.Data.Dapper@0.0.201
 - pkg:nuget/Cszy.Data.Dapper@0.0.203
+- pkg:nuget/Cszy.Data.Dapper@0.0.238
 - pkg:nuget/Cszy.Data.Dapper@0.0.81
 - pkg:nuget/Cszy.Data.Dapper@0.0.82
 - pkg:nuget/Cszy.Data.Dapper@0.0.83

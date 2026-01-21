@@ -87,6 +87,7 @@
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.200
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.201
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.203
+- pkg:nuget/Cszy.Redis.FreeRedis@0.0.238
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.31
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.32
 - pkg:nuget/Cszy.Redis.FreeRedis@0.0.33

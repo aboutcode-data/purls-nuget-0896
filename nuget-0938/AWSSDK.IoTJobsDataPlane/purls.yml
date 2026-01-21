@@ -1153,6 +1153,7 @@
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@3.7.502.23
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@3.7.502.26
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@3.7.502.3
+- pkg:nuget/AWSSDK.IoTJobsDataPlane@3.7.502.33
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@4.0.0
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@4.0.0-preview
 - pkg:nuget/AWSSDK.IoTJobsDataPlane@4.0.0-preview.10

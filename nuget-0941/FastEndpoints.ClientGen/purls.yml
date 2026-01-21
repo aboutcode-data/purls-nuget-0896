@@ -640,3 +640,4 @@
 - pkg:nuget/FastEndpoints.ClientGen@7.1.0-beta.7
 - pkg:nuget/FastEndpoints.ClientGen@7.1.0-beta.8
 - pkg:nuget/FastEndpoints.ClientGen@7.1.0-beta.9
+- pkg:nuget/FastEndpoints.ClientGen@7.3.0-beta.6

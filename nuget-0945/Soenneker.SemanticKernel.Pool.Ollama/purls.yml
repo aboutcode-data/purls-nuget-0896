@@ -143,3 +143,4 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Ollama@4.0.245
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Ollama@4.0.260
 - pkg:nuget/Soenneker.SemanticKernel.Pool.Ollama@4.0.261
+- pkg:nuget/Soenneker.SemanticKernel.Pool.Ollama@4.0.278

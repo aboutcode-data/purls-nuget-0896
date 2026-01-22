@@ -4,6 +4,7 @@
 - pkg:nuget/Assertive@0.12.0
 - pkg:nuget/Assertive@0.13.0
 - pkg:nuget/Assertive@0.14.0
+- pkg:nuget/Assertive@0.19.0
 - pkg:nuget/Assertive@0.2.0
 - pkg:nuget/Assertive@0.3.0
 - pkg:nuget/Assertive@0.4.0

@@ -8,6 +8,7 @@
 - pkg:nuget/Nova.NetCore.Auth@1.0.7
 - pkg:nuget/Nova.NetCore.Auth@1.0.8
 - pkg:nuget/Nova.NetCore.Auth@1.0.9
+- pkg:nuget/Nova.NetCore.Auth@10.0.1
 - pkg:nuget/Nova.NetCore.Auth@3.1.0
 - pkg:nuget/Nova.NetCore.Auth@3.1.5
 - pkg:nuget/Nova.NetCore.Auth@3.1.6

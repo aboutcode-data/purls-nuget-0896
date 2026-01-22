@@ -3514,6 +3514,7 @@
 - pkg:nuget/Reo.Core.DistributedCache@8.0.81
 - pkg:nuget/Reo.Core.DistributedCache@8.0.82
 - pkg:nuget/Reo.Core.DistributedCache@8.0.820
+- pkg:nuget/Reo.Core.DistributedCache@8.0.825
 - pkg:nuget/Reo.Core.DistributedCache@8.0.83
 - pkg:nuget/Reo.Core.DistributedCache@8.0.84
 - pkg:nuget/Reo.Core.DistributedCache@8.0.85

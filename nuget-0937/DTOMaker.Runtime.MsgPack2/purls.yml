@@ -1,1 +1,2 @@
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@1.4.7-dev
+- pkg:nuget/DTOMaker.Runtime.MsgPack2@1.8.1-dev

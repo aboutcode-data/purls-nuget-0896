@@ -88,3 +88,4 @@
 - pkg:nuget/Microsoft.CST.OSSGadget.Shared@0.2.14
 - pkg:nuget/Microsoft.CST.OSSGadget.Shared@0.2.20
 - pkg:nuget/Microsoft.CST.OSSGadget.Shared@0.2.25
+- pkg:nuget/Microsoft.CST.OSSGadget.Shared@0.2.38

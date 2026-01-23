@@ -864,6 +864,7 @@
 - pkg:nuget/AWSSDK.IVS@3.7.502.28
 - pkg:nuget/AWSSDK.IVS@3.7.502.29
 - pkg:nuget/AWSSDK.IVS@3.7.502.36
+- pkg:nuget/AWSSDK.IVS@3.7.502.38
 - pkg:nuget/AWSSDK.IVS@3.7.6
 - pkg:nuget/AWSSDK.IVS@3.7.6.1
 - pkg:nuget/AWSSDK.IVS@3.7.6.10

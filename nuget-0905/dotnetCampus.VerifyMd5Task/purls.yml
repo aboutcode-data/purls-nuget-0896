@@ -63,6 +63,7 @@
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.0
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.1
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.1-alpha02
+- pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.10
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.2
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.3
 - pkg:nuget/dotnetCampus.VerifyMd5Task@3.17.3-alpha01

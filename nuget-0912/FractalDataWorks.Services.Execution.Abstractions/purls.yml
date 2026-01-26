@@ -8,6 +8,7 @@
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.10.1-alpha.1022
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.10.1-alpha.1023
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.10.1-alpha.1024
+- pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.2.4-preview.2
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.20.0-alpha.1044
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.20.0-alpha.1045
 - pkg:nuget/FractalDataWorks.Services.Execution.Abstractions@0.20.0-alpha.1047

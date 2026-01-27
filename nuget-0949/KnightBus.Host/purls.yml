@@ -20,6 +20,7 @@
 - pkg:nuget/KnightBus.Host@15.0.0
 - pkg:nuget/KnightBus.Host@16.0.0
 - pkg:nuget/KnightBus.Host@17.0.0
+- pkg:nuget/KnightBus.Host@18.0.0-alpha-ff7a73ac
 - pkg:nuget/KnightBus.Host@2.0.0
 - pkg:nuget/KnightBus.Host@2.0.0-rc.1
 - pkg:nuget/KnightBus.Host@2.0.1

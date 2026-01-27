@@ -371,6 +371,7 @@
 - pkg:nuget/ThingsGateway.Foundation@10.9.99
 - pkg:nuget/ThingsGateway.Foundation@12.4.11
 - pkg:nuget/ThingsGateway.Foundation@12.4.22
+- pkg:nuget/ThingsGateway.Foundation@12.4.38
 - pkg:nuget/ThingsGateway.Foundation@2.0.0
 - pkg:nuget/ThingsGateway.Foundation@2.0.3
 - pkg:nuget/ThingsGateway.Foundation@2.0.4

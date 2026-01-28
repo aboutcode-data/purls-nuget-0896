@@ -165,3 +165,4 @@
 - pkg:nuget/Autoware.Util@20250908.2.0-desenvolvimento
 - pkg:nuget/Autoware.Util@20250913.1.0
 - pkg:nuget/Autoware.Util@20251009.2.0
+- pkg:nuget/Autoware.Util@20260127.1.0

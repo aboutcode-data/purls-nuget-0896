@@ -11,3 +11,4 @@
 - pkg:nuget/Snowberry.DependencyInjection@3.5.0
 - pkg:nuget/Snowberry.DependencyInjection@3.6.0
 - pkg:nuget/Snowberry.DependencyInjection@3.7.0
+- pkg:nuget/Snowberry.DependencyInjection@5.1.1

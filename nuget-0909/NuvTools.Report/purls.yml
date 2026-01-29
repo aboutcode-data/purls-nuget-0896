@@ -1,3 +1,4 @@
+- pkg:nuget/NuvTools.Report@10.1.0
 - pkg:nuget/NuvTools.Report@6.5.0
 - pkg:nuget/NuvTools.Report@7.0.0
 - pkg:nuget/NuvTools.Report@8.0.3

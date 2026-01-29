@@ -1,1 +1,2 @@
 - pkg:nuget/Authlink.Portal.Client.Http@2.2.3
+- pkg:nuget/Authlink.Portal.Client.Http@2.5.0

@@ -5,4 +5,5 @@
 - pkg:nuget/Havit.Blazor.Components.Web.ECharts@1.2.0
 - pkg:nuget/Havit.Blazor.Components.Web.ECharts@4.20.0-net10-pre3
 - pkg:nuget/Havit.Blazor.Components.Web.ECharts@4.21.0-pre02
+- pkg:nuget/Havit.Blazor.Components.Web.ECharts@4.22.0
 - pkg:nuget/Havit.Blazor.Components.Web.ECharts@4.8.0-pre2

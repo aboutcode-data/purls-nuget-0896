@@ -9,3 +9,4 @@
 - pkg:nuget/Atc.Kepware.Configuration.Contracts@1.1.22
 - pkg:nuget/Atc.Kepware.Configuration.Contracts@1.1.24
 - pkg:nuget/Atc.Kepware.Configuration.Contracts@1.1.26
+- pkg:nuget/Atc.Kepware.Configuration.Contracts@2.2.0

@@ -90,6 +90,7 @@
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@18.0.0-rc1
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@18.0.0-rc2
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@18.0.1
+- pkg:nuget/Arendi.Bluetooth.Hci.Adapter@19.0.0
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@9.0.0
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@9.0.1
 - pkg:nuget/Arendi.Bluetooth.Hci.Adapter@9.0.2

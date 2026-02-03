@@ -4,3 +4,5 @@
 - pkg:nuget/Billecta.SDK@1.0.0-CI-20250710-154143
 - pkg:nuget/Billecta.SDK@1.0.0-CI-20250905-124457
 - pkg:nuget/Billecta.SDK@1.0.0-CI-20250908-092828
+- pkg:nuget/Billecta.SDK@1.1.1
+- pkg:nuget/Billecta.SDK@1.1.6

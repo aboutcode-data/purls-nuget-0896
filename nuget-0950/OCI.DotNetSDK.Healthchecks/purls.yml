@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Healthchecks@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Healthchecks@14.1.0

@@ -48,4 +48,5 @@
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.1.0-dev.12
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.1.0-dev.47
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.1.0-dev.62
+- pkg:nuget/Uno.Extensions.Http.Kiota@7.1.1
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.2.0-dev.5

@@ -19,3 +19,4 @@
 - pkg:nuget/XMPro.Integration.Settings@4.5.3
 - pkg:nuget/XMPro.Integration.Settings@4.5.3-g1e0bdff62c
 - pkg:nuget/XMPro.Integration.Settings@5.0.0-alpha-g684cb1643d
+- pkg:nuget/XMPro.Integration.Settings@5.0.0-dev-stream-host-resilience-g730944b3d8

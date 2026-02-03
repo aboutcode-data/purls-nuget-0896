@@ -26,3 +26,4 @@
 - pkg:nuget/Katmatic.Core@1.0.6-ci35
 - pkg:nuget/Katmatic.Core@1.0.6-ci36
 - pkg:nuget/Katmatic.Core@1.0.6-ci44
+- pkg:nuget/Katmatic.Core@1.0.7-ci49

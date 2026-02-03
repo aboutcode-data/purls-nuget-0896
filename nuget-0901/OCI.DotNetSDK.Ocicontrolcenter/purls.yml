@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@64.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@64.1.0
 - pkg:nuget/OCI.DotNetSDK.Ocicontrolcenter@64.2.0

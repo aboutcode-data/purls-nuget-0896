@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Devops@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Devops@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Devops@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Devops@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Devops@21.0.0
 - pkg:nuget/OCI.DotNetSDK.Devops@21.1.0
 - pkg:nuget/OCI.DotNetSDK.Devops@22.0.0

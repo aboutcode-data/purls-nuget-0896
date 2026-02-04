@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.MySQL@11.1.10
 - pkg:nuget/BoldReports.Data.MySQL@11.1.11
 - pkg:nuget/BoldReports.Data.MySQL@11.1.15
+- pkg:nuget/BoldReports.Data.MySQL@12.2.9
 - pkg:nuget/BoldReports.Data.MySQL@3.1.101
 - pkg:nuget/BoldReports.Data.MySQL@3.1.31
 - pkg:nuget/BoldReports.Data.MySQL@3.1.32

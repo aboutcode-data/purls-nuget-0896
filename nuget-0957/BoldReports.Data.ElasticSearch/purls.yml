@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.ElasticSearch@11.1.10
 - pkg:nuget/BoldReports.Data.ElasticSearch@11.1.11
 - pkg:nuget/BoldReports.Data.ElasticSearch@11.1.15
+- pkg:nuget/BoldReports.Data.ElasticSearch@12.2.9
 - pkg:nuget/BoldReports.Data.ElasticSearch@4.2.52
 - pkg:nuget/BoldReports.Data.ElasticSearch@4.2.53
 - pkg:nuget/BoldReports.Data.ElasticSearch@4.2.54

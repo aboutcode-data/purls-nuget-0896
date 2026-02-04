@@ -182,3 +182,5 @@
 - pkg:nuget/Cratis.Chronicle.Grains.Interfaces@14.13.8
 - pkg:nuget/Cratis.Chronicle.Grains.Interfaces@14.2.7
 - pkg:nuget/Cratis.Chronicle.Grains.Interfaces@14.8.1
+- pkg:nuget/Cratis.Chronicle.Grains.Interfaces@15.0.7
+- pkg:nuget/Cratis.Chronicle.Grains.Interfaces@15.0.8

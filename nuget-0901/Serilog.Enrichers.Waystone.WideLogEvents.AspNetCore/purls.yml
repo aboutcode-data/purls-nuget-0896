@@ -1,0 +1,1 @@
+- pkg:nuget/Serilog.Enrichers.Waystone.WideLogEvents.AspNetCore@5.1.0-wide-events.4

@@ -255,6 +255,7 @@
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.820.1
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.820.2
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.820.3
+- pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.820.4
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.821.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.822.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data.MySql@3.823.0

@@ -1,3 +1,4 @@
+- pkg:nuget/Reo.Core.DistributedCache@10.0.14
 - pkg:nuget/Reo.Core.DistributedCache@10.0.9
 - pkg:nuget/Reo.Core.DistributedCache@3.1.11076
 - pkg:nuget/Reo.Core.DistributedCache@3.1.11994

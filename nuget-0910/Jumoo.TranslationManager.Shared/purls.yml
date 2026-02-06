@@ -88,6 +88,7 @@
 - pkg:nuget/Jumoo.TranslationManager.Shared@16.0.2
 - pkg:nuget/Jumoo.TranslationManager.Shared@16.0.3
 - pkg:nuget/Jumoo.TranslationManager.Shared@16.1.0
+- pkg:nuget/Jumoo.TranslationManager.Shared@17.2.1
 - pkg:nuget/Jumoo.TranslationManager.Shared@9.0.0
 - pkg:nuget/Jumoo.TranslationManager.Shared@9.0.0-beta002
 - pkg:nuget/Jumoo.TranslationManager.Shared@9.0.0-beta003

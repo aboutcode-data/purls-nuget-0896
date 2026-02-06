@@ -262,3 +262,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Server@23.2.8
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Server@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Server@24.1.3
+- pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Server@25.4.1

@@ -1153,6 +1153,7 @@
 - pkg:nuget/AWSSDK.PI@3.7.502.21
 - pkg:nuget/AWSSDK.PI@3.7.502.25
 - pkg:nuget/AWSSDK.PI@3.7.502.35
+- pkg:nuget/AWSSDK.PI@3.7.502.42
 - pkg:nuget/AWSSDK.PI@4.0.0
 - pkg:nuget/AWSSDK.PI@4.0.0-preview
 - pkg:nuget/AWSSDK.PI@4.0.0-preview.10

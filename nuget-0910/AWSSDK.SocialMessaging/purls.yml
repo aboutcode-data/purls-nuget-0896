@@ -186,6 +186,7 @@
 - pkg:nuget/AWSSDK.SocialMessaging@3.7.502.21
 - pkg:nuget/AWSSDK.SocialMessaging@3.7.502.24
 - pkg:nuget/AWSSDK.SocialMessaging@3.7.502.8
+- pkg:nuget/AWSSDK.SocialMessaging@3.7.503.10
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.0
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.0-preview.10
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.0-preview.11

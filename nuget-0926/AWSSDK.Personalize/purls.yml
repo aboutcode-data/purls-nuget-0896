@@ -1015,6 +1015,7 @@
 - pkg:nuget/AWSSDK.Personalize@3.7.503.10
 - pkg:nuget/AWSSDK.Personalize@3.7.503.20
 - pkg:nuget/AWSSDK.Personalize@3.7.503.22
+- pkg:nuget/AWSSDK.Personalize@3.7.503.27
 - pkg:nuget/AWSSDK.Personalize@3.7.6
 - pkg:nuget/AWSSDK.Personalize@3.7.6.1
 - pkg:nuget/AWSSDK.Personalize@3.7.6.10

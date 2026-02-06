@@ -41,3 +41,4 @@
 - pkg:nuget/garnet-server@1.0.83
 - pkg:nuget/garnet-server@1.0.84
 - pkg:nuget/garnet-server@1.0.87
+- pkg:nuget/garnet-server@1.0.97

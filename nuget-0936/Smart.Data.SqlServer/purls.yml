@@ -10,3 +10,4 @@
 - pkg:nuget/Smart.Data.SqlServer@3.0.2
 - pkg:nuget/Smart.Data.SqlServer@3.0.3
 - pkg:nuget/Smart.Data.SqlServer@4.0.0
+- pkg:nuget/Smart.Data.SqlServer@4.1.0

@@ -22,3 +22,4 @@
 - pkg:nuget/Dex.Events.Distributed.OutboxExtensions@8.1.0
 - pkg:nuget/Dex.Events.Distributed.OutboxExtensions@8.1.1
 - pkg:nuget/Dex.Events.Distributed.OutboxExtensions@8.1.2
+- pkg:nuget/Dex.Events.Distributed.OutboxExtensions@8.2.4

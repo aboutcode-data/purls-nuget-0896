@@ -7,6 +7,8 @@
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.11.1.337
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.11.3.339
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.12.0.397
+- pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.12.1.470
+- pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.8.3.391
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.9.0.218
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal@3.9.1.240

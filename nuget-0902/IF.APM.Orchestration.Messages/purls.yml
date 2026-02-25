@@ -5,3 +5,5 @@
 - pkg:nuget/IF.APM.Orchestration.Messages@3.67.1
 - pkg:nuget/IF.APM.Orchestration.Messages@3.76.2
 - pkg:nuget/IF.APM.Orchestration.Messages@3.80.2
+- pkg:nuget/IF.APM.Orchestration.Messages@3.93.0
+- pkg:nuget/IF.APM.Orchestration.Messages@3.96.0

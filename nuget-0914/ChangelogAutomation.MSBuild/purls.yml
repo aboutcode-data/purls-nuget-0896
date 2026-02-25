@@ -8,3 +8,4 @@
 - pkg:nuget/ChangelogAutomation.MSBuild@3.0.2
 - pkg:nuget/ChangelogAutomation.MSBuild@3.0.3
 - pkg:nuget/ChangelogAutomation.MSBuild@3.0.4
+- pkg:nuget/ChangelogAutomation.MSBuild@3.0.5

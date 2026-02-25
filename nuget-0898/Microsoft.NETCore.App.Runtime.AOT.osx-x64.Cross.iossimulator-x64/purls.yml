@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@10.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@6.0.0-preview.3.21201.4
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@6.0.0-preview.4.21253.7
@@ -121,6 +122,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.iossimulator-x64@9.0.4

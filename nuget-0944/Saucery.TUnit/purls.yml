@@ -169,6 +169,11 @@
 - pkg:nuget/Saucery.TUnit@0.90.17
 - pkg:nuget/Saucery.TUnit@0.90.19
 - pkg:nuget/Saucery.TUnit@1.0.48
+- pkg:nuget/Saucery.TUnit@1.13.24
+- pkg:nuget/Saucery.TUnit@1.13.48
+- pkg:nuget/Saucery.TUnit@1.15.0
+- pkg:nuget/Saucery.TUnit@1.17.0
+- pkg:nuget/Saucery.TUnit@1.17.7
 - pkg:nuget/Saucery.TUnit@1.4.0
 - pkg:nuget/Saucery.TUnit@1.5.37
 - pkg:nuget/Saucery.TUnit@1.5.78

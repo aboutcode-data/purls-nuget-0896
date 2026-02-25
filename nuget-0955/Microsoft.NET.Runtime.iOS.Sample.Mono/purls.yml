@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.2
+- pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.3
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0-preview.1.21102.12
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0-preview.2.21154.6

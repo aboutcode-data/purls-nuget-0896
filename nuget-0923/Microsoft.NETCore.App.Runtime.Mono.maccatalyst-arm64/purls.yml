@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@10.0.2
+- pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@6.0.0-preview.4.21253.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64@6.0.0-preview.5.21301.5

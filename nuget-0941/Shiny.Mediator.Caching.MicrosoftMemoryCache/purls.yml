@@ -114,3 +114,5 @@
 - pkg:nuget/Shiny.Mediator.Caching.MicrosoftMemoryCache@6.0.0-beta-0002
 - pkg:nuget/Shiny.Mediator.Caching.MicrosoftMemoryCache@6.0.2
 - pkg:nuget/Shiny.Mediator.Caching.MicrosoftMemoryCache@6.0.2-beta-0001
+- pkg:nuget/Shiny.Mediator.Caching.MicrosoftMemoryCache@6.1.3
+- pkg:nuget/Shiny.Mediator.Caching.MicrosoftMemoryCache@6.2.0

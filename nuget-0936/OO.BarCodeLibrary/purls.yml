@@ -24,3 +24,6 @@
 - pkg:nuget/OO.BarCodeLibrary@1.9.4
 - pkg:nuget/OO.BarCodeLibrary@2.0.0
 - pkg:nuget/OO.BarCodeLibrary@2.0.3
+- pkg:nuget/OO.BarCodeLibrary@2.1.2
+- pkg:nuget/OO.BarCodeLibrary@2.1.3
+- pkg:nuget/OO.BarCodeLibrary@2.1.4

@@ -88,6 +88,7 @@
 - pkg:nuget/CheckoutSDK@4.2.1
 - pkg:nuget/CheckoutSDK@4.2.2
 - pkg:nuget/CheckoutSDK@4.2.3
+- pkg:nuget/CheckoutSDK@4.22.0
 - pkg:nuget/CheckoutSDK@4.3.0
 - pkg:nuget/CheckoutSDK@4.3.1
 - pkg:nuget/CheckoutSDK@4.3.2

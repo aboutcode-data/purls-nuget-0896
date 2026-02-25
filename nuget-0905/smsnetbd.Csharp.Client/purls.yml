@@ -1,2 +1,3 @@
 - pkg:nuget/smsnetbd.Csharp.Client@1.1.1
 - pkg:nuget/smsnetbd.Csharp.Client@2.0.0
+- pkg:nuget/smsnetbd.Csharp.Client@2.0.3

@@ -43,5 +43,6 @@
 - pkg:nuget/Foundatio.MessagePack@11.0.8
 - pkg:nuget/Foundatio.MessagePack@11.1.0
 - pkg:nuget/Foundatio.MessagePack@12.0.0
+- pkg:nuget/Foundatio.MessagePack@13.0.0-beta2
 - pkg:nuget/Foundatio.MessagePack@9.1.0
 - pkg:nuget/Foundatio.MessagePack@9.1.1

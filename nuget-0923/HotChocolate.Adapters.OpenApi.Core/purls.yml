@@ -2,7 +2,10 @@
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.35
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.38
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.39
+- pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.46
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.5
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.10.6
+- pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.11.10
+- pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.11.2
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.9.14
 - pkg:nuget/HotChocolate.Adapters.OpenApi.Core@16.0.0-p.9.8

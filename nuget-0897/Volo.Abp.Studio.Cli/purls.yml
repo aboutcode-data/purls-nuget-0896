@@ -55,3 +55,4 @@
 - pkg:nuget/Volo.Abp.Studio.Cli@1.4.2
 - pkg:nuget/Volo.Abp.Studio.Cli@2.1.1
 - pkg:nuget/Volo.Abp.Studio.Cli@2.1.8
+- pkg:nuget/Volo.Abp.Studio.Cli@2.2.1

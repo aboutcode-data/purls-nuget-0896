@@ -43,6 +43,7 @@
 - pkg:nuget/Foundatio.JsonNet@11.0.8
 - pkg:nuget/Foundatio.JsonNet@11.1.0
 - pkg:nuget/Foundatio.JsonNet@12.0.0
+- pkg:nuget/Foundatio.JsonNet@13.0.0-beta2
 - pkg:nuget/Foundatio.JsonNet@7.0.1706
 - pkg:nuget/Foundatio.JsonNet@7.0.1738
 - pkg:nuget/Foundatio.JsonNet@7.0.1818

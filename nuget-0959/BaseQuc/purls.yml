@@ -64,8 +64,10 @@
 - pkg:nuget/BaseQuc@2.0.17
 - pkg:nuget/BaseQuc@2.0.18
 - pkg:nuget/BaseQuc@2.0.19
+- pkg:nuget/BaseQuc@2.0.197
 - pkg:nuget/BaseQuc@2.0.2
 - pkg:nuget/BaseQuc@2.0.20
+- pkg:nuget/BaseQuc@2.0.201
 - pkg:nuget/BaseQuc@2.0.21
 - pkg:nuget/BaseQuc@2.0.22
 - pkg:nuget/BaseQuc@2.0.23

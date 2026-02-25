@@ -218,6 +218,7 @@
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.30
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.32
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.33-preview.2
+- pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.36-preview.15
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.36-preview.8
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.4-preview.1
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription@1.3.5-preview.1

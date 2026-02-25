@@ -25,3 +25,4 @@
 - pkg:nuget/Schick.Keycloak.RestApiClient@26.0.7-alpha7
 - pkg:nuget/Schick.Keycloak.RestApiClient@26.1.2
 - pkg:nuget/Schick.Keycloak.RestApiClient@26.2.0
+- pkg:nuget/Schick.Keycloak.RestApiClient@26.5.3

@@ -1,5 +1,8 @@
 - pkg:nuget/RocksDB@10.2.1.58549
 - pkg:nuget/RocksDB@10.4.2.62659
+- pkg:nuget/RocksDB@10.4.2.64149
+- pkg:nuget/RocksDB@10.4.2.64150
+- pkg:nuget/RocksDB@10.4.2.64151
 - pkg:nuget/RocksDB@6.10.2.10110
 - pkg:nuget/RocksDB@6.10.2.10111
 - pkg:nuget/RocksDB@6.10.2.10113

@@ -2,6 +2,7 @@
 - pkg:nuget/Cuemon.AspNetCore.Mvc@10.0.0-preview.2
 - pkg:nuget/Cuemon.AspNetCore.Mvc@10.0.0-preview.3
 - pkg:nuget/Cuemon.AspNetCore.Mvc@10.0.0-rc.1
+- pkg:nuget/Cuemon.AspNetCore.Mvc@10.2.0
 - pkg:nuget/Cuemon.AspNetCore.Mvc@4.2.2018.840
 - pkg:nuget/Cuemon.AspNetCore.Mvc@4.3.2018.2070
 - pkg:nuget/Cuemon.AspNetCore.Mvc@4.3.2018.2200

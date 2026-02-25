@@ -65,3 +65,4 @@
 - pkg:nuget/IdOps.Server.GraphQL@0.9.0-preview.7
 - pkg:nuget/IdOps.Server.GraphQL@0.9.0-preview.8
 - pkg:nuget/IdOps.Server.GraphQL@0.9.0-preview.9
+- pkg:nuget/IdOps.Server.GraphQL@1.1.0-preview.1

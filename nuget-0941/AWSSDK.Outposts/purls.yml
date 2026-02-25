@@ -921,6 +921,7 @@
 - pkg:nuget/AWSSDK.Outposts@3.7.502.10
 - pkg:nuget/AWSSDK.Outposts@3.7.502.21
 - pkg:nuget/AWSSDK.Outposts@3.7.502.38
+- pkg:nuget/AWSSDK.Outposts@3.7.502.43
 - pkg:nuget/AWSSDK.Outposts@3.7.502.8
 - pkg:nuget/AWSSDK.Outposts@3.7.6
 - pkg:nuget/AWSSDK.Outposts@3.7.6.1

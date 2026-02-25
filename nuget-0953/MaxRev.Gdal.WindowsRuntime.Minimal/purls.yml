@@ -16,6 +16,7 @@
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.11.1.337
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.11.3.339
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.12.0.397
+- pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.2.0.100
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.2.0.110
 - pkg:nuget/MaxRev.Gdal.WindowsRuntime.Minimal@3.2.0.200

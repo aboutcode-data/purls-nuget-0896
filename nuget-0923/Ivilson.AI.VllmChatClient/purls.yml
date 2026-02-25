@@ -32,3 +32,6 @@
 - pkg:nuget/Ivilson.AI.VllmChatClient@1.5.5
 - pkg:nuget/Ivilson.AI.VllmChatClient@1.5.6
 - pkg:nuget/Ivilson.AI.VllmChatClient@1.5.7
+- pkg:nuget/Ivilson.AI.VllmChatClient@1.7.1
+- pkg:nuget/Ivilson.AI.VllmChatClient@1.7.2
+- pkg:nuget/Ivilson.AI.VllmChatClient@1.8.5

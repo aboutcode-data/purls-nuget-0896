@@ -504,5 +504,6 @@
 - pkg:nuget/Mutagen.Bethesda.Json@0.52.0-alpha.7
 - pkg:nuget/Mutagen.Bethesda.Json@0.52.0-alpha.9
 - pkg:nuget/Mutagen.Bethesda.Json@0.53.0-alpha.46
+- pkg:nuget/Mutagen.Bethesda.Json@0.54.0-alpha.8
 - pkg:nuget/Mutagen.Bethesda.Json@2.8.1-prerelease001
 - pkg:nuget/Mutagen.Bethesda.Json@2.8.1-prerelease002

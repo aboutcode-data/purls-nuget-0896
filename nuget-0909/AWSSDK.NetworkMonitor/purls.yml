@@ -317,6 +317,8 @@
 - pkg:nuget/AWSSDK.NetworkMonitor@3.7.502.23
 - pkg:nuget/AWSSDK.NetworkMonitor@3.7.502.33
 - pkg:nuget/AWSSDK.NetworkMonitor@3.7.502.40
+- pkg:nuget/AWSSDK.NetworkMonitor@3.7.502.44
+- pkg:nuget/AWSSDK.NetworkMonitor@3.7.502.45
 - pkg:nuget/AWSSDK.NetworkMonitor@4.0.0
 - pkg:nuget/AWSSDK.NetworkMonitor@4.0.0-preview
 - pkg:nuget/AWSSDK.NetworkMonitor@4.0.0-preview.10

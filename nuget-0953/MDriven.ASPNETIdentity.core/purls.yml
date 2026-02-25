@@ -524,3 +524,6 @@
 - pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17071
 - pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17078
 - pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17118
+- pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17205
+- pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17211
+- pkg:nuget/MDriven.ASPNETIdentity.core@7.2.0.17221

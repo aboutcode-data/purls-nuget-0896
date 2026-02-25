@@ -2,6 +2,7 @@
 - pkg:nuget/dotauth.sms.ui@5.0.1-beta17
 - pkg:nuget/dotauth.sms.ui@5.0.1-beta7
 - pkg:nuget/dotauth.sms.ui@5.1.0
+- pkg:nuget/dotauth.sms.ui@5.10.0
 - pkg:nuget/dotauth.sms.ui@5.2.0
 - pkg:nuget/dotauth.sms.ui@5.3.0
 - pkg:nuget/dotauth.sms.ui@5.4.0

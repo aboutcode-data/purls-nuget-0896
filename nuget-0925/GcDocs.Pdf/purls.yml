@@ -27,3 +27,4 @@
 - pkg:nuget/GcDocs.Pdf@8.1.5
 - pkg:nuget/GcDocs.Pdf@8.2.0
 - pkg:nuget/GcDocs.Pdf@8.2.1
+- pkg:nuget/GcDocs.Pdf@9.0.2

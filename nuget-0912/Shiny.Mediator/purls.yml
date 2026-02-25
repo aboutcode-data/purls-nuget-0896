@@ -224,3 +224,5 @@
 - pkg:nuget/Shiny.Mediator@4.9.1
 - pkg:nuget/Shiny.Mediator@6.0.0-beta-0002
 - pkg:nuget/Shiny.Mediator@6.0.2
+- pkg:nuget/Shiny.Mediator@6.1.3
+- pkg:nuget/Shiny.Mediator@6.2.0

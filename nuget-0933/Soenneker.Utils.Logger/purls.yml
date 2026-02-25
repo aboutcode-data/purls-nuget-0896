@@ -459,3 +459,6 @@
 - pkg:nuget/Soenneker.Utils.Logger@4.0.399
 - pkg:nuget/Soenneker.Utils.Logger@4.0.400
 - pkg:nuget/Soenneker.Utils.Logger@4.0.411
+- pkg:nuget/Soenneker.Utils.Logger@4.0.412
+- pkg:nuget/Soenneker.Utils.Logger@4.0.414
+- pkg:nuget/Soenneker.Utils.Logger@4.0.417

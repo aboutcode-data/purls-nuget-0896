@@ -1000,6 +1000,7 @@
 - pkg:nuget/AWSSDK.CodeStarNotifications@3.7.501.28
 - pkg:nuget/AWSSDK.CodeStarNotifications@3.7.501.35
 - pkg:nuget/AWSSDK.CodeStarNotifications@3.7.501.42
+- pkg:nuget/AWSSDK.CodeStarNotifications@3.7.501.47
 - pkg:nuget/AWSSDK.CodeStarNotifications@4.0.0
 - pkg:nuget/AWSSDK.CodeStarNotifications@4.0.0-preview
 - pkg:nuget/AWSSDK.CodeStarNotifications@4.0.0-preview.10

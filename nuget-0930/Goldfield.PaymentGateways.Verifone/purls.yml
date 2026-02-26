@@ -1,5 +1,6 @@
 - pkg:nuget/Goldfield.PaymentGateways.Verifone@1.3.43
 - pkg:nuget/Goldfield.PaymentGateways.Verifone@1.3.44
+- pkg:nuget/Goldfield.PaymentGateways.Verifone@10.2.2
 - pkg:nuget/Goldfield.PaymentGateways.Verifone@7.0.0
 - pkg:nuget/Goldfield.PaymentGateways.Verifone@7.0.1
 - pkg:nuget/Goldfield.PaymentGateways.Verifone@7.0.10

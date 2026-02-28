@@ -80,3 +80,4 @@
 - pkg:nuget/Laraue.Telegram.NET.Abstractions@2.6.0
 - pkg:nuget/Laraue.Telegram.NET.Abstractions@2.6.1
 - pkg:nuget/Laraue.Telegram.NET.Abstractions@2.6.2
+- pkg:nuget/Laraue.Telegram.NET.Abstractions@4.1.2

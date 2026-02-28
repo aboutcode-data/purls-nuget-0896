@@ -55,6 +55,7 @@
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.12-alpha.0.23
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.12-alpha.0.9
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.13-alpha.0.13
+- pkg:nuget/UnMango.CliWrap.FSharp@0.0.13-alpha.0.19
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.2-alpha
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.2-alpha.1
 - pkg:nuget/UnMango.CliWrap.FSharp@0.0.3-alpha

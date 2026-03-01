@@ -93,6 +93,7 @@
 - pkg:nuget/HZY.Framework.Core@1.1.4.7
 - pkg:nuget/HZY.Framework.Core@1.1.4.8
 - pkg:nuget/HZY.Framework.Core@1.1.4.9
+- pkg:nuget/HZY.Framework.Core@10.0.8
 - pkg:nuget/HZY.Framework.Core@5.0.0
 - pkg:nuget/HZY.Framework.Core@5.0.1
 - pkg:nuget/HZY.Framework.Core@5.0.2

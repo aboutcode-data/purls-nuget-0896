@@ -1,1 +1,2 @@
 - pkg:nuget/CosmoSQLClient.MySql@1.1.0
+- pkg:nuget/CosmoSQLClient.MySql@1.3.1

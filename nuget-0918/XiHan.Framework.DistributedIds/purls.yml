@@ -45,3 +45,4 @@
 - pkg:nuget/XiHan.Framework.DistributedIds@1.2.0
 - pkg:nuget/XiHan.Framework.DistributedIds@1.2.1
 - pkg:nuget/XiHan.Framework.DistributedIds@1.3.0
+- pkg:nuget/XiHan.Framework.DistributedIds@2.3.1-preview.1

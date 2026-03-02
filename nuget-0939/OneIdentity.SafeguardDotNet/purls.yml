@@ -171,3 +171,4 @@
 - pkg:nuget/OneIdentity.SafeguardDotNet@8.1.0-dev-25849
 - pkg:nuget/OneIdentity.SafeguardDotNet@8.1.1
 - pkg:nuget/OneIdentity.SafeguardDotNet@8.2.0
+- pkg:nuget/OneIdentity.SafeguardDotNet@8.2.1-dev-22051

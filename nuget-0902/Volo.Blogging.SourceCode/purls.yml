@@ -1,3 +1,4 @@
+- pkg:nuget/Volo.Blogging.SourceCode@10.1.1
 - pkg:nuget/Volo.Blogging.SourceCode@5.0.0
 - pkg:nuget/Volo.Blogging.SourceCode@5.0.1
 - pkg:nuget/Volo.Blogging.SourceCode@5.0.2

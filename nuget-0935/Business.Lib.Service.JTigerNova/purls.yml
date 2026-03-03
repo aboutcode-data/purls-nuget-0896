@@ -209,6 +209,7 @@
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.16.0
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.2.0
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.2.1
+- pkg:nuget/Business.Lib.Service.JTigerNova@5.25.0
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.3.0
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.3.1
 - pkg:nuget/Business.Lib.Service.JTigerNova@5.3.2

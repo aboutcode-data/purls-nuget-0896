@@ -182,3 +182,4 @@
 - pkg:nuget/dotnet-reportgenerator-globaltool@5.4.7
 - pkg:nuget/dotnet-reportgenerator-globaltool@5.4.8
 - pkg:nuget/dotnet-reportgenerator-globaltool@5.4.9
+- pkg:nuget/dotnet-reportgenerator-globaltool@5.5.3

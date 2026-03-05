@@ -130,3 +130,4 @@
 - pkg:nuget/ZhileTime.CmsKit.Domain.Shared@5.3.7
 - pkg:nuget/ZhileTime.CmsKit.Domain.Shared@5.5.1
 - pkg:nuget/ZhileTime.CmsKit.Domain.Shared@6.1.21
+- pkg:nuget/ZhileTime.CmsKit.Domain.Shared@6.2.0

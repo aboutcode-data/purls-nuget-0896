@@ -157,3 +157,4 @@
 - pkg:nuget/Vidyano.PostgreSQL@6.0.20250913.6081
 - pkg:nuget/Vidyano.PostgreSQL@6.0.20250923.6107
 - pkg:nuget/Vidyano.PostgreSQL@6.0.20251117.6180
+- pkg:nuget/Vidyano.PostgreSQL@6.0.20260305.6307

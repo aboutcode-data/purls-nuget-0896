@@ -1,1 +1,2 @@
 - pkg:nuget/Nobita.ServerFramework.Network.Protobuf@2.0.0-rc-7
+- pkg:nuget/Nobita.ServerFramework.Network.Protobuf@2.1.0

@@ -325,3 +325,5 @@
 - pkg:nuget/HanaTech.Framework.Dapper@6.0.2.4-preview0906
 - pkg:nuget/HanaTech.Framework.Dapper@6.0.2.4-preview0907
 - pkg:nuget/HanaTech.Framework.Dapper@6.0.2.4-preview0910
+- pkg:nuget/HanaTech.Framework.Dapper@6.0.2.6-preview0308
+- pkg:nuget/HanaTech.Framework.Dapper@6.0.2.6-preview0309

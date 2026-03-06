@@ -20,3 +20,4 @@
 - pkg:nuget/Streamlabs.SocketClient@1.0.0
 - pkg:nuget/Streamlabs.SocketClient@1.1.1
 - pkg:nuget/Streamlabs.SocketClient@1.3.0
+- pkg:nuget/Streamlabs.SocketClient@3.0.0

@@ -81,6 +81,7 @@
 - pkg:nuget/Zymergi.Enterprise@1.9.1-alpha
 - pkg:nuget/Zymergi.Enterprise@1.9.2-alpha
 - pkg:nuget/Zymergi.Enterprise@1.9.3-alpha
+- pkg:nuget/Zymergi.Enterprise@10.4.0-alpha
 - pkg:nuget/Zymergi.Enterprise@2.0.0-alpha
 - pkg:nuget/Zymergi.Enterprise@2.0.1-alpha
 - pkg:nuget/Zymergi.Enterprise@2.0.2-alpha

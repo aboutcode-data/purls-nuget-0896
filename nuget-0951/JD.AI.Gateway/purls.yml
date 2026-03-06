@@ -18,3 +18,6 @@
 - pkg:nuget/JD.AI.Gateway@1.0.40
 - pkg:nuget/JD.AI.Gateway@1.0.41
 - pkg:nuget/JD.AI.Gateway@1.0.48
+- pkg:nuget/JD.AI.Gateway@1.1.5
+- pkg:nuget/JD.AI.Gateway@1.1.6
+- pkg:nuget/JD.AI.Gateway@1.1.7

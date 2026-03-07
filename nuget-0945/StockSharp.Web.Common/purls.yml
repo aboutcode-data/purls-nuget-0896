@@ -68,6 +68,7 @@
 - pkg:nuget/StockSharp.Web.Common@5.0.159
 - pkg:nuget/StockSharp.Web.Common@5.0.16
 - pkg:nuget/StockSharp.Web.Common@5.0.160
+- pkg:nuget/StockSharp.Web.Common@5.0.166
 - pkg:nuget/StockSharp.Web.Common@5.0.17
 - pkg:nuget/StockSharp.Web.Common@5.0.18
 - pkg:nuget/StockSharp.Web.Common@5.0.19

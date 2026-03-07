@@ -8,3 +8,5 @@
 - pkg:nuget/equadrat.Framework.FileProviders.FTP.Interfaces@8.0.0-prerelease-00304
 - pkg:nuget/equadrat.Framework.FileProviders.FTP.Interfaces@8.1.0
 - pkg:nuget/equadrat.Framework.FileProviders.FTP.Interfaces@8.1.0-prerelease-00331
+- pkg:nuget/equadrat.Framework.FileProviders.FTP.Interfaces@8.3.0-prerelease-00009
+- pkg:nuget/equadrat.Framework.FileProviders.FTP.Interfaces@8.3.1-prerelease-00019

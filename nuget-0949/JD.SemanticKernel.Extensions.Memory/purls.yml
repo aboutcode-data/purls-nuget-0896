@@ -2,3 +2,6 @@
 - pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.17
 - pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.36
 - pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.40
+- pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.42
+- pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.43
+- pkg:nuget/JD.SemanticKernel.Extensions.Memory@0.1.44

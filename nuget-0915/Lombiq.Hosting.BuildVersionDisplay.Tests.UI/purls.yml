@@ -34,3 +34,4 @@
 - pkg:nuget/Lombiq.Hosting.BuildVersionDisplay.Tests.UI@7.0.1-alpha.0.osoe-935
 - pkg:nuget/Lombiq.Hosting.BuildVersionDisplay.Tests.UI@7.0.1-alpha.1.nest-562
 - pkg:nuget/Lombiq.Hosting.BuildVersionDisplay.Tests.UI@7.0.1-alpha.2.nest-561
+- pkg:nuget/Lombiq.Hosting.BuildVersionDisplay.Tests.UI@7.0.1-alpha.4.osoe-925

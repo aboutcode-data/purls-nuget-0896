@@ -26,3 +26,4 @@
 - pkg:nuget/VertiGIS.Workflow.Activities.File@5.45.0.2
 - pkg:nuget/VertiGIS.Workflow.Activities.File@5.46.0.3
 - pkg:nuget/VertiGIS.Workflow.Activities.File@5.47.0.2
+- pkg:nuget/VertiGIS.Workflow.Activities.File@5.50.0.5

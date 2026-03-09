@@ -261,6 +261,7 @@
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.1305
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.1315
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.1351
+- pkg:nuget/TencentCloudSDK.Faceid@3.0.1381
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.168
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.169
 - pkg:nuget/TencentCloudSDK.Faceid@3.0.170

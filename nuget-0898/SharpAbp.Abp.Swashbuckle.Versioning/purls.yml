@@ -119,3 +119,4 @@
 - pkg:nuget/SharpAbp.Abp.Swashbuckle.Versioning@4.5.1
 - pkg:nuget/SharpAbp.Abp.Swashbuckle.Versioning@4.5.4
 - pkg:nuget/SharpAbp.Abp.Swashbuckle.Versioning@4.5.6
+- pkg:nuget/SharpAbp.Abp.Swashbuckle.Versioning@4.6.8

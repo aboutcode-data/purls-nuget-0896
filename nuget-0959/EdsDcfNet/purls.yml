@@ -1,2 +1,4 @@
 - pkg:nuget/EdsDcfNet@1.4.1
 - pkg:nuget/EdsDcfNet@1.6.0
+- pkg:nuget/EdsDcfNet@1.8.1
+- pkg:nuget/EdsDcfNet@1.8.1-beta.1

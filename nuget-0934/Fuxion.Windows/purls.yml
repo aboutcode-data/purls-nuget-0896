@@ -95,7 +95,12 @@
 - pkg:nuget/Fuxion.Windows@9.3.11
 - pkg:nuget/Fuxion.Windows@9.3.12
 - pkg:nuget/Fuxion.Windows@9.3.13
+- pkg:nuget/Fuxion.Windows@9.3.16
+- pkg:nuget/Fuxion.Windows@9.3.18
+- pkg:nuget/Fuxion.Windows@9.3.20
 - pkg:nuget/Fuxion.Windows@9.3.3
+- pkg:nuget/Fuxion.Windows@9.3.32
+- pkg:nuget/Fuxion.Windows@9.3.34
 - pkg:nuget/Fuxion.Windows@9.3.5
 - pkg:nuget/Fuxion.Windows@9.3.7
 - pkg:nuget/Fuxion.Windows@9.3.9

@@ -700,3 +700,4 @@
 - pkg:nuget/Soenneker.Utils.AutoBogus.Moq@4.0.711
 - pkg:nuget/Soenneker.Utils.AutoBogus.Moq@4.0.718
 - pkg:nuget/Soenneker.Utils.AutoBogus.Moq@4.0.742
+- pkg:nuget/Soenneker.Utils.AutoBogus.Moq@4.0.750

@@ -1,1 +1,2 @@
 - pkg:nuget/AutoGuru.EntityFrameworkCore.Triggered.Transactions@3.4.0
+- pkg:nuget/AutoGuru.EntityFrameworkCore.Triggered.Transactions@4.0.0

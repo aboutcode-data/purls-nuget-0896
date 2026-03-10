@@ -29,3 +29,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.ePaper@1.0.665
 - pkg:nuget/nanoFramework.Iot.Device.ePaper@1.0.688
 - pkg:nuget/nanoFramework.Iot.Device.ePaper@1.0.700
+- pkg:nuget/nanoFramework.Iot.Device.ePaper@2.0.0-preview.16

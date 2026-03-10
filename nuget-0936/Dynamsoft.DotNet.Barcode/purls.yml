@@ -40,3 +40,4 @@
 - pkg:nuget/Dynamsoft.DotNet.Barcode@9.6.30
 - pkg:nuget/Dynamsoft.DotNet.Barcode@9.6.40
 - pkg:nuget/Dynamsoft.DotNet.Barcode@9.6.40.1
+- pkg:nuget/Dynamsoft.DotNet.Barcode@9.6.61

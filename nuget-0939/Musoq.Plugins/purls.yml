@@ -21,6 +21,7 @@
 - pkg:nuget/Musoq.Plugins@1.7.0
 - pkg:nuget/Musoq.Plugins@1.8.0
 - pkg:nuget/Musoq.Plugins@1.9.0
+- pkg:nuget/Musoq.Plugins@12.1.0
 - pkg:nuget/Musoq.Plugins@2.0.0
 - pkg:nuget/Musoq.Plugins@2.0.2
 - pkg:nuget/Musoq.Plugins@2.0.3

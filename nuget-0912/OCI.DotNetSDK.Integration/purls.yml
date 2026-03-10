@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Integration@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Integration@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Integration@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Integration@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Integration@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Integration@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Integration@14.1.0

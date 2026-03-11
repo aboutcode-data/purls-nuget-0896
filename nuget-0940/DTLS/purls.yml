@@ -1,1 +1,3 @@
 - pkg:nuget/DTLS@0.1.0
+- pkg:nuget/DTLS@0.3.2
+- pkg:nuget/DTLS@0.3.3

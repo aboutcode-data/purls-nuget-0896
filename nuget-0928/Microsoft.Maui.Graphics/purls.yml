@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.Maui.Graphics@10.0.0-preview.6.25359.8
 - pkg:nuget/Microsoft.Maui.Graphics@10.0.0-preview.7.25406.3
 - pkg:nuget/Microsoft.Maui.Graphics@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.Maui.Graphics@10.0.50
 - pkg:nuget/Microsoft.Maui.Graphics@6.0.100-preview.4.153%2Bsha.1dd6f7f-azdo.4797587
 - pkg:nuget/Microsoft.Maui.Graphics@6.0.100-preview.4.158%2Bsha.bfceaf9-azdo.4797686
 - pkg:nuget/Microsoft.Maui.Graphics@6.0.100-preview.5.229%2Bsha.61be645-azdo.4866874

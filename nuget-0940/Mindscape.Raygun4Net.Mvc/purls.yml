@@ -38,6 +38,7 @@
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@11.2.4-pre-2
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@11.2.4-pre-3
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@11.2.6-pre-1
+- pkg:nuget/Mindscape.Raygun4Net.Mvc@11.2.6-pre-3
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@4.0.0
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@4.0.1
 - pkg:nuget/Mindscape.Raygun4Net.Mvc@4.1.0

@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100.Msi.x86@10.0.100
+- pkg:nuget/Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100.Msi.x86@10.0.104

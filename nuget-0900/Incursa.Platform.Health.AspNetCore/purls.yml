@@ -5,3 +5,5 @@
 - pkg:nuget/Incursa.Platform.Health.AspNetCore@2026.3.6.320
 - pkg:nuget/Incursa.Platform.Health.AspNetCore@2026.3.9.100
 - pkg:nuget/Incursa.Platform.Health.AspNetCore@2026.3.9.853
+- pkg:nuget/Incursa.Platform.Health.AspNetCore@6.0.1
+- pkg:nuget/Incursa.Platform.Health.AspNetCore@6.0.3

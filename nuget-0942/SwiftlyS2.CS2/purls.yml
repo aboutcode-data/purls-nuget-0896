@@ -49,4 +49,9 @@
 - pkg:nuget/SwiftlyS2.CS2@1.1.5-beta.7
 - pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.14
 - pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.15
+- pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.21
+- pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.22
+- pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.23
+- pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.24
+- pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.25
 - pkg:nuget/SwiftlyS2.CS2@1.2.1-beta.9

@@ -20,4 +20,5 @@
 - pkg:nuget/Catglobe.CgScript.Runtime@1.9.1
 - pkg:nuget/Catglobe.CgScript.Runtime@1.9.2
 - pkg:nuget/Catglobe.CgScript.Runtime@2.0.0
+- pkg:nuget/Catglobe.CgScript.Runtime@2.11.1
 - pkg:nuget/Catglobe.CgScript.Runtime@2.2.4

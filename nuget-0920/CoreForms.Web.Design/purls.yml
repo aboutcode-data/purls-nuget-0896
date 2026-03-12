@@ -1,4 +1,5 @@
 - pkg:nuget/CoreForms.Web.Design@10.0.0-alpha.1
+- pkg:nuget/CoreForms.Web.Design@10.0.1
 - pkg:nuget/CoreForms.Web.Design@7.0.0
 - pkg:nuget/CoreForms.Web.Design@7.0.0-alpha.1
 - pkg:nuget/CoreForms.Web.Design@7.0.1

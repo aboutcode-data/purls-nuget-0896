@@ -93,6 +93,7 @@
 - pkg:nuget/Udap.UI@0.5.16
 - pkg:nuget/Udap.UI@0.5.2
 - pkg:nuget/Udap.UI@0.5.20
+- pkg:nuget/Udap.UI@0.5.22
 - pkg:nuget/Udap.UI@0.5.3
 - pkg:nuget/Udap.UI@0.5.4
 - pkg:nuget/Udap.UI@0.5.5

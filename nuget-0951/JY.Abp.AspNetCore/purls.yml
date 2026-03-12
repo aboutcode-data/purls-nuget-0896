@@ -4,6 +4,7 @@
 - pkg:nuget/JY.Abp.AspNetCore@1.0.20.913
 - pkg:nuget/JY.Abp.AspNetCore@1.0.20.920
 - pkg:nuget/JY.Abp.AspNetCore@1.0.21.923
+- pkg:nuget/JY.Abp.AspNetCore@1.1.0.936
 - pkg:nuget/JY.Abp.AspNetCore@8.1.102
 - pkg:nuget/JY.Abp.AspNetCore@8.1.104
 - pkg:nuget/JY.Abp.AspNetCore@8.1.2

@@ -1,4 +1,5 @@
 - pkg:nuget/Energinet.DataHub.Core.DurableFunctionApp.TestCommon@10.0.1
+- pkg:nuget/Energinet.DataHub.Core.DurableFunctionApp.TestCommon@10.1.0-alpha-442
 - pkg:nuget/Energinet.DataHub.Core.DurableFunctionApp.TestCommon@7.0.5-alpha-382
 - pkg:nuget/Energinet.DataHub.Core.DurableFunctionApp.TestCommon@7.0.5-alpha-383
 - pkg:nuget/Energinet.DataHub.Core.DurableFunctionApp.TestCommon@7.1.0

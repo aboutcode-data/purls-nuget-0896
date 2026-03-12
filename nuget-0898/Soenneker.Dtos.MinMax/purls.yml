@@ -326,3 +326,5 @@
 - pkg:nuget/Soenneker.Dtos.MinMax@4.0.333
 - pkg:nuget/Soenneker.Dtos.MinMax@4.0.340
 - pkg:nuget/Soenneker.Dtos.MinMax@4.0.342
+- pkg:nuget/Soenneker.Dtos.MinMax@4.0.344
+- pkg:nuget/Soenneker.Dtos.MinMax@4.0.346

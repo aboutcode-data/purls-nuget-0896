@@ -83,6 +83,8 @@
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.134
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.138
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.145
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.150
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.151
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.81
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.83
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.84

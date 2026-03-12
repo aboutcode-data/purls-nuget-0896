@@ -78,3 +78,4 @@
 - pkg:nuget/DependencyModules.Runtime@1.0.0-RC9141
 - pkg:nuget/DependencyModules.Runtime@1.0.0-RC9145
 - pkg:nuget/DependencyModules.Runtime@1.0.0-RC9148
+- pkg:nuget/DependencyModules.Runtime@1.0.0-RC9177

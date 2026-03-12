@@ -1245,3 +1245,5 @@
 - pkg:nuget/Soenneker.Extensions.Float@3.0.999
 - pkg:nuget/Soenneker.Extensions.Float@4.0.1110
 - pkg:nuget/Soenneker.Extensions.Float@4.0.1126
+- pkg:nuget/Soenneker.Extensions.Float@4.0.1128
+- pkg:nuget/Soenneker.Extensions.Float@4.0.1130

@@ -113,3 +113,6 @@
 - pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.148
 - pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.161
 - pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.173
+- pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.174
+- pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.175
+- pkg:nuget/Soenneker.Extensions.Serilog.LogEventLevels@4.0.177

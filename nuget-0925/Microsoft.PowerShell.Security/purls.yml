@@ -130,6 +130,7 @@
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.10
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.11
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.12
+- pkg:nuget/Microsoft.PowerShell.Security@7.4.14
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.2
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.3
 - pkg:nuget/Microsoft.PowerShell.Security@7.4.4
@@ -146,6 +147,7 @@
 - pkg:nuget/Microsoft.PowerShell.Security@7.5.1
 - pkg:nuget/Microsoft.PowerShell.Security@7.5.2
 - pkg:nuget/Microsoft.PowerShell.Security@7.5.3
+- pkg:nuget/Microsoft.PowerShell.Security@7.5.5
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.2
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.3
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.4

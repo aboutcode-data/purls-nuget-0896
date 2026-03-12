@@ -1,2 +1,4 @@
 - pkg:nuget/Exis.PdfEditor@1.2.0
 - pkg:nuget/Exis.PdfEditor@1.5.5
+- pkg:nuget/Exis.PdfEditor@2.0.3
+- pkg:nuget/Exis.PdfEditor@2.0.4

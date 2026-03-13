@@ -1,3 +1,4 @@
+- pkg:nuget/DotExtensions.Memory@10.0.0
 - pkg:nuget/DotExtensions.Memory@10.0.0-alpha.6
 - pkg:nuget/DotExtensions.Memory@10.0.0-beta.1
 - pkg:nuget/DotExtensions.Memory@9.3.1

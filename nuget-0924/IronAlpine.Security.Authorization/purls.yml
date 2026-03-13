@@ -1,1 +1,4 @@
+- pkg:nuget/IronAlpine.Security.Authorization@0.3.0
+- pkg:nuget/IronAlpine.Security.Authorization@1.0.0-rc1
 - pkg:nuget/IronAlpine.Security.Authorization@1.0.0-rc4
+- pkg:nuget/IronAlpine.Security.Authorization@1.1.0

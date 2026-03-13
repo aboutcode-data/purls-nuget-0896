@@ -526,6 +526,7 @@
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@3.7.502.35
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@3.7.502.40
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@3.7.502.44
+- pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@3.7.502.52
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.0
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.0-preview
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.0-preview.10
@@ -564,3 +565,4 @@
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.1.2
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.1.4
 - pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.1.8
+- pkg:nuget/AWSSDK.KinesisVideoWebRTCStorage@4.0.2.17

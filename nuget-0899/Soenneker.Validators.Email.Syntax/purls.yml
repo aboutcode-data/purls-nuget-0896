@@ -1254,3 +1254,4 @@
 - pkg:nuget/Soenneker.Validators.Email.Syntax@3.0.999
 - pkg:nuget/Soenneker.Validators.Email.Syntax@4.0.1275
 - pkg:nuget/Soenneker.Validators.Email.Syntax@4.0.1279
+- pkg:nuget/Soenneker.Validators.Email.Syntax@4.0.1283

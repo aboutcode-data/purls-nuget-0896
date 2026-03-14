@@ -55,3 +55,4 @@
 - pkg:nuget/Musoq.Parser@5.1.0
 - pkg:nuget/Musoq.Parser@5.8.0
 - pkg:nuget/Musoq.Parser@9.1.0
+- pkg:nuget/Musoq.Parser@9.3.2

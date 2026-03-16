@@ -1,1 +1,2 @@
 - pkg:nuget/NetEvolve.HealthChecks.AWS.SQS@4.20.61
+- pkg:nuget/NetEvolve.HealthChecks.AWS.SQS@5.13.51

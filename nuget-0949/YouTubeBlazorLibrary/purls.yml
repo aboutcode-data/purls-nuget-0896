@@ -1,3 +1,4 @@
+- pkg:nuget/YouTubeBlazorLibrary@10.0.12
 - pkg:nuget/YouTubeBlazorLibrary@7.0.1
 - pkg:nuget/YouTubeBlazorLibrary@8.0.1
 - pkg:nuget/YouTubeBlazorLibrary@8.0.2

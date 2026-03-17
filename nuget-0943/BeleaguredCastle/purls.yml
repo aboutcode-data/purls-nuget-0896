@@ -1,4 +1,5 @@
 - pkg:nuget/BeleaguredCastle@1.0.1
+- pkg:nuget/BeleaguredCastle@10.0.5
 - pkg:nuget/BeleaguredCastle@2.0.1
 - pkg:nuget/BeleaguredCastle@2.0.2
 - pkg:nuget/BeleaguredCastle@7.0.1

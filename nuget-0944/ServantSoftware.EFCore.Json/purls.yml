@@ -162,3 +162,5 @@
 - pkg:nuget/ServantSoftware.EFCore.Json@1.0.0.352
 - pkg:nuget/ServantSoftware.EFCore.Json@1.0.0.353
 - pkg:nuget/ServantSoftware.EFCore.Json@1.0.0.354
+- pkg:nuget/ServantSoftware.EFCore.Json@1.0.0.363
+- pkg:nuget/ServantSoftware.EFCore.Json@1.0.0.364

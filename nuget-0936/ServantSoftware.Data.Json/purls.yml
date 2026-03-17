@@ -214,6 +214,8 @@
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.352
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.353
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.354
+- pkg:nuget/ServantSoftware.Data.Json@1.0.0.363
+- pkg:nuget/ServantSoftware.Data.Json@1.0.0.364
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.44
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.45
 - pkg:nuget/ServantSoftware.Data.Json@1.0.0.46

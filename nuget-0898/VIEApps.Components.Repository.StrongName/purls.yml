@@ -6,6 +6,7 @@
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.10.2512.1
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.10.2602.1
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.10.2603.2
+- pkg:nuget/VIEApps.Components.Repository.StrongName@10.10.2603.6
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.2.1.1805
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.2.1812.2
 - pkg:nuget/VIEApps.Components.Repository.StrongName@10.2.1903.1

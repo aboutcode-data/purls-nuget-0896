@@ -10,3 +10,4 @@
 - pkg:nuget/FSharp.Data.Http@6.5.0
 - pkg:nuget/FSharp.Data.Http@6.6.0
 - pkg:nuget/FSharp.Data.Http@8.1.0
+- pkg:nuget/FSharp.Data.Http@8.1.2

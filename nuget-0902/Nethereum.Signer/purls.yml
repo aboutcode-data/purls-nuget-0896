@@ -76,3 +76,4 @@
 - pkg:nuget/Nethereum.Signer@4.8.0
 - pkg:nuget/Nethereum.Signer@4.9.0
 - pkg:nuget/Nethereum.Signer@5.0.0
+- pkg:nuget/Nethereum.Signer@6.0.4

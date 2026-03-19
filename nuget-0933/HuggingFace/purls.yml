@@ -22,3 +22,4 @@
 - pkg:nuget/HuggingFace@0.4.1-dev.60
 - pkg:nuget/HuggingFace@0.4.1-dev.7
 - pkg:nuget/HuggingFace@0.4.1-dev.90
+- pkg:nuget/HuggingFace@0.4.1-dev.95

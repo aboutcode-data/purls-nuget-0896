@@ -73,3 +73,4 @@
 - pkg:nuget/Snet.Mqtt@25.88.2
 - pkg:nuget/Snet.Mqtt@25.99.1
 - pkg:nuget/Snet.Mqtt@26.77.1
+- pkg:nuget/Snet.Mqtt@26.78.1

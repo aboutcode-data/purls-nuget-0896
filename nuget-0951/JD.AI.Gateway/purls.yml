@@ -45,6 +45,7 @@
 - pkg:nuget/JD.AI.Gateway@1.1.235
 - pkg:nuget/JD.AI.Gateway@1.1.250
 - pkg:nuget/JD.AI.Gateway@1.1.287
+- pkg:nuget/JD.AI.Gateway@1.1.315
 - pkg:nuget/JD.AI.Gateway@1.1.43
 - pkg:nuget/JD.AI.Gateway@1.1.44
 - pkg:nuget/JD.AI.Gateway@1.1.5

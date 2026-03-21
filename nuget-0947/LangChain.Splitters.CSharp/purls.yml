@@ -373,6 +373,7 @@
 - pkg:nuget/LangChain.Splitters.CSharp@0.17.1-dev.5
 - pkg:nuget/LangChain.Splitters.CSharp@0.17.1-dev.51
 - pkg:nuget/LangChain.Splitters.CSharp@0.17.1-dev.7
+- pkg:nuget/LangChain.Splitters.CSharp@0.17.1-dev.84
 - pkg:nuget/LangChain.Splitters.CSharp@0.17.1-dev.9
 - pkg:nuget/LangChain.Splitters.CSharp@0.2.0
 - pkg:nuget/LangChain.Splitters.CSharp@0.2.1

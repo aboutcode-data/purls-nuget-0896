@@ -235,6 +235,7 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@22.1.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@22.2.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@22.8.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@22.8.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@3.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@3.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.GrAr.Import@3.1.1

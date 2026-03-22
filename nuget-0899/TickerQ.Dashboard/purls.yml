@@ -29,4 +29,6 @@
 - pkg:nuget/TickerQ.Dashboard@2.5.3
 - pkg:nuget/TickerQ.Dashboard@2.5.3-preview
 - pkg:nuget/TickerQ.Dashboard@8.0.1
+- pkg:nuget/TickerQ.Dashboard@8.2.3
 - pkg:nuget/TickerQ.Dashboard@9.0.1
+- pkg:nuget/TickerQ.Dashboard@9.2.3

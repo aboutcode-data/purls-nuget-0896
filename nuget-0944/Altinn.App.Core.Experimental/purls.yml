@@ -1,6 +1,7 @@
 - pkg:nuget/Altinn.App.Core.Experimental@8.11.0-pr.4597.instantiation-notification-api-approach.389905d2
 - pkg:nuget/Altinn.App.Core.Experimental@8.11.0-pr.4724.instantiation-notif-callback.5d755c06
 - pkg:nuget/Altinn.App.Core.Experimental@8.11.0-pr.4957.secret-provider.82039bbd
+- pkg:nuget/Altinn.App.Core.Experimental@8.11.0-pr.5029.secret-provider.ad78d4c7
 - pkg:nuget/Altinn.App.Core.Experimental@8.5.0-pr.283.authn-abstraction.7ff9b35e
 - pkg:nuget/Altinn.App.Core.Experimental@8.5.0-pr.288.signing.67243b26
 - pkg:nuget/Altinn.App.Core.Experimental@8.5.0-pr.289.deafult-signing-validator.ac90843f

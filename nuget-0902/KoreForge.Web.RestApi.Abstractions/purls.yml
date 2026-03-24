@@ -1,1 +1,2 @@
 - pkg:nuget/KoreForge.Web.RestApi.Abstractions@0.0.3-alpha
+- pkg:nuget/KoreForge.Web.RestApi.Abstractions@0.0.5-alpha

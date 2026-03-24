@@ -358,6 +358,7 @@
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@15.3.8525
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@15.3.8526
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@15.3.8528
+- pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@7.3.5613
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@7.3.5614
 - pkg:nuget/Telerik.Sitefinity.PrecompiledPages.Backend@7.3.5615

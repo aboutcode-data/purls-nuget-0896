@@ -1,3 +1,4 @@
 - pkg:nuget/ObjectMapper.NET_Postgres@4.8.0
 - pkg:nuget/ObjectMapper.NET_Postgres@4.8.1
 - pkg:nuget/ObjectMapper.NET_Postgres@4.9.8
+- pkg:nuget/ObjectMapper.NET_Postgres@5.0.0

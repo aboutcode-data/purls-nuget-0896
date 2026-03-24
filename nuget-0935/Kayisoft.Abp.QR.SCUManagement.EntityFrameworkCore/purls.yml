@@ -255,3 +255,4 @@
 - pkg:nuget/Kayisoft.Abp.QR.SCUManagement.EntityFrameworkCore@4.6.8
 - pkg:nuget/Kayisoft.Abp.QR.SCUManagement.EntityFrameworkCore@4.6.9
 - pkg:nuget/Kayisoft.Abp.QR.SCUManagement.EntityFrameworkCore@4.7.4
+- pkg:nuget/Kayisoft.Abp.QR.SCUManagement.EntityFrameworkCore@4.9.9

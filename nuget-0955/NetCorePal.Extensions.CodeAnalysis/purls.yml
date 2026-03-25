@@ -10,3 +10,4 @@
 - pkg:nuget/NetCorePal.Extensions.CodeAnalysis@2.9.3
 - pkg:nuget/NetCorePal.Extensions.CodeAnalysis@3.0.0-rc.2
 - pkg:nuget/NetCorePal.Extensions.CodeAnalysis@3.0.1
+- pkg:nuget/NetCorePal.Extensions.CodeAnalysis@3.3.0

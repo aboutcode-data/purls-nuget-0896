@@ -1,1 +1,2 @@
 - pkg:nuget/MLambda.Actors.Monitoring@1.5.0
+- pkg:nuget/MLambda.Actors.Monitoring@2.0.0-rc.883c

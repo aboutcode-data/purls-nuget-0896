@@ -391,6 +391,7 @@
 - pkg:nuget/Zafiro.Avalonia.Dialogs@4.0.0
 - pkg:nuget/Zafiro.Avalonia.Dialogs@46.0.13
 - pkg:nuget/Zafiro.Avalonia.Dialogs@5.0.0
+- pkg:nuget/Zafiro.Avalonia.Dialogs@51.0.10
 - pkg:nuget/Zafiro.Avalonia.Dialogs@51.0.2
 - pkg:nuget/Zafiro.Avalonia.Dialogs@6.0.0
 - pkg:nuget/Zafiro.Avalonia.Dialogs@6.1.0

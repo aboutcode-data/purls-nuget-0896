@@ -6,3 +6,4 @@
 - pkg:nuget/BytecodeApi@3.0.5
 - pkg:nuget/BytecodeApi@3.0.6
 - pkg:nuget/BytecodeApi@4.0.0
+- pkg:nuget/BytecodeApi@5.0.1

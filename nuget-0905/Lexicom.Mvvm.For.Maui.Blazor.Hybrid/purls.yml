@@ -1,3 +1,8 @@
+- pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@10.0.15
+- pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@10.0.16
+- pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@10.0.17
+- pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@10.0.18
+- pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@10.0.19
 - pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@8.0.94
 - pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@8.0.95
 - pkg:nuget/Lexicom.Mvvm.For.Maui.Blazor.Hybrid@8.0.96

@@ -3,3 +3,6 @@
 - pkg:nuget/TooString@0.3.0-preview
 - pkg:nuget/TooString@0.4.0-preview
 - pkg:nuget/TooString@0.5.0-preview
+- pkg:nuget/TooString@0.5.1-preview
+- pkg:nuget/TooString@0.6.0
+- pkg:nuget/TooString@0.7.0-preview

@@ -1,1 +1,4 @@
 - pkg:nuget/Iamatsea.Common.DataProvider@1.0.27
+- pkg:nuget/Iamatsea.Common.DataProvider@1.1.0
+- pkg:nuget/Iamatsea.Common.DataProvider@1.1.1
+- pkg:nuget/Iamatsea.Common.DataProvider@1.1.2

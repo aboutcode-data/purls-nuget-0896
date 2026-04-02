@@ -1,2 +1,4 @@
 - pkg:nuget/HLCores.Configurations.SwaggerGenConfig@1.0.0
 - pkg:nuget/HLCores.Configurations.SwaggerGenConfig@2.0.0
+- pkg:nuget/HLCores.Configurations.SwaggerGenConfig@3.0.0
+- pkg:nuget/HLCores.Configurations.SwaggerGenConfig@4.0.0

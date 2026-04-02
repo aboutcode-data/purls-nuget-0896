@@ -1,2 +1,4 @@
 - pkg:nuget/HLCores.Configurations.Database@1.0.0
 - pkg:nuget/HLCores.Configurations.Database@2.0.0
+- pkg:nuget/HLCores.Configurations.Database@3.0.0
+- pkg:nuget/HLCores.Configurations.Database@4.0.0

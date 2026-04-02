@@ -8,6 +8,7 @@
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.16.0
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.17.0
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.17.0-preview.1
+- pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.19.0
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.2.0
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.2.1
 - pkg:nuget/EasyAbp.Abp.DynamicQuery.Domain.Shared@0.3.0

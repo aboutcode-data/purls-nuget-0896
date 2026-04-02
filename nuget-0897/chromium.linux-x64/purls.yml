@@ -35,6 +35,8 @@
 - pkg:nuget/chromium.linux-x64@2025.8.31
 - pkg:nuget/chromium.linux-x64@2025.9.1
 - pkg:nuget/chromium.linux-x64@2025.9.16
+- pkg:nuget/chromium.linux-x64@2026.3.31
+- pkg:nuget/chromium.linux-x64@2026.4.1
 - pkg:nuget/chromium.linux-x64@42.42.341-dev-deps
 - pkg:nuget/chromium.linux-x64@42.42.342-dev-deps
 - pkg:nuget/chromium.linux-x64@42.42.343-pr102

@@ -86,3 +86,6 @@
 - pkg:nuget/cCoder.Core.Services@2025.9.11.944
 - pkg:nuget/cCoder.Core.Services@2025.9.19.1207
 - pkg:nuget/cCoder.Core.Services@2025.9.22.1103
+- pkg:nuget/cCoder.Core.Services@2026.4.1.1329
+- pkg:nuget/cCoder.Core.Services@2026.4.1.1954
+- pkg:nuget/cCoder.Core.Services@2026.4.2.950

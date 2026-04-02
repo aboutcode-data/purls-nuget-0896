@@ -10,6 +10,7 @@
 - pkg:nuget/Chr.Avro@10.0.0
 - pkg:nuget/Chr.Avro@10.1.0
 - pkg:nuget/Chr.Avro@10.10.0
+- pkg:nuget/Chr.Avro@10.13.0
 - pkg:nuget/Chr.Avro@10.2.0
 - pkg:nuget/Chr.Avro@10.2.1
 - pkg:nuget/Chr.Avro@10.2.2

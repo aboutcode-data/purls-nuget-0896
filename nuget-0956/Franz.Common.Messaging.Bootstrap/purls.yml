@@ -16,3 +16,5 @@
 - pkg:nuget/Franz.Common.Messaging.Bootstrap@1.5.9
 - pkg:nuget/Franz.Common.Messaging.Bootstrap@1.6.21
 - pkg:nuget/Franz.Common.Messaging.Bootstrap@1.7.2
+- pkg:nuget/Franz.Common.Messaging.Bootstrap@2.0.1
+- pkg:nuget/Franz.Common.Messaging.Bootstrap@2.0.2

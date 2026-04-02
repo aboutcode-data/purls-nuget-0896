@@ -2,3 +2,4 @@
 - pkg:nuget/Savvyio.Extensions.NATS@4.3.0
 - pkg:nuget/Savvyio.Extensions.NATS@4.4.0
 - pkg:nuget/Savvyio.Extensions.NATS@4.4.1
+- pkg:nuget/Savvyio.Extensions.NATS@5.0.5

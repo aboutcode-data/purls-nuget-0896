@@ -11,3 +11,5 @@
 - pkg:nuget/APF.Core.Google@8.0.0.13-beta
 - pkg:nuget/APF.Core.Google@8.0.0.2
 - pkg:nuget/APF.Core.Google@8.0.0.2-migration
+- pkg:nuget/APF.Core.Google@8.0.0.3
+- pkg:nuget/APF.Core.Google@8.0.0.3-Beta-01

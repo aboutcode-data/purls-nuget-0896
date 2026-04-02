@@ -31,6 +31,7 @@
 - pkg:nuget/CairoSharp@3.22.25.74
 - pkg:nuget/CairoSharp@3.22.25.98
 - pkg:nuget/CairoSharp@3.24.24.117-develop
+- pkg:nuget/CairoSharp@3.24.24.133-develop
 - pkg:nuget/CairoSharp@3.24.24.32
 - pkg:nuget/CairoSharp@3.24.24.34
 - pkg:nuget/CairoSharp@3.24.24.38

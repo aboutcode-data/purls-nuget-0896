@@ -69,3 +69,4 @@
 - pkg:nuget/OPCFoundation.NetStandard.Opc.Ua.PubSub.Debug@1.5.376.235-beta
 - pkg:nuget/OPCFoundation.NetStandard.Opc.Ua.PubSub.Debug@1.5.376.244
 - pkg:nuget/OPCFoundation.NetStandard.Opc.Ua.PubSub.Debug@1.5.377.11-preview
+- pkg:nuget/OPCFoundation.NetStandard.Opc.Ua.PubSub.Debug@1.5.378.134

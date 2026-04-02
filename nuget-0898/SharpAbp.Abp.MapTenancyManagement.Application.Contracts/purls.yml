@@ -201,3 +201,4 @@
 - pkg:nuget/SharpAbp.Abp.MapTenancyManagement.Application.Contracts@4.5.4
 - pkg:nuget/SharpAbp.Abp.MapTenancyManagement.Application.Contracts@4.5.6
 - pkg:nuget/SharpAbp.Abp.MapTenancyManagement.Application.Contracts@4.6.8
+- pkg:nuget/SharpAbp.Abp.MapTenancyManagement.Application.Contracts@4.6.9

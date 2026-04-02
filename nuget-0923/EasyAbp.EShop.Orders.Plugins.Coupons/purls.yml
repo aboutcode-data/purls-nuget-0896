@@ -99,6 +99,7 @@
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.0.1
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.0.2
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.1.0
+- pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.10.0
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.2.0
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.3.0
 - pkg:nuget/EasyAbp.EShop.Orders.Plugins.Coupons@5.4.0

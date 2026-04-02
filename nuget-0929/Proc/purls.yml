@@ -8,6 +8,7 @@
 - pkg:nuget/Proc@0.1.8
 - pkg:nuget/Proc@0.1.9
 - pkg:nuget/Proc@0.10.0
+- pkg:nuget/Proc@0.14.0
 - pkg:nuget/Proc@0.2.0
 - pkg:nuget/Proc@0.2.1
 - pkg:nuget/Proc@0.3.0

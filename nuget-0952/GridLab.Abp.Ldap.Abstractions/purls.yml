@@ -2,6 +2,9 @@
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.0.427
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.0.455
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.0.471
+- pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.0.533
+- pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.0.537
+- pkg:nuget/GridLab.Abp.Ldap.Abstractions@10.1.1.541
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@9.3.2.20
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@9.3.2.242
 - pkg:nuget/GridLab.Abp.Ldap.Abstractions@9.3.2.247

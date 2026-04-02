@@ -28,3 +28,4 @@
 - pkg:nuget/Google.Apis.Datastream.v1alpha1@1.68.0.3625
 - pkg:nuget/Google.Apis.Datastream.v1alpha1@1.69.0.3732
 - pkg:nuget/Google.Apis.Datastream.v1alpha1@1.70.0.3881
+- pkg:nuget/Google.Apis.Datastream.v1alpha1@1.73.0.4097

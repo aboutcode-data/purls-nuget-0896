@@ -1,4 +1,7 @@
 - pkg:nuget/Schemata.Security.Foundation@10.0.0-preview.26175.59
+- pkg:nuget/Schemata.Security.Foundation@10.0.0-preview.26177.31
+- pkg:nuget/Schemata.Security.Foundation@10.0.0-preview.26177.40
+- pkg:nuget/Schemata.Security.Foundation@10.0.0-preview.26177.58
 - pkg:nuget/Schemata.Security.Foundation@9.0.0-preview.25128.31
 - pkg:nuget/Schemata.Security.Foundation@9.0.0-preview.25128.36
 - pkg:nuget/Schemata.Security.Foundation@9.0.0-preview.25153.54

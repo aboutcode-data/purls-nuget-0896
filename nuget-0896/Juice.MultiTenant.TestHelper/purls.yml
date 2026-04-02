@@ -44,3 +44,7 @@
 - pkg:nuget/Juice.MultiTenant.TestHelper@9.0.0-beta.11
 - pkg:nuget/Juice.MultiTenant.TestHelper@9.0.1
 - pkg:nuget/Juice.MultiTenant.TestHelper@9.3.2
+- pkg:nuget/Juice.MultiTenant.TestHelper@9.5.3
+- pkg:nuget/Juice.MultiTenant.TestHelper@9.5.4
+- pkg:nuget/Juice.MultiTenant.TestHelper@9.5.5
+- pkg:nuget/Juice.MultiTenant.TestHelper@9.6.0

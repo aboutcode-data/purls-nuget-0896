@@ -39,3 +39,4 @@
 - pkg:nuget/Microsoft.Azure.Devices.Provisioning.Client@2.0.0-preview005
 - pkg:nuget/Microsoft.Azure.Devices.Provisioning.Client@2.0.0-preview006
 - pkg:nuget/Microsoft.Azure.Devices.Provisioning.Client@2.0.0-preview007
+- pkg:nuget/Microsoft.Azure.Devices.Provisioning.Client@2.0.0-rc

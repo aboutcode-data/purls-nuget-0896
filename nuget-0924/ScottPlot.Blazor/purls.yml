@@ -44,3 +44,4 @@
 - pkg:nuget/ScottPlot.Blazor@5.0.54
 - pkg:nuget/ScottPlot.Blazor@5.0.55
 - pkg:nuget/ScottPlot.Blazor@5.0.56
+- pkg:nuget/ScottPlot.Blazor@5.1.58

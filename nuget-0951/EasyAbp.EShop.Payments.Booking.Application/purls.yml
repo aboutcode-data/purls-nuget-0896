@@ -47,6 +47,7 @@
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.0.1
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.0.2
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.1.0
+- pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.10.0
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.2.0
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.3.0
 - pkg:nuget/EasyAbp.EShop.Payments.Booking.Application@5.4.0

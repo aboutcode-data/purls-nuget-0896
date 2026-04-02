@@ -34,6 +34,7 @@
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@18.0.0
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@20.0.8
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@5.0.0
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@5.0.1
 - pkg:nuget/WorkflowEngine.NETCore-NexmoPlugin@5.0.2

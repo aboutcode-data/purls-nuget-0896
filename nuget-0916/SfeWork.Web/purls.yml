@@ -35,3 +35,7 @@
 - pkg:nuget/SfeWork.Web@2.2.6
 - pkg:nuget/SfeWork.Web@2.2.7
 - pkg:nuget/SfeWork.Web@2.2.8
+- pkg:nuget/SfeWork.Web@2.3.9
+- pkg:nuget/SfeWork.Web@2.4.0
+- pkg:nuget/SfeWork.Web@2.4.1
+- pkg:nuget/SfeWork.Web@2.4.2

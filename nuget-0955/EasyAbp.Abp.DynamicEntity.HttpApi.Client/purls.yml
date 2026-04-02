@@ -14,6 +14,7 @@
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.2.0
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.20.0
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.20.0-preview.1
+- pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.22.0
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.3.0
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.3.1
 - pkg:nuget/EasyAbp.Abp.DynamicEntity.HttpApi.Client@0.4.0

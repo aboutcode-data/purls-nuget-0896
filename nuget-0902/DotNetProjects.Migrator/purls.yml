@@ -1,4 +1,5 @@
 - pkg:nuget/DotNetProjects.Migrator@1.0.0
+- pkg:nuget/DotNetProjects.Migrator@12.0.0
 - pkg:nuget/DotNetProjects.Migrator@4.0.0
 - pkg:nuget/DotNetProjects.Migrator@4.0.21
 - pkg:nuget/DotNetProjects.Migrator@4.0.22

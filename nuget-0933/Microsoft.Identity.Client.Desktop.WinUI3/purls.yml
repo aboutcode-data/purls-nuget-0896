@@ -2,3 +2,4 @@
 - pkg:nuget/Microsoft.Identity.Client.Desktop.WinUI3@4.77.0
 - pkg:nuget/Microsoft.Identity.Client.Desktop.WinUI3@4.77.1
 - pkg:nuget/Microsoft.Identity.Client.Desktop.WinUI3@4.83.1
+- pkg:nuget/Microsoft.Identity.Client.Desktop.WinUI3@4.83.3

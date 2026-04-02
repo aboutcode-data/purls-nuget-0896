@@ -1,2 +1,7 @@
 - pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.19.0
 - pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.24.0
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.28.0
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.28.1
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.28.2
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.29.0
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.30.0

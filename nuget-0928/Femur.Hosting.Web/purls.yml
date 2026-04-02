@@ -1,3 +1,4 @@
 - pkg:nuget/Femur.Hosting.Web@0.0.13
 - pkg:nuget/Femur.Hosting.Web@0.0.14
 - pkg:nuget/Femur.Hosting.Web@0.0.15
+- pkg:nuget/Femur.Hosting.Web@0.0.31

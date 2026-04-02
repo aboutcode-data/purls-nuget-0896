@@ -17,6 +17,7 @@
 - pkg:nuget/CG.Infrastructure.Data@3.0.9
 - pkg:nuget/CG.Infrastructure.Data@3.10.0
 - pkg:nuget/CG.Infrastructure.Data@3.10.1
+- pkg:nuget/CG.Infrastructure.Data@3.10.12
 - pkg:nuget/CG.Infrastructure.Data@3.10.2
 - pkg:nuget/CG.Infrastructure.Data@3.10.3
 - pkg:nuget/CG.Infrastructure.Data@3.10.4

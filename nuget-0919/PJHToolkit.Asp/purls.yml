@@ -17,3 +17,5 @@
 - pkg:nuget/PJHToolkit.Asp@6.3.0
 - pkg:nuget/PJHToolkit.Asp@6.4.0
 - pkg:nuget/PJHToolkit.Asp@7.2.1
+- pkg:nuget/PJHToolkit.Asp@7.3.1
+- pkg:nuget/PJHToolkit.Asp@7.3.2

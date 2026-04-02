@@ -15,6 +15,7 @@
 - pkg:nuget/Parlem.Core.Messaging@1.0.7
 - pkg:nuget/Parlem.Core.Messaging@1.0.8
 - pkg:nuget/Parlem.Core.Messaging@1.0.9
+- pkg:nuget/Parlem.Core.Messaging@10.0.0
 - pkg:nuget/Parlem.Core.Messaging@7.0.0
 - pkg:nuget/Parlem.Core.Messaging@7.0.1
 - pkg:nuget/Parlem.Core.Messaging@7.0.3

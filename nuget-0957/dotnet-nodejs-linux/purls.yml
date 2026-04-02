@@ -136,3 +136,4 @@
 - pkg:nuget/dotnet-nodejs-linux@24.0.2
 - pkg:nuget/dotnet-nodejs-linux@24.1.0
 - pkg:nuget/dotnet-nodejs-linux@24.2.0
+- pkg:nuget/dotnet-nodejs-linux@25.9.0

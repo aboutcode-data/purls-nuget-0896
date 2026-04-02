@@ -1,3 +1,4 @@
 - pkg:nuget/Microsoft.WindowsAppSDK.Base@1.8.250509001-experimental
 - pkg:nuget/Microsoft.WindowsAppSDK.Base@1.8.250730001-preview
 - pkg:nuget/Microsoft.WindowsAppSDK.Base@1.8.250831001
+- pkg:nuget/Microsoft.WindowsAppSDK.Base@2.0.2-preview2

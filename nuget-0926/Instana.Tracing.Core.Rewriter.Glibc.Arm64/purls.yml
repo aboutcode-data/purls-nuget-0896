@@ -5,3 +5,5 @@
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Glibc.Arm64@1.293.1
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Glibc.Arm64@1.296.1
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Glibc.Arm64@1.297.4
+- pkg:nuget/Instana.Tracing.Core.Rewriter.Glibc.Arm64@1.315.5
+- pkg:nuget/Instana.Tracing.Core.Rewriter.Glibc.Arm64@1.315.6

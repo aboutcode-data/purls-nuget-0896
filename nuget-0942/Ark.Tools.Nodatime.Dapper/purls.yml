@@ -93,3 +93,4 @@
 - pkg:nuget/Ark.Tools.Nodatime.Dapper@5.3.1
 - pkg:nuget/Ark.Tools.Nodatime.Dapper@5.4.0
 - pkg:nuget/Ark.Tools.Nodatime.Dapper@5.5.0
+- pkg:nuget/Ark.Tools.Nodatime.Dapper@6.0.0

@@ -16,6 +16,8 @@
 - pkg:nuget/XMPro.Integration.Settings@4.4.21-g746b4a4013
 - pkg:nuget/XMPro.Integration.Settings@4.4.22
 - pkg:nuget/XMPro.Integration.Settings@4.4.22-g2eb594e594
+- pkg:nuget/XMPro.Integration.Settings@4.4.23
+- pkg:nuget/XMPro.Integration.Settings@4.4.23-g3c2db2c98c
 - pkg:nuget/XMPro.Integration.Settings@4.5.3
 - pkg:nuget/XMPro.Integration.Settings@4.5.3-g1e0bdff62c
 - pkg:nuget/XMPro.Integration.Settings@5.0.0-alpha-g684cb1643d

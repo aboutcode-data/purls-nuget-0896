@@ -68,3 +68,4 @@
 - pkg:nuget/Google.Apis.CloudSecurityToken.v1@1.69.0.3793
 - pkg:nuget/Google.Apis.CloudSecurityToken.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.CloudSecurityToken.v1@1.70.0.3891
+- pkg:nuget/Google.Apis.CloudSecurityToken.v1@1.73.0.4094

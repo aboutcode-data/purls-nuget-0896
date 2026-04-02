@@ -1,3 +1,6 @@
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.1000.0
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.1000.0-alpha.63
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.1001.0-alpha.64
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.800.0
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.800.0-alpha.15
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.800.0-alpha.16
@@ -26,9 +29,13 @@
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.803.0-alpha.41
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.803.0-alpha.42
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.803.0-alpha.43
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.44
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.45
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.46
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.48
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.53
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.54
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.804.0-alpha.60
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.805.0-alpha.61
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.SqlServer@3.805.0-alpha.62

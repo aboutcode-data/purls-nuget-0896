@@ -146,6 +146,7 @@
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.2.0
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.2.1
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.2.2
+- pkg:nuget/MyJetWallet.Sdk.WalletApi@3.26.0
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.3.0
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.3.1
 - pkg:nuget/MyJetWallet.Sdk.WalletApi@3.3.10

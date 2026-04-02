@@ -1,5 +1,7 @@
 - pkg:nuget/Volo.Abp.BlobStoring.Bunny@10.0.0-rc.1
 - pkg:nuget/Volo.Abp.BlobStoring.Bunny@10.1.1
+- pkg:nuget/Volo.Abp.BlobStoring.Bunny@10.2.0
+- pkg:nuget/Volo.Abp.BlobStoring.Bunny@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.BlobStoring.Bunny@9.2.0
 - pkg:nuget/Volo.Abp.BlobStoring.Bunny@9.2.0-rc.1
 - pkg:nuget/Volo.Abp.BlobStoring.Bunny@9.2.0-rc.2

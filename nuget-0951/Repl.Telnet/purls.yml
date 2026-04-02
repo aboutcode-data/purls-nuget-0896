@@ -1,3 +1,7 @@
+- pkg:nuget/Repl.Telnet@0.10.0-dev.14
+- pkg:nuget/Repl.Telnet@0.10.0-dev.17
+- pkg:nuget/Repl.Telnet@0.10.0-dev.19
+- pkg:nuget/Repl.Telnet@0.10.0-dev.20
 - pkg:nuget/Repl.Telnet@0.9.2-dev.26
 - pkg:nuget/Repl.Telnet@0.9.2-dev.3
 - pkg:nuget/Repl.Telnet@0.9.2-dev.73

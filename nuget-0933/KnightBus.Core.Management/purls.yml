@@ -3,3 +3,4 @@
 - pkg:nuget/KnightBus.Core.Management@16.2.0
 - pkg:nuget/KnightBus.Core.Management@17.0.0
 - pkg:nuget/KnightBus.Core.Management@17.1.0
+- pkg:nuget/KnightBus.Core.Management@18.2.0

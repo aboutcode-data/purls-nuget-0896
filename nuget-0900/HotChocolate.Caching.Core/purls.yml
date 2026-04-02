@@ -1,0 +1,4 @@
+- pkg:nuget/HotChocolate.Caching.Core@16.0.0-rc.1.22
+- pkg:nuget/HotChocolate.Caching.Core@16.0.0-rc.1.23
+- pkg:nuget/HotChocolate.Caching.Core@16.0.0-rc.1.24
+- pkg:nuget/HotChocolate.Caching.Core@16.0.0-rc.1.25

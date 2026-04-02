@@ -42,3 +42,5 @@
 - pkg:nuget/FlexCell.Grid.NET@25.9.5
 - pkg:nuget/FlexCell.Grid.NET@26.2.3
 - pkg:nuget/FlexCell.Grid.NET@26.3.10
+- pkg:nuget/FlexCell.Grid.NET@26.4.1
+- pkg:nuget/FlexCell.Grid.NET@26.4.2

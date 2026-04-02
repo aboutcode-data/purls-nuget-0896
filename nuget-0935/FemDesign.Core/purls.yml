@@ -54,3 +54,4 @@
 - pkg:nuget/FemDesign.Core@24.0.0
 - pkg:nuget/FemDesign.Core@24.1.0
 - pkg:nuget/FemDesign.Core@24.2.0
+- pkg:nuget/FemDesign.Core@25.1.0

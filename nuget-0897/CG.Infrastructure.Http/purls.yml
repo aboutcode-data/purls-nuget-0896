@@ -14,4 +14,5 @@
 - pkg:nuget/CG.Infrastructure.Http@3.10.5
 - pkg:nuget/CG.Infrastructure.Http@3.10.6
 - pkg:nuget/CG.Infrastructure.Http@3.10.7
+- pkg:nuget/CG.Infrastructure.Http@3.10.8
 - pkg:nuget/CG.Infrastructure.Http@3.9.0

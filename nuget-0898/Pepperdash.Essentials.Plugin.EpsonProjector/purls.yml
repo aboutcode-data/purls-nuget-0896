@@ -11,3 +11,6 @@
 - pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.2.0-ingest-wip-auth.1
 - pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.2.0-simpl-bridge.2
 - pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.2.0-warming-cooling-hotfix.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.3.1-tcpFix.1
+- pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.3.1-tcpFix.2
+- pkg:nuget/Pepperdash.Essentials.Plugin.EpsonProjector@3.3.1-tcpFix.3

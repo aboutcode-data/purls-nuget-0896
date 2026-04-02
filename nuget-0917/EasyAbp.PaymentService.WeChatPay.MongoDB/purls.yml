@@ -97,6 +97,7 @@
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.16.0-preview.1
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.17.0
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.17.0-preview.1
+- pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.19.0
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.2.0
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.3.0
 - pkg:nuget/EasyAbp.PaymentService.WeChatPay.MongoDB@2.3.1

@@ -241,5 +241,6 @@
 - pkg:nuget/DVO.Core@1.2.66
 - pkg:nuget/DVO.Core@1.2.69
 - pkg:nuget/DVO.Core@1.2.7
+- pkg:nuget/DVO.Core@1.2.74
 - pkg:nuget/DVO.Core@1.2.8
 - pkg:nuget/DVO.Core@1.2.9

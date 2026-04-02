@@ -129,3 +129,5 @@
 - pkg:nuget/WiseProgress.Framework@2025.8.28.1
 - pkg:nuget/WiseProgress.Framework@2025.9.1.1
 - pkg:nuget/WiseProgress.Framework@2026.3.20.1
+- pkg:nuget/WiseProgress.Framework@2026.3.26.1
+- pkg:nuget/WiseProgress.Framework@2026.3.26.2

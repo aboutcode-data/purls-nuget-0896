@@ -372,4 +372,6 @@
 - pkg:nuget/Wologic.SYS.Application@9.4.8
 - pkg:nuget/Wologic.SYS.Application@9.4.9
 - pkg:nuget/Wologic.SYS.Application@9.5.6
+- pkg:nuget/Wologic.SYS.Application@9.6.15
+- pkg:nuget/Wologic.SYS.Application@9.6.16
 - pkg:nuget/Wologic.SYS.Application@9.6.2

@@ -347,6 +347,7 @@
 - pkg:nuget/Indice.Common@8.27.0
 - pkg:nuget/Indice.Common@8.3.0
 - pkg:nuget/Indice.Common@8.4.0
+- pkg:nuget/Indice.Common@8.42.0
 - pkg:nuget/Indice.Common@8.5.0
 - pkg:nuget/Indice.Common@8.6.0
 - pkg:nuget/Indice.Common@8.7.0

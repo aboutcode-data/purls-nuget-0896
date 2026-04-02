@@ -42,6 +42,7 @@
 - pkg:nuget/SimpleCommandLine@0.3.0
 - pkg:nuget/SimpleCommandLine@0.3.1
 - pkg:nuget/SimpleCommandLine@0.38.0
+- pkg:nuget/SimpleCommandLine@0.39.3
 - pkg:nuget/SimpleCommandLine@0.4.0
 - pkg:nuget/SimpleCommandLine@0.4.1
 - pkg:nuget/SimpleCommandLine@0.5.0

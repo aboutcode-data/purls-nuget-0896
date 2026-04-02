@@ -2,3 +2,5 @@
 - pkg:nuget/AIC.Core.Notifiers.Push@2026.2.16.1
 - pkg:nuget/AIC.Core.Notifiers.Push@2026.2.16.2
 - pkg:nuget/AIC.Core.Notifiers.Push@2026.3.11.1
+- pkg:nuget/AIC.Core.Notifiers.Push@2026.3.31.1
+- pkg:nuget/AIC.Core.Notifiers.Push@2026.4.2.4

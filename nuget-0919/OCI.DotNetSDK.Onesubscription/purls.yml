@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Onesubscription@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@39.0.0
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@39.1.0
 - pkg:nuget/OCI.DotNetSDK.Onesubscription@39.2.0

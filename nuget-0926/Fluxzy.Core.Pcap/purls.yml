@@ -61,3 +61,5 @@
 - pkg:nuget/Fluxzy.Core.Pcap@1.31.24
 - pkg:nuget/Fluxzy.Core.Pcap@1.33.15
 - pkg:nuget/Fluxzy.Core.Pcap@1.33.6-alpha-g1e97f7adf9
+- pkg:nuget/Fluxzy.Core.Pcap@1.35.1
+- pkg:nuget/Fluxzy.Core.Pcap@1.35.20

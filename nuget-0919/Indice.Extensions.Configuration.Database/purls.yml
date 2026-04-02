@@ -194,6 +194,7 @@
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.20.0
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.3.0
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.4.0
+- pkg:nuget/Indice.Extensions.Configuration.Database@8.42.0
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.5.0
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.6.0
 - pkg:nuget/Indice.Extensions.Configuration.Database@8.7.0

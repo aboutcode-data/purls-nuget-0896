@@ -51,6 +51,7 @@
 - pkg:nuget/OCI.DotNetSDK.Filestorage@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Filestorage@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Filestorage@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Filestorage@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Filestorage@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Filestorage@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Filestorage@14.2.0

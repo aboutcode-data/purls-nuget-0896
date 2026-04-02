@@ -14,6 +14,7 @@
 - pkg:nuget/PDFTron.iOS.Tools@10.9.0
 - pkg:nuget/PDFTron.iOS.Tools@11.0.0
 - pkg:nuget/PDFTron.iOS.Tools@11.1.0
+- pkg:nuget/PDFTron.iOS.Tools@11.12.0
 - pkg:nuget/PDFTron.iOS.Tools@11.2.0
 - pkg:nuget/PDFTron.iOS.Tools@11.3.0
 - pkg:nuget/PDFTron.iOS.Tools@11.4.0

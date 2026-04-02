@@ -131,3 +131,4 @@
 - pkg:nuget/Google.Apis.CloudComposer.v1@1.69.0.3785
 - pkg:nuget/Google.Apis.CloudComposer.v1@1.70.0.3833
 - pkg:nuget/Google.Apis.CloudComposer.v1@1.70.0.3867
+- pkg:nuget/Google.Apis.CloudComposer.v1@1.73.0.4101

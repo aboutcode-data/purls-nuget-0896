@@ -234,3 +234,6 @@
 - pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@4.6.9
 - pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@4.7.4
 - pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@4.9.9
+- pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@5.0.2
+- pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@5.0.3
+- pkg:nuget/Kayisoft.Abp.Print.SCUManagement.Domain@5.0.4

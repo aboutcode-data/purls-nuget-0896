@@ -39,3 +39,6 @@
 - pkg:nuget/SourceKit.Generators.Builder@1.2.49
 - pkg:nuget/SourceKit.Generators.Builder@1.2.50
 - pkg:nuget/SourceKit.Generators.Builder@1.2.51
+- pkg:nuget/SourceKit.Generators.Builder@1.2.56
+- pkg:nuget/SourceKit.Generators.Builder@1.2.57
+- pkg:nuget/SourceKit.Generators.Builder@1.2.58

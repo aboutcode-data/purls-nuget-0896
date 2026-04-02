@@ -1,3 +1,7 @@
+- pkg:nuget/Vcmp.D365.Integration@3.1000.0
+- pkg:nuget/Vcmp.D365.Integration@3.1000.0-alpha.990
+- pkg:nuget/Vcmp.D365.Integration@3.1001.0-alpha.991
+- pkg:nuget/Vcmp.D365.Integration@3.1001.0-alpha.993
 - pkg:nuget/Vcmp.D365.Integration@3.200.0
 - pkg:nuget/Vcmp.D365.Integration@3.200.0-alpha.257
 - pkg:nuget/Vcmp.D365.Integration@3.200.0-alpha.258
@@ -533,3 +537,4 @@
 - pkg:nuget/Vcmp.D365.Integration@3.830.0-alpha.956
 - pkg:nuget/Vcmp.D365.Integration@3.830.0-alpha.969
 - pkg:nuget/Vcmp.D365.Integration@3.830.0-alpha.970
+- pkg:nuget/Vcmp.D365.Integration@3.831.0-alpha.989

@@ -218,6 +218,7 @@
 - pkg:nuget/EO.Wpf@25.2.1
 - pkg:nuget/EO.Wpf@25.2.36
 - pkg:nuget/EO.Wpf@25.2.64
+- pkg:nuget/EO.Wpf@26.1.34
 - pkg:nuget/EO.Wpf@3.0.18
 - pkg:nuget/EO.Wpf@3.0.19
 - pkg:nuget/EO.Wpf@3.0.20

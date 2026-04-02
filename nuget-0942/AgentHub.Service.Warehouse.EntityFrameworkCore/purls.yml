@@ -238,6 +238,7 @@
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.337
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.339
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.342
+- pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.350
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.63
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.64
 - pkg:nuget/AgentHub.Service.Warehouse.EntityFrameworkCore@1.0.65

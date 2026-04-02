@@ -102,6 +102,7 @@
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.37
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.38
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.4
+- pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.45
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.5
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.6
 - pkg:nuget/rbkApiModules.Commons.LiteDB@8.0.7

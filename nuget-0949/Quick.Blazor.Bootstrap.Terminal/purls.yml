@@ -1,3 +1,6 @@
+- pkg:nuget/Quick.Blazor.Bootstrap.Terminal@2026.12.327
+- pkg:nuget/Quick.Blazor.Bootstrap.Terminal@2026.13.327
+- pkg:nuget/Quick.Blazor.Bootstrap.Terminal@2026.14.328
 - pkg:nuget/Quick.Blazor.Bootstrap.Terminal@4.0.0
 - pkg:nuget/Quick.Blazor.Bootstrap.Terminal@4.0.1
 - pkg:nuget/Quick.Blazor.Bootstrap.Terminal@4.0.2

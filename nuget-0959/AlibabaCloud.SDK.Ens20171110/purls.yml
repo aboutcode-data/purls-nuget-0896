@@ -1,5 +1,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Ens20171110@1.0.0
 - pkg:nuget/AlibabaCloud.SDK.Ens20171110@1.0.1
+- pkg:nuget/AlibabaCloud.SDK.Ens20171110@10.0.0
+- pkg:nuget/AlibabaCloud.SDK.Ens20171110@10.1.0
 - pkg:nuget/AlibabaCloud.SDK.Ens20171110@2.0.0
 - pkg:nuget/AlibabaCloud.SDK.Ens20171110@3.0.0
 - pkg:nuget/AlibabaCloud.SDK.Ens20171110@3.0.1

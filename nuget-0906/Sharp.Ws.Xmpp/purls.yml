@@ -71,6 +71,7 @@
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.3
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.30
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.31
+- pkg:nuget/Sharp.Ws.Xmpp@2.6.34
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.4
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.5
 - pkg:nuget/Sharp.Ws.Xmpp@2.6.6

@@ -37,6 +37,7 @@
 - pkg:nuget/Magick.NET-Q8-x64@14.10.2
 - pkg:nuget/Magick.NET-Q8-x64@14.10.3
 - pkg:nuget/Magick.NET-Q8-x64@14.10.4
+- pkg:nuget/Magick.NET-Q8-x64@14.11.0
 - pkg:nuget/Magick.NET-Q8-x64@14.2.0
 - pkg:nuget/Magick.NET-Q8-x64@14.3.0
 - pkg:nuget/Magick.NET-Q8-x64@14.4.0

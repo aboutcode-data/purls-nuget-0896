@@ -100,3 +100,4 @@
 - pkg:nuget/Grpc.AspNetCore@2.71.0
 - pkg:nuget/Grpc.AspNetCore@2.71.0-pre1
 - pkg:nuget/Grpc.AspNetCore@2.76.0-pre1
+- pkg:nuget/Grpc.AspNetCore@2.80.0-pre1

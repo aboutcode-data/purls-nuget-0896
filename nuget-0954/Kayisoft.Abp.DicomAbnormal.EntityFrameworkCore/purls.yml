@@ -199,3 +199,6 @@
 - pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@4.6.1
 - pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@4.6.2
 - pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@4.8.0
+- pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@5.0.2
+- pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@5.0.3
+- pkg:nuget/Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore@5.0.4

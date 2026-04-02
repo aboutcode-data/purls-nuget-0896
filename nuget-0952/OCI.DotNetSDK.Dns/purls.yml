@@ -49,6 +49,7 @@
 - pkg:nuget/OCI.DotNetSDK.Dns@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Dns@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Dns@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Dns@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Dns@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Dns@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Dns@14.2.0

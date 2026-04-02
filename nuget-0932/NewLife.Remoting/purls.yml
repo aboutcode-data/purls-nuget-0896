@@ -226,3 +226,5 @@
 - pkg:nuget/NewLife.Remoting@3.6.2025.1112
 - pkg:nuget/NewLife.Remoting@3.6.2025.1218-beta0318
 - pkg:nuget/NewLife.Remoting@3.6.2025.1226-beta0602
+- pkg:nuget/NewLife.Remoting@3.7.2026.402
+- pkg:nuget/NewLife.Remoting@3.7.2026.402-beta0859

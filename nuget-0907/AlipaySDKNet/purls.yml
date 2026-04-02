@@ -61,6 +61,7 @@
 - pkg:nuget/AlipaySDKNet@4.8.50
 - pkg:nuget/AlipaySDKNet@4.8.70
 - pkg:nuget/AlipaySDKNet@4.8.76
+- pkg:nuget/AlipaySDKNet@4.9.1088
 - pkg:nuget/AlipaySDKNet@4.9.119
 - pkg:nuget/AlipaySDKNet@4.9.131
 - pkg:nuget/AlipaySDKNet@4.9.156

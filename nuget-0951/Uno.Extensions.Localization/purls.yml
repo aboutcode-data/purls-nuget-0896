@@ -706,3 +706,5 @@
 - pkg:nuget/Uno.Extensions.Localization@7.1.0-dev.47
 - pkg:nuget/Uno.Extensions.Localization@7.1.0-dev.62
 - pkg:nuget/Uno.Extensions.Localization@7.2.0-dev.5
+- pkg:nuget/Uno.Extensions.Localization@7.2.0-dev.52
+- pkg:nuget/Uno.Extensions.Localization@7.2.0-dev.58

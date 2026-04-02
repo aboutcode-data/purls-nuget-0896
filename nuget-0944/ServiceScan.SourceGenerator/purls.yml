@@ -18,3 +18,5 @@
 - pkg:nuget/ServiceScan.SourceGenerator@2.2.2
 - pkg:nuget/ServiceScan.SourceGenerator@2.3.2
 - pkg:nuget/ServiceScan.SourceGenerator@2.4.1
+- pkg:nuget/ServiceScan.SourceGenerator@3.0.2
+- pkg:nuget/ServiceScan.SourceGenerator@3.0.3

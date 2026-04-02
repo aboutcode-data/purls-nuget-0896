@@ -38,6 +38,9 @@
 - pkg:nuget/Ibex.PDF.Creator@6.10.4.5-beta
 - pkg:nuget/Ibex.PDF.Creator@6.10.4.6-beta
 - pkg:nuget/Ibex.PDF.Creator@6.10.4.7
+- pkg:nuget/Ibex.PDF.Creator@6.11.2.4-beta
+- pkg:nuget/Ibex.PDF.Creator@6.11.3.1
+- pkg:nuget/Ibex.PDF.Creator@6.11.3.2-beta
 - pkg:nuget/Ibex.PDF.Creator@6.2.1
 - pkg:nuget/Ibex.PDF.Creator@6.2.2
 - pkg:nuget/Ibex.PDF.Creator@6.2.3

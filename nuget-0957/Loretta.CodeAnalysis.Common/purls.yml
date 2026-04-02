@@ -23,6 +23,7 @@
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.13-nightly.3
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.14-nightly.13
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.14-nightly.15
+- pkg:nuget/Loretta.CodeAnalysis.Common@0.2.14-nightly.26
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.14-nightly.4
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.14-nightly.5
 - pkg:nuget/Loretta.CodeAnalysis.Common@0.2.7-beta.10

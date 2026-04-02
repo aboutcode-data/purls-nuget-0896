@@ -1,4 +1,5 @@
 - pkg:nuget/Dedsi.Core@10.0.5
+- pkg:nuget/Dedsi.Core@10.10.2
 - pkg:nuget/Dedsi.Core@8.2.1
 - pkg:nuget/Dedsi.Core@8.2.1.1
 - pkg:nuget/Dedsi.Core@8.2.1.2

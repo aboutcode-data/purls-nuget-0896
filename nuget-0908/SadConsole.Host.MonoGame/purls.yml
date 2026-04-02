@@ -1,3 +1,4 @@
+- pkg:nuget/SadConsole.Host.MonoGame@0.0.1-test
 - pkg:nuget/SadConsole.Host.MonoGame@10.0.0
 - pkg:nuget/SadConsole.Host.MonoGame@10.0.0-alpha1-debug
 - pkg:nuget/SadConsole.Host.MonoGame@10.0.0-alpha2
@@ -23,6 +24,7 @@
 - pkg:nuget/SadConsole.Host.MonoGame@10.5.0-debug
 - pkg:nuget/SadConsole.Host.MonoGame@10.6.0
 - pkg:nuget/SadConsole.Host.MonoGame@10.6.0-debug
+- pkg:nuget/SadConsole.Host.MonoGame@10.9.0
 - pkg:nuget/SadConsole.Host.MonoGame@9.0.0
 - pkg:nuget/SadConsole.Host.MonoGame@9.0.0-alpha1
 - pkg:nuget/SadConsole.Host.MonoGame@9.0.0-alpha2

@@ -1,3 +1,4 @@
+- pkg:nuget/Rystem.RepositoryFramework.Infrastructure.Dynamics.Dataverse@10.0.7
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.Dynamics.Dataverse@3.0.10
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.Dynamics.Dataverse@3.0.11
 - pkg:nuget/Rystem.RepositoryFramework.Infrastructure.Dynamics.Dataverse@3.0.12

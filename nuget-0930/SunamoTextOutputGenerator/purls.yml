@@ -32,3 +32,4 @@
 - pkg:nuget/SunamoTextOutputGenerator@24.9.20.1
 - pkg:nuget/SunamoTextOutputGenerator@25.12.21.1
 - pkg:nuget/SunamoTextOutputGenerator@25.3.29.1
+- pkg:nuget/SunamoTextOutputGenerator@26.3.28.3

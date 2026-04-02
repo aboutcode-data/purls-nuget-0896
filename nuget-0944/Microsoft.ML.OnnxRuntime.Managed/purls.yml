@@ -38,6 +38,7 @@
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.23.0
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.23.0-rc.1
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.23.0-rc.2
+- pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.24.4
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.3.0
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.4.0
 - pkg:nuget/Microsoft.ML.OnnxRuntime.Managed@1.5.1

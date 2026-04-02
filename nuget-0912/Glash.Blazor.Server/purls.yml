@@ -39,3 +39,5 @@
 - pkg:nuget/Glash.Blazor.Server@1.5.7
 - pkg:nuget/Glash.Blazor.Server@1.5.8
 - pkg:nuget/Glash.Blazor.Server@1.5.9
+- pkg:nuget/Glash.Blazor.Server@2026.5.327
+- pkg:nuget/Glash.Blazor.Server@2026.6.328

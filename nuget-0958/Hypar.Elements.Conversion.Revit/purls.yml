@@ -286,6 +286,8 @@
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.19-alpha.0
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.19-alpha.5
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.2
+- pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.23-alpha.0
+- pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.23-alpha.1
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.3
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.3-alpha.0
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.3-alpha.1

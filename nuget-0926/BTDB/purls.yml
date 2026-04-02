@@ -308,6 +308,8 @@
 - pkg:nuget/BTDB@33.5.0
 - pkg:nuget/BTDB@33.6.0
 - pkg:nuget/BTDB@33.6.1
+- pkg:nuget/BTDB@33.6.11
+- pkg:nuget/BTDB@33.6.12
 - pkg:nuget/BTDB@33.6.2
 - pkg:nuget/BTDB@33.6.3
 - pkg:nuget/BTDB@33.6.4
@@ -329,6 +331,8 @@
 - pkg:nuget/BTDB@34.3.7
 - pkg:nuget/BTDB@34.3.9
 - pkg:nuget/BTDB@34.4.1
+- pkg:nuget/BTDB@34.5.0
+- pkg:nuget/BTDB@34.5.1
 - pkg:nuget/BTDB@4.0.0
 - pkg:nuget/BTDB@4.0.1
 - pkg:nuget/BTDB@5.0.0

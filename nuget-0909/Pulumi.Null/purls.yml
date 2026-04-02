@@ -313,3 +313,5 @@
 - pkg:nuget/Pulumi.Null@0.1.0-alpha.1765261185
 - pkg:nuget/Pulumi.Null@0.1.0-alpha.1770099400
 - pkg:nuget/Pulumi.Null@0.1.0-alpha.1773728540
+- pkg:nuget/Pulumi.Null@0.1.0-alpha.1774761192
+- pkg:nuget/Pulumi.Null@0.1.0-alpha.1774890329

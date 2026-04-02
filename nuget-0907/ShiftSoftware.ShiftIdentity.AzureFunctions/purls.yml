@@ -38,3 +38,5 @@
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2025.9.26.1
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2026.2.25.1
 - pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2026.3.20.1
+- pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2026.3.29.1
+- pkg:nuget/ShiftSoftware.ShiftIdentity.AzureFunctions@2026.3.29.2

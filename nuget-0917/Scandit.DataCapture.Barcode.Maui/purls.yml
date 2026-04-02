@@ -99,6 +99,8 @@
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.5.1
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.6.0
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.6.0-beta.1
+- pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.6.10
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.6.3
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@7.6.4
 - pkg:nuget/Scandit.DataCapture.Barcode.Maui@8.0.0-beta.1
+- pkg:nuget/Scandit.DataCapture.Barcode.Maui@8.3.0

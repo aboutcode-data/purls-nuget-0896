@@ -13,4 +13,5 @@
 - pkg:nuget/CG.Infrastructure.Logging@3.10.2
 - pkg:nuget/CG.Infrastructure.Logging@3.10.3
 - pkg:nuget/CG.Infrastructure.Logging@3.10.4
+- pkg:nuget/CG.Infrastructure.Logging@3.10.5
 - pkg:nuget/CG.Infrastructure.Logging@3.9.0

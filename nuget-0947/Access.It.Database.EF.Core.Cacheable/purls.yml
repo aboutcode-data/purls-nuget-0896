@@ -1,3 +1,4 @@
+- pkg:nuget/Access.It.Database.EF.Core.Cacheable@10.0.1
 - pkg:nuget/Access.It.Database.EF.Core.Cacheable@8.18.0
 - pkg:nuget/Access.It.Database.EF.Core.Cacheable@8.18.1
 - pkg:nuget/Access.It.Database.EF.Core.Cacheable@9.2.0

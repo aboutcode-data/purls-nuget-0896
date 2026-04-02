@@ -10,6 +10,7 @@
 - pkg:nuget/Easy.Jwt.Core@8.0.1
 - pkg:nuget/Easy.Jwt.Core@8.0.3
 - pkg:nuget/Easy.Jwt.Core@8.0.3.1
+- pkg:nuget/Easy.Jwt.Core@8.0.3.10
 - pkg:nuget/Easy.Jwt.Core@8.0.3.2
 - pkg:nuget/Easy.Jwt.Core@8.0.3.3
 - pkg:nuget/Easy.Jwt.Core@8.0.3.4

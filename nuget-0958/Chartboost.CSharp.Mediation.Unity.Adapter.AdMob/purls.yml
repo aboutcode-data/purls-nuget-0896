@@ -16,3 +16,5 @@
 - pkg:nuget/Chartboost.CSharp.Mediation.Unity.Adapter.AdMob@5.2.8
 - pkg:nuget/Chartboost.CSharp.Mediation.Unity.Adapter.AdMob@5.2.9
 - pkg:nuget/Chartboost.CSharp.Mediation.Unity.Adapter.AdMob@5.3.0
+- pkg:nuget/Chartboost.CSharp.Mediation.Unity.Adapter.AdMob@5.4.1
+- pkg:nuget/Chartboost.CSharp.Mediation.Unity.Adapter.AdMob@5.4.2

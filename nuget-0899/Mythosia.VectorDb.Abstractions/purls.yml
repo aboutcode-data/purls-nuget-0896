@@ -3,3 +3,4 @@
 - pkg:nuget/Mythosia.VectorDb.Abstractions@2.4.0
 - pkg:nuget/Mythosia.VectorDb.Abstractions@3.0.0
 - pkg:nuget/Mythosia.VectorDb.Abstractions@3.0.1
+- pkg:nuget/Mythosia.VectorDb.Abstractions@4.0.0

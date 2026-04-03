@@ -1,1 +1,2 @@
+- pkg:nuget/Diamond.Core.AspNetCore.Hosting@10.1.1
 - pkg:nuget/Diamond.Core.AspNetCore.Hosting@9.1.0

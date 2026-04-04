@@ -1043,4 +1043,5 @@
 - pkg:nuget/AWSSDK.Outposts@4.0.4.19
 - pkg:nuget/AWSSDK.Outposts@4.0.4.20
 - pkg:nuget/AWSSDK.Outposts@4.0.4.21
+- pkg:nuget/AWSSDK.Outposts@4.0.4.22
 - pkg:nuget/AWSSDK.Outposts@4.0.4.9

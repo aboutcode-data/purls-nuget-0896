@@ -3,3 +3,4 @@
 - pkg:nuget/Kovecses.Result.AspNetCore@1.1.0
 - pkg:nuget/Kovecses.Result.AspNetCore@1.2.0
 - pkg:nuget/Kovecses.Result.AspNetCore@1.2.1
+- pkg:nuget/Kovecses.Result.AspNetCore@2.7.0

@@ -33,3 +33,5 @@
 - pkg:nuget/FastMoq.Web@3.0.0-RC2
 - pkg:nuget/FastMoq.Web@3.0.0-RC3
 - pkg:nuget/FastMoq.Web@3.0.1-rc1
+- pkg:nuget/FastMoq.Web@4.0.1
+- pkg:nuget/FastMoq.Web@4.0.2

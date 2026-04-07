@@ -42,3 +42,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa@22.0.7008
 - pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa@22.0.7066
 - pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa@22.0.7198
+- pkg:nuget/Beckhoff.TwinCAT.HMI.OpcUa@22.0.7916

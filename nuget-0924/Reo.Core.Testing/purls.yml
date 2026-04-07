@@ -10,6 +10,7 @@
 - pkg:nuget/Reo.Core.Testing@10.0.84
 - pkg:nuget/Reo.Core.Testing@10.0.85
 - pkg:nuget/Reo.Core.Testing@10.0.9
+- pkg:nuget/Reo.Core.Testing@10.0.90
 - pkg:nuget/Reo.Core.Testing@3.1.10144
 - pkg:nuget/Reo.Core.Testing@3.1.10200
 - pkg:nuget/Reo.Core.Testing@3.1.10226

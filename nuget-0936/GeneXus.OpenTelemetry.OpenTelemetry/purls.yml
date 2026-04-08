@@ -109,4 +109,5 @@
 - pkg:nuget/GeneXus.OpenTelemetry.OpenTelemetry@1.34.9
 - pkg:nuget/GeneXus.OpenTelemetry.OpenTelemetry@1.35.15
 - pkg:nuget/GeneXus.OpenTelemetry.OpenTelemetry@1.35.3
+- pkg:nuget/GeneXus.OpenTelemetry.OpenTelemetry@1.36.2
 - pkg:nuget/GeneXus.OpenTelemetry.OpenTelemetry@1.37.2

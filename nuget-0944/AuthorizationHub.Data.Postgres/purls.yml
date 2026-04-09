@@ -4,4 +4,5 @@
 - pkg:nuget/AuthorizationHub.Data.Postgres@1.0.0-alpha.28
 - pkg:nuget/AuthorizationHub.Data.Postgres@1.0.0-alpha.29
 - pkg:nuget/AuthorizationHub.Data.Postgres@1.0.1
+- pkg:nuget/AuthorizationHub.Data.Postgres@1.0.15
 - pkg:nuget/AuthorizationHub.Data.Postgres@1.0.2

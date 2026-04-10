@@ -58,6 +58,7 @@
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.212
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.213
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.214
+- pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.219
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.81
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.82
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@4.0.96

@@ -1189,6 +1189,8 @@
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.11
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.12
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.13
+- pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.14
+- pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.15
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.16
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.17
 - pkg:nuget/StrawberryShake.Transport.Http@16.0.0-rc.1.18

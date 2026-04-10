@@ -30,6 +30,8 @@
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.285
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.286
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.287
+- pkg:nuget/Beep.DAL.Core@1.1.0-build.317
+- pkg:nuget/Beep.DAL.Core@1.1.0-build.318
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.56
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.76
 - pkg:nuget/Beep.DAL.Core@1.1.0-build.77

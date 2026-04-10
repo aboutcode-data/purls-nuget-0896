@@ -119,6 +119,7 @@
 - pkg:nuget/GameFrameX.NetWork@1.5.1-dev6
 - pkg:nuget/GameFrameX.NetWork@1.5.1-dev7
 - pkg:nuget/GameFrameX.NetWork@1.5.1-dev9
+- pkg:nuget/GameFrameX.NetWork@1.6.1
 - pkg:nuget/GameFrameX.NetWork@2.0.0-dev1
 - pkg:nuget/GameFrameX.NetWork@2.0.0-dev2
 - pkg:nuget/GameFrameX.NetWork@2.0.0-dev3

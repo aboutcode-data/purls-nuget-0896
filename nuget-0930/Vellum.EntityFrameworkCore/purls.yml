@@ -1,0 +1,5 @@
+- pkg:nuget/Vellum.EntityFrameworkCore@0.0.1-reserved
+- pkg:nuget/Vellum.EntityFrameworkCore@0.1.0-preview.1
+- pkg:nuget/Vellum.EntityFrameworkCore@0.1.0-preview.2
+- pkg:nuget/Vellum.EntityFrameworkCore@0.1.0-preview.3
+- pkg:nuget/Vellum.EntityFrameworkCore@0.1.0-preview.4

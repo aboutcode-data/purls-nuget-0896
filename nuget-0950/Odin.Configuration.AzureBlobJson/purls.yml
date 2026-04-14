@@ -16,3 +16,4 @@
 - pkg:nuget/Odin.Configuration.AzureBlobJson@0.2.1
 - pkg:nuget/Odin.Configuration.AzureBlobJson@0.2.10
 - pkg:nuget/Odin.Configuration.AzureBlobJson@0.9.1
+- pkg:nuget/Odin.Configuration.AzureBlobJson@0.9.53

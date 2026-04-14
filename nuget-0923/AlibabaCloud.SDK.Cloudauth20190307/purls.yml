@@ -32,6 +32,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@2.9.0
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.0.0
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.1.0
+- pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.13.2
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.2.0
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.2.1
 - pkg:nuget/AlibabaCloud.SDK.Cloudauth20190307@3.3.0

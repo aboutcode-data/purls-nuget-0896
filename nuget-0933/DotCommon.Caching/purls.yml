@@ -83,3 +83,4 @@
 - pkg:nuget/DotCommon.Caching@7.1.2
 - pkg:nuget/DotCommon.Caching@7.1.3
 - pkg:nuget/DotCommon.Caching@7.1.4
+- pkg:nuget/DotCommon.Caching@8.0.3

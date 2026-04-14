@@ -25,6 +25,7 @@
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.13
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.14
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.15
+- pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.174
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.2
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.3
 - pkg:nuget/CosmosDB.InMemoryEmulator.ProductionExtensions@2.0.36

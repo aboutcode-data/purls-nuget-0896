@@ -66,6 +66,7 @@
 - pkg:nuget/CCSWE.nanoFramework.Hosting@0.2.9
 - pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.11
 - pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.12
+- pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.122
 - pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.17
 - pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.18
 - pkg:nuget/CCSWE.nanoFramework.Hosting@1.1.19

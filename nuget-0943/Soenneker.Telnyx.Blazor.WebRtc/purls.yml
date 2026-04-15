@@ -171,3 +171,6 @@
 - pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.430
 - pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.431
 - pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.437
+- pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.442
+- pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.443
+- pkg:nuget/Soenneker.Telnyx.Blazor.WebRtc@4.0.444

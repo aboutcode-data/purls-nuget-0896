@@ -27,5 +27,6 @@
 - pkg:nuget/Profix.Api.Connector@25.6.4
 - pkg:nuget/Profix.Api.Connector@25.6.5
 - pkg:nuget/Profix.Api.Connector@25.7.1
+- pkg:nuget/Profix.Api.Connector@26.4.16
 - pkg:nuget/Profix.Api.Connector@26.4.2
 - pkg:nuget/Profix.Api.Connector@26.4.3

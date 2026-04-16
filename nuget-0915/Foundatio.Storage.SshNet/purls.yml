@@ -27,6 +27,7 @@
 - pkg:nuget/Foundatio.Storage.SshNet@11.0.8
 - pkg:nuget/Foundatio.Storage.SshNet@11.1.0
 - pkg:nuget/Foundatio.Storage.SshNet@12.0.0
+- pkg:nuget/Foundatio.Storage.SshNet@13.0.0-beta6
 - pkg:nuget/Foundatio.Storage.SshNet@7.0.12
 - pkg:nuget/Foundatio.Storage.SshNet@7.0.14
 - pkg:nuget/Foundatio.Storage.SshNet@8.0.25

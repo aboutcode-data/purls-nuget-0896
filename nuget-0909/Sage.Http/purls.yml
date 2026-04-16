@@ -8,4 +8,5 @@
 - pkg:nuget/Sage.Http@1.0.1.15
 - pkg:nuget/Sage.Http@1.0.1.16
 - pkg:nuget/Sage.Http@1.0.1.19
+- pkg:nuget/Sage.Http@2.0.0.12
 - pkg:nuget/Sage.Http@2.0.0.9

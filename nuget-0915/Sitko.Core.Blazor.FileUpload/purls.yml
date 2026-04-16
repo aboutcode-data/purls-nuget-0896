@@ -167,6 +167,7 @@
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@11.76.0
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@11.8.0
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@11.8.1
+- pkg:nuget/Sitko.Core.Blazor.FileUpload@11.83.0
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@11.9.0
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@7.13.0
 - pkg:nuget/Sitko.Core.Blazor.FileUpload@7.13.1

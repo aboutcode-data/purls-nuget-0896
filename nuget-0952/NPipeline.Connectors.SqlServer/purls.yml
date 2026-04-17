@@ -5,3 +5,4 @@
 - pkg:nuget/NPipeline.Connectors.SqlServer@0.38.0
 - pkg:nuget/NPipeline.Connectors.SqlServer@0.38.2
 - pkg:nuget/NPipeline.Connectors.SqlServer@0.40.0
+- pkg:nuget/NPipeline.Connectors.SqlServer@0.40.1

@@ -133,5 +133,7 @@
 - pkg:nuget/Vespertan.Data@2.152.0
 - pkg:nuget/Vespertan.Data@2.153.0
 - pkg:nuget/Vespertan.Data@2.165.0
+- pkg:nuget/Vespertan.Data@2.169.0
 - pkg:nuget/Vespertan.Data@2.98.0
 - pkg:nuget/Vespertan.Data@2.99.0
+- pkg:nuget/Vespertan.Data@3.9.0

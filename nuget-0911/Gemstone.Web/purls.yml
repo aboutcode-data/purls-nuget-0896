@@ -36,6 +36,7 @@
 - pkg:nuget/Gemstone.Web@1.0.157
 - pkg:nuget/Gemstone.Web@1.0.162
 - pkg:nuget/Gemstone.Web@1.0.167
+- pkg:nuget/Gemstone.Web@1.0.171
 - pkg:nuget/Gemstone.Web@1.0.22
 - pkg:nuget/Gemstone.Web@1.0.23
 - pkg:nuget/Gemstone.Web@1.0.24

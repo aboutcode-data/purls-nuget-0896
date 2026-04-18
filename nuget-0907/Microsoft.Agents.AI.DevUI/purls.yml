@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Agents.AI.DevUI@0.0.1-preview.260417.2
 - pkg:nuget/Microsoft.Agents.AI.DevUI@1.0.0-preview.251110.1
 - pkg:nuget/Microsoft.Agents.AI.DevUI@1.0.0-preview.260330.1
 - pkg:nuget/Microsoft.Agents.AI.DevUI@1.0.0-preview.260402.1

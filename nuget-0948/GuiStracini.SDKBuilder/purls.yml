@@ -137,6 +137,7 @@
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.18
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.186
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.189
+- pkg:nuget/GuiStracini.SDKBuilder@3.1.197
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.21
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.24
 - pkg:nuget/GuiStracini.SDKBuilder@3.1.28

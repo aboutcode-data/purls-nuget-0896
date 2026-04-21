@@ -9,6 +9,7 @@
 - pkg:nuget/Usa.Smart.Windows.Extensions@2.16.1
 - pkg:nuget/Usa.Smart.Windows.Extensions@2.16.2
 - pkg:nuget/Usa.Smart.Windows.Extensions@2.17.3
+- pkg:nuget/Usa.Smart.Windows.Extensions@2.17.4
 - pkg:nuget/Usa.Smart.Windows.Extensions@3.0.0-beta1
 - pkg:nuget/Usa.Smart.Windows.Extensions@3.0.0-beta10
 - pkg:nuget/Usa.Smart.Windows.Extensions@3.0.0-beta11

@@ -4,4 +4,9 @@
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.0.167-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.0.173-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.0.174-beta
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.10.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.11.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.13.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.14.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.15.0
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.4.1

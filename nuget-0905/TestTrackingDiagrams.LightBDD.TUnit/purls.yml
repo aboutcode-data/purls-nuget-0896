@@ -11,4 +11,9 @@
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.0.173-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.0.174-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.0.96-beta
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.10.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.11.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.13.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.14.0
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.15.0
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.4.1

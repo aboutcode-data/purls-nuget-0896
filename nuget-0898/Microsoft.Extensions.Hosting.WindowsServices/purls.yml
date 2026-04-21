@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@10.0.1
+- pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@10.0.7
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@3.0.0
 - pkg:nuget/Microsoft.Extensions.Hosting.WindowsServices@3.0.0-preview3.19153.1

@@ -9,6 +9,7 @@
 - pkg:nuget/ChemicalsBase@1.0.7
 - pkg:nuget/ChemicalsBase@1.0.8
 - pkg:nuget/ChemicalsBase@1.0.9
+- pkg:nuget/ChemicalsBase@10.0.5
 - pkg:nuget/ChemicalsBase@7.0.0
 - pkg:nuget/ChemicalsBase@7.0.1
 - pkg:nuget/ChemicalsBase@7.0.2

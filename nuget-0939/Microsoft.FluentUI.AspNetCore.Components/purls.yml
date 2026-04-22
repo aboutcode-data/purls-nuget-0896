@@ -24,6 +24,7 @@
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.11.9
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.12.0
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.12.1
+- pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.14.1
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.2.0
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.2.1
 - pkg:nuget/Microsoft.FluentUI.AspNetCore.Components@4.3.0

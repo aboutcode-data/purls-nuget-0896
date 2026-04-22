@@ -192,6 +192,7 @@
 - pkg:nuget/Shesha.RestSharp@0.43.7
 - pkg:nuget/Shesha.RestSharp@0.43.8
 - pkg:nuget/Shesha.RestSharp@0.44.0
+- pkg:nuget/Shesha.RestSharp@0.45.0
 - pkg:nuget/Shesha.RestSharp@0.6.0
 - pkg:nuget/Shesha.RestSharp@0.6.1
 - pkg:nuget/Shesha.RestSharp@0.7.0

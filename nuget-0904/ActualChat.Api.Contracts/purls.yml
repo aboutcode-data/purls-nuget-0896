@@ -1104,6 +1104,7 @@
 - pkg:nuget/ActualChat.Api.Contracts@2.8.60-alpha-gfcd537ac5e
 - pkg:nuget/ActualChat.Api.Contracts@2.8.601-alpha-g0fd32bfa5e
 - pkg:nuget/ActualChat.Api.Contracts@2.8.61-alpha-g97a5955237
+- pkg:nuget/ActualChat.Api.Contracts@2.8.611-alpha-g2c1120fb83
 - pkg:nuget/ActualChat.Api.Contracts@2.8.62-alpha-g59b99d57e6
 - pkg:nuget/ActualChat.Api.Contracts@2.8.63-alpha-g18f1c42142
 - pkg:nuget/ActualChat.Api.Contracts@2.8.64-alpha-gd121165853

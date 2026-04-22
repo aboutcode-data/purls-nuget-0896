@@ -152,4 +152,5 @@
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.2
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.3
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.0-preview.4
+- pkg:nuget/Microsoft.PowerShell.Security@7.6.1
 - pkg:nuget/Microsoft.PowerShell.Security@7.6.99-rebuild.99

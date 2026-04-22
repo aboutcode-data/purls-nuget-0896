@@ -69,3 +69,4 @@
 - pkg:nuget/OpenIddict.Server.DataProtection@7.1.0
 - pkg:nuget/OpenIddict.Server.DataProtection@7.2.0
 - pkg:nuget/OpenIddict.Server.DataProtection@7.3.0
+- pkg:nuget/OpenIddict.Server.DataProtection@7.5.0

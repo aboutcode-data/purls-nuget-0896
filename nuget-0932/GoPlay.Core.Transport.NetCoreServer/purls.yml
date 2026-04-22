@@ -24,3 +24,4 @@
 - pkg:nuget/GoPlay.Core.Transport.NetCoreServer@0.2.8
 - pkg:nuget/GoPlay.Core.Transport.NetCoreServer@0.2.9
 - pkg:nuget/GoPlay.Core.Transport.NetCoreServer@0.9.0
+- pkg:nuget/GoPlay.Core.Transport.NetCoreServer@1.0.0

@@ -1,1 +1,2 @@
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.1
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.12

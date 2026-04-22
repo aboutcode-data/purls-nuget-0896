@@ -1,3 +1,4 @@
 - pkg:nuget/ExperimentFramework.Targeting@0.16.0
 - pkg:nuget/ExperimentFramework.Targeting@0.17.4
 - pkg:nuget/ExperimentFramework.Targeting@0.18.0
+- pkg:nuget/ExperimentFramework.Targeting@0.22.5

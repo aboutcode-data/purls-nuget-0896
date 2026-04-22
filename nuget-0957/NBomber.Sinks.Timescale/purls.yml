@@ -6,6 +6,7 @@
 - pkg:nuget/NBomber.Sinks.Timescale@0.10.0-beta.2
 - pkg:nuget/NBomber.Sinks.Timescale@0.11.0
 - pkg:nuget/NBomber.Sinks.Timescale@0.12.0-beta.1
+- pkg:nuget/NBomber.Sinks.Timescale@0.13.0-beta.1
 - pkg:nuget/NBomber.Sinks.Timescale@0.2.0
 - pkg:nuget/NBomber.Sinks.Timescale@0.3.0
 - pkg:nuget/NBomber.Sinks.Timescale@0.3.1

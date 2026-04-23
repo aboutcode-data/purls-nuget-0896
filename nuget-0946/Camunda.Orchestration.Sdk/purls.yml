@@ -9,3 +9,5 @@
 - pkg:nuget/Camunda.Orchestration.Sdk@8.9.0-alpha.25
 - pkg:nuget/Camunda.Orchestration.Sdk@8.9.0-alpha.26
 - pkg:nuget/Camunda.Orchestration.Sdk@8.9.0-alpha.27
+- pkg:nuget/Camunda.Orchestration.Sdk@9.0.0-alpha.4
+- pkg:nuget/Camunda.Orchestration.Sdk@9.0.0-alpha.5

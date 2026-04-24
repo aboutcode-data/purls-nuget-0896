@@ -90,6 +90,7 @@
 - pkg:nuget/Spriggit.Yaml.Starfield@0.40.0
 - pkg:nuget/Spriggit.Yaml.Starfield@0.40.0-alpha.0
 - pkg:nuget/Spriggit.Yaml.Starfield@0.40.0-alpha.6
+- pkg:nuget/Spriggit.Yaml.Starfield@0.40.1
 - pkg:nuget/Spriggit.Yaml.Starfield@0.5.0
 - pkg:nuget/Spriggit.Yaml.Starfield@0.5.0.1-nightly-20230918-094856
 - pkg:nuget/Spriggit.Yaml.Starfield@0.5.0.1-nightly-20230929-094842

@@ -774,6 +774,7 @@
 - pkg:nuget/AWSSDK.Proton@3.7.502.63
 - pkg:nuget/AWSSDK.Proton@3.7.502.64
 - pkg:nuget/AWSSDK.Proton@3.7.502.65
+- pkg:nuget/AWSSDK.Proton@3.7.502.66
 - pkg:nuget/AWSSDK.Proton@4.0.0
 - pkg:nuget/AWSSDK.Proton@4.0.0-preview
 - pkg:nuget/AWSSDK.Proton@4.0.0-preview.10

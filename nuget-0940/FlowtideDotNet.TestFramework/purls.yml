@@ -18,3 +18,4 @@
 - pkg:nuget/FlowtideDotNet.TestFramework@0.15.0-alpha12
 - pkg:nuget/FlowtideDotNet.TestFramework@0.15.0-alpha13
 - pkg:nuget/FlowtideDotNet.TestFramework@0.15.0-alpha2
+- pkg:nuget/FlowtideDotNet.TestFramework@0.15.1-alpha2

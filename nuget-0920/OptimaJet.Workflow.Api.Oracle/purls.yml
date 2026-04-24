@@ -16,3 +16,4 @@
 - pkg:nuget/OptimaJet.Workflow.Api.Oracle@20.0.0
 - pkg:nuget/OptimaJet.Workflow.Api.Oracle@20.0.7
 - pkg:nuget/OptimaJet.Workflow.Api.Oracle@20.0.8
+- pkg:nuget/OptimaJet.Workflow.Api.Oracle@21.0.0

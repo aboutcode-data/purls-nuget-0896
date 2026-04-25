@@ -100,3 +100,5 @@
 - pkg:nuget/Costura.Fody@6.0.0-alpha0384
 - pkg:nuget/Costura.Fody@6.0.0-beta0000
 - pkg:nuget/Costura.Fody@6.0.0-beta0002
+- pkg:nuget/Costura.Fody@6.1.0-alpha0182
+- pkg:nuget/Costura.Fody@6.1.0-beta0000

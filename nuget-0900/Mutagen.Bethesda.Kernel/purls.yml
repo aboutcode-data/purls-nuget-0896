@@ -584,6 +584,7 @@
 - pkg:nuget/Mutagen.Bethesda.Kernel@0.54.0-alpha.30
 - pkg:nuget/Mutagen.Bethesda.Kernel@0.54.0-alpha.45
 - pkg:nuget/Mutagen.Bethesda.Kernel@0.54.0-alpha.8
+- pkg:nuget/Mutagen.Bethesda.Kernel@0.54.0-alpha.83
 - pkg:nuget/Mutagen.Bethesda.Kernel@2.8.1-prerelease001
 - pkg:nuget/Mutagen.Bethesda.Kernel@2.8.1-prerelease002
 - pkg:nuget/Mutagen.Bethesda.Kernel@23.4.0

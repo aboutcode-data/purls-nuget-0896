@@ -12,4 +12,6 @@
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.19.0
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.20.0
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.22.19
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.22.27
+- pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.22.28
 - pkg:nuget/TestTrackingDiagrams.LightBDD.Core@2.4.1

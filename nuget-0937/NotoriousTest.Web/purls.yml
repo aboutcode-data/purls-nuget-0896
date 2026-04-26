@@ -1,2 +1,4 @@
 - pkg:nuget/NotoriousTest.Web@4.0.0-beta.65
 - pkg:nuget/NotoriousTest.Web@4.0.1-beta.118
+- pkg:nuget/NotoriousTest.Web@5.0.0-beta.155
+- pkg:nuget/NotoriousTest.Web@5.0.0-beta.157

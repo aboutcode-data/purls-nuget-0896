@@ -1,1 +1,3 @@
 - pkg:nuget/NotoriousTest.Core@4.0.1-beta.118
+- pkg:nuget/NotoriousTest.Core@5.0.0-beta.155
+- pkg:nuget/NotoriousTest.Core@5.0.0-beta.157

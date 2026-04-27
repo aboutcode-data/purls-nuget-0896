@@ -5,3 +5,4 @@
 - pkg:nuget/Paramore.Brighter.MongoDb@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.MongoDb@10.0.1
 - pkg:nuget/Paramore.Brighter.MongoDb@10.0.2
+- pkg:nuget/Paramore.Brighter.MongoDb@10.4.1

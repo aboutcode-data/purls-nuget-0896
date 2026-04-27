@@ -818,4 +818,6 @@
 - pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.105
 - pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.108
 - pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.109
+- pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.120
 - pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.126
+- pkg:nuget/MassTransit.Azure.Cosmos@9.2.0-develop.129

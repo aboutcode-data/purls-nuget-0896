@@ -1,4 +1,5 @@
 - pkg:nuget/EvoPdf.Next.Core.Windows@14.0.0
+- pkg:nuget/EvoPdf.Next.Core.Windows@14.0.18
 - pkg:nuget/EvoPdf.Next.Core.Windows@14.0.4
 - pkg:nuget/EvoPdf.Next.Core.Windows@14.0.6
 - pkg:nuget/EvoPdf.Next.Core.Windows@14.0.8

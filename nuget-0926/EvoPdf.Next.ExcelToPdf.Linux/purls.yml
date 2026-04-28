@@ -1,1 +1,3 @@
+- pkg:nuget/EvoPdf.Next.ExcelToPdf.Linux@14.0.18
 - pkg:nuget/EvoPdf.Next.ExcelToPdf.Linux@14.0.8
+- pkg:nuget/EvoPdf.Next.ExcelToPdf.Linux@14.2.0

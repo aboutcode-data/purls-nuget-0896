@@ -1,0 +1,2 @@
+- pkg:nuget/Odex.AspNetCore.Caching.Redis@0.1.1
+- pkg:nuget/Odex.AspNetCore.Caching.Redis@0.1.2

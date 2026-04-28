@@ -22,6 +22,8 @@
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@0.12.60
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@0.12.61
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@0.12.75
+- pkg:nuget/CDCD.Paylink.BaoFooTransfer@0.12.80
+- pkg:nuget/CDCD.Paylink.BaoFooTransfer@0.12.81
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@2.0.0
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@2.0.1
 - pkg:nuget/CDCD.Paylink.BaoFooTransfer@8.0.0

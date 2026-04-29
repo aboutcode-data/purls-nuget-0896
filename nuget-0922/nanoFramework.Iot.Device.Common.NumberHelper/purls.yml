@@ -28,3 +28,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Common.NumberHelper@1.2.82
 - pkg:nuget/nanoFramework.Iot.Device.Common.NumberHelper@1.2.848
 - pkg:nuget/nanoFramework.Iot.Device.Common.NumberHelper@1.2.862
+- pkg:nuget/nanoFramework.Iot.Device.Common.NumberHelper@2.0.0-preview.42

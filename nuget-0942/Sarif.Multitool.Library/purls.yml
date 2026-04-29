@@ -54,3 +54,4 @@
 - pkg:nuget/Sarif.Multitool.Library@4.5.2
 - pkg:nuget/Sarif.Multitool.Library@4.5.3
 - pkg:nuget/Sarif.Multitool.Library@4.5.4
+- pkg:nuget/Sarif.Multitool.Library@4.6.3

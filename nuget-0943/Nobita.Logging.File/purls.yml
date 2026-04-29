@@ -21,3 +21,4 @@
 - pkg:nuget/Nobita.Logging.File@2.0.0-rc-2
 - pkg:nuget/Nobita.Logging.File@2.0.1
 - pkg:nuget/Nobita.Logging.File@2.0.1-rc-1
+- pkg:nuget/Nobita.Logging.File@3.2.0

@@ -43,3 +43,4 @@
 - pkg:nuget/SoloX.CodeQuality.Prod@2.3.4
 - pkg:nuget/SoloX.CodeQuality.Prod@2.3.5
 - pkg:nuget/SoloX.CodeQuality.Prod@2.3.6
+- pkg:nuget/SoloX.CodeQuality.Prod@3.0.1-preview.1

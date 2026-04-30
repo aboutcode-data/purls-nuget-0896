@@ -80,6 +80,7 @@
 - pkg:nuget/APF.Core.Common@8.0.0.5-Beta-06
 - pkg:nuget/APF.Core.Common@8.0.0.5-Beta-07
 - pkg:nuget/APF.Core.Common@8.0.0.5-Beta-08
+- pkg:nuget/APF.Core.Common@8.0.0.50
 - pkg:nuget/APF.Core.Common@8.0.0.6
 - pkg:nuget/APF.Core.Common@8.0.0.7
 - pkg:nuget/APF.Core.Common@8.0.0.8

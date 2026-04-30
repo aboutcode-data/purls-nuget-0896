@@ -94,6 +94,7 @@
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.16.1-dev.5
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.16.1-dev.9
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.17.0
+- pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.17.1
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.17.1-dev.10
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.17.1-dev.11
 - pkg:nuget/LangChain.DocumentLoaders.Abstractions@0.17.1-dev.12

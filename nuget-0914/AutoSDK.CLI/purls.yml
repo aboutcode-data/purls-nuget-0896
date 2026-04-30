@@ -161,6 +161,7 @@
 - pkg:nuget/AutoSDK.CLI@0.29.1-dev.13
 - pkg:nuget/AutoSDK.CLI@0.29.1-dev.24
 - pkg:nuget/AutoSDK.CLI@0.29.1-dev.25
+- pkg:nuget/AutoSDK.CLI@0.30.1
 - pkg:nuget/AutoSDK.CLI@0.30.1-dev.119
 - pkg:nuget/AutoSDK.CLI@0.30.1-dev.120
 - pkg:nuget/AutoSDK.CLI@0.30.1-dev.121

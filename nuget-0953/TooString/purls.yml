@@ -7,4 +7,5 @@
 - pkg:nuget/TooString@0.6.0
 - pkg:nuget/TooString@0.7.0-preview
 - pkg:nuget/TooString@0.8.1-preview
+- pkg:nuget/TooString@0.8.10-preview
 - pkg:nuget/TooString@0.8.2-preview

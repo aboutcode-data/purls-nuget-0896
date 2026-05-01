@@ -203,3 +203,4 @@
 - pkg:nuget/Pek.AspNetCore@4.17.2026.130-beta1206
 - pkg:nuget/Pek.AspNetCore@4.18.2026.305-beta0952
 - pkg:nuget/Pek.AspNetCore@4.22.2026.412-beta1153
+- pkg:nuget/Pek.AspNetCore@4.22.2026.501-beta1705

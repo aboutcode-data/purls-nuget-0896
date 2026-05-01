@@ -154,6 +154,7 @@
 - pkg:nuget/nanoclr@1.1.141
 - pkg:nuget/nanoclr@1.1.167
 - pkg:nuget/nanoclr@1.1.169
+- pkg:nuget/nanoclr@1.1.196
 - pkg:nuget/nanoclr@1.1.61
 - pkg:nuget/nanoclr@1.1.63
 - pkg:nuget/nanoclr@1.1.66

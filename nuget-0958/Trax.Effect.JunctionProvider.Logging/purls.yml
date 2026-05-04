@@ -5,3 +5,4 @@
 - pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.28.2
 - pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.29.0
 - pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.30.0
+- pkg:nuget/Trax.Effect.JunctionProvider.Logging@1.33.0

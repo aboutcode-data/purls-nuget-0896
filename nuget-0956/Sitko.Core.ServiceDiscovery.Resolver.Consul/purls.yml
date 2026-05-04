@@ -69,3 +69,4 @@
 - pkg:nuget/Sitko.Core.ServiceDiscovery.Resolver.Consul@11.74.0
 - pkg:nuget/Sitko.Core.ServiceDiscovery.Resolver.Consul@11.75.0
 - pkg:nuget/Sitko.Core.ServiceDiscovery.Resolver.Consul@11.76.0
+- pkg:nuget/Sitko.Core.ServiceDiscovery.Resolver.Consul@11.85.0

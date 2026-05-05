@@ -1,2 +1,3 @@
 - pkg:nuget/DataLinq.Spark@1.0.0
 - pkg:nuget/DataLinq.Spark@1.1.0
+- pkg:nuget/DataLinq.Spark@1.3.0

@@ -10,3 +10,4 @@
 - pkg:nuget/LupusBytes.Aspire.Hosting.Azure.EventHubs.LiveExplorer@1.4.1
 - pkg:nuget/LupusBytes.Aspire.Hosting.Azure.EventHubs.LiveExplorer@1.4.2
 - pkg:nuget/LupusBytes.Aspire.Hosting.Azure.EventHubs.LiveExplorer@1.4.3
+- pkg:nuget/LupusBytes.Aspire.Hosting.Azure.EventHubs.LiveExplorer@2.1.2

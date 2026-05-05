@@ -60,3 +60,6 @@
 - pkg:nuget/Mook.Admin.Core@1.7.3
 - pkg:nuget/Mook.Admin.Core@1.7.4
 - pkg:nuget/Mook.Admin.Core@1.7.7
+- pkg:nuget/Mook.Admin.Core@1.7.8
+- pkg:nuget/Mook.Admin.Core@1.8.0
+- pkg:nuget/Mook.Admin.Core@1.8.1

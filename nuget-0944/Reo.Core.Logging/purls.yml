@@ -5,6 +5,7 @@
 - pkg:nuget/Reo.Core.Logging@1.0.311
 - pkg:nuget/Reo.Core.Logging@1.0.76
 - pkg:nuget/Reo.Core.Logging@10.0.105
+- pkg:nuget/Reo.Core.Logging@10.0.127
 - pkg:nuget/Reo.Core.Logging@10.0.14
 - pkg:nuget/Reo.Core.Logging@10.0.28
 - pkg:nuget/Reo.Core.Logging@10.0.33

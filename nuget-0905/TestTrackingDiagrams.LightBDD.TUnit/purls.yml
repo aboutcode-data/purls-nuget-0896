@@ -36,4 +36,5 @@
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.28.34
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.28.40
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.28.45
+- pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.29.7-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.TUnit@2.4.1

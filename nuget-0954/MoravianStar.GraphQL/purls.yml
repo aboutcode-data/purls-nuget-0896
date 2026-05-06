@@ -44,6 +44,7 @@
 - pkg:nuget/MoravianStar.GraphQL@1.38.0
 - pkg:nuget/MoravianStar.GraphQL@1.4.0
 - pkg:nuget/MoravianStar.GraphQL@1.5.0
+- pkg:nuget/MoravianStar.GraphQL@1.55.0-preview.1
 - pkg:nuget/MoravianStar.GraphQL@1.6.0
 - pkg:nuget/MoravianStar.GraphQL@1.7.0
 - pkg:nuget/MoravianStar.GraphQL@1.7.0-preview.1

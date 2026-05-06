@@ -1,4 +1,5 @@
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@10.0.127
+- pkg:nuget/Reo.Core.Builder.CodeGeneration@10.0.129
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@10.0.28
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@10.0.33
 - pkg:nuget/Reo.Core.Builder.CodeGeneration@10.0.36

@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1002.2
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1002.4
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0-alpha.2495-vcst-4729-terms-sorting
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0-alpha.2496-vcst-4729-terms-sorting

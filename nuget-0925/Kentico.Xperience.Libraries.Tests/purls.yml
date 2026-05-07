@@ -111,6 +111,7 @@
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.20
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.204
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.206
+- pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.207
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.21
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.22
 - pkg:nuget/Kentico.Xperience.Libraries.Tests@13.0.23

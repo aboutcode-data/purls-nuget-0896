@@ -1,3 +1,4 @@
 - pkg:nuget/MaxRev.Gdal.CLI.win-x64@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.CLI.win-x64@3.12.2.494
 - pkg:nuget/MaxRev.Gdal.CLI.win-x64@3.12.3.496
+- pkg:nuget/MaxRev.Gdal.CLI.win-x64@3.13.0.527

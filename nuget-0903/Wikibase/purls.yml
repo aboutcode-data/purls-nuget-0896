@@ -33,6 +33,7 @@
 - pkg:nuget/Wikibase@0.37.0
 - pkg:nuget/Wikibase@0.38.0
 - pkg:nuget/Wikibase@0.4.0
+- pkg:nuget/Wikibase@0.41.0
 - pkg:nuget/Wikibase@0.5.0
 - pkg:nuget/Wikibase@0.6.0
 - pkg:nuget/Wikibase@0.7.0

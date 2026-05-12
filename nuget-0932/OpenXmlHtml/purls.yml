@@ -1,3 +1,4 @@
 - pkg:nuget/OpenXmlHtml@0.1.0
 - pkg:nuget/OpenXmlHtml@0.4.0
 - pkg:nuget/OpenXmlHtml@0.5.0
+- pkg:nuget/OpenXmlHtml@0.7.5

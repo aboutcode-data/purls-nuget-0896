@@ -13,3 +13,4 @@
 - pkg:nuget/dotnet-busly@0.54.0
 - pkg:nuget/dotnet-busly@0.59.0
 - pkg:nuget/dotnet-busly@0.60.0
+- pkg:nuget/dotnet-busly@0.64.0

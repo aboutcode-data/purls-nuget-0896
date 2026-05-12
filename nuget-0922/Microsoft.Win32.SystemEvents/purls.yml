@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.Win32.SystemEvents@10.0.1
 - pkg:nuget/Microsoft.Win32.SystemEvents@10.0.7
 - pkg:nuget/Microsoft.Win32.SystemEvents@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.Win32.SystemEvents@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Win32.SystemEvents@4.5.0
 - pkg:nuget/Microsoft.Win32.SystemEvents@4.5.0-preview2-26406-04
 - pkg:nuget/Microsoft.Win32.SystemEvents@4.5.0-rc1

@@ -59,3 +59,4 @@
 - pkg:nuget/ThirdCoastCoding.Tools.Core.Generation@3.2.9
 - pkg:nuget/ThirdCoastCoding.Tools.Core.Generation@4.0.1
 - pkg:nuget/ThirdCoastCoding.Tools.Core.Generation@4.0.2
+- pkg:nuget/ThirdCoastCoding.Tools.Core.Generation@4.0.4

@@ -33,5 +33,7 @@
 - pkg:nuget/DotnetDeployer@1.0.14
 - pkg:nuget/DotnetDeployer@1.0.38
 - pkg:nuget/DotnetDeployer@1.0.47
+- pkg:nuget/DotnetDeployer@1.0.51
+- pkg:nuget/DotnetDeployer@1.0.52
 - pkg:nuget/DotnetDeployer@1.0.8
 - pkg:nuget/DotnetDeployer@1.0.9

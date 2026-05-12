@@ -1,4 +1,5 @@
 - pkg:nuget/TickerQ.Dashboard@10.0.1
+- pkg:nuget/TickerQ.Dashboard@10.4.0
 - pkg:nuget/TickerQ.Dashboard@2.0.0
 - pkg:nuget/TickerQ.Dashboard@2.0.1
 - pkg:nuget/TickerQ.Dashboard@2.1.0

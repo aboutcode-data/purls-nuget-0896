@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@10.0.1
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@10.0.7
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@3.0.0
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@3.0.0-preview7-27912-14
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@3.0.0-preview8-28405-07
@@ -195,6 +196,7 @@
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.0-rc.2.24474.4
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.1
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.10
+- pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.16
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.2
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.3
 - pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x86@9.0.4

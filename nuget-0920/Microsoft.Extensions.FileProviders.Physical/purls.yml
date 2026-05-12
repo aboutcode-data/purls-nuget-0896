@@ -16,6 +16,7 @@
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@10.0.1
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@10.0.7
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.Extensions.FileProviders.Physical@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@2.0.0
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@2.0.0-preview1-final
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@2.0.0-preview2-final
@@ -135,6 +136,7 @@
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.1
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.10
+- pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.16
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.2
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.3
 - pkg:nuget/Microsoft.Extensions.FileProviders.Physical@9.0.4

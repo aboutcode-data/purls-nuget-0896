@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@10.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@10.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@10.0.7
+- pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@10.0.8
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@2.2.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@2.2.0-preview2-35157
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@2.2.0-preview3-35497
@@ -213,6 +214,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.10
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.12
+- pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.16
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite@9.0.4

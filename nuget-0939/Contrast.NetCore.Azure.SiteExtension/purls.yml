@@ -176,3 +176,4 @@
 - pkg:nuget/Contrast.NetCore.Azure.SiteExtension@4.4.5
 - pkg:nuget/Contrast.NetCore.Azure.SiteExtension@4.5.0
 - pkg:nuget/Contrast.NetCore.Azure.SiteExtension@4.5.1
+- pkg:nuget/Contrast.NetCore.Azure.SiteExtension@5.0.8

@@ -904,3 +904,5 @@
 - pkg:nuget/Catel.Core@6.1.3
 - pkg:nuget/Catel.Core@6.1.3-beta0002
 - pkg:nuget/Catel.Core@6.1.4
+- pkg:nuget/Catel.Core@7.0.0-alpha0322
+- pkg:nuget/Catel.Core@7.0.0-alpha0323

@@ -9,6 +9,7 @@
 - pkg:nuget/System.Threading.Tasks.Dataflow@10.0.1
 - pkg:nuget/System.Threading.Tasks.Dataflow@10.0.7
 - pkg:nuget/System.Threading.Tasks.Dataflow@11.0.0-preview.1.26104.118
+- pkg:nuget/System.Threading.Tasks.Dataflow@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Threading.Tasks.Dataflow@4.10.0
 - pkg:nuget/System.Threading.Tasks.Dataflow@4.10.0-preview.18571.3
 - pkg:nuget/System.Threading.Tasks.Dataflow@4.10.0-preview.19073.11

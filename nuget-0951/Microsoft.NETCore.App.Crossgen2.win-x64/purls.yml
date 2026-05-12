@@ -8,6 +8,8 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@10.0.7
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@10.0.8
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@5.0.0
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@5.0.0-preview.1.20120.5
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@5.0.0-preview.2.20160.6
@@ -154,6 +156,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.1
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.10
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.13
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.16
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.4

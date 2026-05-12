@@ -8,6 +8,7 @@
 - pkg:nuget/System.Data.OleDb@10.0.0-rc.1.25451.107
 - pkg:nuget/System.Data.OleDb@10.0.1
 - pkg:nuget/System.Data.OleDb@10.0.7
+- pkg:nuget/System.Data.OleDb@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Data.OleDb@4.6.0
 - pkg:nuget/System.Data.OleDb@4.6.0-preview6.19264.9
 - pkg:nuget/System.Data.OleDb@4.6.0-preview6.19303.8

@@ -9,6 +9,7 @@
 - pkg:nuget/System.Runtime.Caching@10.0.1
 - pkg:nuget/System.Runtime.Caching@10.0.7
 - pkg:nuget/System.Runtime.Caching@11.0.0-preview.1.26104.118
+- pkg:nuget/System.Runtime.Caching@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Runtime.Caching@4.5.0
 - pkg:nuget/System.Runtime.Caching@4.5.0-preview1-25914-04
 - pkg:nuget/System.Runtime.Caching@4.5.0-preview1-26216-02

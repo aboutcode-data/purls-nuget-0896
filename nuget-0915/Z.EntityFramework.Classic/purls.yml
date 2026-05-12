@@ -165,6 +165,7 @@
 - pkg:nuget/Z.EntityFramework.Classic@7.2.31
 - pkg:nuget/Z.EntityFramework.Classic@7.2.32
 - pkg:nuget/Z.EntityFramework.Classic@7.2.4
+- pkg:nuget/Z.EntityFramework.Classic@7.2.40
 - pkg:nuget/Z.EntityFramework.Classic@7.2.5
 - pkg:nuget/Z.EntityFramework.Classic@7.2.6
 - pkg:nuget/Z.EntityFramework.Classic@7.2.7

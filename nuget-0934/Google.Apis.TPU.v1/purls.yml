@@ -93,3 +93,4 @@
 - pkg:nuget/Google.Apis.TPU.v1@1.69.0.3731
 - pkg:nuget/Google.Apis.TPU.v1@1.70.0.3879
 - pkg:nuget/Google.Apis.TPU.v1@1.70.0.3898
+- pkg:nuget/Google.Apis.TPU.v1@1.74.0.4044

@@ -63,3 +63,4 @@
 - pkg:nuget/Google.Apis.PostmasterTools.v1beta1@1.67.0.3171
 - pkg:nuget/Google.Apis.PostmasterTools.v1beta1@1.68.0.3171
 - pkg:nuget/Google.Apis.PostmasterTools.v1beta1@1.69.0.3736
+- pkg:nuget/Google.Apis.PostmasterTools.v1beta1@1.74.0.3736

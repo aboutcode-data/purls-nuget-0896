@@ -1,2 +1,3 @@
 - pkg:nuget/Vion.Dale.Sdk.Modbus.Core@0.2.0-preview.2
 - pkg:nuget/Vion.Dale.Sdk.Modbus.Core@0.4.0
+- pkg:nuget/Vion.Dale.Sdk.Modbus.Core@0.4.3

@@ -1,3 +1,5 @@
 - pkg:nuget/Advantech.Edge@1.0.0
 - pkg:nuget/Advantech.Edge@1.0.0-alpha
 - pkg:nuget/Advantech.Edge@1.1.2
+- pkg:nuget/Advantech.Edge@1.1.3-rc1
+- pkg:nuget/Advantech.Edge@1.1.3-rc2

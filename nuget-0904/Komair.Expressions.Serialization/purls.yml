@@ -1,5 +1,6 @@
 - pkg:nuget/Komair.Expressions.Serialization@1.0.0
 - pkg:nuget/Komair.Expressions.Serialization@1.1.0
 - pkg:nuget/Komair.Expressions.Serialization@10.0.0
+- pkg:nuget/Komair.Expressions.Serialization@10.1.1
 - pkg:nuget/Komair.Expressions.Serialization@6.0.0
 - pkg:nuget/Komair.Expressions.Serialization@8.0.0

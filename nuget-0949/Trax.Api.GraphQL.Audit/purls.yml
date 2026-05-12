@@ -1,1 +1,2 @@
 - pkg:nuget/Trax.Api.GraphQL.Audit@1.22.0
+- pkg:nuget/Trax.Api.GraphQL.Audit@1.28.2

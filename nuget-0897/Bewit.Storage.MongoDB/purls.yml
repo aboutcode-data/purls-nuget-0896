@@ -28,3 +28,4 @@
 - pkg:nuget/Bewit.Storage.MongoDB@5.0.0-rc.2
 - pkg:nuget/Bewit.Storage.MongoDB@6.0.0-preview.1
 - pkg:nuget/Bewit.Storage.MongoDB@6.0.0-preview.2
+- pkg:nuget/Bewit.Storage.MongoDB@8.0.0

@@ -2,3 +2,4 @@
 - pkg:nuget/BarcodeLib.Crystal.Reports.AspNet.Mvc@7.4.0.14
 - pkg:nuget/BarcodeLib.Crystal.Reports.AspNet.Mvc@7.4.0.19
 - pkg:nuget/BarcodeLib.Crystal.Reports.AspNet.Mvc@7.4.0.21
+- pkg:nuget/BarcodeLib.Crystal.Reports.AspNet.Mvc@7.4.0.27

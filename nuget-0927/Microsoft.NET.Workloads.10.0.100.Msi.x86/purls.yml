@@ -2,3 +2,4 @@
 - pkg:nuget/Microsoft.NET.Workloads.10.0.100.Msi.x86@10.102.0
 - pkg:nuget/Microsoft.NET.Workloads.10.0.100.Msi.x86@10.105.0
 - pkg:nuget/Microsoft.NET.Workloads.10.0.100.Msi.x86@10.107.1
+- pkg:nuget/Microsoft.NET.Workloads.10.0.100.Msi.x86@10.108.1

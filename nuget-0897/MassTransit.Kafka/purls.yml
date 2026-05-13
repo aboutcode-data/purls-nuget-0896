@@ -834,6 +834,7 @@
 - pkg:nuget/MassTransit.Kafka@9.1.0-develop.98
 - pkg:nuget/MassTransit.Kafka@9.1.0-develop.99
 - pkg:nuget/MassTransit.Kafka@9.1.1-develop.114
+- pkg:nuget/MassTransit.Kafka@9.1.1-develop.139
 - pkg:nuget/MassTransit.Kafka@9.2.0-develop.105
 - pkg:nuget/MassTransit.Kafka@9.2.0-develop.108
 - pkg:nuget/MassTransit.Kafka@9.2.0-develop.109

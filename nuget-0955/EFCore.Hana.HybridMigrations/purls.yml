@@ -1,0 +1,3 @@
+- pkg:nuget/EFCore.Hana.HybridMigrations@10.0.8
+- pkg:nuget/EFCore.Hana.HybridMigrations@8.0.27
+- pkg:nuget/EFCore.Hana.HybridMigrations@9.0.16

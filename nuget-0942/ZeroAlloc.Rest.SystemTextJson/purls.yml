@@ -1,3 +1,4 @@
 - pkg:nuget/ZeroAlloc.Rest.SystemTextJson@0.1.0
 - pkg:nuget/ZeroAlloc.Rest.SystemTextJson@0.1.1
 - pkg:nuget/ZeroAlloc.Rest.SystemTextJson@0.1.2
+- pkg:nuget/ZeroAlloc.Rest.SystemTextJson@1.1.3

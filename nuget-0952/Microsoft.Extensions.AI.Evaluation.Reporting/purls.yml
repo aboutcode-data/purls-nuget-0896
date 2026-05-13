@@ -4,6 +4,7 @@
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@0.9.5-preview
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@0.9.56-preview
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@0.9.6-preview
+- pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@10.6.0
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@9.10.0
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@9.3.0-preview.1.25114.11
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting@9.3.0-preview.1.25126.9

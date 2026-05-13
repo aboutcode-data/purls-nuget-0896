@@ -27,6 +27,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@10.0.7
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@10.0.8
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@2.0.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@2.0.0-preview1-final
 - pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@2.0.0-preview2-final

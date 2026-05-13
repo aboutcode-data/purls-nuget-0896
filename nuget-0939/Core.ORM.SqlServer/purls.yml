@@ -1,1 +1,2 @@
 - pkg:nuget/Core.ORM.SqlServer@2.0.26
+- pkg:nuget/Core.ORM.SqlServer@2.0.26.1

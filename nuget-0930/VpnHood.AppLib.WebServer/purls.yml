@@ -69,3 +69,4 @@
 - pkg:nuget/VpnHood.AppLib.WebServer@7.3.760
 - pkg:nuget/VpnHood.AppLib.WebServer@7.3.761-prerelease
 - pkg:nuget/VpnHood.AppLib.WebServer@7.9.810-prerelease
+- pkg:nuget/VpnHood.AppLib.WebServer@7.9.812

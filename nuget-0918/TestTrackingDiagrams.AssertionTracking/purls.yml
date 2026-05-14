@@ -6,3 +6,5 @@
 - pkg:nuget/TestTrackingDiagrams.AssertionTracking@2.33.68
 - pkg:nuget/TestTrackingDiagrams.AssertionTracking@2.33.70
 - pkg:nuget/TestTrackingDiagrams.AssertionTracking@2.33.76
+- pkg:nuget/TestTrackingDiagrams.AssertionTracking@2.35.3
+- pkg:nuget/TestTrackingDiagrams.AssertionTracking@2.35.4

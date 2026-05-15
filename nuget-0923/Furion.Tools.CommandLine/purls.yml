@@ -754,5 +754,6 @@
 - pkg:nuget/Furion.Tools.CommandLine@4.9.8.56
 - pkg:nuget/Furion.Tools.CommandLine@4.9.8.6
 - pkg:nuget/Furion.Tools.CommandLine@4.9.8.7
+- pkg:nuget/Furion.Tools.CommandLine@4.9.8.70
 - pkg:nuget/Furion.Tools.CommandLine@4.9.8.8
 - pkg:nuget/Furion.Tools.CommandLine@4.9.8.9

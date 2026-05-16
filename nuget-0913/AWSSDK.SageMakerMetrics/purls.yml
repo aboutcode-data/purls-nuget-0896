@@ -580,3 +580,4 @@
 - pkg:nuget/AWSSDK.SageMakerMetrics@4.0.3.21
 - pkg:nuget/AWSSDK.SageMakerMetrics@4.0.3.22
 - pkg:nuget/AWSSDK.SageMakerMetrics@4.0.3.23
+- pkg:nuget/AWSSDK.SageMakerMetrics@4.0.3.31

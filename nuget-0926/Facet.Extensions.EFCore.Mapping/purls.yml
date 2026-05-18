@@ -19,3 +19,4 @@
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@6.5.1
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@6.5.2-preview.pr365.46
 - pkg:nuget/Facet.Extensions.EFCore.Mapping@6.5.5-preview.pr365.51
+- pkg:nuget/Facet.Extensions.EFCore.Mapping@6.5.5-preview.pr365.68

@@ -13,6 +13,7 @@
 - pkg:nuget/Graph.Community.SPClient@5.6.0
 - pkg:nuget/Graph.Community.SPClient@5.7.0
 - pkg:nuget/Graph.Community.SPClient@5.7.1
+- pkg:nuget/Graph.Community.SPClient@5.7.10
 - pkg:nuget/Graph.Community.SPClient@5.7.2
 - pkg:nuget/Graph.Community.SPClient@5.7.3
 - pkg:nuget/Graph.Community.SPClient@5.7.4

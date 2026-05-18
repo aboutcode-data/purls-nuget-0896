@@ -61,3 +61,4 @@
 - pkg:nuget/Diginsight.Polyfills@3.5.0.1
 - pkg:nuget/Diginsight.Polyfills@3.6.0-alpha.2
 - pkg:nuget/Diginsight.Polyfills@3.7.0
+- pkg:nuget/Diginsight.Polyfills@3.7.1.13

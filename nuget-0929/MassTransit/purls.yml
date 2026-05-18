@@ -1488,3 +1488,4 @@
 - pkg:nuget/MassTransit@9.2.0-develop.120
 - pkg:nuget/MassTransit@9.2.0-develop.126
 - pkg:nuget/MassTransit@9.2.0-develop.129
+- pkg:nuget/MassTransit@9.2.0-develop.142

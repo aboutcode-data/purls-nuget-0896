@@ -1,2 +1,4 @@
+- pkg:nuget/Healnet.Infrastructure@1.0.11
+- pkg:nuget/Healnet.Infrastructure@1.0.12
 - pkg:nuget/Healnet.Infrastructure@1.0.3
 - pkg:nuget/Healnet.Infrastructure@1.0.7

@@ -1,4 +1,5 @@
 - pkg:nuget/GenDI.SourceGenerator@2026.5.18.1231
 - pkg:nuget/GenDI.SourceGenerator@2026.5.18.894
+- pkg:nuget/GenDI.SourceGenerator@2026.5.19.867
 - pkg:nuget/GenDI.SourceGenerator@26.5.12.1224
 - pkg:nuget/GenDI.SourceGenerator@26.5.16.899

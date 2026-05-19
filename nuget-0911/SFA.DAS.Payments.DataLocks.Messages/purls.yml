@@ -11,6 +11,7 @@
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@0.2.3-prerelease-1
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@0.2.3-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@0.2.3-prerelease-4
+- pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@0.2.8-prerelease-5
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@1.0.0
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@1.0.0-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.DataLocks.Messages@1.0.0-prerelease-3

@@ -1,5 +1,6 @@
 - pkg:nuget/dotnet-heapview@1.0.0
 - pkg:nuget/dotnet-heapview@1.1.100
+- pkg:nuget/dotnet-heapview@1.1.108
 - pkg:nuget/dotnet-heapview@1.1.11-g744be212e2
 - pkg:nuget/dotnet-heapview@1.1.12-g8208fd1604
 - pkg:nuget/dotnet-heapview@1.1.13

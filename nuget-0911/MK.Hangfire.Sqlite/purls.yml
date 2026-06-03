@@ -1,3 +1,4 @@
+- pkg:nuget/MK.Hangfire.Sqlite@10.0.1.1
 - pkg:nuget/MK.Hangfire.Sqlite@7.0.0
 - pkg:nuget/MK.Hangfire.Sqlite@7.0.1
 - pkg:nuget/MK.Hangfire.Sqlite@7.0.10

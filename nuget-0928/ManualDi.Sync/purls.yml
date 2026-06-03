@@ -15,3 +15,4 @@
 - pkg:nuget/ManualDi.Sync@2.3.1
 - pkg:nuget/ManualDi.Sync@2.3.2-preview.1
 - pkg:nuget/ManualDi.Sync@2.4.2
+- pkg:nuget/ManualDi.Sync@3.1.1

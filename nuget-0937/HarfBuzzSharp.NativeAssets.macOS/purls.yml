@@ -55,3 +55,4 @@
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@8.3.1.1-preview.1.2
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@8.3.1.1-stable.1%2B3.119.0
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@8.3.1.2-preview.1
+- pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@8.3.1.6-preview.3.1

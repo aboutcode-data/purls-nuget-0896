@@ -1,5 +1,6 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1002.2
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1002.4
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1002.5
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0-alpha.2495-vcst-4729-terms-sorting
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1014.0-alpha.2496-vcst-4729-terms-sorting
@@ -7,6 +8,7 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1017.0-alpha.2497-vcst-4516
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1019.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1020.0
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1023.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.256.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.256.0-alpha.2065
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.257.0
@@ -405,4 +407,5 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.902.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.903.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.904.7
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.904.9
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.907.0

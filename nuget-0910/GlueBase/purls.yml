@@ -41,6 +41,7 @@
 - pkg:nuget/GlueBase@0.0.47
 - pkg:nuget/GlueBase@0.0.48
 - pkg:nuget/GlueBase@0.0.5
+- pkg:nuget/GlueBase@0.0.50
 - pkg:nuget/GlueBase@0.0.6
 - pkg:nuget/GlueBase@0.0.7
 - pkg:nuget/GlueBase@0.0.8

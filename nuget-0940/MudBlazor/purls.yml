@@ -202,3 +202,4 @@
 - pkg:nuget/MudBlazor@8.7.0
 - pkg:nuget/MudBlazor@8.8.0
 - pkg:nuget/MudBlazor@8.9.0
+- pkg:nuget/MudBlazor@9.5.0

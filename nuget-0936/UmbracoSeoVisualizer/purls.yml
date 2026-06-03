@@ -23,6 +23,7 @@
 - pkg:nuget/UmbracoSeoVisualizer@15.0.1
 - pkg:nuget/UmbracoSeoVisualizer@16.0.0
 - pkg:nuget/UmbracoSeoVisualizer@16.0.1
+- pkg:nuget/UmbracoSeoVisualizer@18.0.0-rc1
 - pkg:nuget/UmbracoSeoVisualizer@8.0.0
 - pkg:nuget/UmbracoSeoVisualizer@8.1.0
 - pkg:nuget/UmbracoSeoVisualizer@8.1.1

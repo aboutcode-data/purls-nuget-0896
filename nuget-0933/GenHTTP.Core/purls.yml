@@ -1,3 +1,13 @@
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.1
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.11
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.2
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.3
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.4
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.5
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.6
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.7
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.8
+- pkg:nuget/GenHTTP.Core@11.0.0-preview.9
 - pkg:nuget/GenHTTP.Core@2.0.0
 - pkg:nuget/GenHTTP.Core@2.1.0
 - pkg:nuget/GenHTTP.Core@2.1.1

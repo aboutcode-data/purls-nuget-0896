@@ -314,3 +314,5 @@
 - pkg:nuget/Org.Cdk8s.Image@0.2.742
 - pkg:nuget/Org.Cdk8s.Image@0.2.743
 - pkg:nuget/Org.Cdk8s.Image@0.2.757
+- pkg:nuget/Org.Cdk8s.Image@0.2.758
+- pkg:nuget/Org.Cdk8s.Image@0.2.760

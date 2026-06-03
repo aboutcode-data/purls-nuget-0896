@@ -436,3 +436,5 @@
 - pkg:nuget/Shinya.Orm.Abstractions@1.4.3-preview.20260420.1
 - pkg:nuget/Shinya.Orm.Abstractions@1.4.3-preview.20260501.0
 - pkg:nuget/Shinya.Orm.Abstractions@1.4.3-preview.20260512.0
+- pkg:nuget/Shinya.Orm.Abstractions@1.4.3-preview.20260521.0
+- pkg:nuget/Shinya.Orm.Abstractions@1.4.3-preview.20260527.2

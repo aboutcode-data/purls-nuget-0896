@@ -10,3 +10,4 @@
 - pkg:nuget/APF.Core3.1.API@6.0.0.1
 - pkg:nuget/APF.Core3.1.API@8.0.1
 - pkg:nuget/APF.Core3.1.API@8.0.2
+- pkg:nuget/APF.Core3.1.API@8.0.7

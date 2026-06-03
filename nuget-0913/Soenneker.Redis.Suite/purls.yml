@@ -3237,3 +3237,5 @@
 - pkg:nuget/Soenneker.Redis.Suite@4.0.3259
 - pkg:nuget/Soenneker.Redis.Suite@4.0.3281
 - pkg:nuget/Soenneker.Redis.Suite@4.0.3290
+- pkg:nuget/Soenneker.Redis.Suite@4.0.3292
+- pkg:nuget/Soenneker.Redis.Suite@4.0.3295

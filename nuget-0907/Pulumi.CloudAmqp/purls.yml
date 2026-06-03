@@ -485,6 +485,10 @@
 - pkg:nuget/Pulumi.CloudAmqp@3.30.0-alpha.1777961399
 - pkg:nuget/Pulumi.CloudAmqp@3.30.0-alpha.1778566844
 - pkg:nuget/Pulumi.CloudAmqp@3.30.0-alpha.1778653480
+- pkg:nuget/Pulumi.CloudAmqp@3.30.0-alpha.1779345618
+- pkg:nuget/Pulumi.CloudAmqp@3.30.0-alpha.1779432002
+- pkg:nuget/Pulumi.CloudAmqp@3.31.0-alpha.1779950573
+- pkg:nuget/Pulumi.CloudAmqp@3.31.0-alpha.1780469602
 - pkg:nuget/Pulumi.CloudAmqp@3.4.0
 - pkg:nuget/Pulumi.CloudAmqp@3.4.0-alpha.1637244466%2B738ab804
 - pkg:nuget/Pulumi.CloudAmqp@3.5.0

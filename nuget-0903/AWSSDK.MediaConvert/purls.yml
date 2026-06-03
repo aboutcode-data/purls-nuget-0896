@@ -1222,6 +1222,7 @@
 - pkg:nuget/AWSSDK.MediaConvert@4.0.15.3
 - pkg:nuget/AWSSDK.MediaConvert@4.0.15.4
 - pkg:nuget/AWSSDK.MediaConvert@4.0.15.5
+- pkg:nuget/AWSSDK.MediaConvert@4.0.17.8
 - pkg:nuget/AWSSDK.MediaConvert@4.0.2
 - pkg:nuget/AWSSDK.MediaConvert@4.0.2.1
 - pkg:nuget/AWSSDK.MediaConvert@4.0.2.2

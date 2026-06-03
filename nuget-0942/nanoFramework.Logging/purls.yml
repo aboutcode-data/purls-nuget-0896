@@ -167,4 +167,6 @@
 - pkg:nuget/nanoFramework.Logging@1.1.98
 - pkg:nuget/nanoFramework.Logging@2.0.0-preview.12
 - pkg:nuget/nanoFramework.Logging@2.0.0-preview.19
+- pkg:nuget/nanoFramework.Logging@2.0.0-preview.26
+- pkg:nuget/nanoFramework.Logging@2.0.0-preview.27
 - pkg:nuget/nanoFramework.Logging@2.0.0-preview.5

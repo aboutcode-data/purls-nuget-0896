@@ -290,7 +290,9 @@
 - pkg:nuget/StereoKit@0.4.0-preview.31
 - pkg:nuget/StereoKit@0.4.0-preview.313
 - pkg:nuget/StereoKit@0.4.0-preview.325
+- pkg:nuget/StereoKit@0.4.0-preview.3286
 - pkg:nuget/StereoKit@0.4.0-preview.33
+- pkg:nuget/StereoKit@0.4.0-preview.3307
 - pkg:nuget/StereoKit@0.4.0-preview.349
 - pkg:nuget/StereoKit@0.4.0-preview.361
 - pkg:nuget/StereoKit@0.4.0-preview.365

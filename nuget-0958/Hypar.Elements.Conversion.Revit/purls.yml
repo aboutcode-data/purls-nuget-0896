@@ -390,3 +390,4 @@
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.9-alpha.2
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.9-alpha.3
 - pkg:nuget/Hypar.Elements.Conversion.Revit@0.8.9-alpha.4
+- pkg:nuget/Hypar.Elements.Conversion.Revit@0.9.0

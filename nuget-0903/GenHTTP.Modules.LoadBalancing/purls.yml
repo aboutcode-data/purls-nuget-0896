@@ -1,4 +1,5 @@
 - pkg:nuget/GenHTTP.Modules.LoadBalancing@11.0.0-preview.11
+- pkg:nuget/GenHTTP.Modules.LoadBalancing@11.0.0-preview.15
 - pkg:nuget/GenHTTP.Modules.LoadBalancing@11.0.0-preview.9
 - pkg:nuget/GenHTTP.Modules.LoadBalancing@4.0.0
 - pkg:nuget/GenHTTP.Modules.LoadBalancing@4.1.0

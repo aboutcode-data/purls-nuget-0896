@@ -86,3 +86,4 @@
 - pkg:nuget/SkbKontur.Cassandra.DistributedTaskQueue@3.4.4
 - pkg:nuget/SkbKontur.Cassandra.DistributedTaskQueue@3.4.4-prerelease4
 - pkg:nuget/SkbKontur.Cassandra.DistributedTaskQueue@3.4.8
+- pkg:nuget/SkbKontur.Cassandra.DistributedTaskQueue@3.6.2

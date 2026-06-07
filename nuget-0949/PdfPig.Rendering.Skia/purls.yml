@@ -35,6 +35,7 @@
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.14.1-alpha001
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.14.2
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.15.1-alpha009
+- pkg:nuget/PdfPig.Rendering.Skia@0.1.15.1-alpha011
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.9.1
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.9.1-alpha001
 - pkg:nuget/PdfPig.Rendering.Skia@0.1.9.1-alpha002

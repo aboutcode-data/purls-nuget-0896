@@ -33,3 +33,4 @@
 - pkg:nuget/Yugen.Toolkit.Standard.Data@1.1.9
 - pkg:nuget/Yugen.Toolkit.Standard.Data@1.2.1
 - pkg:nuget/Yugen.Toolkit.Standard.Data@2.0.11-preview
+- pkg:nuget/Yugen.Toolkit.Standard.Data@2.1.0

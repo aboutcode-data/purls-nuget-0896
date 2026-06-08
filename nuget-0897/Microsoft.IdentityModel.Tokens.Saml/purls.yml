@@ -90,6 +90,7 @@
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@7.6.3
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@7.7.0
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@7.7.1
+- pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@7.7.2
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@8.0.0
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@8.0.0-preview1
 - pkg:nuget/Microsoft.IdentityModel.Tokens.Saml@8.0.1

@@ -233,6 +233,7 @@
 - pkg:nuget/Syncfusion.UI.WPF.NET@32.2.5
 - pkg:nuget/Syncfusion.UI.WPF.NET@33.1.46
 - pkg:nuget/Syncfusion.UI.WPF.NET@33.2.10
+- pkg:nuget/Syncfusion.UI.WPF.NET@33.2.12
 - pkg:nuget/Syncfusion.UI.WPF.NET@33.2.5
 - pkg:nuget/Syncfusion.UI.WPF.NET@33.2.6
 - pkg:nuget/Syncfusion.UI.WPF.NET@33.2.7

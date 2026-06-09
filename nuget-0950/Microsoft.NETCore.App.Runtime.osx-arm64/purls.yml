@@ -12,9 +12,11 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@10.0.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@10.0.8
+- pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@10.0.9
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@11.0.0-preview.5.26302.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@6.0.0-preview.1.21102.12
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@6.0.0-preview.2.21154.6
@@ -131,6 +133,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.13
+- pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.17
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64@9.0.4

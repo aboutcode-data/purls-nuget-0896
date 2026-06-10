@@ -1238,3 +1238,4 @@
 - pkg:nuget/StrawberryShake.Transport.Http@16.1.2
 - pkg:nuget/StrawberryShake.Transport.Http@16.1.4-p.3
 - pkg:nuget/StrawberryShake.Transport.Http@16.1.4-p.4
+- pkg:nuget/StrawberryShake.Transport.Http@16.1.4-p.5

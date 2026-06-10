@@ -1366,6 +1366,7 @@
 - pkg:nuget/PnP.Core@1.15.97-nightly
 - pkg:nuget/PnP.Core@1.15.98-nightly
 - pkg:nuget/PnP.Core@1.15.99-nightly
+- pkg:nuget/PnP.Core@1.16.11-nightly
 - pkg:nuget/PnP.Core@1.16.5-nightly
 - pkg:nuget/PnP.Core@1.16.7-nightly
 - pkg:nuget/PnP.Core@1.2.0

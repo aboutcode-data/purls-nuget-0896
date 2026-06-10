@@ -52,6 +52,7 @@
 - pkg:nuget/Finsemble.Core@10.2.0-test.2
 - pkg:nuget/Finsemble.Core@10.2.2
 - pkg:nuget/Finsemble.Core@10.2.2-beta.3
+- pkg:nuget/Finsemble.Core@10.2.3
 - pkg:nuget/Finsemble.Core@6.0.0
 - pkg:nuget/Finsemble.Core@6.1.0
 - pkg:nuget/Finsemble.Core@6.1.1

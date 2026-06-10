@@ -16,6 +16,7 @@
 - pkg:nuget/Kommander@0.1.6
 - pkg:nuget/Kommander@0.1.7
 - pkg:nuget/Kommander@0.1.8
+- pkg:nuget/Kommander@0.10.17
 - pkg:nuget/Kommander@0.2.0
 - pkg:nuget/Kommander@0.2.1
 - pkg:nuget/Kommander@0.2.2

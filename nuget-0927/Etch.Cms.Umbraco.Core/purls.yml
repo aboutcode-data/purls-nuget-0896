@@ -16,6 +16,7 @@
 - pkg:nuget/Etch.Cms.Umbraco.Core@1.0.0-alpha638264960806183061
 - pkg:nuget/Etch.Cms.Umbraco.Core@1.0.0-beta638252010596553952
 - pkg:nuget/Etch.Cms.Umbraco.Core@1.0.0-beta638264961154238379
+- pkg:nuget/Etch.Cms.Umbraco.Core@17.0.8
 - pkg:nuget/Etch.Cms.Umbraco.Core@2.0.0
 - pkg:nuget/Etch.Cms.Umbraco.Core@2.0.1
 - pkg:nuget/Etch.Cms.Umbraco.Core@2.0.10

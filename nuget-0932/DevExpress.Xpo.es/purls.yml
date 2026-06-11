@@ -390,4 +390,5 @@
 - pkg:nuget/DevExpress.Xpo.es@25.1.7-pre-25306
 - pkg:nuget/DevExpress.Xpo.es@25.1.8
 - pkg:nuget/DevExpress.Xpo.es@25.2.2-beta
+- pkg:nuget/DevExpress.Xpo.es@25.2.8
 - pkg:nuget/DevExpress.Xpo.es@26.1.2-beta

@@ -49,3 +49,4 @@
 - pkg:nuget/LocalizationProvider.Storage.PostgreSql@8.2.4
 - pkg:nuget/LocalizationProvider.Storage.PostgreSql@8.2.5
 - pkg:nuget/LocalizationProvider.Storage.PostgreSql@8.2.6
+- pkg:nuget/LocalizationProvider.Storage.PostgreSql@9.0.0

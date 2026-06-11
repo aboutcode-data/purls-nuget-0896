@@ -125,3 +125,4 @@
 - pkg:nuget/Candoumbe.Pipelines@1.2.1
 - pkg:nuget/Candoumbe.Pipelines@1.2.1-fix.2
 - pkg:nuget/Candoumbe.Pipelines@1.2.1-fix.5
+- pkg:nuget/Candoumbe.Pipelines@3.0.0-rc.42

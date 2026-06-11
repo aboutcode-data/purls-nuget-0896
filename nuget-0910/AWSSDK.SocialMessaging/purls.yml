@@ -235,3 +235,4 @@
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.4.7
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.4.8
 - pkg:nuget/AWSSDK.SocialMessaging@4.0.4.9
+- pkg:nuget/AWSSDK.SocialMessaging@4.0.7.3

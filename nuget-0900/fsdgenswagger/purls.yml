@@ -9,3 +9,4 @@
 - pkg:nuget/fsdgenswagger@2.6.2
 - pkg:nuget/fsdgenswagger@2.7.0
 - pkg:nuget/fsdgenswagger@2.8.0
+- pkg:nuget/fsdgenswagger@2.8.2

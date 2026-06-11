@@ -1,4 +1,5 @@
 - pkg:nuget/LlamachantFramework.DragDrop.Blazor@24.2.10.1
+- pkg:nuget/LlamachantFramework.DragDrop.Blazor@24.2.15.1
 - pkg:nuget/LlamachantFramework.DragDrop.Blazor@24.2.7.1
 - pkg:nuget/LlamachantFramework.DragDrop.Blazor@24.2.8.1
 - pkg:nuget/LlamachantFramework.DragDrop.Blazor@24.2.9.1

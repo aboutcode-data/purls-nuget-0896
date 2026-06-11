@@ -35,4 +35,12 @@
 - pkg:nuget/DomainCommonExtensions@3.2.0.4113
 - pkg:nuget/DomainCommonExtensions@3.3.0.5249
 - pkg:nuget/DomainCommonExtensions@3.4.0.7452
+- pkg:nuget/DomainCommonExtensions@4.0.0.5323
+- pkg:nuget/DomainCommonExtensions@4.0.1.8519
+- pkg:nuget/DomainCommonExtensions@4.1.0.8241
+- pkg:nuget/DomainCommonExtensions@4.2.0.8401
+- pkg:nuget/DomainCommonExtensions@4.2.1.4986
+- pkg:nuget/DomainCommonExtensions@4.3.0.6204
+- pkg:nuget/DomainCommonExtensions@4.4.0.8476
+- pkg:nuget/DomainCommonExtensions@4.5.0.7408
 - pkg:nuget/DomainCommonExtensions@4.6.0.8232

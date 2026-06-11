@@ -26,6 +26,7 @@
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@14.1.0
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@14.2.0
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@14.3.0
+- pkg:nuget/D2L.Security.OAuth2.TestFramework@14.4.0-rc.499
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@5.0.1
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@5.0.3
 - pkg:nuget/D2L.Security.OAuth2.TestFramework@5.0.4

@@ -1,3 +1,4 @@
+- pkg:nuget/TqkLibrary.WpfUi@1.0.0
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build2021122100
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build2021122800
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build2021122801
@@ -72,3 +73,4 @@
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build20250818111018
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build20250823153651
 - pkg:nuget/TqkLibrary.WpfUi@1.0.0-build20250913175456
+- pkg:nuget/TqkLibrary.WpfUi@1.0.1

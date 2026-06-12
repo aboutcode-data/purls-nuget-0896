@@ -137,5 +137,6 @@
 - pkg:nuget/Soneta.RealEstate@2506.3.5
 - pkg:nuget/Soneta.RealEstate@2510.1.1
 - pkg:nuget/Soneta.RealEstate@2512.0.0
+- pkg:nuget/Soneta.RealEstate@2512.10.12
 - pkg:nuget/Soneta.RealEstate@2512.5.6
 - pkg:nuget/Soneta.RealEstate@2604.0.0-beta.212574

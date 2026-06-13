@@ -537,3 +537,4 @@
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub@3.3.71
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub@3.3.85
 - pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub@3.3.87
+- pkg:nuget/Meshmakers.Octo.Common.DistributionEventHub@3.4.4

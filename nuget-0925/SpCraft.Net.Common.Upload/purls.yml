@@ -82,4 +82,5 @@
 - pkg:nuget/SpCraft.Net.Common.Upload@1.2.8
 - pkg:nuget/SpCraft.Net.Common.Upload@1.2.9
 - pkg:nuget/SpCraft.Net.Common.Upload@2.0.24
+- pkg:nuget/SpCraft.Net.Common.Upload@2.0.29
 - pkg:nuget/SpCraft.Net.Common.Upload@2.0.8

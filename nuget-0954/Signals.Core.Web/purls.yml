@@ -44,3 +44,4 @@
 - pkg:nuget/Signals.Core.Web@2.0.8
 - pkg:nuget/Signals.Core.Web@2.0.9
 - pkg:nuget/Signals.Core.Web@3.0.0
+- pkg:nuget/Signals.Core.Web@4.0.0

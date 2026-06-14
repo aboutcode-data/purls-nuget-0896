@@ -78,6 +78,9 @@
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.516
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.517
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.519
+- pkg:nuget/DocFX.Plugins.Roadmap@1.0.542
+- pkg:nuget/DocFX.Plugins.Roadmap@1.0.564
+- pkg:nuget/DocFX.Plugins.Roadmap@1.0.566
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.57
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.76
 - pkg:nuget/DocFX.Plugins.Roadmap@1.0.77

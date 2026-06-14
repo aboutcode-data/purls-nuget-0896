@@ -1,2 +1,3 @@
 - pkg:nuget/QuantConnect.Lean.DataSource.DataBento@2.5.17650
 - pkg:nuget/QuantConnect.Lean.DataSource.DataBento@2.5.17677
+- pkg:nuget/QuantConnect.Lean.DataSource.DataBento@2.5.17757

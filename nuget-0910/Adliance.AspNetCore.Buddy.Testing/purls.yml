@@ -1,3 +1,4 @@
+- pkg:nuget/Adliance.AspNetCore.Buddy.Testing@10.0.0.6
 - pkg:nuget/Adliance.AspNetCore.Buddy.Testing@8.0.0.12
 - pkg:nuget/Adliance.AspNetCore.Buddy.Testing@8.0.0.14
 - pkg:nuget/Adliance.AspNetCore.Buddy.Testing@8.0.0.15

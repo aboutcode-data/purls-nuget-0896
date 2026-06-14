@@ -3,3 +3,4 @@
 - pkg:nuget/Signals.Aspects.ErrorHandling.Polly@2.0.0
 - pkg:nuget/Signals.Aspects.ErrorHandling.Polly@2.0.1
 - pkg:nuget/Signals.Aspects.ErrorHandling.Polly@3.0.0
+- pkg:nuget/Signals.Aspects.ErrorHandling.Polly@4.0.0

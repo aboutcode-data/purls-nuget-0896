@@ -18,3 +18,5 @@
 - pkg:nuget/Exis.PdfEditor@3.2.1
 - pkg:nuget/Exis.PdfEditor@3.2.5
 - pkg:nuget/Exis.PdfEditor@3.2.6
+- pkg:nuget/Exis.PdfEditor@3.8.2
+- pkg:nuget/Exis.PdfEditor@3.8.3

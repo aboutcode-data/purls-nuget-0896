@@ -17,6 +17,8 @@
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.46
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.5
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.50
+- pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.53
+- pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.55
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.6
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.7
 - pkg:nuget/KeepAutomation.Barcode.Generator@7.7.0.8

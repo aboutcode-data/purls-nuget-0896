@@ -14,6 +14,8 @@
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.170
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.171
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.179
+- pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.193
+- pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.194
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.28
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.33
 - pkg:nuget/Reo.Core.Infrastructure.Abstractions@10.0.36

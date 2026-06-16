@@ -442,6 +442,7 @@
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.11-p.5
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.11-p.6
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.11-p.7
+- pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.17
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.2
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.2-p.1
 - pkg:nuget/HotChocolate.Fusion.CommandLine@15.1.3

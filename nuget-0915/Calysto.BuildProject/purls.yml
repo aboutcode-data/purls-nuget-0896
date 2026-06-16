@@ -24,6 +24,7 @@
 - pkg:nuget/Calysto.BuildProject@1.0.18
 - pkg:nuget/Calysto.BuildProject@1.0.19
 - pkg:nuget/Calysto.BuildProject@1.0.20
+- pkg:nuget/Calysto.BuildProject@1.0.202
 - pkg:nuget/Calysto.BuildProject@1.0.41
 - pkg:nuget/Calysto.BuildProject@1.0.46
 - pkg:nuget/Calysto.BuildProject@1.0.47

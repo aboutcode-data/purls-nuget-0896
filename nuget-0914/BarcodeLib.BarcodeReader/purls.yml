@@ -19,5 +19,6 @@
 - pkg:nuget/BarcodeLib.BarcodeReader@7.0.0.9
 - pkg:nuget/BarcodeLib.BarcodeReader@7.4.1
 - pkg:nuget/BarcodeLib.BarcodeReader@8.0.0.1
+- pkg:nuget/BarcodeLib.BarcodeReader@8.0.0.12
 - pkg:nuget/BarcodeLib.BarcodeReader@8.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader@8.0.0.9

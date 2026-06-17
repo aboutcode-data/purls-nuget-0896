@@ -21,6 +21,7 @@
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.198
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.2
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.20
+- pkg:nuget/Ecng.Compilation.FSharp@1.0.203
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.21
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.22
 - pkg:nuget/Ecng.Compilation.FSharp@1.0.23

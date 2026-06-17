@@ -1098,3 +1098,4 @@
 - pkg:nuget/BIDS.App@6.6.0-dev-b24130-176c6e9e
 - pkg:nuget/BIDS.App@6.6.2-commit-b24162-79895a6f
 - pkg:nuget/BIDS.App@6.6.2-dev-b24472-faee0b10
+- pkg:nuget/BIDS.App@6.6.3-dev-b24728-cf0222ea

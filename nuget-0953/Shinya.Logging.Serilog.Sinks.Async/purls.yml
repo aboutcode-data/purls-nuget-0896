@@ -439,3 +439,4 @@
 - pkg:nuget/Shinya.Logging.Serilog.Sinks.Async@1.4.3-preview.20260512.0
 - pkg:nuget/Shinya.Logging.Serilog.Sinks.Async@1.4.3-preview.20260521.0
 - pkg:nuget/Shinya.Logging.Serilog.Sinks.Async@1.4.3-preview.20260616.0
+- pkg:nuget/Shinya.Logging.Serilog.Sinks.Async@1.4.3-preview.20260617.1

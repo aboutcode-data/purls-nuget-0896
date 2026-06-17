@@ -25,3 +25,4 @@
 - pkg:nuget/FakeXrmEasy.Messages.v2013@3.6.0
 - pkg:nuget/FakeXrmEasy.Messages.v2013@3.7.0
 - pkg:nuget/FakeXrmEasy.Messages.v2013@3.8.0
+- pkg:nuget/FakeXrmEasy.Messages.v2013@3.9.3

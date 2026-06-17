@@ -1,3 +1,4 @@
 - pkg:nuget/GCCN.ActiveReports.Viewer.Win@18.0.0
 - pkg:nuget/GCCN.ActiveReports.Viewer.Win@18.2.0
 - pkg:nuget/GCCN.ActiveReports.Viewer.Win@19.0.1
+- pkg:nuget/GCCN.ActiveReports.Viewer.Win@20.1.3

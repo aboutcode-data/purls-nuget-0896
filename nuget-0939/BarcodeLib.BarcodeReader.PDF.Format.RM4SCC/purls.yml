@@ -25,6 +25,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.5
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.54
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.56
+- pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.59
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Format.RM4SCC@7.0.0.8

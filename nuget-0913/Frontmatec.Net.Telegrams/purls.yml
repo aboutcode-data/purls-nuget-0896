@@ -47,3 +47,4 @@
 - pkg:nuget/Frontmatec.Net.Telegrams@1.1.8
 - pkg:nuget/Frontmatec.Net.Telegrams@1.1.9
 - pkg:nuget/Frontmatec.Net.Telegrams@2.0.0
+- pkg:nuget/Frontmatec.Net.Telegrams@2.0.3

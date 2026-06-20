@@ -21,6 +21,7 @@
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.176
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.181
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.185
+- pkg:nuget/Soenneker.HighLevel.Client@4.0.187
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.20
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.44
 - pkg:nuget/Soenneker.HighLevel.Client@4.0.53

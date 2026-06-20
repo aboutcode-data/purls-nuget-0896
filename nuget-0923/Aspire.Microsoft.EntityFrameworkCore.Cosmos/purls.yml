@@ -2,6 +2,7 @@
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@13.3.1
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@13.4.0
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@13.4.1
+- pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@13.4.6
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@8.0.0
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@8.0.0-preview.1.23557.2
 - pkg:nuget/Aspire.Microsoft.EntityFrameworkCore.Cosmos@8.0.0-preview.2.23619.3

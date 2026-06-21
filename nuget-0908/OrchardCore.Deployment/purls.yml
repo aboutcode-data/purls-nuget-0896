@@ -41,3 +41,4 @@
 - pkg:nuget/OrchardCore.Deployment@2.1.8
 - pkg:nuget/OrchardCore.Deployment@2.1.9
 - pkg:nuget/OrchardCore.Deployment@2.2.0
+- pkg:nuget/OrchardCore.Deployment@3.0.0

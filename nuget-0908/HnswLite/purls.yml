@@ -6,3 +6,5 @@
 - pkg:nuget/HnswLite@1.0.5
 - pkg:nuget/HnswLite@1.0.6
 - pkg:nuget/HnswLite@1.1.1
+- pkg:nuget/HnswLite@2.0.0
+- pkg:nuget/HnswLite@2.0.1

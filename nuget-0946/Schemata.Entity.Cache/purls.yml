@@ -16,6 +16,7 @@
 - pkg:nuget/Schemata.Entity.Cache@10.0.0-preview.26301.51
 - pkg:nuget/Schemata.Entity.Cache@10.0.0-preview.26307.55
 - pkg:nuget/Schemata.Entity.Cache@10.0.0-preview.26310.65
+- pkg:nuget/Schemata.Entity.Cache@10.0.0-preview.26321.42
 - pkg:nuget/Schemata.Entity.Cache@9.0.0-preview.25128.31
 - pkg:nuget/Schemata.Entity.Cache@9.0.0-preview.25128.36
 - pkg:nuget/Schemata.Entity.Cache@9.0.0-preview.25153.54

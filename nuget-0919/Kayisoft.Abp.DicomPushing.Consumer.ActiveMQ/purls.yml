@@ -34,3 +34,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomPushing.Consumer.ActiveMQ@5.0.8
 - pkg:nuget/Kayisoft.Abp.DicomPushing.Consumer.ActiveMQ@5.1.3
 - pkg:nuget/Kayisoft.Abp.DicomPushing.Consumer.ActiveMQ@5.1.6
+- pkg:nuget/Kayisoft.Abp.DicomPushing.Consumer.ActiveMQ@5.1.9

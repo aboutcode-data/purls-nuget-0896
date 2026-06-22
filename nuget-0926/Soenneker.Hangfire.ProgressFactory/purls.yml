@@ -722,3 +722,4 @@
 - pkg:nuget/Soenneker.Hangfire.ProgressFactory@4.0.668
 - pkg:nuget/Soenneker.Hangfire.ProgressFactory@4.0.673
 - pkg:nuget/Soenneker.Hangfire.ProgressFactory@4.0.679
+- pkg:nuget/Soenneker.Hangfire.ProgressFactory@4.0.684

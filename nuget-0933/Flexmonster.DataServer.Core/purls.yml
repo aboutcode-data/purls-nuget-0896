@@ -52,6 +52,7 @@
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.125
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.126
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.13
+- pkg:nuget/Flexmonster.DataServer.Core@2.9.132
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.14
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.15
 - pkg:nuget/Flexmonster.DataServer.Core@2.9.16

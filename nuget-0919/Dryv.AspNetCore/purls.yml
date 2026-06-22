@@ -42,3 +42,4 @@
 - pkg:nuget/Dryv.AspNetCore@8.0.0-pre.1
 - pkg:nuget/Dryv.AspNetCore@9.0.0
 - pkg:nuget/Dryv.AspNetCore@9.1.0
+- pkg:nuget/Dryv.AspNetCore@9.4.2

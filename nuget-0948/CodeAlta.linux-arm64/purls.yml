@@ -1,0 +1,5 @@
+- pkg:nuget/CodeAlta.linux-arm64@0.11.6
+- pkg:nuget/CodeAlta.linux-arm64@0.15.0
+- pkg:nuget/CodeAlta.linux-arm64@0.16.1
+- pkg:nuget/CodeAlta.linux-arm64@0.8.0
+- pkg:nuget/CodeAlta.linux-arm64@0.9.10

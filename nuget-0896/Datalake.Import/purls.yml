@@ -10,6 +10,7 @@
 - pkg:nuget/Datalake.Import@1.0.13
 - pkg:nuget/Datalake.Import@1.0.130
 - pkg:nuget/Datalake.Import@1.0.132
+- pkg:nuget/Datalake.Import@1.0.133
 - pkg:nuget/Datalake.Import@1.0.14
 - pkg:nuget/Datalake.Import@1.0.15
 - pkg:nuget/Datalake.Import@1.0.16

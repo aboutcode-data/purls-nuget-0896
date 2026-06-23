@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.XOrder.Core@3.1005.0-alpha.131-benchmarks
 - pkg:nuget/VirtoCommerce.XOrder.Core@3.800.0
 - pkg:nuget/VirtoCommerce.XOrder.Core@3.800.0-alpha.2-vcst-1352
 - pkg:nuget/VirtoCommerce.XOrder.Core@3.800.0-alpha.3-vcst-1352

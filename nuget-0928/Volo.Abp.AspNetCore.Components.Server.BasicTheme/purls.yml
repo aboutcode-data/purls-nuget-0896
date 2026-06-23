@@ -2,6 +2,7 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@10.2.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@10.5.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@10.5.0-rc.4
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@4.3.0
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@4.3.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Components.Server.BasicTheme@4.3.0-rc.2

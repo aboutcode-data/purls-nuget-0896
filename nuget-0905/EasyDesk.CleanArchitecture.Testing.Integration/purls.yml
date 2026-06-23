@@ -173,6 +173,7 @@
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.168.2
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.169.0
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.169.2
+- pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.169.7
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.43.0
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.44.0
 - pkg:nuget/EasyDesk.CleanArchitecture.Testing.Integration@0.44.1

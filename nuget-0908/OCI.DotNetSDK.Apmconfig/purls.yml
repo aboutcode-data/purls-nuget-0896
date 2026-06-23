@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@135.0.0
+- pkg:nuget/OCI.DotNetSDK.Apmconfig@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@27.1.0
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@27.2.0
 - pkg:nuget/OCI.DotNetSDK.Apmconfig@28.0.0

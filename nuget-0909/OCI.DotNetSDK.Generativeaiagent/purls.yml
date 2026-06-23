@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@135.0.0
+- pkg:nuget/OCI.DotNetSDK.Generativeaiagent@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@96.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@96.1.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiagent@96.2.0

@@ -80,6 +80,7 @@
 - pkg:nuget/Schemata.Mapping.Mapster@10.0.0-preview.26307.55
 - pkg:nuget/Schemata.Mapping.Mapster@10.0.0-preview.26310.65
 - pkg:nuget/Schemata.Mapping.Mapster@10.0.0-preview.26321.42
+- pkg:nuget/Schemata.Mapping.Mapster@10.0.0-preview.26322.53
 - pkg:nuget/Schemata.Mapping.Mapster@9.0.0-preview.25128.31
 - pkg:nuget/Schemata.Mapping.Mapster@9.0.0-preview.25128.36
 - pkg:nuget/Schemata.Mapping.Mapster@9.0.0-preview.25153.54

@@ -1159,6 +1159,7 @@
 - pkg:nuget/PnP.Core.Auth@1.16.11-nightly
 - pkg:nuget/PnP.Core.Auth@1.16.22-nightly
 - pkg:nuget/PnP.Core.Auth@1.16.24-nightly
+- pkg:nuget/PnP.Core.Auth@1.16.25-nightly
 - pkg:nuget/PnP.Core.Auth@1.16.28-nightly
 - pkg:nuget/PnP.Core.Auth@1.16.5-nightly
 - pkg:nuget/PnP.Core.Auth@1.16.7-nightly

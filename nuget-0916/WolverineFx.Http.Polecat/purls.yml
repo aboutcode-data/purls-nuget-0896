@@ -6,5 +6,6 @@
 - pkg:nuget/WolverineFx.Http.Polecat@5.39.1
 - pkg:nuget/WolverineFx.Http.Polecat@6.13.0
 - pkg:nuget/WolverineFx.Http.Polecat@6.13.1
+- pkg:nuget/WolverineFx.Http.Polecat@6.14.0-alpha.1
 - pkg:nuget/WolverineFx.Http.Polecat@6.3.1
 - pkg:nuget/WolverineFx.Http.Polecat@6.7.0

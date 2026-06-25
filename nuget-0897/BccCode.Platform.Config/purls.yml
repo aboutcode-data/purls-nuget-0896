@@ -99,3 +99,4 @@
 - pkg:nuget/BccCode.Platform.Config@1.0.0.98
 - pkg:nuget/BccCode.Platform.Config@1.0.0.99-beta
 - pkg:nuget/BccCode.Platform.Config@1.0.1.1
+- pkg:nuget/BccCode.Platform.Config@1.0.1.5

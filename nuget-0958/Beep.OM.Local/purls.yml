@@ -25,6 +25,12 @@
 - pkg:nuget/Beep.OM.Local@1.0.8-build.11
 - pkg:nuget/Beep.OM.Local@1.0.8-build.2
 - pkg:nuget/Beep.OM.Local@1.0.8-build.3
+- pkg:nuget/Beep.OM.Local@1.0.8-build.30
+- pkg:nuget/Beep.OM.Local@1.0.8-build.31
+- pkg:nuget/Beep.OM.Local@1.0.8-build.32
+- pkg:nuget/Beep.OM.Local@1.0.8-build.33
+- pkg:nuget/Beep.OM.Local@1.0.8-build.34
+- pkg:nuget/Beep.OM.Local@1.0.8-build.35
 - pkg:nuget/Beep.OM.Local@1.0.8-build.4
 - pkg:nuget/Beep.OM.Local@1.0.8-build.6
 - pkg:nuget/Beep.OM.Local@1.0.8-build.7

@@ -25,3 +25,5 @@
 - pkg:nuget/Sanet.MakaMek.Assets@0.59.38-preview
 - pkg:nuget/Sanet.MakaMek.Assets@0.59.39-preview
 - pkg:nuget/Sanet.MakaMek.Assets@0.59.43-preview
+- pkg:nuget/Sanet.MakaMek.Assets@0.59.47-preview
+- pkg:nuget/Sanet.MakaMek.Assets@0.60.0-preview

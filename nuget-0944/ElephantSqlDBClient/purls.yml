@@ -54,3 +54,4 @@
 - pkg:nuget/ElephantSqlDBClient@1.0.173
 - pkg:nuget/ElephantSqlDBClient@1.0.174
 - pkg:nuget/ElephantSqlDBClient@1.0.183
+- pkg:nuget/ElephantSqlDBClient@1.0.184

@@ -66,3 +66,5 @@
 - pkg:nuget/Packata.ResourceReaders@0.39.2
 - pkg:nuget/Packata.ResourceReaders@0.39.3
 - pkg:nuget/Packata.ResourceReaders@0.40.2
+- pkg:nuget/Packata.ResourceReaders@0.40.4
+- pkg:nuget/Packata.ResourceReaders@0.40.6

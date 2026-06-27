@@ -14,5 +14,10 @@
 - pkg:nuget/LinqContraband@5.6.11
 - pkg:nuget/LinqContraband@5.6.12
 - pkg:nuget/LinqContraband@5.6.13
+- pkg:nuget/LinqContraband@5.6.18
+- pkg:nuget/LinqContraband@5.6.19
+- pkg:nuget/LinqContraband@5.6.27
+- pkg:nuget/LinqContraband@5.6.28
+- pkg:nuget/LinqContraband@5.6.33
 - pkg:nuget/LinqContraband@5.6.6
 - pkg:nuget/LinqContraband@5.6.9

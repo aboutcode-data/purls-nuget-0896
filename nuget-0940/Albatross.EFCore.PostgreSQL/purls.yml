@@ -1,4 +1,5 @@
 - pkg:nuget/Albatross.EFCore.PostgreSQL@10.0.0-103.main%2B74042e0
+- pkg:nuget/Albatross.EFCore.PostgreSQL@10.0.0-105.main%2Bc4ea17a
 - pkg:nuget/Albatross.EFCore.PostgreSQL@10.0.0-54.main%2B2e86209
 - pkg:nuget/Albatross.EFCore.PostgreSQL@6.1.1
 - pkg:nuget/Albatross.EFCore.PostgreSQL@7.5.11%2B7b17674

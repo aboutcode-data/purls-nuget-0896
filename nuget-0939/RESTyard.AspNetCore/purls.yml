@@ -27,3 +27,4 @@
 - pkg:nuget/RESTyard.AspNetCore@5.2.1-develop-20250821.1
 - pkg:nuget/RESTyard.AspNetCore@5.2.2
 - pkg:nuget/RESTyard.AspNetCore@5.2.2-develop-20250908.1
+- pkg:nuget/RESTyard.AspNetCore@6.0.2-hypermedia-schema-20260625.2

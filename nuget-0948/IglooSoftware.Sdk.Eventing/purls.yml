@@ -115,3 +115,4 @@
 - pkg:nuget/IglooSoftware.Sdk.Eventing@1.0.7
 - pkg:nuget/IglooSoftware.Sdk.Eventing@1.0.8
 - pkg:nuget/IglooSoftware.Sdk.Eventing@1.0.9
+- pkg:nuget/IglooSoftware.Sdk.Eventing@2.0.0

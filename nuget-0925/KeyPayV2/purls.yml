@@ -240,6 +240,7 @@
 - pkg:nuget/KeyPayV2@3.0.0.81
 - pkg:nuget/KeyPayV2@3.0.0.810
 - pkg:nuget/KeyPayV2@3.0.0.813
+- pkg:nuget/KeyPayV2@3.0.0.817
 - pkg:nuget/KeyPayV2@3.0.0.82
 - pkg:nuget/KeyPayV2@3.0.0.83
 - pkg:nuget/KeyPayV2@3.0.0.84

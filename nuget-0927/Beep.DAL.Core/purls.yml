@@ -89,6 +89,9 @@
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.180
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.181
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.19
+- pkg:nuget/Beep.DAL.Core@1.1.1-build.191
+- pkg:nuget/Beep.DAL.Core@1.1.1-build.192
+- pkg:nuget/Beep.DAL.Core@1.1.1-build.193
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.22
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.29
 - pkg:nuget/Beep.DAL.Core@1.1.1-build.3

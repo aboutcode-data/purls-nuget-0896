@@ -95,3 +95,4 @@
 - pkg:nuget/NHibernate@5.5.1
 - pkg:nuget/NHibernate@5.5.2
 - pkg:nuget/NHibernate@5.5.3
+- pkg:nuget/NHibernate@5.7.0

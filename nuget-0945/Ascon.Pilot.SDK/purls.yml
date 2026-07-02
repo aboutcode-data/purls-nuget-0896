@@ -486,5 +486,6 @@
 - pkg:nuget/Ascon.Pilot.SDK@25.9.142-alpha
 - pkg:nuget/Ascon.Pilot.SDK@25.9.143-alpha
 - pkg:nuget/Ascon.Pilot.SDK@26.13.0
+- pkg:nuget/Ascon.Pilot.SDK@26.13.176-alpha
 - pkg:nuget/Ascon.Pilot.SDK@26.4.0
 - pkg:nuget/Ascon.Pilot.SDK@26.8.166-alpha

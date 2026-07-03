@@ -1,3 +1,4 @@
+- pkg:nuget/C1.WPF.Viewer@10.0.20261.89
 - pkg:nuget/C1.WPF.Viewer@6.0.20221.205
 - pkg:nuget/C1.WPF.Viewer@6.0.20221.209
 - pkg:nuget/C1.WPF.Viewer@6.0.20221.222

@@ -34,3 +34,4 @@
 - pkg:nuget/RxBim.Command.Generators.Autocad@3.0.5
 - pkg:nuget/RxBim.Command.Generators.Autocad@3.0.5-rc001
 - pkg:nuget/RxBim.Command.Generators.Autocad@3.0.6-dev003
+- pkg:nuget/RxBim.Command.Generators.Autocad@3.0.6-rc001

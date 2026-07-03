@@ -24,6 +24,7 @@
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.16.1.44
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.16.1.46
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.16.1.47
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.16.1.49
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.2.1.29
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.2.1.31
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.MsTest@2.6.1.31

@@ -3,3 +3,6 @@
 - pkg:nuget/DoIt.S3Client@1.1.0
 - pkg:nuget/DoIt.S3Client@3.0.0
 - pkg:nuget/DoIt.S3Client@4.0.0-beta4
+- pkg:nuget/DoIt.S3Client@4.1.1
+- pkg:nuget/DoIt.S3Client@4.1.2
+- pkg:nuget/DoIt.S3Client@4.1.3

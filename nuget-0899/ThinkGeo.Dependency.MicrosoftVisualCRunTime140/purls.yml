@@ -19,4 +19,5 @@
 - pkg:nuget/ThinkGeo.Dependency.MicrosoftVisualCRunTime140@13.1.0-beta3
 - pkg:nuget/ThinkGeo.Dependency.MicrosoftVisualCRunTime140@14.0.0
 - pkg:nuget/ThinkGeo.Dependency.MicrosoftVisualCRunTime140@14.5.2
+- pkg:nuget/ThinkGeo.Dependency.MicrosoftVisualCRunTime140@14.5.4-beta001
 - pkg:nuget/ThinkGeo.Dependency.MicrosoftVisualCRunTime140@15.0.0-beta001

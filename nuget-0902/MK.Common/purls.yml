@@ -1,4 +1,5 @@
 - pkg:nuget/MK.Common@10.0.1
+- pkg:nuget/MK.Common@10.0.5
 - pkg:nuget/MK.Common@6.0.0
 - pkg:nuget/MK.Common@6.0.1
 - pkg:nuget/MK.Common@6.0.10

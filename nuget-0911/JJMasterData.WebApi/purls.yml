@@ -161,5 +161,6 @@
 - pkg:nuget/JJMasterData.WebApi@4.4.9
 - pkg:nuget/JJMasterData.WebApi@4.5.29
 - pkg:nuget/JJMasterData.WebApi@4.5.29-preview
+- pkg:nuget/JJMasterData.WebApi@4.5.35
 - pkg:nuget/JJMasterData.WebApi@4.5.6
 - pkg:nuget/JJMasterData.WebApi@5.0.0-preview9

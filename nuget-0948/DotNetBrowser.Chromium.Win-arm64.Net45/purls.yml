@@ -23,7 +23,10 @@
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.15
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.16
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.17
+- pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.18
+- pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.19
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.2
+- pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.20
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.3
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.4
 - pkg:nuget/DotNetBrowser.Chromium.Win-arm64.Net45@2.27.5

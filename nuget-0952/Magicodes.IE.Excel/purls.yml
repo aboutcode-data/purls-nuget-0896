@@ -153,4 +153,5 @@
 - pkg:nuget/Magicodes.IE.Excel@2.7.5.1
 - pkg:nuget/Magicodes.IE.Excel@2.7.5.2
 - pkg:nuget/Magicodes.IE.Excel@2.7.6
+- pkg:nuget/Magicodes.IE.Excel@2.9.0
 - pkg:nuget/Magicodes.IE.Excel@3.0.0-beta1

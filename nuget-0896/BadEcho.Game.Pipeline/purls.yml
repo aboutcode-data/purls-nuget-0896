@@ -36,3 +36,4 @@
 - pkg:nuget/BadEcho.Game.Pipeline@1.1.3-alpha.2
 - pkg:nuget/BadEcho.Game.Pipeline@1.1.3-alpha.4
 - pkg:nuget/BadEcho.Game.Pipeline@1.1.3-alpha.5
+- pkg:nuget/BadEcho.Game.Pipeline@1.3.0-alpha.22

@@ -24,6 +24,7 @@
 - pkg:nuget/Rask.Server@0.15.2-alpha.0.30
 - pkg:nuget/Rask.Server@0.15.2-alpha.0.37
 - pkg:nuget/Rask.Server@0.15.2-alpha.0.45
+- pkg:nuget/Rask.Server@0.15.2-alpha.0.53
 - pkg:nuget/Rask.Server@0.7.1-alpha.0.34
 - pkg:nuget/Rask.Server@0.7.1-alpha.0.35
 - pkg:nuget/Rask.Server@0.7.1-alpha.0.5

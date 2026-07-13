@@ -123,6 +123,7 @@
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.29.4204
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.290.12449
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.292.12473
+- pkg:nuget/Mapa.Common.Dotnet.Service@1.0.293.12552
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.30.4226
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.31.4227
 - pkg:nuget/Mapa.Common.Dotnet.Service@1.0.32.4240

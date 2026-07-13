@@ -69,4 +69,5 @@
 - pkg:nuget/CyberEye.Configuration.Lib@1.8.8
 - pkg:nuget/CyberEye.Configuration.Lib@1.8.9
 - pkg:nuget/CyberEye.Configuration.Lib@1.9.9
+- pkg:nuget/CyberEye.Configuration.Lib@3.0.17
 - pkg:nuget/CyberEye.Configuration.Lib@3.0.3

@@ -58,6 +58,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@122.5.0
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@123.0.0
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@123.0.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@123.2.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@71.1604.0
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@71.1604.0-preview7
 - pkg:nuget/Xamarin.GooglePlayServices.Measurement.Sdk.Api@71.1604.0-preview8

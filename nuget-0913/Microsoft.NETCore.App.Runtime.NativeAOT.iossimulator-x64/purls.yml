@@ -35,6 +35,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.19
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.20
+- pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.29
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.4
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@8.0.5
@@ -52,6 +53,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.18
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64@9.0.4

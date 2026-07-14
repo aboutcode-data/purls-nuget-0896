@@ -220,6 +220,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.14
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.15
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.16
+- pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.18
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64@9.0.4

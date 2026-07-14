@@ -23,6 +23,7 @@
 - pkg:nuget/dotnet-releaser@0.2.2
 - pkg:nuget/dotnet-releaser@0.20.1
 - pkg:nuget/dotnet-releaser@0.21.0
+- pkg:nuget/dotnet-releaser@0.24.0
 - pkg:nuget/dotnet-releaser@0.3.0
 - pkg:nuget/dotnet-releaser@0.3.1
 - pkg:nuget/dotnet-releaser@0.3.10

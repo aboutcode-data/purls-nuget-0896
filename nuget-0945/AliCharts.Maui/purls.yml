@@ -33,6 +33,9 @@
 - pkg:nuget/AliCharts.Maui@1.0.56-preview1.1
 - pkg:nuget/AliCharts.Maui@1.0.56-preview1.4
 - pkg:nuget/AliCharts.Maui@1.0.56-preview1.9
+- pkg:nuget/AliCharts.Maui@1.0.56-preview2.11
+- pkg:nuget/AliCharts.Maui@1.0.56-preview2.8
+- pkg:nuget/AliCharts.Maui@1.0.56-preview2.9
 - pkg:nuget/AliCharts.Maui@1.0.6
 - pkg:nuget/AliCharts.Maui@1.0.7
 - pkg:nuget/AliCharts.Maui@1.0.8

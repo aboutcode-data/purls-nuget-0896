@@ -151,3 +151,7 @@
 - pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.4.7.6426
 - pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.4.7.6427
 - pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.5.5.7086
+- pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.6.25.7890
+- pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.6.25.7891
+- pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.7.12.8106
+- pkg:nuget/Krosoft.Extensions.Identity.Abstractions@2026.7.12.8108

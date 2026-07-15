@@ -13,3 +13,4 @@
 - pkg:nuget/PLCcomModbus@8.3.6
 - pkg:nuget/PLCcomModbus@8.3.7
 - pkg:nuget/PLCcomModbus@8.3.8
+- pkg:nuget/PLCcomModbus@9.1.5

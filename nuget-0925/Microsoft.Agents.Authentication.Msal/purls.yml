@@ -98,3 +98,4 @@
 - pkg:nuget/Microsoft.Agents.Authentication.Msal@1.6.9-beta
 - pkg:nuget/Microsoft.Agents.Authentication.Msal@1.7.12-beta
 - pkg:nuget/Microsoft.Agents.Authentication.Msal@1.7.25-beta
+- pkg:nuget/Microsoft.Agents.Authentication.Msal@1.7.70-beta

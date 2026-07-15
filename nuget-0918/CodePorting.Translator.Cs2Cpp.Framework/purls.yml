@@ -38,3 +38,4 @@
 - pkg:nuget/CodePorting.Translator.Cs2Cpp.Framework@25.7.0
 - pkg:nuget/CodePorting.Translator.Cs2Cpp.Framework@25.8.0
 - pkg:nuget/CodePorting.Translator.Cs2Cpp.Framework@25.9.0
+- pkg:nuget/CodePorting.Translator.Cs2Cpp.Framework@26.6.0

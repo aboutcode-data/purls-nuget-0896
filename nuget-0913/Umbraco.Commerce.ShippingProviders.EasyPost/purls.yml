@@ -6,3 +6,4 @@
 - pkg:nuget/Umbraco.Commerce.ShippingProviders.EasyPost@15.0.0-rc1
 - pkg:nuget/Umbraco.Commerce.ShippingProviders.EasyPost@16.0.0
 - pkg:nuget/Umbraco.Commerce.ShippingProviders.EasyPost@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.ShippingProviders.EasyPost@18.0.0

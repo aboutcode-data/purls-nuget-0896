@@ -20,6 +20,7 @@
 - pkg:nuget/ImageWizard.Analytics@3.10.0
 - pkg:nuget/ImageWizard.Analytics@3.11.1
 - pkg:nuget/ImageWizard.Analytics@3.11.2
+- pkg:nuget/ImageWizard.Analytics@3.12.2
 - pkg:nuget/ImageWizard.Analytics@3.2.0
 - pkg:nuget/ImageWizard.Analytics@3.4.0
 - pkg:nuget/ImageWizard.Analytics@3.5.0

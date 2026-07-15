@@ -33,3 +33,4 @@
 - pkg:nuget/OrchardCore.Apis.GraphQL.Client@2.1.8
 - pkg:nuget/OrchardCore.Apis.GraphQL.Client@2.1.9
 - pkg:nuget/OrchardCore.Apis.GraphQL.Client@2.2.0
+- pkg:nuget/OrchardCore.Apis.GraphQL.Client@3.0.0

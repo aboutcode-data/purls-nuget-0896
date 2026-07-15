@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Win.FlexReport.CustomFields@10.0.20261.779
 - pkg:nuget/C1.Win.FlexReport.CustomFields@5.0.20203.467-beta
 - pkg:nuget/C1.Win.FlexReport.CustomFields@5.0.20203.468-beta
 - pkg:nuget/C1.Win.FlexReport.CustomFields@5.0.20203.472-beta

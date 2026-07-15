@@ -1,1 +1,3 @@
 - pkg:nuget/1nception.Domain@12.0.2
+- pkg:nuget/1nception.Domain@12.0.5
+- pkg:nuget/1nception.Domain@13.0.0-preview.8

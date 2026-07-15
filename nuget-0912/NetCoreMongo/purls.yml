@@ -12,3 +12,4 @@
 - pkg:nuget/NetCoreMongo@1.0.7
 - pkg:nuget/NetCoreMongo@1.0.8
 - pkg:nuget/NetCoreMongo@1.0.9
+- pkg:nuget/NetCoreMongo@1.1.2

@@ -1,5 +1,7 @@
 - pkg:nuget/Digitall.Testing@1.0.0-beta.1
 - pkg:nuget/Digitall.Testing@1.0.0-beta.13
+- pkg:nuget/Digitall.Testing@1.0.0-beta.14
+- pkg:nuget/Digitall.Testing@1.0.0-beta.17
 - pkg:nuget/Digitall.Testing@1.0.0-beta.2
 - pkg:nuget/Digitall.Testing@1.0.0-beta.3
 - pkg:nuget/Digitall.Testing@1.0.0-beta.4

@@ -5,3 +5,4 @@
 - pkg:nuget/NatLaRestTest.Core.Contracts@0.0.15-preview
 - pkg:nuget/NatLaRestTest.Core.Contracts@0.0.15-preview2
 - pkg:nuget/NatLaRestTest.Core.Contracts@0.0.15-preview3
+- pkg:nuget/NatLaRestTest.Core.Contracts@0.0.22

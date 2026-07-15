@@ -57,6 +57,7 @@
 - pkg:nuget/LicenseSpring.NetSDK@7.4.1
 - pkg:nuget/LicenseSpring.NetSDK@7.41.0
 - pkg:nuget/LicenseSpring.NetSDK@7.42.2
+- pkg:nuget/LicenseSpring.NetSDK@7.43.1
 - pkg:nuget/LicenseSpring.NetSDK@7.5.0
 - pkg:nuget/LicenseSpring.NetSDK@7.6.0
 - pkg:nuget/LicenseSpring.NetSDK@7.6.1
@@ -64,3 +65,4 @@
 - pkg:nuget/LicenseSpring.NetSDK@7.8.0
 - pkg:nuget/LicenseSpring.NetSDK@7.9.0
 - pkg:nuget/LicenseSpring.NetSDK@7.9.1
+- pkg:nuget/LicenseSpring.NetSDK@8.0.0

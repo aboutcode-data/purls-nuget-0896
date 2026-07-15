@@ -54,3 +54,4 @@
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.85
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.91
 - pkg:nuget/nanoFramework.System.Device.Wifi@2.0.0-preview.25
+- pkg:nuget/nanoFramework.System.Device.Wifi@2.0.0-preview.32

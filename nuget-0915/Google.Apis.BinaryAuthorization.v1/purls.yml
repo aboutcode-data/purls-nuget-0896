@@ -95,3 +95,4 @@
 - pkg:nuget/Google.Apis.BinaryAuthorization.v1@1.68.0.3606
 - pkg:nuget/Google.Apis.BinaryAuthorization.v1@1.68.0.3669
 - pkg:nuget/Google.Apis.BinaryAuthorization.v1@1.69.0.3722
+- pkg:nuget/Google.Apis.BinaryAuthorization.v1@1.75.0.4201

@@ -16,3 +16,4 @@
 - pkg:nuget/Pr.BuildingBlocks.Cms.Core@3.0.5
 - pkg:nuget/Pr.BuildingBlocks.Cms.Core@3.1.0
 - pkg:nuget/Pr.BuildingBlocks.Cms.Core@3.5.0
+- pkg:nuget/Pr.BuildingBlocks.Cms.Core@6.0.0

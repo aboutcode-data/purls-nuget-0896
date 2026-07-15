@@ -19,3 +19,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.EnableRequestRewind@3.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.EnableRequestRewind@4.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.EnableRequestRewind@5.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.EnableRequestRewind@5.1.0

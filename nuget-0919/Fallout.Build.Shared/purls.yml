@@ -1,0 +1,6 @@
+- pkg:nuget/Fallout.Build.Shared@10.2.20
+- pkg:nuget/Fallout.Build.Shared@10.3.14
+- pkg:nuget/Fallout.Build.Shared@10.3.25
+- pkg:nuget/Fallout.Build.Shared@10.3.29
+- pkg:nuget/Fallout.Build.Shared@10.3.42
+- pkg:nuget/Fallout.Build.Shared@11.0.8

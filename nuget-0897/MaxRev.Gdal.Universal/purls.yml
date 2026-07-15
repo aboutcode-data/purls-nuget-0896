@@ -11,6 +11,7 @@
 - pkg:nuget/MaxRev.Gdal.Universal@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.Universal@3.12.2.494
 - pkg:nuget/MaxRev.Gdal.Universal@3.12.3.496
+- pkg:nuget/MaxRev.Gdal.Universal@3.13.1.534
 - pkg:nuget/MaxRev.Gdal.Universal@3.9.0.217
 - pkg:nuget/MaxRev.Gdal.Universal@3.9.0.218
 - pkg:nuget/MaxRev.Gdal.Universal@3.9.1.240

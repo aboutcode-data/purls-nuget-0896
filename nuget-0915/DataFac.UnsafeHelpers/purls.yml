@@ -29,4 +29,5 @@
 - pkg:nuget/DataFac.UnsafeHelpers@0.9.8
 - pkg:nuget/DataFac.UnsafeHelpers@1.0.0
 - pkg:nuget/DataFac.UnsafeHelpers@1.0.3-dev
+- pkg:nuget/DataFac.UnsafeHelpers@2.0.11
 - pkg:nuget/DataFac.UnsafeHelpers@2.0.9

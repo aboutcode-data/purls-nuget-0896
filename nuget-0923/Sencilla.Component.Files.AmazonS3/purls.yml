@@ -5,4 +5,5 @@
 - pkg:nuget/Sencilla.Component.Files.AmazonS3@10.0.31
 - pkg:nuget/Sencilla.Component.Files.AmazonS3@10.0.35
 - pkg:nuget/Sencilla.Component.Files.AmazonS3@10.0.44
+- pkg:nuget/Sencilla.Component.Files.AmazonS3@10.0.47
 - pkg:nuget/Sencilla.Component.Files.AmazonS3@10.0.8

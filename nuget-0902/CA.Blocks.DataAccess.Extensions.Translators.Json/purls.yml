@@ -38,3 +38,4 @@
 - pkg:nuget/CA.Blocks.DataAccess.Extensions.Translators.Json@3.5.197-prerelease
 - pkg:nuget/CA.Blocks.DataAccess.Extensions.Translators.Json@3.6.199-prerelease
 - pkg:nuget/CA.Blocks.DataAccess.Extensions.Translators.Json@3.6.200
+- pkg:nuget/CA.Blocks.DataAccess.Extensions.Translators.Json@3.8.238-prerelease

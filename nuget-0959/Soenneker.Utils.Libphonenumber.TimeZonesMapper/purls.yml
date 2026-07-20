@@ -17,6 +17,7 @@
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@3.0.7
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@3.0.8
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@3.0.9
+- pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@4.0.111
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@4.0.25
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@4.0.28
 - pkg:nuget/Soenneker.Utils.Libphonenumber.TimeZonesMapper@4.0.38

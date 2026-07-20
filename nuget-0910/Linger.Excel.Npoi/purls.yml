@@ -20,3 +20,4 @@
 - pkg:nuget/Linger.Excel.Npoi@0.9.8
 - pkg:nuget/Linger.Excel.Npoi@1.2.0-preview
 - pkg:nuget/Linger.Excel.Npoi@1.4.4-preview
+- pkg:nuget/Linger.Excel.Npoi@1.5.2-preview

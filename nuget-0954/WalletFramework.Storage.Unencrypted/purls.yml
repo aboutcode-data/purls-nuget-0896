@@ -13,3 +13,4 @@
 - pkg:nuget/WalletFramework.Storage.Unencrypted@3.0.0-rc.1
 - pkg:nuget/WalletFramework.Storage.Unencrypted@3.0.1-dev.1046
 - pkg:nuget/WalletFramework.Storage.Unencrypted@3.0.1-dev.1055
+- pkg:nuget/WalletFramework.Storage.Unencrypted@3.1.0-rc.1

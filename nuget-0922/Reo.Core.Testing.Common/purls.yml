@@ -23,3 +23,6 @@
 - pkg:nuget/Reo.Core.Testing.Common@10.0.239
 - pkg:nuget/Reo.Core.Testing.Common@10.0.248
 - pkg:nuget/Reo.Core.Testing.Common@10.0.250
+- pkg:nuget/Reo.Core.Testing.Common@10.0.264
+- pkg:nuget/Reo.Core.Testing.Common@10.0.265
+- pkg:nuget/Reo.Core.Testing.Common@10.0.266

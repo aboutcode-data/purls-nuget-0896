@@ -1,1 +1,7 @@
 - pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.0.0
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.2.8
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.2.9
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.5.0
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.5.1
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@2.5.3
+- pkg:nuget/NovaCore.Agents.Providers.Anthropic@3.1.4

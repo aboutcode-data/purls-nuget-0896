@@ -78,3 +78,4 @@
 - pkg:nuget/ConductorSharp.Engine@3.7.1
 - pkg:nuget/ConductorSharp.Engine@3.7.1-alpha.1
 - pkg:nuget/ConductorSharp.Engine@3.7.2-alpha.1
+- pkg:nuget/ConductorSharp.Engine@3.7.3-alpha.1

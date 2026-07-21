@@ -50,6 +50,7 @@
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.56
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.6
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.64
+- pkg:nuget/Ies.LogoApp.HttpApi@1.0.68
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.7
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.8
 - pkg:nuget/Ies.LogoApp.HttpApi@1.0.9

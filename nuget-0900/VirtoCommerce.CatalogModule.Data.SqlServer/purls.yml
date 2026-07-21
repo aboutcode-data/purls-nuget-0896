@@ -9,6 +9,7 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1019.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1020.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1023.0
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.1037.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.256.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.256.0-alpha.2065
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.SqlServer@3.257.0

@@ -32,6 +32,7 @@
 - pkg:nuget/Intent.Modules.Common.CSharp@3.10.2
 - pkg:nuget/Intent.Modules.Common.CSharp@3.10.7
 - pkg:nuget/Intent.Modules.Common.CSharp@3.10.8
+- pkg:nuget/Intent.Modules.Common.CSharp@3.10.9
 - pkg:nuget/Intent.Modules.Common.CSharp@3.2.0
 - pkg:nuget/Intent.Modules.Common.CSharp@3.2.1
 - pkg:nuget/Intent.Modules.Common.CSharp@3.2.10

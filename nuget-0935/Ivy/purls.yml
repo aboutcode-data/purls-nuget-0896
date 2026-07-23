@@ -179,3 +179,4 @@
 - pkg:nuget/Ivy@1.2.57-pre-20260518160603
 - pkg:nuget/Ivy@1.2.66
 - pkg:nuget/Ivy@1.2.68
+- pkg:nuget/Ivy@1.3.12

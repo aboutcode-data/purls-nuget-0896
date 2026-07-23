@@ -44,3 +44,5 @@
 - pkg:nuget/CosmoSQLClient.MsSql@6.69.0
 - pkg:nuget/CosmoSQLClient.MsSql@6.80.0
 - pkg:nuget/CosmoSQLClient.MsSql@6.96.0
+- pkg:nuget/CosmoSQLClient.MsSql@6.98.0
+- pkg:nuget/CosmoSQLClient.MsSql@6.98.0-r2

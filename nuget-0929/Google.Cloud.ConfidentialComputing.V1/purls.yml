@@ -4,6 +4,7 @@
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.0.0-beta03
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.0.0-beta04
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.1.0
+- pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.12.0
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.2.0
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.3.0
 - pkg:nuget/Google.Cloud.ConfidentialComputing.V1@1.4.0

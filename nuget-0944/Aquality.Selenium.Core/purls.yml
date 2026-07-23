@@ -68,3 +68,4 @@
 - pkg:nuget/Aquality.Selenium.Core@3.4.0
 - pkg:nuget/Aquality.Selenium.Core@3.5.0
 - pkg:nuget/Aquality.Selenium.Core@4.0.0
+- pkg:nuget/Aquality.Selenium.Core@4.8.0

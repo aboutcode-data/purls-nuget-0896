@@ -18,3 +18,5 @@
 - pkg:nuget/AlibabaCloud.SDK.Qualitycheck20190115@8.3.0
 - pkg:nuget/AlibabaCloud.SDK.Qualitycheck20190115@8.4.0
 - pkg:nuget/AlibabaCloud.SDK.Qualitycheck20190115@8.4.1
+- pkg:nuget/AlibabaCloud.SDK.Qualitycheck20190115@9.1.1
+- pkg:nuget/AlibabaCloud.SDK.Qualitycheck20190115@9.2.0

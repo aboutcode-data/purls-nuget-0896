@@ -1,2 +1,5 @@
+- pkg:nuget/DevExpress.Win.Gauges@25.1.12
 - pkg:nuget/DevExpress.Win.Gauges@25.1.6
 - pkg:nuget/DevExpress.Win.Gauges@25.1.7
+- pkg:nuget/DevExpress.Win.Gauges@26.1.2-beta
+- pkg:nuget/DevExpress.Win.Gauges@26.1.3

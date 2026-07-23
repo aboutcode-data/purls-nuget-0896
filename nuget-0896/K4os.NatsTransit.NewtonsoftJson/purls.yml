@@ -1,7 +1,11 @@
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.1
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.2
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.3
+- pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.34
+- pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.35
+- pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.36
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.4
+- pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.41
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.5
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.6
 - pkg:nuget/K4os.NatsTransit.NewtonsoftJson@0.0.7

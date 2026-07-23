@@ -5,6 +5,7 @@
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.12
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.13
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.15
+- pkg:nuget/HzCache.RedisIDistributedCache@0.0.18-beta-1
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.5
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.6
 - pkg:nuget/HzCache.RedisIDistributedCache@0.0.7

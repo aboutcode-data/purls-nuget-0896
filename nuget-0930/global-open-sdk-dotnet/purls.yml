@@ -5,4 +5,6 @@
 - pkg:nuget/global-open-sdk-dotnet@2.1.0
 - pkg:nuget/global-open-sdk-dotnet@2.1.1
 - pkg:nuget/global-open-sdk-dotnet@2.1.20
+- pkg:nuget/global-open-sdk-dotnet@2.1.27
+- pkg:nuget/global-open-sdk-dotnet@2.1.28
 - pkg:nuget/global-open-sdk-dotnet@2.1.4

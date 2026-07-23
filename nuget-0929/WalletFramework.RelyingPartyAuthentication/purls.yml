@@ -1,1 +1,3 @@
 - pkg:nuget/WalletFramework.RelyingPartyAuthentication@3.0.1-dev.1046
+- pkg:nuget/WalletFramework.RelyingPartyAuthentication@3.0.1-dev.1055
+- pkg:nuget/WalletFramework.RelyingPartyAuthentication@3.1.0-rc.1

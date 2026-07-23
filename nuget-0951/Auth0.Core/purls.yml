@@ -107,6 +107,7 @@
 - pkg:nuget/Auth0.Core@7.4.0
 - pkg:nuget/Auth0.Core@7.40.0
 - pkg:nuget/Auth0.Core@7.41.0
+- pkg:nuget/Auth0.Core@7.48.0
 - pkg:nuget/Auth0.Core@7.5.0
 - pkg:nuget/Auth0.Core@7.5.1
 - pkg:nuget/Auth0.Core@7.6.0

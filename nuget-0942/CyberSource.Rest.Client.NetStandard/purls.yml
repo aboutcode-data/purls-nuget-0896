@@ -42,8 +42,15 @@
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.46
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.47
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.48
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.49
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.5
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.50
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.51
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.52
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.53
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.54
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.55
+- pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.56
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.6
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.7
 - pkg:nuget/CyberSource.Rest.Client.NetStandard@0.0.1.8

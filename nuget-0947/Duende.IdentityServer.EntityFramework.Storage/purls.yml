@@ -113,3 +113,4 @@
 - pkg:nuget/Duende.IdentityServer.EntityFramework.Storage@8.0.0
 - pkg:nuget/Duende.IdentityServer.EntityFramework.Storage@8.0.0-preview.6
 - pkg:nuget/Duende.IdentityServer.EntityFramework.Storage@8.0.3
+- pkg:nuget/Duende.IdentityServer.EntityFramework.Storage@8.1.0-preview.1

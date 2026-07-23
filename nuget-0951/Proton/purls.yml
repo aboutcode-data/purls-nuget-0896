@@ -5,3 +5,4 @@
 - pkg:nuget/Proton@0.2.0
 - pkg:nuget/Proton@1.0.0
 - pkg:nuget/Proton@1.0.1
+- pkg:nuget/Proton@1.0.10

@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.Caching@10.0.0
+- pkg:nuget/Milvasoft.Caching@10.1.3
 - pkg:nuget/Milvasoft.Caching@8.1.10
 - pkg:nuget/Milvasoft.Caching@8.1.11
 - pkg:nuget/Milvasoft.Caching@8.1.12

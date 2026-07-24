@@ -12,3 +12,7 @@
 - pkg:nuget/DotNetProjects.S7CommPlusDriver@1.0.8
 - pkg:nuget/DotNetProjects.S7CommPlusDriver@1.0.9
 - pkg:nuget/DotNetProjects.S7CommPlusDriver@1.1.0
+- pkg:nuget/DotNetProjects.S7CommPlusDriver@2.0.0
+- pkg:nuget/DotNetProjects.S7CommPlusDriver@2.17.0
+- pkg:nuget/DotNetProjects.S7CommPlusDriver@2.2.0
+- pkg:nuget/DotNetProjects.S7CommPlusDriver@2.20.0

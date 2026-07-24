@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.TaskManagement.Data@3.1003.0
 - pkg:nuget/VirtoCommerce.TaskManagement.Data@3.200.0-alpha.10
 - pkg:nuget/VirtoCommerce.TaskManagement.Data@3.200.0-alpha.11
 - pkg:nuget/VirtoCommerce.TaskManagement.Data@3.200.0-alpha.12

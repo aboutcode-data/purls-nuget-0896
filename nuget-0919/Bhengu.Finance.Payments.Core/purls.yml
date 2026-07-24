@@ -4,3 +4,5 @@
 - pkg:nuget/Bhengu.Finance.Payments.Core@1.0.25
 - pkg:nuget/Bhengu.Finance.Payments.Core@1.0.29
 - pkg:nuget/Bhengu.Finance.Payments.Core@1.0.31
+- pkg:nuget/Bhengu.Finance.Payments.Core@2.0.0-preview.5
+- pkg:nuget/Bhengu.Finance.Payments.Core@2.0.0-preview.7

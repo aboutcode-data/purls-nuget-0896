@@ -1,4 +1,12 @@
 - pkg:nuget/NOF.UI@10.5.0-nightly.1243093.937c7b3
+- pkg:nuget/NOF.UI@10.6.0
+- pkg:nuget/NOF.UI@10.6.0-nightly.1253375.5b42a45
+- pkg:nuget/NOF.UI@10.6.0-nightly.1275187.b146f14
+- pkg:nuget/NOF.UI@10.6.0-nightly.1280622.60d7027
+- pkg:nuget/NOF.UI@11.0.0-nightly.1301051.0eb242a0
+- pkg:nuget/NOF.UI@11.0.0-nightly.1316659.06eff8ad
+- pkg:nuget/NOF.UI@11.0.0-nightly.1321031.11aae520
+- pkg:nuget/NOF.UI@11.0.0-nightly.1336983.84322224
 - pkg:nuget/NOF.UI@8.0.0-nightly.1182812.d2b8f81
 - pkg:nuget/NOF.UI@8.0.0-nightly.1183027.81361be
 - pkg:nuget/NOF.UI@8.0.0-nightly.1184586.7831d99

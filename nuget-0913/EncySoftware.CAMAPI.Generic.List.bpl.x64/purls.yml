@@ -3,3 +3,4 @@
 - pkg:nuget/EncySoftware.CAMAPI.Generic.List.bpl.x64@1.2.0
 - pkg:nuget/EncySoftware.CAMAPI.Generic.List.bpl.x64@1.2.1%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.CAMAPI.Generic.List.bpl.x64@2.0.0
+- pkg:nuget/EncySoftware.CAMAPI.Generic.List.bpl.x64@3.0.1-rc%2B8034d30b889df8431621046e346fb88de488d0fc

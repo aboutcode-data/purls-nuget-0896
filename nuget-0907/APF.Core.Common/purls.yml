@@ -4,6 +4,7 @@
 - pkg:nuget/APF.Core.Common@1.0.0-Beta-04
 - pkg:nuget/APF.Core.Common@1.0.0-Beta-05
 - pkg:nuget/APF.Core.Common@1.0.0-Beta-06
+- pkg:nuget/APF.Core.Common@10.0.0-Beta-02
 - pkg:nuget/APF.Core.Common@8.0.0.1
 - pkg:nuget/APF.Core.Common@8.0.0.1-Beta-01
 - pkg:nuget/APF.Core.Common@8.0.0.10

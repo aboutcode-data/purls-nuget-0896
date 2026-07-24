@@ -399,3 +399,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Api.Android@9.6.677-nightly
 - pkg:nuget/Xamarin.DocumentReader.Api.Android@9.6.710-rc
 - pkg:nuget/Xamarin.DocumentReader.Api.Android@9.7.698-rc
+- pkg:nuget/Xamarin.DocumentReader.Api.Android@9.7.723-beta

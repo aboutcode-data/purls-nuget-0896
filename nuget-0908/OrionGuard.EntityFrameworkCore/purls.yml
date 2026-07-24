@@ -1,0 +1,5 @@
+- pkg:nuget/OrionGuard.EntityFrameworkCore@6.4.2
+- pkg:nuget/OrionGuard.EntityFrameworkCore@6.5.11
+- pkg:nuget/OrionGuard.EntityFrameworkCore@6.5.27
+- pkg:nuget/OrionGuard.EntityFrameworkCore@6.5.8
+- pkg:nuget/OrionGuard.EntityFrameworkCore@6.6.2

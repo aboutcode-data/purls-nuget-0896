@@ -21,3 +21,4 @@
 - pkg:nuget/DistributedMessage4RabbitMQ@1.0.8
 - pkg:nuget/DistributedMessage4RabbitMQ@1.0.9
 - pkg:nuget/DistributedMessage4RabbitMQ@2.0.3
+- pkg:nuget/DistributedMessage4RabbitMQ@2.1.0

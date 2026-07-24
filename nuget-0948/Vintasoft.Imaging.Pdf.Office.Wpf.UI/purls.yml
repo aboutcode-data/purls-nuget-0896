@@ -32,6 +32,7 @@
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@12.1.0.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@12.1.1.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@12.1.2.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@12.1.3.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@8.0.0.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@8.0.1.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Office.Wpf.UI@8.0.10.1

@@ -449,6 +449,8 @@
 - pkg:nuget/SDI.API.Servicios.DTO@38.3.1
 - pkg:nuget/SDI.API.Servicios.DTO@38.3.2
 - pkg:nuget/SDI.API.Servicios.DTO@38.3.3
+- pkg:nuget/SDI.API.Servicios.DTO@38.31.0
+- pkg:nuget/SDI.API.Servicios.DTO@38.31.1
 - pkg:nuget/SDI.API.Servicios.DTO@38.4.1
 - pkg:nuget/SDI.API.Servicios.DTO@38.5.1
 - pkg:nuget/SDI.API.Servicios.DTO@38.6.0

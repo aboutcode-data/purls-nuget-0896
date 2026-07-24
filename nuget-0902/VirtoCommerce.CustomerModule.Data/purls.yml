@@ -60,6 +60,7 @@
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.1014.0-alpha.985-vcst-5239
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.1014.0-alpha.992-vcst-5239
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.1015.0
+- pkg:nuget/VirtoCommerce.CustomerModule.Data@3.1020.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.11.0-alpha.515
 - pkg:nuget/VirtoCommerce.CustomerModule.Data@3.11.0-alpha.516

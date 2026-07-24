@@ -10,3 +10,4 @@
 - pkg:nuget/Stella.Ergosfare.Commands.Abstractions@0.0.9-e
 - pkg:nuget/Stella.Ergosfare.Commands.Abstractions@0.1.2-e
 - pkg:nuget/Stella.Ergosfare.Commands.Abstractions@0.1.3-e
+- pkg:nuget/Stella.Ergosfare.Commands.Abstractions@2.0.0-preview

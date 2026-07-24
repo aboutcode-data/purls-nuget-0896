@@ -86,3 +86,10 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3395-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3397-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3398-main
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3415-csproj-write-tr
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3416-main
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3417-csproj-write-tr
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3418-main
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3433-update-dependen
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.7.3434-main
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.8.3440-unit-tests-buil

@@ -28,6 +28,7 @@
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.11.0-beta.2
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.12.0-beta.1
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.13.0-beta.1
+- pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.17.0
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.6.0-beta.1
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.6.0-beta.2
 - pkg:nuget/OpenTelemetry.Instrumentation.AspNet@1.7.0-beta.1

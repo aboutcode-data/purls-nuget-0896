@@ -31,6 +31,7 @@
 - pkg:nuget/Uniphar.PlatformEvents@7.0.0
 - pkg:nuget/Uniphar.PlatformEvents@8.0.0
 - pkg:nuget/Uniphar.PlatformEvents@8.1.0
+- pkg:nuget/Uniphar.PlatformEvents@8.12.0
 - pkg:nuget/Uniphar.PlatformEvents@8.2.0
 - pkg:nuget/Uniphar.PlatformEvents@8.3.0
 - pkg:nuget/Uniphar.PlatformEvents@8.4.0

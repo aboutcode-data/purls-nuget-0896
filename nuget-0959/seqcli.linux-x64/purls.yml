@@ -4,3 +4,7 @@
 - pkg:nuget/seqcli.linux-x64@2025.2.2488-dev-02488
 - pkg:nuget/seqcli.linux-x64@2025.2.2489-dev-02489
 - pkg:nuget/seqcli.linux-x64@2026.1.2490-dev-02490
+- pkg:nuget/seqcli.linux-x64@2026.1.2519-dev-02519
+- pkg:nuget/seqcli.linux-x64@2026.1.2520-dev-02520
+- pkg:nuget/seqcli.linux-x64@2026.1.2528-dev-02528
+- pkg:nuget/seqcli.linux-x64@2026.1.2530-dev-02530

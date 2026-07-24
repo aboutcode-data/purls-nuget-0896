@@ -30,6 +30,7 @@
 - pkg:nuget/CosmoSQLClient.MySql@5.21.0
 - pkg:nuget/CosmoSQLClient.MySql@5.22.0
 - pkg:nuget/CosmoSQLClient.MySql@6.1.7
+- pkg:nuget/CosmoSQLClient.MySql@6.102.0
 - pkg:nuget/CosmoSQLClient.MySql@6.2.2
 - pkg:nuget/CosmoSQLClient.MySql@6.2.3
 - pkg:nuget/CosmoSQLClient.MySql@6.2.5

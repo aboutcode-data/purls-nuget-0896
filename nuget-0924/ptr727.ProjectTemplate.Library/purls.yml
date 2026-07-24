@@ -1,4 +1,6 @@
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.104
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.11-g2b15ea1021
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.118
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.12-g4f5735b7e1
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.13-g658a4c367d
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.14-g9c1ea66c62
@@ -13,3 +15,10 @@
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.5-g1e66130940
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.55-gbd3876e3dc
 - pkg:nuget/ptr727.ProjectTemplate.Library@1.0.57
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.58-g427b88a37b
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.59-gad39ee1061
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.60
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.62
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.82
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.90
+- pkg:nuget/ptr727.ProjectTemplate.Library@1.0.93

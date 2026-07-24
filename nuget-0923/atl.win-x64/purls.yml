@@ -1,3 +1,7 @@
 - pkg:nuget/atl.win-x64@0.1.0-ci.30
 - pkg:nuget/atl.win-x64@0.1.0-ci.32
 - pkg:nuget/atl.win-x64@0.1.0-ci.34
+- pkg:nuget/atl.win-x64@0.1.0-ci.43.42b8158
+- pkg:nuget/atl.win-x64@0.2.0-ci.65.a1b7208
+- pkg:nuget/atl.win-x64@0.2.0-ci.66.ed1a310
+- pkg:nuget/atl.win-x64@0.2.0-ci.76.2a0af61

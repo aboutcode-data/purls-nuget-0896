@@ -429,3 +429,5 @@
 - pkg:nuget/Soenneker.Hashing.BCrypt@4.0.510
 - pkg:nuget/Soenneker.Hashing.BCrypt@4.0.512
 - pkg:nuget/Soenneker.Hashing.BCrypt@4.0.524
+- pkg:nuget/Soenneker.Hashing.BCrypt@4.0.526
+- pkg:nuget/Soenneker.Hashing.BCrypt@4.0.527

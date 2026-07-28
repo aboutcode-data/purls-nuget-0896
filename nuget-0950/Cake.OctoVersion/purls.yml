@@ -352,3 +352,4 @@
 - pkg:nuget/Cake.OctoVersion@1.0.7
 - pkg:nuget/Cake.OctoVersion@1.0.8
 - pkg:nuget/Cake.OctoVersion@1.0.9
+- pkg:nuget/Cake.OctoVersion@1.1.44

@@ -670,3 +670,4 @@
 - pkg:nuget/Soenneker.SignalR.Web.Client@4.0.775
 - pkg:nuget/Soenneker.SignalR.Web.Client@4.0.780
 - pkg:nuget/Soenneker.SignalR.Web.Client@4.0.789
+- pkg:nuget/Soenneker.SignalR.Web.Client@4.0.793

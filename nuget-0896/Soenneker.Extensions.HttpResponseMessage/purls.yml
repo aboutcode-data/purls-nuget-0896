@@ -2190,3 +2190,5 @@
 - pkg:nuget/Soenneker.Extensions.HttpResponseMessage@4.0.2333
 - pkg:nuget/Soenneker.Extensions.HttpResponseMessage@4.0.2364
 - pkg:nuget/Soenneker.Extensions.HttpResponseMessage@4.0.2368
+- pkg:nuget/Soenneker.Extensions.HttpResponseMessage@4.0.2372
+- pkg:nuget/Soenneker.Extensions.HttpResponseMessage@4.0.2373

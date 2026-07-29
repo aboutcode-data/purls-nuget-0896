@@ -52,10 +52,12 @@
 - pkg:nuget/MySql.EntityFrameworkCore@8.0.17%2BMySQL9.4.0
 - pkg:nuget/MySql.EntityFrameworkCore@8.0.2%2BMySQL8.4.0
 - pkg:nuget/MySql.EntityFrameworkCore@8.0.22%2BMySQL9.6.0
+- pkg:nuget/MySql.EntityFrameworkCore@8.0.28%2BMySQL26.7.0
 - pkg:nuget/MySql.EntityFrameworkCore@8.0.5%2BMySQL9.0.0
 - pkg:nuget/MySql.EntityFrameworkCore@8.0.8%2BMySQL9.1.0
 - pkg:nuget/MySql.EntityFrameworkCore@9.0.0%2BMySQL9.2.0
 - pkg:nuget/MySql.EntityFrameworkCore@9.0.0-preview%2BMySQL9.1.0
 - pkg:nuget/MySql.EntityFrameworkCore@9.0.11%2BMySQL9.6.0
+- pkg:nuget/MySql.EntityFrameworkCore@9.0.17%2BMySQL26.7.0
 - pkg:nuget/MySql.EntityFrameworkCore@9.0.3%2BMySQL9.3.0
 - pkg:nuget/MySql.EntityFrameworkCore@9.0.6%2BMySQL9.4.0

@@ -226,3 +226,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice.Abstractions@6.0.2
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice.Abstractions@6.0.3
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice.Abstractions@6.1.2
+- pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice.Abstractions@6.1.4

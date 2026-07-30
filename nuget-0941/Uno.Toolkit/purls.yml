@@ -432,5 +432,6 @@
 - pkg:nuget/Uno.Toolkit@9.0.0-dev.22
 - pkg:nuget/Uno.Toolkit@9.0.0-dev.35
 - pkg:nuget/Uno.Toolkit@9.0.0-dev.7
+- pkg:nuget/Uno.Toolkit@9.0.3
 - pkg:nuget/Uno.Toolkit@9.1.0-dev.1
 - pkg:nuget/Uno.Toolkit@9.1.0-dev.2

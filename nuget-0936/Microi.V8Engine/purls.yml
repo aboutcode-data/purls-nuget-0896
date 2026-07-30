@@ -43,3 +43,4 @@
 - pkg:nuget/Microi.V8Engine@6.4.8
 - pkg:nuget/Microi.V8Engine@6.5.9
 - pkg:nuget/Microi.V8Engine@6.6.2
+- pkg:nuget/Microi.V8Engine@6.8.6

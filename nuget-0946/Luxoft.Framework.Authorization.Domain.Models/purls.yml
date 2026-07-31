@@ -271,3 +271,4 @@
 - pkg:nuget/Luxoft.Framework.Authorization.Domain.Models@27.3.5
 - pkg:nuget/Luxoft.Framework.Authorization.Domain.Models@27.4.4
 - pkg:nuget/Luxoft.Framework.Authorization.Domain.Models@27.4.5
+- pkg:nuget/Luxoft.Framework.Authorization.Domain.Models@27.4.6

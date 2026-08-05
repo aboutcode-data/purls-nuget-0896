@@ -98,6 +98,7 @@
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@13.0.126
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@14.0.17
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@14.2.41
+- pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@14.3.4
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@7.0.10
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@7.0.12
 - pkg:nuget/ActualLab.Fusion.EntityFramework.Redis@7.0.13

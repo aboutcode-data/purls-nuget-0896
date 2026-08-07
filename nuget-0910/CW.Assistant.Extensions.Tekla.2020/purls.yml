@@ -66,6 +66,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.7.0-alpha.1
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.7.0-alpha.28
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.7.0-sync-central-exception-handling.1
+- pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.8.0
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.8.0-PullRequest293.33
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.8.0-PullRequest294.3
 - pkg:nuget/CW.Assistant.Extensions.Tekla.2020@26.8.0-PullRequest295.8

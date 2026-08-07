@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.10
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.111
+- pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.117
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.26
 - pkg:nuget/Soenneker.Pipedrive.OpenApiClientUtil@4.0.3

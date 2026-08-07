@@ -250,3 +250,4 @@
 - pkg:nuget/Reimaginate.DataHub.TestFramework.XUnit@1.3.0-rc.8
 - pkg:nuget/Reimaginate.DataHub.TestFramework.XUnit@1.3.0-rc.80
 - pkg:nuget/Reimaginate.DataHub.TestFramework.XUnit@1.4.0
+- pkg:nuget/Reimaginate.DataHub.TestFramework.XUnit@1.4.1

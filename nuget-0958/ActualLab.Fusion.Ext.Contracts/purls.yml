@@ -99,6 +99,7 @@
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.0.17
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.2.41
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.3.10
+- pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.3.11
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.3.4
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@14.3.8
 - pkg:nuget/ActualLab.Fusion.Ext.Contracts@7.0.10

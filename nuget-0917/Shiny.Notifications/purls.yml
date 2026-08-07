@@ -389,3 +389,4 @@
 - pkg:nuget/Shiny.Notifications@5.1.0
 - pkg:nuget/Shiny.Notifications@5.2.4
 - pkg:nuget/Shiny.Notifications@5.2.5
+- pkg:nuget/Shiny.Notifications@5.4.0-beta-0078

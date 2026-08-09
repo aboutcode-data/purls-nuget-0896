@@ -41,3 +41,5 @@
 - pkg:nuget/Lombiq.Hosting.MediaTheme.Targets@8.0.1-alpha.5.nest-562
 - pkg:nuget/Lombiq.Hosting.MediaTheme.Targets@8.0.1-alpha.6.nest-562
 - pkg:nuget/Lombiq.Hosting.MediaTheme.Targets@8.0.1-alpha.7.olys-29
+- pkg:nuget/Lombiq.Hosting.MediaTheme.Targets@9.0.1-alpha.1.osoe-925
+- pkg:nuget/Lombiq.Hosting.MediaTheme.Targets@9.0.1-alpha.2.nest-608

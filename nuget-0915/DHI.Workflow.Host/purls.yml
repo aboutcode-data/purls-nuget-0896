@@ -40,3 +40,4 @@
 - pkg:nuget/DHI.Workflow.Host@5.1.1
 - pkg:nuget/DHI.Workflow.Host@5.1.2-RC03
 - pkg:nuget/DHI.Workflow.Host@5.2.1
+- pkg:nuget/DHI.Workflow.Host@6.2.0-rc01

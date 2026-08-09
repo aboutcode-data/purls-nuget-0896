@@ -44,6 +44,7 @@
 - pkg:nuget/UltronSetting.AppService@1.0.71
 - pkg:nuget/UltronSetting.AppService@1.0.72
 - pkg:nuget/UltronSetting.AppService@1.0.73
+- pkg:nuget/UltronSetting.AppService@10.0.8
 - pkg:nuget/UltronSetting.AppService@8.0.0
 - pkg:nuget/UltronSetting.AppService@8.0.1
 - pkg:nuget/UltronSetting.AppService@8.0.10

@@ -5,3 +5,4 @@
 - pkg:nuget/SrcSet.Core@4.0.0
 - pkg:nuget/SrcSet.Core@4.1.0
 - pkg:nuget/SrcSet.Core@5.0.0
+- pkg:nuget/SrcSet.Core@6.0.0

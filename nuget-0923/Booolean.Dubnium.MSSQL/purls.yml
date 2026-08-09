@@ -39,3 +39,4 @@
 - pkg:nuget/Booolean.Dubnium.MSSQL@1.1.51
 - pkg:nuget/Booolean.Dubnium.MSSQL@1.1.52
 - pkg:nuget/Booolean.Dubnium.MSSQL@1.1.76
+- pkg:nuget/Booolean.Dubnium.MSSQL@1.1.86

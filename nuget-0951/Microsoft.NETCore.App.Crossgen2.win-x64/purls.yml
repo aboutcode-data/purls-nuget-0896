@@ -158,6 +158,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.10
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.16
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.19
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.win-x64@9.0.4

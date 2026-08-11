@@ -229,6 +229,7 @@
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.10
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.13
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.16
+- pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.19
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.2
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.3
 - pkg:nuget/Microsoft.Data.Sqlite.Core@9.0.4

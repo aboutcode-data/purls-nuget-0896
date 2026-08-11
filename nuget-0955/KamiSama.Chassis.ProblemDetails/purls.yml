@@ -1,5 +1,6 @@
 - pkg:nuget/KamiSama.Chassis.ProblemDetails@10.0.0
 - pkg:nuget/KamiSama.Chassis.ProblemDetails@10.0.10.1
+- pkg:nuget/KamiSama.Chassis.ProblemDetails@10.0.11
 - pkg:nuget/KamiSama.Chassis.ProblemDetails@10.0.7
 - pkg:nuget/KamiSama.Chassis.ProblemDetails@2.10.0
 - pkg:nuget/KamiSama.Chassis.ProblemDetails@2.10.1

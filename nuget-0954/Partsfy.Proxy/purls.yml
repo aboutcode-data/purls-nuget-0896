@@ -122,3 +122,5 @@
 - pkg:nuget/Partsfy.Proxy@1.119.2
 - pkg:nuget/Partsfy.Proxy@1.120.0
 - pkg:nuget/Partsfy.Proxy@1.120.1
+- pkg:nuget/Partsfy.Proxy@1.120.2
+- pkg:nuget/Partsfy.Proxy@1.121.0

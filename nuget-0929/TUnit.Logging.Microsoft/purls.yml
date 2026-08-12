@@ -16,3 +16,4 @@
 - pkg:nuget/TUnit.Logging.Microsoft@1.57.17
 - pkg:nuget/TUnit.Logging.Microsoft@1.58.0
 - pkg:nuget/TUnit.Logging.Microsoft@1.63.0
+- pkg:nuget/TUnit.Logging.Microsoft@1.64.13

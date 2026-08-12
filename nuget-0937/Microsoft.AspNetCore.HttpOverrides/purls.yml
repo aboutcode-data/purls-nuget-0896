@@ -29,5 +29,6 @@
 - pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.3.10
+- pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.3.12
 - pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.3.3
 - pkg:nuget/Microsoft.AspNetCore.HttpOverrides@2.3.5

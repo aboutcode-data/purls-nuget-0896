@@ -27,6 +27,7 @@
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.14.2
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.14.2-AQI-9326
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.15.0-AQI-11419-03
+- pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.15.0-AQI-11419-06
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.2.0
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.3.0
 - pkg:nuget/Aquarius.ONE.Shared.IngestDataSourceDrivers@1.3.1

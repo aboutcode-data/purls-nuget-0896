@@ -30,6 +30,8 @@
 - pkg:nuget/Kommander@0.2.4
 - pkg:nuget/Kommander@0.2.5
 - pkg:nuget/Kommander@0.2.6
+- pkg:nuget/Kommander@0.22.1
+- pkg:nuget/Kommander@0.22.4
 - pkg:nuget/Kommander@0.3.0
 - pkg:nuget/Kommander@0.3.1
 - pkg:nuget/Kommander@0.3.2
@@ -104,3 +106,5 @@
 - pkg:nuget/Kommander@0.9.4
 - pkg:nuget/Kommander@0.9.5
 - pkg:nuget/Kommander@0.9.6
+- pkg:nuget/Kommander@1.0.10
+- pkg:nuget/Kommander@1.0.3

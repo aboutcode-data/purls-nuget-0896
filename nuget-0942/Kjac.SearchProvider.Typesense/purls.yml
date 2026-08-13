@@ -1,3 +1,4 @@
 - pkg:nuget/Kjac.SearchProvider.Typesense@1.0.0-alpha.1
 - pkg:nuget/Kjac.SearchProvider.Typesense@1.0.0-alpha.5
 - pkg:nuget/Kjac.SearchProvider.Typesense@1.0.0-alpha.8
+- pkg:nuget/Kjac.SearchProvider.Typesense@1.0.0-rc.2

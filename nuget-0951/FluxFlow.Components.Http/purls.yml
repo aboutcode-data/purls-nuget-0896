@@ -1,0 +1,3 @@
+- pkg:nuget/FluxFlow.Components.Http@0.2.0-alpha.1
+- pkg:nuget/FluxFlow.Components.Http@1.2.0
+- pkg:nuget/FluxFlow.Components.Http@3.0.2

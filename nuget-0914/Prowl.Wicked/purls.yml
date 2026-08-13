@@ -1,2 +1,5 @@
 - pkg:nuget/Prowl.Wicked@2.3.1
 - pkg:nuget/Prowl.Wicked@2.3.4
+- pkg:nuget/Prowl.Wicked@2.8.3
+- pkg:nuget/Prowl.Wicked@2.8.5
+- pkg:nuget/Prowl.Wicked@2.8.6

@@ -1,2 +1,4 @@
+- pkg:nuget/NiceEntry@1.10.3
+- pkg:nuget/NiceEntry@1.11.2
 - pkg:nuget/NiceEntry@1.4.0
 - pkg:nuget/NiceEntry@1.4.1

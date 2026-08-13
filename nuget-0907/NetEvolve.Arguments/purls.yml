@@ -24,3 +24,5 @@
 - pkg:nuget/NetEvolve.Arguments@1.3.84
 - pkg:nuget/NetEvolve.Arguments@2.0.17
 - pkg:nuget/NetEvolve.Arguments@3.2.110
+- pkg:nuget/NetEvolve.Arguments@3.3.0
+- pkg:nuget/NetEvolve.Arguments@3.4.0

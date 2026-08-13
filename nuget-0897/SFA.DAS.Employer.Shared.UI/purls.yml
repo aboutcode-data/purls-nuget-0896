@@ -23,6 +23,7 @@
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.161
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.18-prerelease-1
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.188-prerelease-6
+- pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.203
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.23
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.24
 - pkg:nuget/SFA.DAS.Employer.Shared.UI@17.1.29

@@ -1,0 +1,10 @@
+- pkg:nuget/Marten.PgVector@9.12.0-alpha.1
+- pkg:nuget/Marten.PgVector@9.17.1
+- pkg:nuget/Marten.PgVector@9.22.1
+- pkg:nuget/Marten.PgVector@9.23.0
+- pkg:nuget/Marten.PgVector@9.4.0
+- pkg:nuget/Marten.PgVector@9.5.0
+- pkg:nuget/Marten.PgVector@9.6.0
+- pkg:nuget/Marten.PgVector@9.7.0
+- pkg:nuget/Marten.PgVector@9.7.2
+- pkg:nuget/Marten.PgVector@9.7.3

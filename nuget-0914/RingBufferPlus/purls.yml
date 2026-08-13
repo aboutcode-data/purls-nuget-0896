@@ -11,3 +11,5 @@
 - pkg:nuget/RingBufferPlus@3.1.0
 - pkg:nuget/RingBufferPlus@3.2.0
 - pkg:nuget/RingBufferPlus@4.0.0
+- pkg:nuget/RingBufferPlus@4.0.1
+- pkg:nuget/RingBufferPlus@5.0.0

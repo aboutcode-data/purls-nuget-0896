@@ -1,4 +1,5 @@
 - pkg:nuget/SimpleDiscordDotNet@1.0.2
 - pkg:nuget/SimpleDiscordDotNet@1.1.2
 - pkg:nuget/SimpleDiscordDotNet@1.10.0
+- pkg:nuget/SimpleDiscordDotNet@1.10.16
 - pkg:nuget/SimpleDiscordDotNet@1.10.9

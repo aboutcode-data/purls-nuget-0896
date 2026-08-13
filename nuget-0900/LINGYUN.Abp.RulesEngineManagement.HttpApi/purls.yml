@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.RulesEngineManagement.HttpApi@10.4.0
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.HttpApi@7.1.1.1
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.HttpApi@7.2.1.1
 - pkg:nuget/LINGYUN.Abp.RulesEngineManagement.HttpApi@7.2.2.1

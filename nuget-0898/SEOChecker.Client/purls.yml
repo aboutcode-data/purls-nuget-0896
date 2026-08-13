@@ -10,3 +10,4 @@
 - pkg:nuget/SEOChecker.Client@16.0.2
 - pkg:nuget/SEOChecker.Client@17.0.0
 - pkg:nuget/SEOChecker.Client@17.0.1
+- pkg:nuget/SEOChecker.Client@17.0.5-beta0001

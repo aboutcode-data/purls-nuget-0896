@@ -11,3 +11,6 @@
 - pkg:nuget/Soenneker.Discord.HttpClients@4.0.54
 - pkg:nuget/Soenneker.Discord.HttpClients@4.0.59
 - pkg:nuget/Soenneker.Discord.HttpClients@4.0.6
+- pkg:nuget/Soenneker.Discord.HttpClients@4.0.71
+- pkg:nuget/Soenneker.Discord.HttpClients@4.0.76
+- pkg:nuget/Soenneker.Discord.HttpClients@4.0.80

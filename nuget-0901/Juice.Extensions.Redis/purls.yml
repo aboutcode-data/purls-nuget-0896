@@ -1,4 +1,5 @@
 - pkg:nuget/Juice.Extensions.Redis@10.1.1
+- pkg:nuget/Juice.Extensions.Redis@10.2.3
 - pkg:nuget/Juice.Extensions.Redis@9.0.0-beta.11
 - pkg:nuget/Juice.Extensions.Redis@9.0.1
 - pkg:nuget/Juice.Extensions.Redis@9.3.2

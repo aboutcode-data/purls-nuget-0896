@@ -107,4 +107,5 @@
 - pkg:nuget/Kommander@0.9.5
 - pkg:nuget/Kommander@0.9.6
 - pkg:nuget/Kommander@1.0.10
+- pkg:nuget/Kommander@1.0.19
 - pkg:nuget/Kommander@1.0.3

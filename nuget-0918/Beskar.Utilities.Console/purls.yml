@@ -1,4 +1,5 @@
 - pkg:nuget/Beskar.Utilities.Console@1.1.3
+- pkg:nuget/Beskar.Utilities.Console@10.0.1
 - pkg:nuget/Beskar.Utilities.Console@2.1.2
 - pkg:nuget/Beskar.Utilities.Console@2.1.4
 - pkg:nuget/Beskar.Utilities.Console@2.1.5

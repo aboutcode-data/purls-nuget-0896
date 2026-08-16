@@ -2,3 +2,7 @@
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.33
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.34
 - pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.36
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.59
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.78
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.81
+- pkg:nuget/Innovabit.DotNet.Interceptors.Logging.Serilog@1.0.0.86

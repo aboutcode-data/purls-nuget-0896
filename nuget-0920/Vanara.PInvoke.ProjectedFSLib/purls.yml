@@ -64,3 +64,4 @@
 - pkg:nuget/Vanara.PInvoke.ProjectedFSLib@4.1.6
 - pkg:nuget/Vanara.PInvoke.ProjectedFSLib@4.2.0
 - pkg:nuget/Vanara.PInvoke.ProjectedFSLib@4.2.1
+- pkg:nuget/Vanara.PInvoke.ProjectedFSLib@5.0.7

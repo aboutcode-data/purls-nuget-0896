@@ -2,6 +2,7 @@
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.12.1
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.13.0
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.20.0
+- pkg:nuget/JTechJapan.IntentSystem.Cli@0.22.0
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.3.0
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.3.9
 - pkg:nuget/JTechJapan.IntentSystem.Cli@0.7.0

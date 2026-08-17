@@ -40,3 +40,4 @@
 - pkg:nuget/Nodinite.Serilog.ServiceBusSink@2.0.8
 - pkg:nuget/Nodinite.Serilog.ServiceBusSink@2.0.9
 - pkg:nuget/Nodinite.Serilog.ServiceBusSink@7.3.0
+- pkg:nuget/Nodinite.Serilog.ServiceBusSink@7.9.0

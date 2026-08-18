@@ -339,6 +339,8 @@
 - pkg:nuget/DotNetCore.IoC@19.6.0
 - pkg:nuget/DotNetCore.IoC@19.7.0
 - pkg:nuget/DotNetCore.IoC@19.8.0
+- pkg:nuget/DotNetCore.IoC@20.22.0
+- pkg:nuget/DotNetCore.IoC@20.23.0
 - pkg:nuget/DotNetCore.IoC@5.6.0
 - pkg:nuget/DotNetCore.IoC@5.7.0
 - pkg:nuget/DotNetCore.IoC@5.8.0

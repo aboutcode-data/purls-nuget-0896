@@ -21,3 +21,4 @@
 - pkg:nuget/OrchardCore.Notifications@2.1.8
 - pkg:nuget/OrchardCore.Notifications@2.1.9
 - pkg:nuget/OrchardCore.Notifications@2.2.0
+- pkg:nuget/OrchardCore.Notifications@3.0.0

@@ -52,3 +52,4 @@
 - pkg:nuget/Hl7.Fhir.R4B@6.0.0-alpha2
 - pkg:nuget/Hl7.Fhir.R4B@6.0.0-beta1
 - pkg:nuget/Hl7.Fhir.R4B@6.0.0-rc1
+- pkg:nuget/Hl7.Fhir.R4B@6.4.0

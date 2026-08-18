@@ -35,3 +35,4 @@
 - pkg:nuget/Hl7.Fhir.Specification.Data.R4@6.0.0-alpha2
 - pkg:nuget/Hl7.Fhir.Specification.Data.R4@6.0.0-beta1
 - pkg:nuget/Hl7.Fhir.Specification.Data.R4@6.0.0-rc1
+- pkg:nuget/Hl7.Fhir.Specification.Data.R4@6.4.0

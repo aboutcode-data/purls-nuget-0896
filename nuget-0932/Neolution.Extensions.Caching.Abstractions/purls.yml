@@ -9,3 +9,5 @@
 - pkg:nuget/Neolution.Extensions.Caching.Abstractions@2.1.2
 - pkg:nuget/Neolution.Extensions.Caching.Abstractions@3.0.0-tags-v3-0-0-alp-0001
 - pkg:nuget/Neolution.Extensions.Caching.Abstractions@3.0.0-vnext0012
+- pkg:nuget/Neolution.Extensions.Caching.Abstractions@3.0.0-vnext0013
+- pkg:nuget/Neolution.Extensions.Caching.Abstractions@3.0.0-vnext0017

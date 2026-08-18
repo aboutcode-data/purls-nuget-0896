@@ -47,6 +47,7 @@
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.54-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.55-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.56-alpha
+- pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.57-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.6-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.7-alpha
 - pkg:nuget/MG.BuildingBlock.Infra.EF@0.0.8-alpha

@@ -12,3 +12,4 @@
 - pkg:nuget/OrchardCore.HealthChecks.Abstractions@2.1.8
 - pkg:nuget/OrchardCore.HealthChecks.Abstractions@2.1.9
 - pkg:nuget/OrchardCore.HealthChecks.Abstractions@2.2.0
+- pkg:nuget/OrchardCore.HealthChecks.Abstractions@3.0.0

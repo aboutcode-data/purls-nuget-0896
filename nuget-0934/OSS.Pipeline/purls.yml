@@ -70,3 +70,4 @@
 - pkg:nuget/OSS.Pipeline@3.3.0
 - pkg:nuget/OSS.Pipeline@3.6.3
 - pkg:nuget/OSS.Pipeline@3.6.4
+- pkg:nuget/OSS.Pipeline@3.7.1

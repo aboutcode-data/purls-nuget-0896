@@ -19,3 +19,4 @@
 - pkg:nuget/Lightsoft.SmtpMail@1.0.0.1
 - pkg:nuget/Lightsoft.SmtpMail@1.1.1-preview2
 - pkg:nuget/Lightsoft.SmtpMail@1.1.1-preview3
+- pkg:nuget/Lightsoft.SmtpMail@2.0.1-preview.1

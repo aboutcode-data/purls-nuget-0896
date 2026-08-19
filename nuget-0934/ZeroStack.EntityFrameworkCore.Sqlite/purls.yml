@@ -9,3 +9,5 @@
 - pkg:nuget/ZeroStack.EntityFrameworkCore.Sqlite@2.0.5
 - pkg:nuget/ZeroStack.EntityFrameworkCore.Sqlite@2.0.6
 - pkg:nuget/ZeroStack.EntityFrameworkCore.Sqlite@3.0.7
+- pkg:nuget/ZeroStack.EntityFrameworkCore.Sqlite@3.10.1
+- pkg:nuget/ZeroStack.EntityFrameworkCore.Sqlite@3.10.2

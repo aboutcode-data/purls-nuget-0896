@@ -33,6 +33,7 @@
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.28
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.290
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.291
+- pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.316
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.33
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.51
 - pkg:nuget/Reo.Core.TestCaseCollector.CodeGeneration@10.0.73

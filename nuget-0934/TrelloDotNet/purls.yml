@@ -23,6 +23,7 @@
 - pkg:nuget/TrelloDotNet@1.11.11
 - pkg:nuget/TrelloDotNet@1.11.12
 - pkg:nuget/TrelloDotNet@1.11.13
+- pkg:nuget/TrelloDotNet@1.11.14
 - pkg:nuget/TrelloDotNet@1.11.2
 - pkg:nuget/TrelloDotNet@1.11.3
 - pkg:nuget/TrelloDotNet@1.11.4
@@ -93,3 +94,4 @@
 - pkg:nuget/TrelloDotNet@2.1.1
 - pkg:nuget/TrelloDotNet@2.1.2
 - pkg:nuget/TrelloDotNet@2.6.0
+- pkg:nuget/TrelloDotNet@2.8.1

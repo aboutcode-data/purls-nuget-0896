@@ -1115,5 +1115,6 @@
 - pkg:nuget/Pulumi.Gcp@9.31.0-alpha.1784633702
 - pkg:nuget/Pulumi.Gcp@9.33.0
 - pkg:nuget/Pulumi.Gcp@9.35.0-alpha.1786461660
+- pkg:nuget/Pulumi.Gcp@9.35.1
 - pkg:nuget/Pulumi.Gcp@9.5.0-alpha.1763075828
 - pkg:nuget/Pulumi.Gcp@9.5.0-alpha.1763103166

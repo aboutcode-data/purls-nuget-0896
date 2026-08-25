@@ -152,3 +152,4 @@
 - pkg:nuget/Google.Apis.CloudHealthcare.v1beta1@1.70.0.3857
 - pkg:nuget/Google.Apis.CloudHealthcare.v1beta1@1.70.0.3885
 - pkg:nuget/Google.Apis.CloudHealthcare.v1beta1@1.71.0.3899
+- pkg:nuget/Google.Apis.CloudHealthcare.v1beta1@1.76.0.4235

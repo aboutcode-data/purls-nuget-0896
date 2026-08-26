@@ -2720,3 +2720,5 @@
 - pkg:nuget/Soenneker.Cloudflare.Turnstile.Validator@4.0.3264
 - pkg:nuget/Soenneker.Cloudflare.Turnstile.Validator@4.0.3293
 - pkg:nuget/Soenneker.Cloudflare.Turnstile.Validator@4.0.3302
+- pkg:nuget/Soenneker.Cloudflare.Turnstile.Validator@4.0.3308
+- pkg:nuget/Soenneker.Cloudflare.Turnstile.Validator@4.0.3309

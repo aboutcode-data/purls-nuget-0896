@@ -57,6 +57,7 @@
 - pkg:nuget/Soenneker.X.Client@4.0.242
 - pkg:nuget/Soenneker.X.Client@4.0.253
 - pkg:nuget/Soenneker.X.Client@4.0.258
+- pkg:nuget/Soenneker.X.Client@4.0.267
 - pkg:nuget/Soenneker.X.Client@4.0.56
 - pkg:nuget/Soenneker.X.Client@4.0.69
 - pkg:nuget/Soenneker.X.Client@4.0.85

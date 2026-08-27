@@ -352,3 +352,4 @@
 - pkg:nuget/Verify.ClipboardAccept@31.22.0
 - pkg:nuget/Verify.ClipboardAccept@31.27.0
 - pkg:nuget/Verify.ClipboardAccept@32.0.0-beta.2
+- pkg:nuget/Verify.ClipboardAccept@33.0.0-beta.1

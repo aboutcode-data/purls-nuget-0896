@@ -203,3 +203,4 @@
 - pkg:nuget/NetCord.Hosting@1.0.0-alpha.97
 - pkg:nuget/NetCord.Hosting@1.0.0-alpha.98
 - pkg:nuget/NetCord.Hosting@1.0.0-alpha.99
+- pkg:nuget/NetCord.Hosting@1.0.0-beta.18

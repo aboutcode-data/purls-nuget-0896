@@ -103,3 +103,5 @@
 - pkg:nuget/Partsfy.Common@1.0.93
 - pkg:nuget/Partsfy.Common@1.120.2
 - pkg:nuget/Partsfy.Common@1.120.3
+- pkg:nuget/Partsfy.Common@1.122.3
+- pkg:nuget/Partsfy.Common@1.122.4

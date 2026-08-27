@@ -7,6 +7,7 @@
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.1.6
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.1.7
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.1.9
+- pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.10.0
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.2.1
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.3.1
 - pkg:nuget/DotNetWorkQueue.Transport.SqlServer@0.4.0

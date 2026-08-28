@@ -65,6 +65,7 @@
 - pkg:nuget/ConductorSharp.Engine@3.1.0
 - pkg:nuget/ConductorSharp.Engine@3.1.0-alpha.1
 - pkg:nuget/ConductorSharp.Engine@3.1.1
+- pkg:nuget/ConductorSharp.Engine@3.10.0
 - pkg:nuget/ConductorSharp.Engine@3.2.0
 - pkg:nuget/ConductorSharp.Engine@3.2.0-alpha.1
 - pkg:nuget/ConductorSharp.Engine@3.2.0-alpha.2
@@ -82,3 +83,4 @@
 - pkg:nuget/ConductorSharp.Engine@3.9.0
 - pkg:nuget/ConductorSharp.Engine@4.1.0
 - pkg:nuget/ConductorSharp.Engine@4.3.0
+- pkg:nuget/ConductorSharp.Engine@4.4.0

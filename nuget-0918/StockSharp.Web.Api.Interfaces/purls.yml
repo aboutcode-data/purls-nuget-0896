@@ -74,6 +74,7 @@
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.173
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.18
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.180
+- pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.182
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.19
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.20
 - pkg:nuget/StockSharp.Web.Api.Interfaces@5.0.21

@@ -779,3 +779,6 @@
 - pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1226.252
 - pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1229.430
 - pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1231.483
+- pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1239.658
+- pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1239.663
+- pkg:nuget/Redpoint.ThirdParty.Docker.Registry.DotNet@2026.1239.666

@@ -3,6 +3,7 @@
 - pkg:nuget/DKNet.EfCore.DataAuthorization@10.0.24
 - pkg:nuget/DKNet.EfCore.DataAuthorization@10.0.25
 - pkg:nuget/DKNet.EfCore.DataAuthorization@10.0.3
+- pkg:nuget/DKNet.EfCore.DataAuthorization@10.1.9
 - pkg:nuget/DKNet.EfCore.DataAuthorization@9.0.1
 - pkg:nuget/DKNet.EfCore.DataAuthorization@9.0.10
 - pkg:nuget/DKNet.EfCore.DataAuthorization@9.0.11

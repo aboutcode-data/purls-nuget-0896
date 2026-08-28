@@ -42,4 +42,6 @@
 - pkg:nuget/Mocha@16.6.0-p.11
 - pkg:nuget/Mocha@16.6.0-p.14
 - pkg:nuget/Mocha@16.6.1-p.3
+- pkg:nuget/Mocha@16.6.2-p.5
+- pkg:nuget/Mocha@16.6.2-p.6
 - pkg:nuget/Mocha@16.6.2-p.8

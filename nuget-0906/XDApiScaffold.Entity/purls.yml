@@ -9,5 +9,6 @@
 - pkg:nuget/XDApiScaffold.Entity@1.0.5
 - pkg:nuget/XDApiScaffold.Entity@1.0.6
 - pkg:nuget/XDApiScaffold.Entity@1.0.7
+- pkg:nuget/XDApiScaffold.Entity@2.0.12
 - pkg:nuget/XDApiScaffold.Entity@2.0.3
 - pkg:nuget/XDApiScaffold.Entity@2.0.4

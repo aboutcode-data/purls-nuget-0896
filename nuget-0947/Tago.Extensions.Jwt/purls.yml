@@ -76,6 +76,7 @@
 - pkg:nuget/Tago.Extensions.Jwt@3.1.1-preview-20241101-01
 - pkg:nuget/Tago.Extensions.Jwt@6.0.0
 - pkg:nuget/Tago.Extensions.Jwt@6.0.1
+- pkg:nuget/Tago.Extensions.Jwt@6.0.10
 - pkg:nuget/Tago.Extensions.Jwt@6.0.2
 - pkg:nuget/Tago.Extensions.Jwt@6.0.3
 - pkg:nuget/Tago.Extensions.Jwt@6.0.4

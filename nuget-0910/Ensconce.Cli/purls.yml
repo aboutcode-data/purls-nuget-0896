@@ -165,6 +165,8 @@
 - pkg:nuget/Ensconce.Cli@1.29.4-develop-935
 - pkg:nuget/Ensconce.Cli@1.29.4.933
 - pkg:nuget/Ensconce.Cli@1.29.5.936
+- pkg:nuget/Ensconce.Cli@1.32.1-develop-946
+- pkg:nuget/Ensconce.Cli@1.32.1.947
 - pkg:nuget/Ensconce.Cli@1.7.0-develop-687
 - pkg:nuget/Ensconce.Cli@1.7.0-develop-688
 - pkg:nuget/Ensconce.Cli@1.7.0-develop-690

@@ -73,6 +73,7 @@
 - pkg:nuget/cloudscribe.SimpleContent.Web@1.2.0-rc20170616
 - pkg:nuget/cloudscribe.SimpleContent.Web@1.2.1
 - pkg:nuget/cloudscribe.SimpleContent.Web@1.2.3
+- pkg:nuget/cloudscribe.SimpleContent.Web@10.1.0
 - pkg:nuget/cloudscribe.SimpleContent.Web@2.0.0
 - pkg:nuget/cloudscribe.SimpleContent.Web@2.0.0-preview20170726
 - pkg:nuget/cloudscribe.SimpleContent.Web@2.0.0-preview20170727

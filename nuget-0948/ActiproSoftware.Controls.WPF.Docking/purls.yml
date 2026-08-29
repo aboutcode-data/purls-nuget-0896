@@ -39,3 +39,5 @@
 - pkg:nuget/ActiproSoftware.Controls.WPF.Docking@25.1.1
 - pkg:nuget/ActiproSoftware.Controls.WPF.Docking@25.1.2-beta.1
 - pkg:nuget/ActiproSoftware.Controls.WPF.Docking@26.1.0-rc.1
+- pkg:nuget/ActiproSoftware.Controls.WPF.Docking@26.1.0-rc.6
+- pkg:nuget/ActiproSoftware.Controls.WPF.Docking@26.1.0-rc.7

@@ -64,6 +64,7 @@
 - pkg:nuget/cloudscribe.Core.Web@1.2.0-rc20170707
 - pkg:nuget/cloudscribe.Core.Web@1.2.1
 - pkg:nuget/cloudscribe.Core.Web@1.2.3
+- pkg:nuget/cloudscribe.Core.Web@10.1.0
 - pkg:nuget/cloudscribe.Core.Web@2.0.0
 - pkg:nuget/cloudscribe.Core.Web@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.Web@2.0.0-preview20170726

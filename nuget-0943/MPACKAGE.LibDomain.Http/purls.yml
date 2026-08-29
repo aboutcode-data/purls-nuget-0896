@@ -112,3 +112,6 @@
 - pkg:nuget/MPACKAGE.LibDomain.Http@1.0.841
 - pkg:nuget/MPACKAGE.LibDomain.Http@1.0.850
 - pkg:nuget/MPACKAGE.LibDomain.Http@1.0.852
+- pkg:nuget/MPACKAGE.LibDomain.Http@1.0.856
+- pkg:nuget/MPACKAGE.LibDomain.Http@1.0.857
+- pkg:nuget/MPACKAGE.LibDomain.Http@1.0.858

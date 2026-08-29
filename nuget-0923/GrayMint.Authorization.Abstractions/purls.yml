@@ -113,3 +113,4 @@
 - pkg:nuget/GrayMint.Authorization.Abstractions@3.0.99
 - pkg:nuget/GrayMint.Authorization.Abstractions@3.2.163
 - pkg:nuget/GrayMint.Authorization.Abstractions@3.2.164
+- pkg:nuget/GrayMint.Authorization.Abstractions@3.2.167

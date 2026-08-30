@@ -58,3 +58,5 @@
 - pkg:nuget/PollinationBrowserControl@3.5.8
 - pkg:nuget/PollinationBrowserControl@3.5.9
 - pkg:nuget/PollinationBrowserControl@3.6.0
+- pkg:nuget/PollinationBrowserControl@3.7.1
+- pkg:nuget/PollinationBrowserControl@3.8.1

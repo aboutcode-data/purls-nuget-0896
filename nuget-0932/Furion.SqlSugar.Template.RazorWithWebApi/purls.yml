@@ -737,3 +737,4 @@
 - pkg:nuget/Furion.SqlSugar.Template.RazorWithWebApi@4.9.9.85
 - pkg:nuget/Furion.SqlSugar.Template.RazorWithWebApi@4.9.9.86
 - pkg:nuget/Furion.SqlSugar.Template.RazorWithWebApi@4.9.9.9
+- pkg:nuget/Furion.SqlSugar.Template.RazorWithWebApi@4.9.9.90

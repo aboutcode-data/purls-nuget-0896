@@ -3,4 +3,5 @@
 - pkg:nuget/Soenneker.Security.Parsers.BasicAuth@3.0.3
 - pkg:nuget/Soenneker.Security.Parsers.BasicAuth@4.0.12
 - pkg:nuget/Soenneker.Security.Parsers.BasicAuth@4.0.18
+- pkg:nuget/Soenneker.Security.Parsers.BasicAuth@4.0.24
 - pkg:nuget/Soenneker.Security.Parsers.BasicAuth@4.0.8

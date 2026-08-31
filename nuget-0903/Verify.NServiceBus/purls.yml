@@ -27,6 +27,8 @@
 - pkg:nuget/Verify.NServiceBus@10.3.2
 - pkg:nuget/Verify.NServiceBus@10.3.3
 - pkg:nuget/Verify.NServiceBus@10.3.4
+- pkg:nuget/Verify.NServiceBus@12.1.0
+- pkg:nuget/Verify.NServiceBus@12.2.0
 - pkg:nuget/Verify.NServiceBus@2.0.1
 - pkg:nuget/Verify.NServiceBus@2.1.0
 - pkg:nuget/Verify.NServiceBus@2.2.0

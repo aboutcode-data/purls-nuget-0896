@@ -60,4 +60,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Hmc5883l@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.Hmc5883l@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Hmc5883l@1.2.87
+- pkg:nuget/nanoFramework.Iot.Device.Hmc5883l@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Hmc5883l@2.0.0-preview.73

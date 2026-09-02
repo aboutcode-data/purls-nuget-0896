@@ -1,1 +1,6 @@
 - pkg:nuget/FFmpegKit.Net.Https@6.0.0.1-beta1
+- pkg:nuget/FFmpegKit.Net.Https@8.1.2-beta.3.11
+- pkg:nuget/FFmpegKit.Net.Https@8.1.2-beta.4.18
+- pkg:nuget/FFmpegKit.Net.Https@8.1.2-beta.6.22
+- pkg:nuget/FFmpegKit.Net.Https@8.1.2-beta.7.23
+- pkg:nuget/FFmpegKit.Net.Https@8.1.2.2

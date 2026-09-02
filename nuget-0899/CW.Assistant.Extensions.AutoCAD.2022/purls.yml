@@ -95,6 +95,7 @@
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.8.0-beta.18
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.8.0-beta.19
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.8.0-beta.21
+- pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.9.0
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.9.0-PullRequest245.61
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.9.0-PullRequest468.78
 - pkg:nuget/CW.Assistant.Extensions.AutoCAD.2022@26.9.0-PullRequest474.62

@@ -3,3 +3,6 @@
 - pkg:nuget/Xui.Middleware.Emulator@0.0.187-alpha
 - pkg:nuget/Xui.Middleware.Emulator@0.0.190-alpha
 - pkg:nuget/Xui.Middleware.Emulator@0.0.194-alpha
+- pkg:nuget/Xui.Middleware.Emulator@0.0.224-alpha
+- pkg:nuget/Xui.Middleware.Emulator@0.0.230-alpha
+- pkg:nuget/Xui.Middleware.Emulator@0.0.236-alpha

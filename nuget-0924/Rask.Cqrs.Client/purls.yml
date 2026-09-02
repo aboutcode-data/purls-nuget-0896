@@ -11,3 +11,6 @@
 - pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.156
 - pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.158
 - pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.165
+- pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.188
+- pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.197
+- pkg:nuget/Rask.Cqrs.Client@0.20.1-alpha.0.198

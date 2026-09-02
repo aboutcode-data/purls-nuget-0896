@@ -20,3 +20,4 @@
 - pkg:nuget/Rsk.AspNetCore.Fido@4.0.1
 - pkg:nuget/Rsk.AspNetCore.Fido@5.0.0
 - pkg:nuget/Rsk.AspNetCore.Fido@5.0.1
+- pkg:nuget/Rsk.AspNetCore.Fido@5.2.0

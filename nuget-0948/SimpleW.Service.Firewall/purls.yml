@@ -13,3 +13,4 @@
 - pkg:nuget/SimpleW.Service.Firewall@26.0.0-rc.20260417-1764
 - pkg:nuget/SimpleW.Service.Firewall@26.0.2-alpha.20260813-2035
 - pkg:nuget/SimpleW.Service.Firewall@26.1.0-alpha.20260813-2037
+- pkg:nuget/SimpleW.Service.Firewall@26.1.0-beta.20260824-2068

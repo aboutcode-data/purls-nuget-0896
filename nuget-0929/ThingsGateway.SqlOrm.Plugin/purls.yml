@@ -2,6 +2,8 @@
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.4.34
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.4.9
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.12
+- pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.14
+- pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.16
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.4
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.5
 - pkg:nuget/ThingsGateway.SqlOrm.Plugin@12.5.6

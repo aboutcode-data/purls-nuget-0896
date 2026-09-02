@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Zoho.HttpClients@4.0.1
 - pkg:nuget/Soenneker.Zoho.HttpClients@4.0.102
+- pkg:nuget/Soenneker.Zoho.HttpClients@4.0.119
 - pkg:nuget/Soenneker.Zoho.HttpClients@4.0.22
 - pkg:nuget/Soenneker.Zoho.HttpClients@4.0.25
 - pkg:nuget/Soenneker.Zoho.HttpClients@4.0.26

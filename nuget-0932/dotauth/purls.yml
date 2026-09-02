@@ -4,6 +4,7 @@
 - pkg:nuget/dotauth@5.1.0
 - pkg:nuget/dotauth@5.10.0
 - pkg:nuget/dotauth@5.2.0
+- pkg:nuget/dotauth@5.20.0
 - pkg:nuget/dotauth@5.3.0
 - pkg:nuget/dotauth@5.4.0
 - pkg:nuget/dotauth@5.4.1

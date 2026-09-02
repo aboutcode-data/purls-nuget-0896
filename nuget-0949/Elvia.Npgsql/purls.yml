@@ -2,3 +2,5 @@
 - pkg:nuget/Elvia.Npgsql@1.0.0-beta2
 - pkg:nuget/Elvia.Npgsql@1.1.0
 - pkg:nuget/Elvia.Npgsql@2.0.0
+- pkg:nuget/Elvia.Npgsql@3.0.1-preview.1-11
+- pkg:nuget/Elvia.Npgsql@3.0.1-preview.1-13

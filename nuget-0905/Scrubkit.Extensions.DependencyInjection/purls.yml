@@ -1,2 +1,3 @@
+- pkg:nuget/Scrubkit.Extensions.DependencyInjection@1.12.0
 - pkg:nuget/Scrubkit.Extensions.DependencyInjection@1.3.0
 - pkg:nuget/Scrubkit.Extensions.DependencyInjection@1.5.0

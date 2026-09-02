@@ -75,6 +75,8 @@
 - pkg:nuget/Gr4vy@2.0.0
 - pkg:nuget/Gr4vy@2.10.1
 - pkg:nuget/Gr4vy@2.10.4
+- pkg:nuget/Gr4vy@2.10.6
+- pkg:nuget/Gr4vy@2.10.7
 - pkg:nuget/Gr4vy@2.2.4
 - pkg:nuget/Gr4vy@2.3.8
 - pkg:nuget/Gr4vy@2.4.5

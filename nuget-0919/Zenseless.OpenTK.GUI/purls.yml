@@ -35,6 +35,7 @@
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.40
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.41
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.42
+- pkg:nuget/Zenseless.OpenTK.GUI@0.1.49
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.5
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.6
 - pkg:nuget/Zenseless.OpenTK.GUI@0.1.7

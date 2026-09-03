@@ -2,3 +2,4 @@
 - pkg:nuget/Soenneker.Adyen.OpenApiClient@4.0.43
 - pkg:nuget/Soenneker.Adyen.OpenApiClient@4.0.48
 - pkg:nuget/Soenneker.Adyen.OpenApiClient@4.0.57
+- pkg:nuget/Soenneker.Adyen.OpenApiClient@4.0.60

@@ -1,0 +1,4 @@
+- pkg:nuget/redb.Identity.DataProtection@1.1.0
+- pkg:nuget/redb.Identity.DataProtection@1.2.2
+- pkg:nuget/redb.Identity.DataProtection@3.7.0
+- pkg:nuget/redb.Identity.DataProtection@3.7.1

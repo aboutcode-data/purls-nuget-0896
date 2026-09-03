@@ -5,3 +5,4 @@
 - pkg:nuget/CodeCargo.Nats.DistributedCache@0.2.0-preview.1
 - pkg:nuget/CodeCargo.Nats.DistributedCache@0.3.0-preview.1
 - pkg:nuget/CodeCargo.Nats.DistributedCache@0.3.0-preview.2
+- pkg:nuget/CodeCargo.Nats.DistributedCache@1.0.0-preview.1

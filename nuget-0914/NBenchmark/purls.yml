@@ -5,3 +5,5 @@
 - pkg:nuget/NBenchmark@0.3.0
 - pkg:nuget/NBenchmark@0.30.2
 - pkg:nuget/NBenchmark@0.30.3
+- pkg:nuget/NBenchmark@0.34.0
+- pkg:nuget/NBenchmark@0.36.0

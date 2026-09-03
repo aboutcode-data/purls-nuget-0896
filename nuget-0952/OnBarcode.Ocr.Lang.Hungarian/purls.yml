@@ -21,6 +21,8 @@
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.5
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.59
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.6
+- pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.66
+- pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.67
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.7
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.8
 - pkg:nuget/OnBarcode.Ocr.Lang.Hungarian@10.0.2.9

@@ -23,6 +23,7 @@
 - pkg:nuget/PercyIO.Appium@3.0.1-beta.0
 - pkg:nuget/PercyIO.Appium@3.0.1-beta.1
 - pkg:nuget/PercyIO.Appium@3.0.1-beta.2
+- pkg:nuget/PercyIO.Appium@3.0.10-beta.0
 - pkg:nuget/PercyIO.Appium@3.0.2
 - pkg:nuget/PercyIO.Appium@3.0.3
 - pkg:nuget/PercyIO.Appium@3.0.3-beta.0

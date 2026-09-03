@@ -1,5 +1,6 @@
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@14.2.0-rc.1.2
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@14.2.1.1
+- pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@14.2.1.102
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@2.8.2
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@2.8.2-preview.145
 - pkg:nuget/HarfBuzzSharp.NativeAssets.macOS@2.8.2-preview.150

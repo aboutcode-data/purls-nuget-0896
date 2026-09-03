@@ -1,3 +1,10 @@
+- pkg:nuget/CryptoExchange.Net.Protobuf@10.0.0
+- pkg:nuget/CryptoExchange.Net.Protobuf@10.0.1
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.10.0
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.11.0
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.11.1
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.12.0
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.13.0
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.2.0
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.3.0
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.4.0
@@ -5,3 +12,4 @@
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.6.0
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.7.0
 - pkg:nuget/CryptoExchange.Net.Protobuf@9.8.0
+- pkg:nuget/CryptoExchange.Net.Protobuf@9.9.0

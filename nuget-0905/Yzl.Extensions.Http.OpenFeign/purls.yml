@@ -1,3 +1,4 @@
+- pkg:nuget/Yzl.Extensions.Http.OpenFeign@0.1.17
 - pkg:nuget/Yzl.Extensions.Http.OpenFeign@0.1.7
 - pkg:nuget/Yzl.Extensions.Http.OpenFeign@0.1.8
 - pkg:nuget/Yzl.Extensions.Http.OpenFeign@0.1.9

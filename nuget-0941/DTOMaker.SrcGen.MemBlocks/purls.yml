@@ -6,3 +6,5 @@
 - pkg:nuget/DTOMaker.SrcGen.MemBlocks@2.0.45-dev
 - pkg:nuget/DTOMaker.SrcGen.MemBlocks@2.0.46-dev
 - pkg:nuget/DTOMaker.SrcGen.MemBlocks@2.1.10
+- pkg:nuget/DTOMaker.SrcGen.MemBlocks@2.1.23
+- pkg:nuget/DTOMaker.SrcGen.MemBlocks@3.0.42-dev

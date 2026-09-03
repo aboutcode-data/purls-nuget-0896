@@ -1,3 +1,4 @@
+- pkg:nuget/Saanaa.Identity.Application.Contracts@10.6.0.1
 - pkg:nuget/Saanaa.Identity.Application.Contracts@8.1.3.1
 - pkg:nuget/Saanaa.Identity.Application.Contracts@8.1.3.2
 - pkg:nuget/Saanaa.Identity.Application.Contracts@8.1.3.3
@@ -19,6 +20,7 @@
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.13
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.14
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.2
+- pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.21
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.3
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.4
 - pkg:nuget/Saanaa.Identity.Application.Contracts@9.0.5.5

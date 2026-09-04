@@ -9,5 +9,6 @@
 - pkg:nuget/Eternet.Client.OData.Generator@2.0.53
 - pkg:nuget/Eternet.Client.OData.Generator@2.1.11
 - pkg:nuget/Eternet.Client.OData.Generator@2.1.12
+- pkg:nuget/Eternet.Client.OData.Generator@2.2.14
 - pkg:nuget/Eternet.Client.OData.Generator@2.2.6
 - pkg:nuget/Eternet.Client.OData.Generator@2.2.7

@@ -12,6 +12,8 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.321
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.328
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.337
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.378
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.425
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.1025.0-alpha.7
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.674.1-alpha.32
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Offloads.AzureBlob@0.687.1-alpha.11

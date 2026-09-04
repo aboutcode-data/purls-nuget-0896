@@ -105,3 +105,4 @@
 - pkg:nuget/ktsu.CredentialCache@1.2.4-pre.9
 - pkg:nuget/ktsu.CredentialCache@1.3.30
 - pkg:nuget/ktsu.CredentialCache@1.3.31
+- pkg:nuget/ktsu.CredentialCache@1.3.35

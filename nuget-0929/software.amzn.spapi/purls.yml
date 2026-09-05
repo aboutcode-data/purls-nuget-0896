@@ -1,4 +1,6 @@
 - pkg:nuget/software.amzn.spapi@1.1.0
 - pkg:nuget/software.amzn.spapi@1.1.1
 - pkg:nuget/software.amzn.spapi@1.1.2
+- pkg:nuget/software.amzn.spapi@1.10.0
+- pkg:nuget/software.amzn.spapi@1.12.0
 - pkg:nuget/software.amzn.spapi@1.2.0

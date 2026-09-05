@@ -13,6 +13,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.1.3021-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.1.3039-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.1.3040
+- pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.10.3605-nowarn-quoting
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Formatter.linux-x64@1.5.2.3043-main

@@ -1,6 +1,7 @@
 - pkg:nuget/Chd.Library.Services@0.0.1
 - pkg:nuget/Chd.Library.Services@0.0.2
 - pkg:nuget/Chd.Library.Services@0.0.3
+- pkg:nuget/Chd.Library.Services@10.0.7
 - pkg:nuget/Chd.Library.Services@10.2.0
 - pkg:nuget/Chd.Library.Services@10.2.1
 - pkg:nuget/Chd.Library.Services@10.2.2-alpha

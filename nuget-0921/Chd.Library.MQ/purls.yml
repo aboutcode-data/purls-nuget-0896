@@ -1,5 +1,6 @@
 - pkg:nuget/Chd.Library.MQ@1.1.7
 - pkg:nuget/Chd.Library.MQ@1.2.7
+- pkg:nuget/Chd.Library.MQ@10.0.7
 - pkg:nuget/Chd.Library.MQ@7.2.7
 - pkg:nuget/Chd.Library.MQ@8.0.0
 - pkg:nuget/Chd.Library.MQ@8.0.1

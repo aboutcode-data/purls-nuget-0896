@@ -1,4 +1,5 @@
 - pkg:nuget/Musoq.DataSources.Json@1.0.0
+- pkg:nuget/Musoq.DataSources.Json@10.0.3-alpha.3
 - pkg:nuget/Musoq.DataSources.Json@2.0.0
 - pkg:nuget/Musoq.DataSources.Json@3.0.0
 - pkg:nuget/Musoq.DataSources.Json@4.0.0

@@ -12,3 +12,5 @@
 - pkg:nuget/Niobium.Platform.Blob@3.2.19
 - pkg:nuget/Niobium.Platform.Blob@3.2.21
 - pkg:nuget/Niobium.Platform.Blob@3.2.9
+- pkg:nuget/Niobium.Platform.Blob@4.0.55
+- pkg:nuget/Niobium.Platform.Blob@4.2.66

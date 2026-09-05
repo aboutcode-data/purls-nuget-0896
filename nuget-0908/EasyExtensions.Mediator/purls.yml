@@ -16,3 +16,5 @@
 - pkg:nuget/EasyExtensions.Mediator@3.0.54
 - pkg:nuget/EasyExtensions.Mediator@3.0.55
 - pkg:nuget/EasyExtensions.Mediator@3.0.69
+- pkg:nuget/EasyExtensions.Mediator@3.0.75
+- pkg:nuget/EasyExtensions.Mediator@3.0.81

@@ -1,3 +1,5 @@
 - pkg:nuget/Deftflux.EntityFrameworkCore.SqlServer.Extensions@1.0.0.12
 - pkg:nuget/Deftflux.EntityFrameworkCore.SqlServer.Extensions@1.0.0.5
 - pkg:nuget/Deftflux.EntityFrameworkCore.SqlServer.Extensions@1.0.0.6
+- pkg:nuget/Deftflux.EntityFrameworkCore.SqlServer.Extensions@10.0.0.15
+- pkg:nuget/Deftflux.EntityFrameworkCore.SqlServer.Extensions@10.0.0.16

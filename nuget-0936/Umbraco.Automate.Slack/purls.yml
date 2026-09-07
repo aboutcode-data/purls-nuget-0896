@@ -1,0 +1,3 @@
+- pkg:nuget/Umbraco.Automate.Slack@17.0.0-beta
+- pkg:nuget/Umbraco.Automate.Slack@17.0.3
+- pkg:nuget/Umbraco.Automate.Slack@18.0.3

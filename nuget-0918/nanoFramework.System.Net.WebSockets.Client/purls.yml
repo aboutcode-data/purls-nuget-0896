@@ -82,6 +82,8 @@
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.151
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.16
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.163
+- pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.174
+- pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.175
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.19
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.2
 - pkg:nuget/nanoFramework.System.Net.WebSockets.Client@1.1.21

@@ -53,6 +53,10 @@
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.184
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.204
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.206
+- pkg:nuget/Soenneker.DNSimple.Contacts@4.0.214
+- pkg:nuget/Soenneker.DNSimple.Contacts@4.0.215
+- pkg:nuget/Soenneker.DNSimple.Contacts@4.0.221
+- pkg:nuget/Soenneker.DNSimple.Contacts@4.0.224
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.55
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.56
 - pkg:nuget/Soenneker.DNSimple.Contacts@4.0.73

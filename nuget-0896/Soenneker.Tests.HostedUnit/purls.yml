@@ -19,6 +19,10 @@
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.237
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.239
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.241
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.247
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.248
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.250
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.253
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.41
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.42
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.59

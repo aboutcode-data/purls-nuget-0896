@@ -11,6 +11,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@3.2.0
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@3.2.0-preview2.20159.10
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@3.2.0-preview2.20160.5

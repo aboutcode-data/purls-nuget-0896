@@ -15,6 +15,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@8.0.0
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@8.0.0-preview.2.23153.2
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@8.0.0-preview.3.23177.8
@@ -59,6 +60,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.16
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.2
+- pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.20
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.4
 - pkg:nuget/Microsoft.AspNetCore.Components.QuickGrid@9.0.5

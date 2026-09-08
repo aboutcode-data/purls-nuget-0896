@@ -48,6 +48,7 @@
 - pkg:nuget/Dynamicweb.LoadBalancing@10.27.3-PreRelease
 - pkg:nuget/Dynamicweb.LoadBalancing@10.27.8
 - pkg:nuget/Dynamicweb.LoadBalancing@10.28.8
+- pkg:nuget/Dynamicweb.LoadBalancing@10.29.3-PreRelease
 - pkg:nuget/Dynamicweb.LoadBalancing@2.0.0
 - pkg:nuget/Dynamicweb.LoadBalancing@2.0.1
 - pkg:nuget/Dynamicweb.LoadBalancing@2.0.2

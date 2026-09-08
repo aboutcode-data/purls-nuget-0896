@@ -82,3 +82,4 @@
 - pkg:nuget/CocApi.Rest@2.8.2
 - pkg:nuget/CocApi.Rest@2.9.0
 - pkg:nuget/CocApi.Rest@2.9.1
+- pkg:nuget/CocApi.Rest@3.0.0

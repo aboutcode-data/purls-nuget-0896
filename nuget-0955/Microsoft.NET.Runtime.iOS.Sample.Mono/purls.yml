@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.11
+- pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.12
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.2
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.3
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@10.0.7
@@ -16,6 +17,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@11.0.0-preview.5.26302.115
+- pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0-preview.1.21102.12
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@6.0.0-preview.2.21154.6
@@ -117,6 +119,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.21
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.29
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.3
+- pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.31
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.4
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.5
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@8.0.6
@@ -136,6 +139,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.12
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.16
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.2
+- pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.20
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.3
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.4
 - pkg:nuget/Microsoft.NET.Runtime.iOS.Sample.Mono@9.0.5

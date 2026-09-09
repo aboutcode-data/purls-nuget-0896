@@ -27,3 +27,4 @@
 - pkg:nuget/Microsoft.AspNetCore.Http.Abstractions@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.Http.Abstractions@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.Http.Abstractions@2.3.12
+- pkg:nuget/Microsoft.AspNetCore.Http.Abstractions@2.3.13

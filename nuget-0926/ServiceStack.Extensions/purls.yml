@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Extensions@10.0.0
+- pkg:nuget/ServiceStack.Extensions@10.2.0
 - pkg:nuget/ServiceStack.Extensions@5.10.0
 - pkg:nuget/ServiceStack.Extensions@5.10.2
 - pkg:nuget/ServiceStack.Extensions@5.10.4

@@ -1,5 +1,6 @@
 - pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.13
 - pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.26
+- pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.28
 - pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.3
 - pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.5
 - pkg:nuget/BarcodeLib.Ocr.Corsican@8.0.0.7

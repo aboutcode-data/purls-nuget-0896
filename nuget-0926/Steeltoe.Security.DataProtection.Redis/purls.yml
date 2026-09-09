@@ -7,3 +7,4 @@
 - pkg:nuget/Steeltoe.Security.DataProtection.Redis@4.0.0
 - pkg:nuget/Steeltoe.Security.DataProtection.Redis@4.0.0-beta1
 - pkg:nuget/Steeltoe.Security.DataProtection.Redis@4.0.0-rc1
+- pkg:nuget/Steeltoe.Security.DataProtection.Redis@4.3.0

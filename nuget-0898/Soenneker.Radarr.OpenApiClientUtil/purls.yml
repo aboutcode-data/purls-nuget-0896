@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.121
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.125
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.130
+- pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.137
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.19
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Radarr.OpenApiClientUtil@4.0.27

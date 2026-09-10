@@ -70,6 +70,7 @@
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.201
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.207
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.208
+- pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.210
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.62
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.63
 - pkg:nuget/HuaweiCloud.SDK.AntiDDoS@3.1.64

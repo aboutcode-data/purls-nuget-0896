@@ -67,6 +67,7 @@
 - pkg:nuget/RetroSharp.Parser.Model@0.0.574
 - pkg:nuget/RetroSharp.Parser.Model@0.0.590
 - pkg:nuget/RetroSharp.Parser.Model@0.0.591
+- pkg:nuget/RetroSharp.Parser.Model@0.0.608
 - pkg:nuget/RetroSharp.Parser.Model@0.0.67
 - pkg:nuget/RetroSharp.Parser.Model@0.0.68
 - pkg:nuget/RetroSharp.Parser.Model@0.0.69

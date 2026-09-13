@@ -27,3 +27,4 @@
 - pkg:nuget/Elsa.Workflows.Runtime.Distributed@3.5.1
 - pkg:nuget/Elsa.Workflows.Runtime.Distributed@3.6.0-rc2
 - pkg:nuget/Elsa.Workflows.Runtime.Distributed@3.6.0-rc3
+- pkg:nuget/Elsa.Workflows.Runtime.Distributed@3.8.1

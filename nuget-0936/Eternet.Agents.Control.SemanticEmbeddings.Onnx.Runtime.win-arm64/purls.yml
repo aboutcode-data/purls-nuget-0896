@@ -3,5 +3,7 @@
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.120
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.138
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.144
+- pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.149
+- pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.154
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.59
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.win-arm64@2.0.74

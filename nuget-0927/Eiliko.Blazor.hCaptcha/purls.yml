@@ -7,3 +7,5 @@
 - pkg:nuget/Eiliko.Blazor.hCaptcha@0.3.3
 - pkg:nuget/Eiliko.Blazor.hCaptcha@0.3.4
 - pkg:nuget/Eiliko.Blazor.hCaptcha@0.3.5
+- pkg:nuget/Eiliko.Blazor.hCaptcha@1.0.0
+- pkg:nuget/Eiliko.Blazor.hCaptcha@1.0.0-rc.3

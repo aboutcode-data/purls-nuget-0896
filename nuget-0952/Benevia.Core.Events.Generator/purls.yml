@@ -37,6 +37,7 @@
 - pkg:nuget/Benevia.Core.Events.Generator@0.10.1-ci.449
 - pkg:nuget/Benevia.Core.Events.Generator@0.10.1-ci.450
 - pkg:nuget/Benevia.Core.Events.Generator@0.10.1-ci.453
+- pkg:nuget/Benevia.Core.Events.Generator@0.10.1-ci.455
 - pkg:nuget/Benevia.Core.Events.Generator@0.8.1
 - pkg:nuget/Benevia.Core.Events.Generator@0.8.1-ci.12
 - pkg:nuget/Benevia.Core.Events.Generator@0.8.3

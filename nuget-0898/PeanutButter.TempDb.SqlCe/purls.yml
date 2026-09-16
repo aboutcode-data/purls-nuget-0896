@@ -894,6 +894,7 @@
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.410
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.42
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.43
+- pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.434
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.44
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.45
 - pkg:nuget/PeanutButter.TempDb.SqlCe@3.0.46

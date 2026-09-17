@@ -12,3 +12,4 @@
 - pkg:nuget/ExcelORM@2.5.0
 - pkg:nuget/ExcelORM@2.6.0
 - pkg:nuget/ExcelORM@2.7.0
+- pkg:nuget/ExcelORM@3.0.2

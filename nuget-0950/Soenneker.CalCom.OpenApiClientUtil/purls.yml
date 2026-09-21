@@ -3,6 +3,9 @@
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.128
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.143
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.146
+- pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.148
+- pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.151
+- pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.158
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.24
 - pkg:nuget/Soenneker.CalCom.OpenApiClientUtil@4.0.29

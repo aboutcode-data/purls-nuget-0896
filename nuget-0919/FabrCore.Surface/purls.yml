@@ -2,3 +2,4 @@
 - pkg:nuget/FabrCore.Surface@1.7.2
 - pkg:nuget/FabrCore.Surface@1.7.3-local.20260830194629
 - pkg:nuget/FabrCore.Surface@1.7.3-local.20260831041744
+- pkg:nuget/FabrCore.Surface@2.0.0

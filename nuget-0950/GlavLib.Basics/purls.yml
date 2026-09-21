@@ -91,3 +91,5 @@
 - pkg:nuget/GlavLib.Basics@2025.7.14.103
 - pkg:nuget/GlavLib.Basics@2026.3.6.115
 - pkg:nuget/GlavLib.Basics@2026.4.28.123
+- pkg:nuget/GlavLib.Basics@2026.9.17.36
+- pkg:nuget/GlavLib.Basics@2026.9.8.15

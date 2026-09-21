@@ -2,3 +2,6 @@
 - pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260715-ci0840
 - pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260726-ci0632
 - pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260804-ci2039
+- pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260819-ci0647
+- pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260916-ci0943
+- pkg:nuget/Ama.Enterprise.P2p.Mqtt@0.1.260916-ci1559

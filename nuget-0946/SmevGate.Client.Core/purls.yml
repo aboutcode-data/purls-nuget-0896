@@ -16,6 +16,7 @@
 - pkg:nuget/SmevGate.Client.Core@1.0.132
 - pkg:nuget/SmevGate.Client.Core@1.0.14
 - pkg:nuget/SmevGate.Client.Core@1.0.141
+- pkg:nuget/SmevGate.Client.Core@1.0.148
 - pkg:nuget/SmevGate.Client.Core@1.0.15
 - pkg:nuget/SmevGate.Client.Core@1.0.16
 - pkg:nuget/SmevGate.Client.Core@1.0.17

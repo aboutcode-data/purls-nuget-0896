@@ -25,6 +25,7 @@
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.131
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.133
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.134
+- pkg:nuget/nanoFramework.System.Device.Wifi@1.5.152
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.18
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.2
 - pkg:nuget/nanoFramework.System.Device.Wifi@1.5.20

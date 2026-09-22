@@ -13,4 +13,6 @@
 - pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@1.2.3
 - pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@1.2.4%2B78fa9a86bf1a4f179075ddb494cc71cd7ca298ed
 - pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@2.0.3%2B874fbde4dc4dbcb96b2eb5904f8f0dcab2515fd3
+- pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@3.0.1%2B1560a79bf5de723e7b959dcbe0686d31a2652d57
 - pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@3.0.1-rc.4%2Bbaa4df1db3ecb38b484c55c97652e1762d7698eb
+- pkg:nuget/EncySoftware.NCInterpreterSDK.bpl.x64@3.0.3%2B7b9be2ea30b1e1d69c64582a9760ae4b3be7c1e6

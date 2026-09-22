@@ -118,4 +118,6 @@
 - pkg:nuget/Umbraco.Commerce.Common@16.4.0
 - pkg:nuget/Umbraco.Commerce.Common@16.5.0
 - pkg:nuget/Umbraco.Commerce.Common@17.1.11
+- pkg:nuget/Umbraco.Commerce.Common@17.2.5
 - pkg:nuget/Umbraco.Commerce.Common@18.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.Common@18.1.5

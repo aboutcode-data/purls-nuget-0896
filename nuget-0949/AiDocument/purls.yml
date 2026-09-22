@@ -11,6 +11,9 @@
 - pkg:nuget/AiDocument@0.0.131
 - pkg:nuget/AiDocument@0.0.14
 - pkg:nuget/AiDocument@0.0.15
+- pkg:nuget/AiDocument@0.0.157
+- pkg:nuget/AiDocument@0.0.158
+- pkg:nuget/AiDocument@0.0.159
 - pkg:nuget/AiDocument@0.0.16
 - pkg:nuget/AiDocument@0.0.17
 - pkg:nuget/AiDocument@0.0.18

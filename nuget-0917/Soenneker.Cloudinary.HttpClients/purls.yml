@@ -1,4 +1,9 @@
 - pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.101
+- pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.102
+- pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.106
+- pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.119
+- pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.120
+- pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.130
 - pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.19
 - pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Cloudinary.HttpClients@4.0.24

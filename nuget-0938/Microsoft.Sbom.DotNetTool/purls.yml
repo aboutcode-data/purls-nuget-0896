@@ -51,4 +51,5 @@
 - pkg:nuget/Microsoft.Sbom.DotNetTool@4.0.3
 - pkg:nuget/Microsoft.Sbom.DotNetTool@4.1.0
 - pkg:nuget/Microsoft.Sbom.DotNetTool@4.1.1
+- pkg:nuget/Microsoft.Sbom.DotNetTool@4.1.12
 - pkg:nuget/Microsoft.Sbom.DotNetTool@4.1.2

@@ -8,3 +8,4 @@
 - pkg:nuget/CoreHelpers.TaskLogging.Abstractions@0.0.8
 - pkg:nuget/CoreHelpers.TaskLogging.Abstractions@0.0.9
 - pkg:nuget/CoreHelpers.TaskLogging.Abstractions@0.1.0
+- pkg:nuget/CoreHelpers.TaskLogging.Abstractions@0.4.1

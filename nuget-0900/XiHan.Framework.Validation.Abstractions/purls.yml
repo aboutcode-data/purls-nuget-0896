@@ -2,3 +2,6 @@
 - pkg:nuget/XiHan.Framework.Validation.Abstractions@2.3.2-preview
 - pkg:nuget/XiHan.Framework.Validation.Abstractions@2.3.5
 - pkg:nuget/XiHan.Framework.Validation.Abstractions@3.10.0
+- pkg:nuget/XiHan.Framework.Validation.Abstractions@3.11.1
+- pkg:nuget/XiHan.Framework.Validation.Abstractions@4.0.0
+- pkg:nuget/XiHan.Framework.Validation.Abstractions@4.4.0

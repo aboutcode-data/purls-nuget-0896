@@ -34,3 +34,4 @@
 - pkg:nuget/Vanara.PInvoke.Usp10@4.1.6
 - pkg:nuget/Vanara.PInvoke.Usp10@4.2.0
 - pkg:nuget/Vanara.PInvoke.Usp10@4.2.1
+- pkg:nuget/Vanara.PInvoke.Usp10@5.0.7

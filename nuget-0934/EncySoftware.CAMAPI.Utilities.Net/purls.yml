@@ -1,1 +1,4 @@
 - pkg:nuget/EncySoftware.CAMAPI.Utilities.Net@2.0.1%2B5a33ac1e1321c68c3dbefe293ed7a2b8b63bd717
+- pkg:nuget/EncySoftware.CAMAPI.Utilities.Net@3.0.0%2Bb2339476e3a88fef1a20946ee0c0db9a3c03d500
+- pkg:nuget/EncySoftware.CAMAPI.Utilities.Net@3.0.1%2B7b9be2ea30b1e1d69c64582a9760ae4b3be7c1e6
+- pkg:nuget/EncySoftware.CAMAPI.Utilities.Net@3.0.1-rc.1%2B0281ba2a3a1e4c5b9f0f9b24f307e6055eb37478

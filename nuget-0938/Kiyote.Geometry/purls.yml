@@ -20,6 +20,8 @@
 - pkg:nuget/Kiyote.Geometry@0.19.2
 - pkg:nuget/Kiyote.Geometry@0.2.0
 - pkg:nuget/Kiyote.Geometry@0.24.0
+- pkg:nuget/Kiyote.Geometry@0.26.0
+- pkg:nuget/Kiyote.Geometry@0.27.0
 - pkg:nuget/Kiyote.Geometry@0.3.0
 - pkg:nuget/Kiyote.Geometry@0.4.0
 - pkg:nuget/Kiyote.Geometry@0.4.1

@@ -1,2 +1,9 @@
 - pkg:nuget/ZeroAlloc.Scheduling.EfCore@0.2.2
 - pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.0
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.21
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.3
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.32
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.43
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.49
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.2.55
+- pkg:nuget/ZeroAlloc.Scheduling.EfCore@1.4.2

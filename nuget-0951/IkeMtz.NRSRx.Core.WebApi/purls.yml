@@ -177,6 +177,7 @@
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@1.20.91.6
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@1.20.91.7
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@1.20.92.1
+- pkg:nuget/IkeMtz.NRSRx.Core.WebApi@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@5.0.102.2
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@5.0.104.2
 - pkg:nuget/IkeMtz.NRSRx.Core.WebApi@5.0.104.3

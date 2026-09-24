@@ -42,3 +42,4 @@
 - pkg:nuget/Monq.Plugins.Abstractions@3.0.0-rev-16187892166
 - pkg:nuget/Monq.Plugins.Abstractions@3.0.0-rev-16196376934
 - pkg:nuget/Monq.Plugins.Abstractions@3.1.0
+- pkg:nuget/Monq.Plugins.Abstractions@4.0.0-rev-35879794969

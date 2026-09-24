@@ -6,3 +6,4 @@
 - pkg:nuget/CliInvoke@2.7.0-beta.1
 - pkg:nuget/CliInvoke@2.8.2
 - pkg:nuget/CliInvoke@3.0.0-alpha.1
+- pkg:nuget/CliInvoke@3.0.1

@@ -2,6 +2,7 @@
 - pkg:nuget/UA.Tenet.Web@10.0.1
 - pkg:nuget/UA.Tenet.Web@10.0.2
 - pkg:nuget/UA.Tenet.Web@10.0.3
+- pkg:nuget/UA.Tenet.Web@10.1.1
 - pkg:nuget/UA.Tenet.Web@2.6.0
 - pkg:nuget/UA.Tenet.Web@2.6.0-alpha0002
 - pkg:nuget/UA.Tenet.Web@2.6.1

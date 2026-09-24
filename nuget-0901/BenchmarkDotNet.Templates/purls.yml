@@ -18,3 +18,4 @@
 - pkg:nuget/BenchmarkDotNet.Templates@0.15.1
 - pkg:nuget/BenchmarkDotNet.Templates@0.15.2
 - pkg:nuget/BenchmarkDotNet.Templates@0.15.4
+- pkg:nuget/BenchmarkDotNet.Templates@0.16.0-preview.2

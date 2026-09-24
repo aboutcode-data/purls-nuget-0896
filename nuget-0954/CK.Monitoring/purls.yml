@@ -53,6 +53,7 @@
 - pkg:nuget/CK.Monitoring@25.0.0
 - pkg:nuget/CK.Monitoring@25.0.1
 - pkg:nuget/CK.Monitoring@26.0.0
+- pkg:nuget/CK.Monitoring@26.0.6
 - pkg:nuget/CK.Monitoring@4.0.0
 - pkg:nuget/CK.Monitoring@4.0.0-develop
 - pkg:nuget/CK.Monitoring@4.0.0-develop2

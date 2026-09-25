@@ -1,0 +1,2 @@
+- pkg:nuget/NetWasm.Runtime.Pack@0.1.0-preview.5
+- pkg:nuget/NetWasm.Runtime.Pack@0.4.1

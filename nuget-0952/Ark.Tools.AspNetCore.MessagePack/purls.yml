@@ -214,3 +214,4 @@
 - pkg:nuget/Ark.Tools.AspNetCore.MessagePack@6.0.0
 - pkg:nuget/Ark.Tools.AspNetCore.MessagePack@6.0.4
 - pkg:nuget/Ark.Tools.AspNetCore.MessagePack@6.0.6
+- pkg:nuget/Ark.Tools.AspNetCore.MessagePack@7.0.0-beta06

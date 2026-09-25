@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.NetFramework@10.0.0
+- pkg:nuget/ServiceStack.NetFramework@10.2.0
 - pkg:nuget/ServiceStack.NetFramework@5.0.0
 - pkg:nuget/ServiceStack.NetFramework@5.0.2
 - pkg:nuget/ServiceStack.NetFramework@5.1.0

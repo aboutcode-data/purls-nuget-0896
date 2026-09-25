@@ -1,1 +1,5 @@
 - pkg:nuget/FFmpegKit.Net.FullGpl.Mac@6.0.0.1-beta1
+- pkg:nuget/FFmpegKit.Net.FullGpl.Mac@8.1.2.1-beta.1.2
+- pkg:nuget/FFmpegKit.Net.FullGpl.Mac@8.1.2.1-beta.2.3
+- pkg:nuget/FFmpegKit.Net.FullGpl.Mac@8.1.2.2-beta.3.5
+- pkg:nuget/FFmpegKit.Net.FullGpl.Mac@8.1.2.2-beta.6.10

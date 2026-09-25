@@ -168,3 +168,4 @@
 - pkg:nuget/Soenneker.Utils.Test.AuthHandler@4.0.343
 - pkg:nuget/Soenneker.Utils.Test.AuthHandler@4.0.345
 - pkg:nuget/Soenneker.Utils.Test.AuthHandler@4.0.362
+- pkg:nuget/Soenneker.Utils.Test.AuthHandler@4.0.363

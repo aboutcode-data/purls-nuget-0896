@@ -1,6 +1,9 @@
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@25.1.11
+- pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@25.1.14
+- pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@25.2.10
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@25.2.5
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@25.2.7
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@26.1.2-beta
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@26.1.4-pre-26190
+- pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@26.1.5
 - pkg:nuget/DevExpress.ExpressApp.Dashboards.Blazor.de@26.1.5-pre-26235

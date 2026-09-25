@@ -4,3 +4,4 @@
 - pkg:nuget/ExcelDna.Interop.Dao@15.0.0-preview2
 - pkg:nuget/ExcelDna.Interop.Dao@15.0.0-preview3
 - pkg:nuget/ExcelDna.Interop.Dao@15.0.1
+- pkg:nuget/ExcelDna.Interop.Dao@16.0.0

@@ -2,3 +2,5 @@
 - pkg:nuget/XiHan.Framework.Observability@2.3.2-preview
 - pkg:nuget/XiHan.Framework.Observability@2.3.5
 - pkg:nuget/XiHan.Framework.Observability@3.10.0
+- pkg:nuget/XiHan.Framework.Observability@3.11.1
+- pkg:nuget/XiHan.Framework.Observability@4.0.0

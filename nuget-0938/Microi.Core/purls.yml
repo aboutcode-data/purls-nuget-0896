@@ -57,4 +57,5 @@
 - pkg:nuget/Microi.Core@7.9.1
 - pkg:nuget/Microi.Core@8.0.2
 - pkg:nuget/Microi.Core@8.1.8
+- pkg:nuget/Microi.Core@8.3.11
 - pkg:nuget/Microi.Core@8.3.6

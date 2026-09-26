@@ -1,3 +1,7 @@
 - pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@25.11.21.1-rc
 - pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.5.12.2
 - pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.5.12.3
+- pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.7.2.1
+- pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.7.20.1
+- pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.7.20.2
+- pkg:nuget/Galosys.Foundation.AspNetCore.Grpc@26.9.23.1

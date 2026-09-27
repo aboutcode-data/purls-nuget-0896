@@ -1,0 +1,5 @@
+- pkg:nuget/LakeWright.Core@1.0.0
+- pkg:nuget/LakeWright.Core@1.0.1
+- pkg:nuget/LakeWright.Core@1.1.2
+- pkg:nuget/LakeWright.Core@1.2.1
+- pkg:nuget/LakeWright.Core@2.0.0

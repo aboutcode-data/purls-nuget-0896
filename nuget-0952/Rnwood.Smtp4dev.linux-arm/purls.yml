@@ -21,3 +21,8 @@
 - pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260724100%2Bpr2100
 - pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260725100%2Bpr2100
 - pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260730101%2Bpr2097
+- pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260830100%2Bpr2098
+- pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260904100%2Bpr2100
+- pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260911123%2Bpr2103
+- pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260911139%2Bpr2112
+- pkg:nuget/Rnwood.Smtp4dev.linux-arm@3.16.0-ci20260913100%2Bpr2125

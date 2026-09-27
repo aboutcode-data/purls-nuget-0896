@@ -32,3 +32,6 @@
 - pkg:nuget/Org.Cdk8s.Plus33@2.5.38
 - pkg:nuget/Org.Cdk8s.Plus33@2.5.46
 - pkg:nuget/Org.Cdk8s.Plus33@2.5.52
+- pkg:nuget/Org.Cdk8s.Plus33@2.5.54
+- pkg:nuget/Org.Cdk8s.Plus33@2.5.55
+- pkg:nuget/Org.Cdk8s.Plus33@2.5.56

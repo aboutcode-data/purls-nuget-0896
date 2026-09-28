@@ -6,3 +6,4 @@
 - pkg:nuget/Cucumber.HtmlFormatter@21.14.0
 - pkg:nuget/Cucumber.HtmlFormatter@21.15.0
 - pkg:nuget/Cucumber.HtmlFormatter@21.15.1
+- pkg:nuget/Cucumber.HtmlFormatter@24.2.0

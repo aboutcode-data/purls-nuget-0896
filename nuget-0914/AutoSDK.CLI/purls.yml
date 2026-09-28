@@ -266,4 +266,6 @@
 - pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.26
 - pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.27
 - pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.37
+- pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.39
+- pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.40
 - pkg:nuget/AutoSDK.CLI@0.35.0-preview.2.8

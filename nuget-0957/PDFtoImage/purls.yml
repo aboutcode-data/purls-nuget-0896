@@ -44,3 +44,4 @@
 - pkg:nuget/PDFtoImage@5.1.0-preview5
 - pkg:nuget/PDFtoImage@5.1.0-preview6
 - pkg:nuget/PDFtoImage@5.1.1
+- pkg:nuget/PDFtoImage@6.0.0-preview

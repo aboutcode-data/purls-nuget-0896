@@ -100,3 +100,5 @@
 - pkg:nuget/Credfeto.Package.Update.osx-x64@1.10.219.2676-main
 - pkg:nuget/Credfeto.Package.Update.osx-x64@1.10.219.2677-main
 - pkg:nuget/Credfeto.Package.Update.osx-x64@1.10.219.2679-main
+- pkg:nuget/Credfeto.Package.Update.osx-x64@1.10.219.2685-main
+- pkg:nuget/Credfeto.Package.Update.osx-x64@1.10.219.2686-main

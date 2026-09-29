@@ -9,3 +9,4 @@
 - pkg:nuget/Benzene.HealthChecks.EntityFramework@0.0.2.7-alpha
 - pkg:nuget/Benzene.HealthChecks.EntityFramework@0.0.2.8-alpha
 - pkg:nuget/Benzene.HealthChecks.EntityFramework@0.0.2.9-alpha
+- pkg:nuget/Benzene.HealthChecks.EntityFramework@0.0.3-alpha.4

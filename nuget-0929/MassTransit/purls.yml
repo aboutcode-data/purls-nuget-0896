@@ -1500,3 +1500,4 @@
 - pkg:nuget/MassTransit@9.2.0-develop.158
 - pkg:nuget/MassTransit@9.2.2-develop.175
 - pkg:nuget/MassTransit@9.2.3-develop.181
+- pkg:nuget/MassTransit@9.2.3-develop.183

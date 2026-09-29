@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.121
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.129
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.131
+- pkg:nuget/Soenneker.Wise.HttpClients@4.0.137
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.15
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.17
 - pkg:nuget/Soenneker.Wise.HttpClients@4.0.18

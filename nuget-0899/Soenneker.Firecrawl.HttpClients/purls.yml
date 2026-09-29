@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.129
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.133
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.139
+- pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.140
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.19
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Firecrawl.HttpClients@4.0.22

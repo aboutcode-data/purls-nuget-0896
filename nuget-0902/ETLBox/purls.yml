@@ -96,6 +96,7 @@
 - pkg:nuget/ETLBox@3.0.1
 - pkg:nuget/ETLBox@3.0.2
 - pkg:nuget/ETLBox@3.1.0
+- pkg:nuget/ETLBox@3.11.0
 - pkg:nuget/ETLBox@3.2.0
 - pkg:nuget/ETLBox@3.3.0
 - pkg:nuget/ETLBox@3.4.0

@@ -24,4 +24,5 @@
 - pkg:nuget/EraTech.SettingManagement.HttpApi@2.1.74
 - pkg:nuget/EraTech.SettingManagement.HttpApi@2.1.81
 - pkg:nuget/EraTech.SettingManagement.HttpApi@2.1.83
+- pkg:nuget/EraTech.SettingManagement.HttpApi@2.2.27
 - pkg:nuget/EraTech.SettingManagement.HttpApi@2.2.6

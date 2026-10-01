@@ -82,6 +82,7 @@
 - pkg:nuget/Olive.Entities.Data@1.0.86
 - pkg:nuget/Olive.Entities.Data@1.0.9
 - pkg:nuget/Olive.Entities.Data@10.6.1
+- pkg:nuget/Olive.Entities.Data@10.7.0
 - pkg:nuget/Olive.Entities.Data@2.1.102
 - pkg:nuget/Olive.Entities.Data@2.1.103
 - pkg:nuget/Olive.Entities.Data@2.1.104

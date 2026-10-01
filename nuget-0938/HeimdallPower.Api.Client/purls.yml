@@ -9,3 +9,4 @@
 - pkg:nuget/HeimdallPower.Api.Client@3.4.0
 - pkg:nuget/HeimdallPower.Api.Client@3.5.0
 - pkg:nuget/HeimdallPower.Api.Client@3.5.1
+- pkg:nuget/HeimdallPower.Api.Client@5.0.0

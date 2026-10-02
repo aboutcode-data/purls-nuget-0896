@@ -60,4 +60,5 @@
 - pkg:nuget/EraTech.OpenIddict.HttpApi@2.1.81
 - pkg:nuget/EraTech.OpenIddict.HttpApi@2.2.23
 - pkg:nuget/EraTech.OpenIddict.HttpApi@2.2.3
+- pkg:nuget/EraTech.OpenIddict.HttpApi@2.2.30
 - pkg:nuget/EraTech.OpenIddict.HttpApi@2.2.6

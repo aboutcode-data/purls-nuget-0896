@@ -58,4 +58,5 @@
 - pkg:nuget/EraTech.Shared.Hosting.EntityFrameworkCore@2.1.81
 - pkg:nuget/EraTech.Shared.Hosting.EntityFrameworkCore@2.2.23
 - pkg:nuget/EraTech.Shared.Hosting.EntityFrameworkCore@2.2.27
+- pkg:nuget/EraTech.Shared.Hosting.EntityFrameworkCore@2.2.30
 - pkg:nuget/EraTech.Shared.Hosting.EntityFrameworkCore@2.2.6

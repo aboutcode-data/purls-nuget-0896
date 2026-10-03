@@ -1,1 +1,3 @@
 - pkg:nuget/go.vendor.golang.org.x.crypto.cryptobyte.asn1@1.23.12.1
+- pkg:nuget/go.vendor.golang.org.x.crypto.cryptobyte.asn1@1.24.13.2
+- pkg:nuget/go.vendor.golang.org.x.crypto.cryptobyte.asn1@1.24.13.3

@@ -2,3 +2,6 @@
 - pkg:nuget/Sendly@3.23.0
 - pkg:nuget/Sendly@3.34.0
 - pkg:nuget/Sendly@3.37.1
+- pkg:nuget/Sendly@4.0.0
+- pkg:nuget/Sendly@4.1.0
+- pkg:nuget/Sendly@4.3.0

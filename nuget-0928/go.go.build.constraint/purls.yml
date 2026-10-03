@@ -1,1 +1,3 @@
 - pkg:nuget/go.go.build.constraint@1.23.12.1
+- pkg:nuget/go.go.build.constraint@1.24.13.2
+- pkg:nuget/go.go.build.constraint@1.24.13.3

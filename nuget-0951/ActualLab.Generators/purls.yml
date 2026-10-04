@@ -109,6 +109,7 @@
 - pkg:nuget/ActualLab.Generators@14.3.8
 - pkg:nuget/ActualLab.Generators@14.4.16
 - pkg:nuget/ActualLab.Generators@15.0.1
+- pkg:nuget/ActualLab.Generators@15.0.12
 - pkg:nuget/ActualLab.Generators@7.0.10
 - pkg:nuget/ActualLab.Generators@7.0.12
 - pkg:nuget/ActualLab.Generators@7.0.13

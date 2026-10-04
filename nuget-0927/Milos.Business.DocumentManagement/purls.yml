@@ -17,4 +17,5 @@
 - pkg:nuget/Milos.Business.DocumentManagement@5.0.9
 - pkg:nuget/Milos.Business.DocumentManagement@5.1.0
 - pkg:nuget/Milos.Business.DocumentManagement@5.2.0
+- pkg:nuget/Milos.Business.DocumentManagement@5.3.12
 - pkg:nuget/Milos.Business.DocumentManagement@5.3.3

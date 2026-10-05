@@ -35,3 +35,4 @@
 - pkg:nuget/Roslynator.Testing.CSharp.Xunit@4.7.0
 - pkg:nuget/Roslynator.Testing.CSharp.Xunit@4.8.0
 - pkg:nuget/Roslynator.Testing.CSharp.Xunit@4.9.0
+- pkg:nuget/Roslynator.Testing.CSharp.Xunit@5.0.1

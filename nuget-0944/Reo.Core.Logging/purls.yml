@@ -49,6 +49,7 @@
 - pkg:nuget/Reo.Core.Logging@10.0.354
 - pkg:nuget/Reo.Core.Logging@10.0.368
 - pkg:nuget/Reo.Core.Logging@10.0.370
+- pkg:nuget/Reo.Core.Logging@10.0.384
 - pkg:nuget/Reo.Core.Logging@10.0.51
 - pkg:nuget/Reo.Core.Logging@10.0.73
 - pkg:nuget/Reo.Core.Logging@10.0.80

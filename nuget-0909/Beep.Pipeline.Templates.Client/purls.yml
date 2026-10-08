@@ -1,2 +1,5 @@
 - pkg:nuget/Beep.Pipeline.Templates.Client@1.0.0-build.10
 - pkg:nuget/Beep.Pipeline.Templates.Client@1.0.0-build.9
+- pkg:nuget/Beep.Pipeline.Templates.Client@1.0.1-build.14
+- pkg:nuget/Beep.Pipeline.Templates.Client@1.0.1-build.16
+- pkg:nuget/Beep.Pipeline.Templates.Client@1.0.1-build.4

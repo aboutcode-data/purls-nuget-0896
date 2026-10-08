@@ -42,3 +42,4 @@
 - pkg:nuget/Amazon.CDK.AWS.S3Tables.Alpha@2.252.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.S3Tables.Alpha@2.262.1-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.S3Tables.Alpha@2.272.0-alpha.0
+- pkg:nuget/Amazon.CDK.AWS.S3Tables.Alpha@2.273.0-alpha.0

@@ -20,6 +20,8 @@
 - pkg:nuget/Pulumi.Gcp@1.9.0-preview-alpha.1576158081%2Bgee2a720e
 - pkg:nuget/Pulumi.Gcp@10.1.0-alpha.1791221533
 - pkg:nuget/Pulumi.Gcp@10.2.0-alpha.1791380540
+- pkg:nuget/Pulumi.Gcp@10.2.0-alpha.1791446301
+- pkg:nuget/Pulumi.Gcp@10.2.0-alpha.1791447299
 - pkg:nuget/Pulumi.Gcp@2.0.0-preview
 - pkg:nuget/Pulumi.Gcp@2.1.0-preview
 - pkg:nuget/Pulumi.Gcp@2.1.0-preview-alpha.1576668801%2Bg0d6294dd

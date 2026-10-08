@@ -19,3 +19,4 @@
 - pkg:nuget/Alethic.SqlServer.Deployment.Tool@1.0.81
 - pkg:nuget/Alethic.SqlServer.Deployment.Tool@1.0.82
 - pkg:nuget/Alethic.SqlServer.Deployment.Tool@1.1.2
+- pkg:nuget/Alethic.SqlServer.Deployment.Tool@1.1.6

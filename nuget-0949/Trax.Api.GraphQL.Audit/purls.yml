@@ -2,3 +2,4 @@
 - pkg:nuget/Trax.Api.GraphQL.Audit@1.28.2
 - pkg:nuget/Trax.Api.GraphQL.Audit@1.37.0
 - pkg:nuget/Trax.Api.GraphQL.Audit@1.44.2
+- pkg:nuget/Trax.Api.GraphQL.Audit@1.47.0

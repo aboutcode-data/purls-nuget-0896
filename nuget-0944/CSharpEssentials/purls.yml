@@ -33,3 +33,5 @@
 - pkg:nuget/CSharpEssentials@3.0.7
 - pkg:nuget/CSharpEssentials@3.1.0
 - pkg:nuget/CSharpEssentials@4.1.0
+- pkg:nuget/CSharpEssentials@5.2.1
+- pkg:nuget/CSharpEssentials@6.0.0

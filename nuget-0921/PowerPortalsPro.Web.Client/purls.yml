@@ -1,1 +1,3 @@
 - pkg:nuget/PowerPortalsPro.Web.Client@1.0.0-beta1
+- pkg:nuget/PowerPortalsPro.Web.Client@10.0.0
+- pkg:nuget/PowerPortalsPro.Web.Client@10.2.0

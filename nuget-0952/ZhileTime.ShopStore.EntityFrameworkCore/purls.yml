@@ -48,3 +48,4 @@
 - pkg:nuget/ZhileTime.ShopStore.EntityFrameworkCore@6.1.10
 - pkg:nuget/ZhileTime.ShopStore.EntityFrameworkCore@6.2.0
 - pkg:nuget/ZhileTime.ShopStore.EntityFrameworkCore@6.2.1
+- pkg:nuget/ZhileTime.ShopStore.EntityFrameworkCore@8.1.0

@@ -29,5 +29,6 @@
 - pkg:nuget/Arcturus.EventBus.OpenTelemetry@2025.9.11.175
 - pkg:nuget/Arcturus.EventBus.OpenTelemetry@2025.9.12.180
 - pkg:nuget/Arcturus.EventBus.OpenTelemetry@2025.9.17.187
+- pkg:nuget/Arcturus.EventBus.OpenTelemetry@2026.10.9.370
 - pkg:nuget/Arcturus.EventBus.OpenTelemetry@2026.2.23.242
 - pkg:nuget/Arcturus.EventBus.OpenTelemetry@2026.3.11.291

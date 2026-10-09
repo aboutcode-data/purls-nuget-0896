@@ -37,7 +37,10 @@
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.289
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.290
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.291
+- pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.292
+- pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.293
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.3
+- pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.301
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.39
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.46
 - pkg:nuget/HartsyInference.Diffusion@2.0.0-alpha.5

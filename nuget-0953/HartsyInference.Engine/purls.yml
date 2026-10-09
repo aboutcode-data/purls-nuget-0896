@@ -28,6 +28,11 @@
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.264
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.271
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.283
+- pkg:nuget/HartsyInference.Engine@2.0.0-alpha.286
+- pkg:nuget/HartsyInference.Engine@2.0.0-alpha.288
+- pkg:nuget/HartsyInference.Engine@2.0.0-alpha.289
+- pkg:nuget/HartsyInference.Engine@2.0.0-alpha.290
+- pkg:nuget/HartsyInference.Engine@2.0.0-alpha.291
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.3
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.39
 - pkg:nuget/HartsyInference.Engine@2.0.0-alpha.46

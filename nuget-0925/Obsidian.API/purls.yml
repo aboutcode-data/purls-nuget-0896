@@ -59,4 +59,5 @@
 - pkg:nuget/Obsidian.API@1.0.0-nightly-71
 - pkg:nuget/Obsidian.API@1.0.0-nightly-8
 - pkg:nuget/Obsidian.API@1.0.0-nightly-81
+- pkg:nuget/Obsidian.API@1.0.0-nightly-86
 - pkg:nuget/Obsidian.API@1.0.0-nightly-9

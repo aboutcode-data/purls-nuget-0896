@@ -121,3 +121,5 @@
 - pkg:nuget/Shiny.Hosting.Native@5.9.0-beta-0013
 - pkg:nuget/Shiny.Hosting.Native@5.9.0-beta-0016
 - pkg:nuget/Shiny.Hosting.Native@6.0.0-beta-0003
+- pkg:nuget/Shiny.Hosting.Native@6.2.0
+- pkg:nuget/Shiny.Hosting.Native@6.2.1-beta-0004

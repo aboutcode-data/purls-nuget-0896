@@ -405,3 +405,5 @@
 - pkg:nuget/Shiny.Notifications@5.9.0-beta-0013
 - pkg:nuget/Shiny.Notifications@5.9.0-beta-0016
 - pkg:nuget/Shiny.Notifications@6.1.0
+- pkg:nuget/Shiny.Notifications@6.2.0
+- pkg:nuget/Shiny.Notifications@6.2.1-beta-0004

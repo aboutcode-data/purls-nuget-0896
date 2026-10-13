@@ -1,3 +1,4 @@
 - pkg:nuget/go.crypto.sha512@1.23.12.1
 - pkg:nuget/go.crypto.sha512@1.24.13.2
 - pkg:nuget/go.crypto.sha512@1.24.13.3
+- pkg:nuget/go.crypto.sha512@1.24.13.6

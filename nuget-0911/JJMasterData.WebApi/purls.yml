@@ -171,6 +171,8 @@
 - pkg:nuget/JJMasterData.WebApi@5.0.1-rc.360.538
 - pkg:nuget/JJMasterData.WebApi@5.0.1-rc.360.541
 - pkg:nuget/JJMasterData.WebApi@5.0.10
+- pkg:nuget/JJMasterData.WebApi@5.0.12
+- pkg:nuget/JJMasterData.WebApi@5.0.12-rc.365.587
 - pkg:nuget/JJMasterData.WebApi@5.0.3
 - pkg:nuget/JJMasterData.WebApi@5.0.3-rc.361.552
 - pkg:nuget/JJMasterData.WebApi@5.0.3-rc.362.551

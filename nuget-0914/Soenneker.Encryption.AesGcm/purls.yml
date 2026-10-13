@@ -7,5 +7,6 @@
 - pkg:nuget/Soenneker.Encryption.AesGcm@4.0.48
 - pkg:nuget/Soenneker.Encryption.AesGcm@4.0.51
 - pkg:nuget/Soenneker.Encryption.AesGcm@4.0.54
+- pkg:nuget/Soenneker.Encryption.AesGcm@4.0.56
 - pkg:nuget/Soenneker.Encryption.AesGcm@4.0.7
 - pkg:nuget/Soenneker.Encryption.AesGcm@4.0.9

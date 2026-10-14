@@ -44,4 +44,7 @@
 - pkg:nuget/OneWare.UniversalFpgaProjectSystem@0.41.8
 - pkg:nuget/OneWare.UniversalFpgaProjectSystem@0.99.7
 - pkg:nuget/OneWare.UniversalFpgaProjectSystem@1.0.27
+- pkg:nuget/OneWare.UniversalFpgaProjectSystem@1.0.32
+- pkg:nuget/OneWare.UniversalFpgaProjectSystem@1.0.32.1
+- pkg:nuget/OneWare.UniversalFpgaProjectSystem@1.0.45
 - pkg:nuget/OneWare.UniversalFpgaProjectSystem@1.0.8

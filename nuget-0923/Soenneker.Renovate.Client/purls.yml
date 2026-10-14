@@ -1292,3 +1292,5 @@
 - pkg:nuget/Soenneker.Renovate.Client@4.0.1534
 - pkg:nuget/Soenneker.Renovate.Client@4.0.1547
 - pkg:nuget/Soenneker.Renovate.Client@4.0.1554
+- pkg:nuget/Soenneker.Renovate.Client@4.0.1555
+- pkg:nuget/Soenneker.Renovate.Client@4.0.1556

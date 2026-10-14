@@ -102,3 +102,4 @@
 - pkg:nuget/MyJetWallet.Service.ClientProfile.Client@2.14.9
 - pkg:nuget/MyJetWallet.Service.ClientProfile.Client@2.15.11
 - pkg:nuget/MyJetWallet.Service.ClientProfile.Client@2.15.12
+- pkg:nuget/MyJetWallet.Service.ClientProfile.Client@2.15.13

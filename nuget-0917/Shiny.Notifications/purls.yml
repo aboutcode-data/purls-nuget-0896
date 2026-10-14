@@ -407,3 +407,4 @@
 - pkg:nuget/Shiny.Notifications@6.1.0
 - pkg:nuget/Shiny.Notifications@6.2.0
 - pkg:nuget/Shiny.Notifications@6.2.1-beta-0004
+- pkg:nuget/Shiny.Notifications@6.3.0-beta-0001

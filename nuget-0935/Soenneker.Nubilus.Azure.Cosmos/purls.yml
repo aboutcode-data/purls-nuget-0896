@@ -119,6 +119,10 @@
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.308
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.310
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.315
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.335
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.343
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.344
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.345
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.84
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.89
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@4.0.91

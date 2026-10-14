@@ -10,3 +10,5 @@
 - pkg:nuget/Hyjinx.LibHac@0.2.0-preview.152%2B1eea357
 - pkg:nuget/Hyjinx.LibHac@0.2.1
 - pkg:nuget/Hyjinx.LibHac@0.3.0-preview.155%2B4a576d6
+- pkg:nuget/Hyjinx.LibHac@0.4.0-preview.180%2B79efc3d
+- pkg:nuget/Hyjinx.LibHac@0.4.0-preview.188%2B08f3821

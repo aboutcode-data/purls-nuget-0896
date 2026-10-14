@@ -15,6 +15,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@11.0.0-rc.2.26504.105
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@6.0.0-preview.1.21102.12
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.osx-arm64@6.0.0-preview.2.21154.6

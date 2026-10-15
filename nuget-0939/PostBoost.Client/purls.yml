@@ -1,2 +1,4 @@
 - pkg:nuget/PostBoost.Client@1.17.3
 - pkg:nuget/PostBoost.Client@1.18.0
+- pkg:nuget/PostBoost.Client@1.24.0
+- pkg:nuget/PostBoost.Client@1.24.1

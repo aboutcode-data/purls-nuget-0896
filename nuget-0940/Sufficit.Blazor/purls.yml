@@ -160,6 +160,8 @@
 - pkg:nuget/Sufficit.Blazor@1.26.1008.1527
 - pkg:nuget/Sufficit.Blazor@1.26.1008.2240
 - pkg:nuget/Sufficit.Blazor@1.26.1013.2040
+- pkg:nuget/Sufficit.Blazor@1.26.1014.1925
+- pkg:nuget/Sufficit.Blazor@1.26.1014.2047
 - pkg:nuget/Sufficit.Blazor@1.26.114.1503
 - pkg:nuget/Sufficit.Blazor@1.26.206.2335
 - pkg:nuget/Sufficit.Blazor@1.26.216.1900

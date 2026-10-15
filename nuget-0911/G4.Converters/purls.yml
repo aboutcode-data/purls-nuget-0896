@@ -33,6 +33,8 @@
 - pkg:nuget/G4.Converters@2025.8.11.42
 - pkg:nuget/G4.Converters@2025.8.11.43
 - pkg:nuget/G4.Converters@2025.8.7.39
+- pkg:nuget/G4.Converters@2026.10.14.80
+- pkg:nuget/G4.Converters@2026.10.14.81
 - pkg:nuget/G4.Converters@2026.3.2.49
 - pkg:nuget/G4.Converters@2026.6.15.66
 - pkg:nuget/G4.Converters@2026.7.30.72

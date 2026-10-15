@@ -81,6 +81,7 @@
 - pkg:nuget/Google.Api.Gax@4.10.0
 - pkg:nuget/Google.Api.Gax@4.11.0
 - pkg:nuget/Google.Api.Gax@4.11.1
+- pkg:nuget/Google.Api.Gax@4.15.2
 - pkg:nuget/Google.Api.Gax@4.2.0
 - pkg:nuget/Google.Api.Gax@4.2.0-alpha01
 - pkg:nuget/Google.Api.Gax@4.2.0-alpha04

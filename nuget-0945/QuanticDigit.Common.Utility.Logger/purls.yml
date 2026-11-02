@@ -1,3 +1,5 @@
 - pkg:nuget/QuanticDigit.Common.Utility.Logger@1.0.20
 - pkg:nuget/QuanticDigit.Common.Utility.Logger@1.0.3
 - pkg:nuget/QuanticDigit.Common.Utility.Logger@1.0.34
+- pkg:nuget/QuanticDigit.Common.Utility.Logger@1.0.39
+- pkg:nuget/QuanticDigit.Common.Utility.Logger@9.0.0

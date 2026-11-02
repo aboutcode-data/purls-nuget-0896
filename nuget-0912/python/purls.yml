@@ -87,6 +87,7 @@
 - pkg:nuget/python@3.13.0-rc2
 - pkg:nuget/python@3.13.0-rc3
 - pkg:nuget/python@3.13.1
+- pkg:nuget/python@3.13.17
 - pkg:nuget/python@3.13.2
 - pkg:nuget/python@3.13.3
 - pkg:nuget/python@3.13.4

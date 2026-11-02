@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@11.0.357
+- pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@11.0.358
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@3.0.1
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@3.0.10
 - pkg:nuget/Soenneker.Nubilus.Azure.Cosmos@3.0.11

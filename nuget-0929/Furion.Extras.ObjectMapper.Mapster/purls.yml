@@ -1031,3 +1031,5 @@
 - pkg:nuget/Furion.Extras.ObjectMapper.Mapster@4.9.9.9
 - pkg:nuget/Furion.Extras.ObjectMapper.Mapster@4.9.9.90
 - pkg:nuget/Furion.Extras.ObjectMapper.Mapster@4.9.9.96
+- pkg:nuget/Furion.Extras.ObjectMapper.Mapster@4.9.9.98
+- pkg:nuget/Furion.Extras.ObjectMapper.Mapster@4.9.9.99

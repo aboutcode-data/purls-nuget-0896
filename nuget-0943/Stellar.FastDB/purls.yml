@@ -9,3 +9,5 @@
 - pkg:nuget/Stellar.FastDB@1.0.6
 - pkg:nuget/Stellar.FastDB@1.0.7
 - pkg:nuget/Stellar.FastDB@1.0.8
+- pkg:nuget/Stellar.FastDB@2.0.0
+- pkg:nuget/Stellar.FastDB@2.1.0

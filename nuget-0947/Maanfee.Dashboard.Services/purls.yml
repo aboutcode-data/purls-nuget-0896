@@ -284,3 +284,4 @@
 - pkg:nuget/Maanfee.Dashboard.Services@8.90.0
 - pkg:nuget/Maanfee.Dashboard.Services@8.91.0
 - pkg:nuget/Maanfee.Dashboard.Services@8.94.0
+- pkg:nuget/Maanfee.Dashboard.Services@9.33.10

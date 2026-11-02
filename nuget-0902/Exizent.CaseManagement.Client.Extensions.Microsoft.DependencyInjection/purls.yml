@@ -133,6 +133,7 @@
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.65-preview
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.68-preview
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.7-preview
+- pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.703-preview
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.71-preview
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.74-preview
 - pkg:nuget/Exizent.CaseManagement.Client.Extensions.Microsoft.DependencyInjection@0.0.77-preview

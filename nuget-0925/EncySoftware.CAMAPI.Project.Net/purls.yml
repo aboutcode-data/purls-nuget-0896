@@ -12,3 +12,5 @@
 - pkg:nuget/EncySoftware.CAMAPI.Project.Net@1.2.2
 - pkg:nuget/EncySoftware.CAMAPI.Project.Net@1.2.3
 - pkg:nuget/EncySoftware.CAMAPI.Project.Net@2.0.2%2B874fbde4dc4dbcb96b2eb5904f8f0dcab2515fd3
+- pkg:nuget/EncySoftware.CAMAPI.Project.Net@3.0.1%2B1560a79bf5de723e7b959dcbe0686d31a2652d57
+- pkg:nuget/EncySoftware.CAMAPI.Project.Net@3.0.4%2B9d19e08920adf4fdb48e8af213cd9f57badef280

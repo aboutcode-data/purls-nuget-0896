@@ -35,6 +35,7 @@
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.16.1.109
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.16.1.111
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.16.1.112
+- pkg:nuget/JetBrains.ReSharper.TestRunner@2.16.1.115
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.2.1.57
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.2.1.58
 - pkg:nuget/JetBrains.ReSharper.TestRunner@2.6.1.59

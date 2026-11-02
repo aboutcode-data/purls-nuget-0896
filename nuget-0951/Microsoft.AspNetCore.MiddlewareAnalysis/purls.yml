@@ -28,6 +28,7 @@
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@11.0.0-rc.1.26425.128
+- pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@2.0.0
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@2.0.0-preview1-final
 - pkg:nuget/Microsoft.AspNetCore.MiddlewareAnalysis@2.0.0-preview2-final

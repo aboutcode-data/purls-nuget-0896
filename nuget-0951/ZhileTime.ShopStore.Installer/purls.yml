@@ -1,3 +1,5 @@
+- pkg:nuget/ZhileTime.ShopStore.Installer@11.1.0
+- pkg:nuget/ZhileTime.ShopStore.Installer@11.4.0
 - pkg:nuget/ZhileTime.ShopStore.Installer@3.5.0
 - pkg:nuget/ZhileTime.ShopStore.Installer@3.6.0
 - pkg:nuget/ZhileTime.ShopStore.Installer@3.6.1

@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@11.0.0
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@4.0.1
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@4.1.0
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@4.1.2
@@ -42,3 +43,4 @@
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@6.1.10
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@6.2.0
 - pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@6.2.1
+- pkg:nuget/ZhileTime.Hope.TextTemplateManagement.Application@9.0.0

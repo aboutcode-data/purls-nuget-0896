@@ -55,3 +55,6 @@
 - pkg:nuget/FenixAlliance.ACL.i18n@1.9.9.61
 - pkg:nuget/FenixAlliance.ACL.i18n@2.1.2.5699
 - pkg:nuget/FenixAlliance.ACL.i18n@2.1.2.5860
+- pkg:nuget/FenixAlliance.ACL.i18n@2.3.3
+- pkg:nuget/FenixAlliance.ACL.i18n@2.4.1
+- pkg:nuget/FenixAlliance.ACL.i18n@2.7.0

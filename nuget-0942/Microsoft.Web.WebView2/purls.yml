@@ -110,6 +110,7 @@
 - pkg:nuget/Microsoft.Web.WebView2@1.0.3485.44
 - pkg:nuget/Microsoft.Web.WebView2@1.0.3530-prerelease
 - pkg:nuget/Microsoft.Web.WebView2@1.0.3590-prerelease
+- pkg:nuget/Microsoft.Web.WebView2@1.0.4365-prerelease
 - pkg:nuget/Microsoft.Web.WebView2@1.0.622.22
 - pkg:nuget/Microsoft.Web.WebView2@1.0.664.37
 - pkg:nuget/Microsoft.Web.WebView2@1.0.674-prerelease

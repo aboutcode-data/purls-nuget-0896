@@ -1,5 +1,7 @@
 - pkg:nuget/DevExpress.Drawing.Skia.es@25.1.11
+- pkg:nuget/DevExpress.Drawing.Skia.es@25.1.15
 - pkg:nuget/DevExpress.Drawing.Skia.es@25.1.5
+- pkg:nuget/DevExpress.Drawing.Skia.es@25.2.11
 - pkg:nuget/DevExpress.Drawing.Skia.es@25.2.2-beta
 - pkg:nuget/DevExpress.Drawing.Skia.es@25.2.5
 - pkg:nuget/DevExpress.Drawing.Skia.es@25.2.7
@@ -10,4 +12,6 @@
 - pkg:nuget/DevExpress.Drawing.Skia.es@26.1.4-pre-26179
 - pkg:nuget/DevExpress.Drawing.Skia.es@26.1.4-pre-26190
 - pkg:nuget/DevExpress.Drawing.Skia.es@26.1.5
+- pkg:nuget/DevExpress.Drawing.Skia.es@26.1.5-pre-26227
 - pkg:nuget/DevExpress.Drawing.Skia.es@26.1.5-pre-26248
+- pkg:nuget/DevExpress.Drawing.Skia.es@26.1.6-pre-26270

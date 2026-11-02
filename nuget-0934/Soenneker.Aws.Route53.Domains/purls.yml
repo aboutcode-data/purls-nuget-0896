@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Aws.Route53.Domains@11.0.438
+- pkg:nuget/Soenneker.Aws.Route53.Domains@11.0.439
+- pkg:nuget/Soenneker.Aws.Route53.Domains@11.0.447
+- pkg:nuget/Soenneker.Aws.Route53.Domains@11.0.449
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.1
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.10
 - pkg:nuget/Soenneker.Aws.Route53.Domains@3.0.11
@@ -116,5 +120,8 @@
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.403
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.405
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.408
+- pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.416
+- pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.426
+- pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.432
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.94
 - pkg:nuget/Soenneker.Aws.Route53.Domains@4.0.96

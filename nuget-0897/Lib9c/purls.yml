@@ -721,6 +721,12 @@
 - pkg:nuget/Lib9c@1.37.0-dev.437930dba73bcc279e29fc620f9b468baf0930b5
 - pkg:nuget/Lib9c@1.37.0-dev.8da388f64b3242e32182de50e2ab1daf8d85f884
 - pkg:nuget/Lib9c@1.38.0-dev.4b8f723033392e9f666683c0cea5fb1adad84052
+- pkg:nuget/Lib9c@1.39.0
+- pkg:nuget/Lib9c@1.39.0-dev.16be1498e392d7998e7b57682e6778600ef577e2
+- pkg:nuget/Lib9c@1.39.0-dev.7060f947220b554c92c6192669180734bf5f3ea0
+- pkg:nuget/Lib9c@1.39.0-dev.975922329b248df8a975dc58db19b0abed9b63bb
+- pkg:nuget/Lib9c@1.39.0-dev.98764b6f030f5c59ed0319cbf60569533ba4a804
+- pkg:nuget/Lib9c@1.39.0-dev.b1d0c6ad4f898c2ae5901d8da9f7434a6db376ad
 - pkg:nuget/Lib9c@1.8.0-dev.04d6656b74af6476768a0f1f9980340ecccf12ee
 - pkg:nuget/Lib9c@1.8.0-dev.0a393b6b80182c34c786bcc9ee68fc2a83338044
 - pkg:nuget/Lib9c@1.8.0-dev.0c4a813e87a0410e1207525d0cc6c6c799addc33

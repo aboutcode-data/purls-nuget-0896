@@ -38,3 +38,4 @@
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeSql@0.0.545
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeSql@0.0.546
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeSql@0.0.547
+- pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeSql@0.0.559

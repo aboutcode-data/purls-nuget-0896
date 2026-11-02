@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Cloudflare.Ssl@11.0.549
+- pkg:nuget/Soenneker.Cloudflare.Ssl@11.0.552
+- pkg:nuget/Soenneker.Cloudflare.Ssl@11.0.557
 - pkg:nuget/Soenneker.Cloudflare.Ssl@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.Ssl@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.Ssl@3.0.100

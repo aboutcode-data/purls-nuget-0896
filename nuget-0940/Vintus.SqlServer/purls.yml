@@ -28,6 +28,8 @@
 - pkg:nuget/Vintus.SqlServer@9.0.42-g77ee9327e1
 - pkg:nuget/Vintus.SqlServer@9.0.43-g4e5ac965a2
 - pkg:nuget/Vintus.SqlServer@9.0.5-gfd6d294be5
+- pkg:nuget/Vintus.SqlServer@9.0.50-ge7c1f76c6a
+- pkg:nuget/Vintus.SqlServer@9.0.51-g9ce4848613
 - pkg:nuget/Vintus.SqlServer@9.0.6-g4c5738aaef
 - pkg:nuget/Vintus.SqlServer@9.0.7-g6726587a33
 - pkg:nuget/Vintus.SqlServer@9.0.8-gb5e8acf93a

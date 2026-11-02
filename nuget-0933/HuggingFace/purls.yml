@@ -60,3 +60,12 @@
 - pkg:nuget/HuggingFace@0.4.3-dev.691
 - pkg:nuget/HuggingFace@0.4.3-dev.692
 - pkg:nuget/HuggingFace@0.4.3-dev.693
+- pkg:nuget/HuggingFace@0.4.3-dev.703
+- pkg:nuget/HuggingFace@0.4.3-dev.706
+- pkg:nuget/HuggingFace@0.4.3-dev.713
+- pkg:nuget/HuggingFace@0.4.3-dev.714
+- pkg:nuget/HuggingFace@0.4.3-dev.728
+- pkg:nuget/HuggingFace@0.4.3-dev.736
+- pkg:nuget/HuggingFace@0.4.3-dev.741
+- pkg:nuget/HuggingFace@0.4.3-dev.747
+- pkg:nuget/HuggingFace@0.4.3-dev.757

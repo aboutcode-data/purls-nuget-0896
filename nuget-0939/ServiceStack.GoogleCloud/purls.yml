@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.GoogleCloud@10.0.0
+- pkg:nuget/ServiceStack.GoogleCloud@10.2.0
 - pkg:nuget/ServiceStack.GoogleCloud@6.11.0
 - pkg:nuget/ServiceStack.GoogleCloud@8.0.0
 - pkg:nuget/ServiceStack.GoogleCloud@8.1.0

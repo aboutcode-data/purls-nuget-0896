@@ -99,3 +99,6 @@
 - pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.178
 - pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.181
 - pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.184
+- pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.187
+- pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.190
+- pkg:nuget/GrayMint.Authorization.PermissionAuthorizations@3.2.195

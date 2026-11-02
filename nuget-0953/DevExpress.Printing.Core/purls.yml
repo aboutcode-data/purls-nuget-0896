@@ -1,5 +1,6 @@
 - pkg:nuget/DevExpress.Printing.Core@25.1.12
 - pkg:nuget/DevExpress.Printing.Core@25.1.13
+- pkg:nuget/DevExpress.Printing.Core@25.1.15
 - pkg:nuget/DevExpress.Printing.Core@25.1.4
 - pkg:nuget/DevExpress.Printing.Core@25.1.5
 - pkg:nuget/DevExpress.Printing.Core@25.2.2-beta
@@ -9,3 +10,4 @@
 - pkg:nuget/DevExpress.Printing.Core@26.1.5-pre-26227
 - pkg:nuget/DevExpress.Printing.Core@26.1.5-pre-26235
 - pkg:nuget/DevExpress.Printing.Core@26.1.5-pre-26241
+- pkg:nuget/DevExpress.Printing.Core@26.1.6

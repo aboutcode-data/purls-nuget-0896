@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.LocalizationManagement.HttpApi@10.7.0
 - pkg:nuget/LINGYUN.Abp.LocalizationManagement.HttpApi@4.3.0
 - pkg:nuget/LINGYUN.Abp.LocalizationManagement.HttpApi@4.3.2
 - pkg:nuget/LINGYUN.Abp.LocalizationManagement.HttpApi@4.3.2.1

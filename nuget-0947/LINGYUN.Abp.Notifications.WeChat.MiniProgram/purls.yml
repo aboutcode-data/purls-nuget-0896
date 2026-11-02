@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Notifications.WeChat.MiniProgram@10.7.0
 - pkg:nuget/LINGYUN.Abp.Notifications.WeChat.MiniProgram@4.2.1
 - pkg:nuget/LINGYUN.Abp.Notifications.WeChat.MiniProgram@4.3.0
 - pkg:nuget/LINGYUN.Abp.Notifications.WeChat.MiniProgram@4.3.2

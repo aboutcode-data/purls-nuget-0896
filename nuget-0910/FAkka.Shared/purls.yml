@@ -48,6 +48,8 @@
 - pkg:nuget/FAkka.Shared@1.4.9
 - pkg:nuget/FAkka.Shared@1.5.0
 - pkg:nuget/FAkka.Shared@1.5.1
+- pkg:nuget/FAkka.Shared@10.2.1
+- pkg:nuget/FAkka.Shared@10.2.7
 - pkg:nuget/FAkka.Shared@9.5.1
 - pkg:nuget/FAkka.Shared@9.5.10
 - pkg:nuget/FAkka.Shared@9.5.11

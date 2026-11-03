@@ -16,3 +16,4 @@
 - pkg:nuget/Leistd.OperationRecords.Logging@1.3.0-beta.89
 - pkg:nuget/Leistd.OperationRecords.Logging@1.3.0-beta.95
 - pkg:nuget/Leistd.OperationRecords.Logging@1.3.0-beta.99
+- pkg:nuget/Leistd.OperationRecords.Logging@2.0.0-beta.167

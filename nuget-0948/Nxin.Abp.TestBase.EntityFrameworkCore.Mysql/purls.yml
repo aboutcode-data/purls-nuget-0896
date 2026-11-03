@@ -1,4 +1,5 @@
 - pkg:nuget/Nxin.Abp.TestBase.EntityFrameworkCore.Mysql@10.0.0
+- pkg:nuget/Nxin.Abp.TestBase.EntityFrameworkCore.Mysql@10.0.8
 - pkg:nuget/Nxin.Abp.TestBase.EntityFrameworkCore.Mysql@6.0.13
 - pkg:nuget/Nxin.Abp.TestBase.EntityFrameworkCore.Mysql@6.0.14
 - pkg:nuget/Nxin.Abp.TestBase.EntityFrameworkCore.Mysql@6.0.15

@@ -57,8 +57,16 @@
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.3.0-dev.39
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.3.0-dev.94
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.3.6
+- pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.115
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.14
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.16
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.26
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.3
 - pkg:nuget/Uno.Extensions.Http.Kiota@7.4.0-dev.61
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.100
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.118
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.76
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.83
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.96
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.97
+- pkg:nuget/Uno.Extensions.Http.Kiota@8.0.0-dev.98

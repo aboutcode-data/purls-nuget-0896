@@ -1,3 +1,13 @@
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1622
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1624
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1625
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1627
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1628
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1642
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1646
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1651
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1652
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1659
 - pkg:nuget/Soenneker.Quark.Suite@3.0.1
 - pkg:nuget/Soenneker.Quark.Suite@3.0.10
 - pkg:nuget/Soenneker.Quark.Suite@3.0.100
@@ -146,6 +156,10 @@
 - pkg:nuget/Soenneker.Quark.Suite@4.0.1559
 - pkg:nuget/Soenneker.Quark.Suite@4.0.1567
 - pkg:nuget/Soenneker.Quark.Suite@4.0.1573
+- pkg:nuget/Soenneker.Quark.Suite@4.0.1581
+- pkg:nuget/Soenneker.Quark.Suite@4.0.1582
+- pkg:nuget/Soenneker.Quark.Suite@4.0.1587
+- pkg:nuget/Soenneker.Quark.Suite@4.0.1589
 - pkg:nuget/Soenneker.Quark.Suite@4.0.299
 - pkg:nuget/Soenneker.Quark.Suite@4.0.320
 - pkg:nuget/Soenneker.Quark.Suite@4.0.321

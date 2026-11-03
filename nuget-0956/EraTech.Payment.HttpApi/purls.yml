@@ -61,4 +61,5 @@
 - pkg:nuget/EraTech.Payment.HttpApi@2.1.99
 - pkg:nuget/EraTech.Payment.HttpApi@2.2.23
 - pkg:nuget/EraTech.Payment.HttpApi@2.2.27
+- pkg:nuget/EraTech.Payment.HttpApi@2.2.39
 - pkg:nuget/EraTech.Payment.HttpApi@2.2.6

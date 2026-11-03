@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@11.0.553
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@11.0.558
+- pkg:nuget/Soenneker.Cloudflare.DnsSettings@11.0.565
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.DnsSettings@3.0.100

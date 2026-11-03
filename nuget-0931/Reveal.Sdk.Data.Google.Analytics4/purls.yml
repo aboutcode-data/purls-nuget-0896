@@ -14,3 +14,5 @@
 - pkg:nuget/Reveal.Sdk.Data.Google.Analytics4@1.7.5
 - pkg:nuget/Reveal.Sdk.Data.Google.Analytics4@1.7.6
 - pkg:nuget/Reveal.Sdk.Data.Google.Analytics4@1.8.0
+- pkg:nuget/Reveal.Sdk.Data.Google.Analytics4@2.1.1-preview.22
+- pkg:nuget/Reveal.Sdk.Data.Google.Analytics4@2.2.2-preview.2

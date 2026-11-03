@@ -14,3 +14,7 @@
 - pkg:nuget/Reveal.Sdk.Data.Snowflake@1.7.5
 - pkg:nuget/Reveal.Sdk.Data.Snowflake@1.7.6
 - pkg:nuget/Reveal.Sdk.Data.Snowflake@1.8.0
+- pkg:nuget/Reveal.Sdk.Data.Snowflake@2.1.1-preview.22
+- pkg:nuget/Reveal.Sdk.Data.Snowflake@2.1.1-preview.9
+- pkg:nuget/Reveal.Sdk.Data.Snowflake@2.2.2-preview.13
+- pkg:nuget/Reveal.Sdk.Data.Snowflake@2.2.2-preview.2

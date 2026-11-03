@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Extensions.Enumerable.Document@11.0.391
 - pkg:nuget/Soenneker.Extensions.Enumerable.Document@3.0.1
 - pkg:nuget/Soenneker.Extensions.Enumerable.Document@3.0.10
 - pkg:nuget/Soenneker.Extensions.Enumerable.Document@3.0.100

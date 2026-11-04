@@ -5,6 +5,7 @@
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@10.1.0-rc04
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@10.1.2-rc03
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@10.2.0-beta06
+- pkg:nuget/Messaia.Net.Base.Template.Services.Impl@10.2.0-beta14
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@3.1.0
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@3.1.0-beta01
 - pkg:nuget/Messaia.Net.Base.Template.Services.Impl@3.1.0-beta02

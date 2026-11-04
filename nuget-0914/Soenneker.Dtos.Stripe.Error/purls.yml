@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@11.0.258
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@11.0.263
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.1
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.10
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.11
@@ -98,6 +100,8 @@
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.205
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.209
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.223
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.240
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.241
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.81
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.83
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@4.0.84

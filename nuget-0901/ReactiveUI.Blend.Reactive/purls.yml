@@ -1,2 +1,5 @@
 - pkg:nuget/ReactiveUI.Blend.Reactive@24.0.0-beta.1
 - pkg:nuget/ReactiveUI.Blend.Reactive@24.2.0
+- pkg:nuget/ReactiveUI.Blend.Reactive@24.3.0
+- pkg:nuget/ReactiveUI.Blend.Reactive@25.0.0
+- pkg:nuget/ReactiveUI.Blend.Reactive@25.1.0

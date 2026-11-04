@@ -5,6 +5,7 @@
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@10.0.1
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@10.1.0
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@10.4.0
+- pkg:nuget/ManagedCode.Orleans.SignalR.Client@10.4.5
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@7.0.0
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@7.0.1
 - pkg:nuget/ManagedCode.Orleans.SignalR.Client@7.1.0

@@ -6,6 +6,7 @@
 - pkg:nuget/ReHackt.AspNetCore.Authentication@1.0.5
 - pkg:nuget/ReHackt.AspNetCore.Authentication@1.0.6
 - pkg:nuget/ReHackt.AspNetCore.Authentication@10.0.6
+- pkg:nuget/ReHackt.AspNetCore.Authentication@10.1.0
 - pkg:nuget/ReHackt.AspNetCore.Authentication@7.0.0
 - pkg:nuget/ReHackt.AspNetCore.Authentication@7.0.1
 - pkg:nuget/ReHackt.AspNetCore.Authentication@7.0.2

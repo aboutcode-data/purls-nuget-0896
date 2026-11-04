@@ -11,6 +11,7 @@
 - pkg:nuget/CSharp.Mongo.Migration@2.0.0
 - pkg:nuget/CSharp.Mongo.Migration@3.0.0
 - pkg:nuget/CSharp.Mongo.Migration@3.10.0
+- pkg:nuget/CSharp.Mongo.Migration@3.13.0
 - pkg:nuget/CSharp.Mongo.Migration@3.4.0
 - pkg:nuget/CSharp.Mongo.Migration@3.4.2
 - pkg:nuget/CSharp.Mongo.Migration@3.4.3

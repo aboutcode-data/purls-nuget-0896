@@ -1,3 +1,4 @@
 - pkg:nuget/Pepperhost.EFCore.IncludesRepository@1.0.6
 - pkg:nuget/Pepperhost.EFCore.IncludesRepository@1.12.0
 - pkg:nuget/Pepperhost.EFCore.IncludesRepository@1.14.0
+- pkg:nuget/Pepperhost.EFCore.IncludesRepository@1.17.0

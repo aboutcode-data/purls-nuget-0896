@@ -7,7 +7,9 @@
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@2.4.0
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@2.4.2
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@2.5.0
+- pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.10.0
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.3.0
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.4.1
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.7.1
 - pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.8.1
+- pkg:nuget/AlibabaCloud.SDK.RdsAi20250507@3.9.2

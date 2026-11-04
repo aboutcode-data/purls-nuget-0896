@@ -94,3 +94,4 @@
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.UserProvider@4.0.0
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.UserProvider@4.0.1
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.UserProvider@4.0.2
+- pkg:nuget/Dynamicweb.DataIntegration.Providers.UserProvider@4.0.6

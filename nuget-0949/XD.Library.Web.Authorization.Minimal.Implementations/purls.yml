@@ -1,5 +1,6 @@
 - pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.108
 - pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.111
+- pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.123
 - pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.2
 - pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.3
 - pkg:nuget/XD.Library.Web.Authorization.Minimal.Implementations@8.0.5

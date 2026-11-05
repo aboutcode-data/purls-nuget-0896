@@ -65,3 +65,4 @@
 - pkg:nuget/Xamarin.FaceCore.Match.Droid@8.4.794-rc
 - pkg:nuget/Xamarin.FaceCore.Match.Droid@8.4.807-rc
 - pkg:nuget/Xamarin.FaceCore.Match.Droid@8.4.810
+- pkg:nuget/Xamarin.FaceCore.Match.Droid@8.5.859-rc

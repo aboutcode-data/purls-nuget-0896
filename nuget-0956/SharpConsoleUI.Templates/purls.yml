@@ -1,3 +1,5 @@
+- pkg:nuget/SharpConsoleUI.Templates@2.10.7
+- pkg:nuget/SharpConsoleUI.Templates@2.10.8
 - pkg:nuget/SharpConsoleUI.Templates@2.4.48
 - pkg:nuget/SharpConsoleUI.Templates@2.4.59
 - pkg:nuget/SharpConsoleUI.Templates@2.4.63

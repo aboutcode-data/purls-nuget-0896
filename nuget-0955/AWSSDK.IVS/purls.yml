@@ -945,6 +945,7 @@
 - pkg:nuget/AWSSDK.IVS@4.0.101.18
 - pkg:nuget/AWSSDK.IVS@4.0.101.2
 - pkg:nuget/AWSSDK.IVS@4.0.101.5
+- pkg:nuget/AWSSDK.IVS@4.0.103.2
 - pkg:nuget/AWSSDK.IVS@4.0.2.18
 - pkg:nuget/AWSSDK.IVS@4.0.2.20
 - pkg:nuget/AWSSDK.IVS@4.0.2.21

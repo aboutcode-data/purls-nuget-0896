@@ -1,5 +1,6 @@
 - pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@11.2.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@11.3.0
+- pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@11.5.1
 - pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@2.7.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@2.7.2
 - pkg:nuget/ZhileTime.Hope.ApiKey.Application.Contracts@3.0.0

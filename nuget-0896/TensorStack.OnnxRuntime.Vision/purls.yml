@@ -2,3 +2,4 @@
 - pkg:nuget/TensorStack.OnnxRuntime.Vision@0.13.12
 - pkg:nuget/TensorStack.OnnxRuntime.Vision@0.13.7
 - pkg:nuget/TensorStack.OnnxRuntime.Vision@0.14.3
+- pkg:nuget/TensorStack.OnnxRuntime.Vision@0.14.6

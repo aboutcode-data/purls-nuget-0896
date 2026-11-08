@@ -24,6 +24,7 @@
 - pkg:nuget/Automatica.Core.Driver.Utility@1.0.0.740
 - pkg:nuget/Automatica.Core.Driver.Utility@1.13.0.738
 - pkg:nuget/Automatica.Core.Driver.Utility@1.13.0.739
+- pkg:nuget/Automatica.Core.Driver.Utility@10.0.0.2049
 - pkg:nuget/Automatica.Core.Driver.Utility@2.0.0.741
 - pkg:nuget/Automatica.Core.Driver.Utility@2.0.0.745
 - pkg:nuget/Automatica.Core.Driver.Utility@2.0.0.746

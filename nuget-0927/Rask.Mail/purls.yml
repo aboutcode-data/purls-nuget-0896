@@ -76,6 +76,7 @@
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.292
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.3
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.3011
+- pkg:nuget/Rask.Mail@0.23.1-alpha.0.3039
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.304
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.305
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.320

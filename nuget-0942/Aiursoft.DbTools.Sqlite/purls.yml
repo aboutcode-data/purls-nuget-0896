@@ -2,6 +2,7 @@
 - pkg:nuget/Aiursoft.DbTools.Sqlite@10.0.32
 - pkg:nuget/Aiursoft.DbTools.Sqlite@10.0.37
 - pkg:nuget/Aiursoft.DbTools.Sqlite@10.0.38
+- pkg:nuget/Aiursoft.DbTools.Sqlite@10.0.43
 - pkg:nuget/Aiursoft.DbTools.Sqlite@6.0.29
 - pkg:nuget/Aiursoft.DbTools.Sqlite@6.0.30
 - pkg:nuget/Aiursoft.DbTools.Sqlite@6.0.31

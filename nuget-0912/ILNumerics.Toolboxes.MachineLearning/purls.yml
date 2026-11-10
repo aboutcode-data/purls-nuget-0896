@@ -32,3 +32,5 @@
 - pkg:nuget/ILNumerics.Toolboxes.MachineLearning@7.2.37-beta02
 - pkg:nuget/ILNumerics.Toolboxes.MachineLearning@7.2.41
 - pkg:nuget/ILNumerics.Toolboxes.MachineLearning@7.4.16
+- pkg:nuget/ILNumerics.Toolboxes.MachineLearning@7.4.77
+- pkg:nuget/ILNumerics.Toolboxes.MachineLearning@7.4.93

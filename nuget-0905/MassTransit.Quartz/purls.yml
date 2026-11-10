@@ -1433,5 +1433,7 @@
 - pkg:nuget/MassTransit.Quartz@9.2.4-develop.198
 - pkg:nuget/MassTransit.Quartz@9.2.5
 - pkg:nuget/MassTransit.Quartz@9.2.5-develop.204
+- pkg:nuget/MassTransit.Quartz@9.2.6
 - pkg:nuget/MassTransit.Quartz@9.2.6-develop.212
 - pkg:nuget/MassTransit.Quartz@9.2.6-develop.214
+- pkg:nuget/MassTransit.Quartz@9.2.6-develop.215

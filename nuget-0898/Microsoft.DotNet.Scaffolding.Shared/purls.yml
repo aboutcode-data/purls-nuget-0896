@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@10.0.0-rc.1.25458.5
+- pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@10.0.3
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@11.0.0-preview.1.26230.3
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@6.0.0
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@6.0.0-preview.7.21406.1
@@ -58,6 +59,7 @@
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.0-rc.2.23509.1
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.1
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.2
+- pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.24
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.3
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.4
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@8.0.5
@@ -73,3 +75,4 @@
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@9.0.0-preview.7.24413.1
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@9.0.0-rc.1.24457.2
 - pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@9.0.0-rc.2.24508.2
+- pkg:nuget/Microsoft.DotNet.Scaffolding.Shared@9.0.13

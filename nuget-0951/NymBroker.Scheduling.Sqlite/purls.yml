@@ -1,0 +1,2 @@
+- pkg:nuget/NymBroker.Scheduling.Sqlite@0.20.0
+- pkg:nuget/NymBroker.Scheduling.Sqlite@0.22.2

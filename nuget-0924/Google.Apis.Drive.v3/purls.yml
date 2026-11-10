@@ -333,4 +333,5 @@
 - pkg:nuget/Google.Apis.Drive.v3@1.75.0.4218
 - pkg:nuget/Google.Apis.Drive.v3@1.76.0.4273
 - pkg:nuget/Google.Apis.Drive.v3@1.77.0.4301
+- pkg:nuget/Google.Apis.Drive.v3@1.78.0.4327
 - pkg:nuget/Google.Apis.Drive.v3@1.9.2.10

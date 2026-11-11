@@ -2,6 +2,7 @@
 - pkg:nuget/MartinCostello.DotNetBumper@0.1.1
 - pkg:nuget/MartinCostello.DotNetBumper@0.10.0
 - pkg:nuget/MartinCostello.DotNetBumper@0.10.1
+- pkg:nuget/MartinCostello.DotNetBumper@0.13.0
 - pkg:nuget/MartinCostello.DotNetBumper@0.2.0
 - pkg:nuget/MartinCostello.DotNetBumper@0.2.1
 - pkg:nuget/MartinCostello.DotNetBumper@0.3.0

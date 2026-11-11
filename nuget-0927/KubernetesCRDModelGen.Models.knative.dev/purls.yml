@@ -478,4 +478,5 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.knative.dev@1.26.0
 - pkg:nuget/KubernetesCRDModelGen.Models.knative.dev@1.3.1
 - pkg:nuget/KubernetesCRDModelGen.Models.knative.dev@1.3.2
+- pkg:nuget/KubernetesCRDModelGen.Models.knative.dev@1.32.0
 - pkg:nuget/KubernetesCRDModelGen.Models.knative.dev@1.9.1

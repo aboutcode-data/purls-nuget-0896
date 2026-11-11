@@ -365,4 +365,5 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.traefik.io@1.14.0
 - pkg:nuget/KubernetesCRDModelGen.Models.traefik.io@1.2.1
 - pkg:nuget/KubernetesCRDModelGen.Models.traefik.io@1.2.2
+- pkg:nuget/KubernetesCRDModelGen.Models.traefik.io@1.23.0
 - pkg:nuget/KubernetesCRDModelGen.Models.traefik.io@1.4.1

@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Utils.File.Replacer@11.0.400
+- pkg:nuget/Soenneker.Utils.File.Replacer@11.0.401
+- pkg:nuget/Soenneker.Utils.File.Replacer@11.0.402
 - pkg:nuget/Soenneker.Utils.File.Replacer@3.0.1
 - pkg:nuget/Soenneker.Utils.File.Replacer@3.0.10
 - pkg:nuget/Soenneker.Utils.File.Replacer@3.0.11

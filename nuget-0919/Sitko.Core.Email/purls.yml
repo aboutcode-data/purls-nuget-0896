@@ -173,6 +173,8 @@
 - pkg:nuget/Sitko.Core.Email@12.0.0
 - pkg:nuget/Sitko.Core.Email@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Email@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Email@13.1.1
+- pkg:nuget/Sitko.Core.Email@13.1.2
 - pkg:nuget/Sitko.Core.Email@3.10.0
 - pkg:nuget/Sitko.Core.Email@3.11.0
 - pkg:nuget/Sitko.Core.Email@3.12.0

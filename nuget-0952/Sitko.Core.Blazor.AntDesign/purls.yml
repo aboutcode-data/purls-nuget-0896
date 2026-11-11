@@ -172,6 +172,8 @@
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@12.0.0
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Blazor.AntDesign@13.1.1
+- pkg:nuget/Sitko.Core.Blazor.AntDesign@13.1.2
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@7.10.0
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@7.10.1
 - pkg:nuget/Sitko.Core.Blazor.AntDesign@7.11.0

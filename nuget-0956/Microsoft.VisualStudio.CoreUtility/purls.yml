@@ -83,3 +83,4 @@
 - pkg:nuget/Microsoft.VisualStudio.CoreUtility@17.8.222
 - pkg:nuget/Microsoft.VisualStudio.CoreUtility@17.9.187
 - pkg:nuget/Microsoft.VisualStudio.CoreUtility@17.9.80-preview
+- pkg:nuget/Microsoft.VisualStudio.CoreUtility@18.12.81

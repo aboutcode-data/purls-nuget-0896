@@ -145,6 +145,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.23
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.29
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.3
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.34
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.4
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.5
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@8.0.6
@@ -167,6 +168,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.19
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.2
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.21
+- pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.23
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.3
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.4
 - pkg:nuget/Microsoft.AspNetCore.Components.WebAssembly@9.0.5

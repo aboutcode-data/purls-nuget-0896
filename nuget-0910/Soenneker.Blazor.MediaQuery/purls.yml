@@ -4,6 +4,9 @@
 - pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1848
 - pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1851
 - pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1857
+- pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1859
+- pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1861
+- pkg:nuget/Soenneker.Blazor.MediaQuery@11.0.1865
 - pkg:nuget/Soenneker.Blazor.MediaQuery@2.1.1
 - pkg:nuget/Soenneker.Blazor.MediaQuery@2.1.10
 - pkg:nuget/Soenneker.Blazor.MediaQuery@2.1.100

@@ -629,3 +629,6 @@
 - pkg:nuget/I-Synergy.Framework.Storage@2026.11108.12118-preview
 - pkg:nuget/I-Synergy.Framework.Storage@2026.11108.12139-preview
 - pkg:nuget/I-Synergy.Framework.Storage@2026.11110.11121-preview
+- pkg:nuget/I-Synergy.Framework.Storage@2026.11110.11423-preview
+- pkg:nuget/I-Synergy.Framework.Storage@2026.11110.11539-preview
+- pkg:nuget/I-Synergy.Framework.Storage@2026.11110.12000-preview

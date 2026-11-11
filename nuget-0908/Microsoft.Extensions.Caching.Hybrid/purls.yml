@@ -1,5 +1,6 @@
 - pkg:nuget/Microsoft.Extensions.Caching.Hybrid@10.6.0
 - pkg:nuget/Microsoft.Extensions.Caching.Hybrid@10.7.0
+- pkg:nuget/Microsoft.Extensions.Caching.Hybrid@11.0.0
 - pkg:nuget/Microsoft.Extensions.Caching.Hybrid@9.0.0-preview.4.24267.6
 - pkg:nuget/Microsoft.Extensions.Caching.Hybrid@9.0.0-preview.5.24306.11
 - pkg:nuget/Microsoft.Extensions.Caching.Hybrid@9.0.0-preview.6.24328.4

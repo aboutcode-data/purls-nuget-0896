@@ -4,3 +4,5 @@
 - pkg:nuget/Uniform.Matrix.Server@0.1.19
 - pkg:nuget/Uniform.Matrix.Server@0.1.21
 - pkg:nuget/Uniform.Matrix.Server@0.1.24
+- pkg:nuget/Uniform.Matrix.Server@0.1.29
+- pkg:nuget/Uniform.Matrix.Server@0.1.31

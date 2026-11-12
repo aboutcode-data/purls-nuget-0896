@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Suite@11.0.4351
 - pkg:nuget/Soenneker.Extensions.DateTime.Suite@11.0.4354
+- pkg:nuget/Soenneker.Extensions.DateTime.Suite@11.0.4371
+- pkg:nuget/Soenneker.Extensions.DateTime.Suite@11.0.4372
 - pkg:nuget/Soenneker.Extensions.DateTime.Suite@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.Suite@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.Suite@2.1.100

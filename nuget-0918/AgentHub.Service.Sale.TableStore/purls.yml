@@ -203,6 +203,7 @@
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.289
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.29
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.30
+- pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.303
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.31
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.32
 - pkg:nuget/AgentHub.Service.Sale.TableStore@1.0.33

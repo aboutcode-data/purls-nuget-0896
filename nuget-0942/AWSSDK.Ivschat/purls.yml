@@ -697,3 +697,4 @@
 - pkg:nuget/AWSSDK.Ivschat@4.0.2.23
 - pkg:nuget/AWSSDK.Ivschat@4.0.2.24
 - pkg:nuget/AWSSDK.Ivschat@4.0.3.5
+- pkg:nuget/AWSSDK.Ivschat@4.1.0

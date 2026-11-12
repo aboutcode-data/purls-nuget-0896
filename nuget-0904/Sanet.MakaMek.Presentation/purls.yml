@@ -172,4 +172,6 @@
 - pkg:nuget/Sanet.MakaMek.Presentation@0.65.23-preview
 - pkg:nuget/Sanet.MakaMek.Presentation@0.65.24-preview
 - pkg:nuget/Sanet.MakaMek.Presentation@0.65.26-preview
+- pkg:nuget/Sanet.MakaMek.Presentation@0.66.10-preview
+- pkg:nuget/Sanet.MakaMek.Presentation@0.66.11-preview
 - pkg:nuget/Sanet.MakaMek.Presentation@0.66.4-preview

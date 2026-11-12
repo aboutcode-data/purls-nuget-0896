@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@11.0.66
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@11.0.69
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@11.0.70
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@11.0.72
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@11.0.73
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@4.0.10
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@4.0.11
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.SlidingExpiration@4.0.21

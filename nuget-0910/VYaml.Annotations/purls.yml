@@ -35,3 +35,4 @@
 - pkg:nuget/VYaml.Annotations@1.1.0
 - pkg:nuget/VYaml.Annotations@1.1.1
 - pkg:nuget/VYaml.Annotations@1.2.0
+- pkg:nuget/VYaml.Annotations@1.6.1

@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@11.0.258
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@11.0.263
+- pkg:nuget/Soenneker.Dtos.Stripe.Error@11.0.265
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.1
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.10
 - pkg:nuget/Soenneker.Dtos.Stripe.Error@3.0.11

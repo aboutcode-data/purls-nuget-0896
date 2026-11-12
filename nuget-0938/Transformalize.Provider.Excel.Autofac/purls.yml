@@ -1,1 +1,2 @@
 - pkg:nuget/Transformalize.Provider.Excel.Autofac@0.3.12-beta
+- pkg:nuget/Transformalize.Provider.Excel.Autofac@1.5.0

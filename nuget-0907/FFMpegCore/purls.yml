@@ -52,3 +52,4 @@
 - pkg:nuget/FFMpegCore@5.0.2
 - pkg:nuget/FFMpegCore@5.1.0
 - pkg:nuget/FFMpegCore@5.2.0
+- pkg:nuget/FFMpegCore@6.0.0

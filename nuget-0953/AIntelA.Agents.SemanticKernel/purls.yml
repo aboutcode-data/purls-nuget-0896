@@ -3,7 +3,9 @@
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.16.0
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.17.5
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.22.0
+- pkg:nuget/AIntelA.Agents.SemanticKernel@0.27.0
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.3.3
+- pkg:nuget/AIntelA.Agents.SemanticKernel@0.30.0
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.7.0
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.7.2
 - pkg:nuget/AIntelA.Agents.SemanticKernel@0.7.3

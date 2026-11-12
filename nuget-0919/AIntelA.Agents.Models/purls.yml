@@ -4,7 +4,10 @@
 - pkg:nuget/AIntelA.Agents.Models@0.17.5
 - pkg:nuget/AIntelA.Agents.Models@0.19.2
 - pkg:nuget/AIntelA.Agents.Models@0.22.0
+- pkg:nuget/AIntelA.Agents.Models@0.27.0
+- pkg:nuget/AIntelA.Agents.Models@0.29.0
 - pkg:nuget/AIntelA.Agents.Models@0.3.3
+- pkg:nuget/AIntelA.Agents.Models@0.30.0
 - pkg:nuget/AIntelA.Agents.Models@0.7.0
 - pkg:nuget/AIntelA.Agents.Models@0.7.2
 - pkg:nuget/AIntelA.Agents.Models@0.7.3

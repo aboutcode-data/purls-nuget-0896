@@ -88,3 +88,4 @@
 - pkg:nuget/Nethereum.Hex@4.8.0
 - pkg:nuget/Nethereum.Hex@4.9.0
 - pkg:nuget/Nethereum.Hex@5.0.0
+- pkg:nuget/Nethereum.Hex@7.1.0

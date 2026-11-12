@@ -8,5 +8,8 @@
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@2.0.46-dev
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@2.1.10
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@2.1.23
+- pkg:nuget/DTOMaker.Runtime.MsgPack2@2.2.13
+- pkg:nuget/DTOMaker.Runtime.MsgPack2@2.2.16
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@3.0.42-dev
 - pkg:nuget/DTOMaker.Runtime.MsgPack2@3.0.46-dev
+- pkg:nuget/DTOMaker.Runtime.MsgPack2@3.0.53-dev

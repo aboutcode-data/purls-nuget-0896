@@ -73,3 +73,4 @@
 - pkg:nuget/Microsoft.Android.Templates.Msi.x86@36.1.43
 - pkg:nuget/Microsoft.Android.Templates.Msi.x86@36.1.69
 - pkg:nuget/Microsoft.Android.Templates.Msi.x86@36.99.0-preview.5.308
+- pkg:nuget/Microsoft.Android.Templates.Msi.x86@37.2.31

@@ -16,3 +16,5 @@
 - pkg:nuget/Tooark.Exceptions@2.1.8
 - pkg:nuget/Tooark.Exceptions@2.3.0
 - pkg:nuget/Tooark.Exceptions@3.2.0
+- pkg:nuget/Tooark.Exceptions@4.6.0
+- pkg:nuget/Tooark.Exceptions@4.7.3

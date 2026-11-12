@@ -1,3 +1,13 @@
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.114
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.115
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.116
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.118
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.121
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.126
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@11.0.128
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.100
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.105
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.107
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.11
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.19
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.3
@@ -11,3 +21,4 @@
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.74
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.83
 - pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.89
+- pkg:nuget/Soenneker.Bandwidth.OpenApiClient@4.0.99

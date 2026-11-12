@@ -15,6 +15,7 @@
 - pkg:nuget/WebMarkupMin.NUglify@2.19.0
 - pkg:nuget/WebMarkupMin.NUglify@2.2.0
 - pkg:nuget/WebMarkupMin.NUglify@2.22.2
+- pkg:nuget/WebMarkupMin.NUglify@2.24.0
 - pkg:nuget/WebMarkupMin.NUglify@2.3.0
 - pkg:nuget/WebMarkupMin.NUglify@2.4.0
 - pkg:nuget/WebMarkupMin.NUglify@2.4.1

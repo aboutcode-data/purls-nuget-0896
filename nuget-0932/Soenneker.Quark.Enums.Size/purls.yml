@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Quark.Enums.Size@11.0.82
+- pkg:nuget/Soenneker.Quark.Enums.Size@11.0.83
 - pkg:nuget/Soenneker.Quark.Enums.Size@3.0.10
 - pkg:nuget/Soenneker.Quark.Enums.Size@3.0.3
 - pkg:nuget/Soenneker.Quark.Enums.Size@3.0.5
@@ -12,3 +14,6 @@
 - pkg:nuget/Soenneker.Quark.Enums.Size@4.0.45
 - pkg:nuget/Soenneker.Quark.Enums.Size@4.0.51
 - pkg:nuget/Soenneker.Quark.Enums.Size@4.0.54
+- pkg:nuget/Soenneker.Quark.Enums.Size@4.0.65
+- pkg:nuget/Soenneker.Quark.Enums.Size@4.0.68
+- pkg:nuget/Soenneker.Quark.Enums.Size@4.0.69

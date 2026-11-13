@@ -122,3 +122,4 @@
 - pkg:nuget/ORM.DataAccess@27.0.0
 - pkg:nuget/ORM.DataAccess@27.0.1
 - pkg:nuget/ORM.DataAccess@27.0.2
+- pkg:nuget/ORM.DataAccess@27.0.7

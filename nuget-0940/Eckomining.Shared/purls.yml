@@ -4,4 +4,9 @@
 - pkg:nuget/Eckomining.Shared@2.0.14
 - pkg:nuget/Eckomining.Shared@2.0.16
 - pkg:nuget/Eckomining.Shared@2.0.22
+- pkg:nuget/Eckomining.Shared@2.0.31
+- pkg:nuget/Eckomining.Shared@2.0.32
+- pkg:nuget/Eckomining.Shared@2.0.40
+- pkg:nuget/Eckomining.Shared@2.0.42
+- pkg:nuget/Eckomining.Shared@2.0.43
 - pkg:nuget/Eckomining.Shared@2.0.5

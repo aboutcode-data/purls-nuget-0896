@@ -1,0 +1,3 @@
+- pkg:nuget/DubUrl.Provider.DuckDb.Native@0.55.0
+- pkg:nuget/DubUrl.Provider.DuckDb.Native@0.56.0
+- pkg:nuget/DubUrl.Provider.DuckDb.Native@0.64.0

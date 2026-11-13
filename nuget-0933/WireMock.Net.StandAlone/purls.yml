@@ -316,3 +316,4 @@
 - pkg:nuget/WireMock.Net.StandAlone@2.2.0
 - pkg:nuget/WireMock.Net.StandAlone@2.20.0
 - pkg:nuget/WireMock.Net.StandAlone@2.21.0
+- pkg:nuget/WireMock.Net.StandAlone@2.31.0

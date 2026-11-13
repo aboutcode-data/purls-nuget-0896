@@ -200,6 +200,7 @@
 - pkg:nuget/Soenneker.Redis.Lock@11.0.2970
 - pkg:nuget/Soenneker.Redis.Lock@11.0.2973
 - pkg:nuget/Soenneker.Redis.Lock@11.0.2976
+- pkg:nuget/Soenneker.Redis.Lock@11.0.2978
 - pkg:nuget/Soenneker.Redis.Lock@2.0.194
 - pkg:nuget/Soenneker.Redis.Lock@2.0.195
 - pkg:nuget/Soenneker.Redis.Lock@2.0.196

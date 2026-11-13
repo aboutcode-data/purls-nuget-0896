@@ -1,4 +1,5 @@
 - pkg:nuget/FlexRule.Extensions.Combinatorics@10.0.721
+- pkg:nuget/FlexRule.Extensions.Combinatorics@11.4.2086
 - pkg:nuget/FlexRule.Extensions.Combinatorics@7.1.373
 - pkg:nuget/FlexRule.Extensions.Combinatorics@7.1.375
 - pkg:nuget/FlexRule.Extensions.Combinatorics@9.0.86

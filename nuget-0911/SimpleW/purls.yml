@@ -80,6 +80,7 @@
 - pkg:nuget/SimpleW@26.1.0-alpha.20260821-2057
 - pkg:nuget/SimpleW@26.1.0-beta.20260824-2065
 - pkg:nuget/SimpleW@26.1.0-beta.20260824-2068
+- pkg:nuget/SimpleW@26.2.0-alpha.20261112-2357
 - pkg:nuget/SimpleW@3.0.0
 - pkg:nuget/SimpleW@3.1.0
 - pkg:nuget/SimpleW@3.1.1

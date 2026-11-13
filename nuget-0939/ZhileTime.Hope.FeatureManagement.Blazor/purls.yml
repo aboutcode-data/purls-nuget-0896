@@ -33,6 +33,7 @@
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@1.8.2
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@1.8.5
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@11.0.0
+- pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@12.0.0
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@2.1.0
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@2.2.0
 - pkg:nuget/ZhileTime.Hope.FeatureManagement.Blazor@2.2.1

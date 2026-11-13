@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.ApiKey.MongoDB@10.0.0
+- pkg:nuget/ZhileTime.Hope.ApiKey.MongoDB@12.0.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.MongoDB@2.7.0
 - pkg:nuget/ZhileTime.Hope.ApiKey.MongoDB@2.7.2
 - pkg:nuget/ZhileTime.Hope.ApiKey.MongoDB@3.0.0

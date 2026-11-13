@@ -5,3 +5,4 @@
 - pkg:nuget/Celerity.Cardinality@3.3.1-beta.2
 - pkg:nuget/Celerity.Cardinality@3.4.1-beta.25
 - pkg:nuget/Celerity.Cardinality@3.4.1-beta.27
+- pkg:nuget/Celerity.Cardinality@3.6.0

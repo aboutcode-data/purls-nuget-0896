@@ -8,6 +8,9 @@
 - pkg:nuget/Nextended.Web@10.1.42
 - pkg:nuget/Nextended.Web@10.1.50
 - pkg:nuget/Nextended.Web@10.1.55
+- pkg:nuget/Nextended.Web@10.1.60
+- pkg:nuget/Nextended.Web@10.1.62
+- pkg:nuget/Nextended.Web@10.1.63
 - pkg:nuget/Nextended.Web@5.0.0
 - pkg:nuget/Nextended.Web@5.0.3
 - pkg:nuget/Nextended.Web@6.0.0

@@ -47,4 +47,12 @@
 - pkg:nuget/ThinkGeo.Dependency.Cad@14.4.0
 - pkg:nuget/ThinkGeo.Dependency.Cad@14.4.0-beta001
 - pkg:nuget/ThinkGeo.Dependency.Cad@14.5.0
+- pkg:nuget/ThinkGeo.Dependency.Cad@14.5.0-beta001
 - pkg:nuget/ThinkGeo.Dependency.Cad@14.5.2
+- pkg:nuget/ThinkGeo.Dependency.Cad@14.5.4-beta001
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta010
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta011
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta012
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta013
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta014
+- pkg:nuget/ThinkGeo.Dependency.Cad@15.0.0-beta015

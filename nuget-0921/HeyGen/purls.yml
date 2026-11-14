@@ -22,6 +22,11 @@
 - pkg:nuget/HeyGen@0.0.0-dev.76
 - pkg:nuget/HeyGen@0.0.0-dev.80
 - pkg:nuget/HeyGen@0.0.0-dev.89
+- pkg:nuget/HeyGen@1.0.1-dev.10
+- pkg:nuget/HeyGen@1.0.1-dev.17
 - pkg:nuget/HeyGen@1.0.1-dev.2
+- pkg:nuget/HeyGen@1.0.1-dev.21
 - pkg:nuget/HeyGen@1.0.1-dev.3
 - pkg:nuget/HeyGen@1.0.1-dev.6
+- pkg:nuget/HeyGen@1.0.1-dev.7
+- pkg:nuget/HeyGen@1.0.1-dev.9

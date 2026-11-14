@@ -11,3 +11,5 @@
 - pkg:nuget/Usa.Smart.Mapper@0.8.0
 - pkg:nuget/Usa.Smart.Mapper@0.8.1
 - pkg:nuget/Usa.Smart.Mapper@0.8.2
+- pkg:nuget/Usa.Smart.Mapper@1.0.0-beta12
+- pkg:nuget/Usa.Smart.Mapper@1.0.0-beta13

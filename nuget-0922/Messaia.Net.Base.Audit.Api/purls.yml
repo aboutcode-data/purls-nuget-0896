@@ -3,6 +3,9 @@
 - pkg:nuget/Messaia.Net.Base.Audit.Api@10.0.3
 - pkg:nuget/Messaia.Net.Base.Audit.Api@10.1.0-rc03
 - pkg:nuget/Messaia.Net.Base.Audit.Api@10.1.0-rc04
+- pkg:nuget/Messaia.Net.Base.Audit.Api@10.1.2-rc03
+- pkg:nuget/Messaia.Net.Base.Audit.Api@10.2.0-beta13
+- pkg:nuget/Messaia.Net.Base.Audit.Api@10.2.0-beta14
 - pkg:nuget/Messaia.Net.Base.Audit.Api@9.1.1-RC01
 - pkg:nuget/Messaia.Net.Base.Audit.Api@9.1.1-RC02
 - pkg:nuget/Messaia.Net.Base.Audit.Api@9.1.1-RC03

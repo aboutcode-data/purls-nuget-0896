@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@11.0.360
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@11.0.362
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@11.0.372
+- pkg:nuget/Soenneker.Rebrickable.OpenApiClient@11.0.374
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@3.0.11
 - pkg:nuget/Soenneker.Rebrickable.OpenApiClient@3.0.12

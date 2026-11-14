@@ -9,3 +9,4 @@
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.UWP.SinceVs17_3_0@2.16.1.36
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.UWP.SinceVs17_3_0@2.16.1.37
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.UWP.SinceVs17_3_0@2.16.1.39
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Adapters.UWP.SinceVs17_3_0@2.16.1.41

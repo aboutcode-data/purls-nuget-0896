@@ -89,3 +89,5 @@
 - pkg:nuget/Umbraco.Deploy.Targets@16.0.1
 - pkg:nuget/Umbraco.Deploy.Targets@16.0.2
 - pkg:nuget/Umbraco.Deploy.Targets@17.1.0-rc2
+- pkg:nuget/Umbraco.Deploy.Targets@17.4.0
+- pkg:nuget/Umbraco.Deploy.Targets@18.2.0

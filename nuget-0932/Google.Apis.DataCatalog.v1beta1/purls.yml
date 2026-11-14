@@ -37,3 +37,4 @@
 - pkg:nuget/Google.Apis.DataCatalog.v1beta1@1.69.0.3725
 - pkg:nuget/Google.Apis.DataCatalog.v1beta1@1.69.0.3774
 - pkg:nuget/Google.Apis.DataCatalog.v1beta1@1.70.0.3812
+- pkg:nuget/Google.Apis.DataCatalog.v1beta1@1.78.0.4327

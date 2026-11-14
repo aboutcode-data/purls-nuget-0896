@@ -290,6 +290,7 @@
 - pkg:nuget/SQLProvider@1.5.18
 - pkg:nuget/SQLProvider@1.5.2
 - pkg:nuget/SQLProvider@1.5.3
+- pkg:nuget/SQLProvider@1.5.31
 - pkg:nuget/SQLProvider@1.5.5
 - pkg:nuget/SQLProvider@1.5.6
 - pkg:nuget/SQLProvider@1.5.7

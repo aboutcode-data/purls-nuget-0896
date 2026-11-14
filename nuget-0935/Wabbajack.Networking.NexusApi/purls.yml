@@ -36,3 +36,5 @@
 - pkg:nuget/Wabbajack.Networking.NexusApi@4.0.2
 - pkg:nuget/Wabbajack.Networking.NexusApi@4.2.0.1
 - pkg:nuget/Wabbajack.Networking.NexusApi@4.2.1
+- pkg:nuget/Wabbajack.Networking.NexusApi@4.3.0.1
+- pkg:nuget/Wabbajack.Networking.NexusApi@4.3.2.1

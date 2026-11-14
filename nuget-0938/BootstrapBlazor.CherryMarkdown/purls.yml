@@ -1,3 +1,4 @@
+- pkg:nuget/BootstrapBlazor.CherryMarkdown@11.0.0-rc.2.1
 - pkg:nuget/BootstrapBlazor.CherryMarkdown@6.0.0
 - pkg:nuget/BootstrapBlazor.CherryMarkdown@6.0.1
 - pkg:nuget/BootstrapBlazor.CherryMarkdown@6.0.2

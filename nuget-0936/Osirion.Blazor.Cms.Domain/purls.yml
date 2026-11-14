@@ -10,3 +10,5 @@
 - pkg:nuget/Osirion.Blazor.Cms.Domain@2.1.7
 - pkg:nuget/Osirion.Blazor.Cms.Domain@2.1.8
 - pkg:nuget/Osirion.Blazor.Cms.Domain@2.1.9
+- pkg:nuget/Osirion.Blazor.Cms.Domain@4.0.0
+- pkg:nuget/Osirion.Blazor.Cms.Domain@4.4.2

@@ -3,3 +3,4 @@
 - pkg:nuget/Bluehands.EventSourcing.Commands@0.4.0-main-20250207.1
 - pkg:nuget/Bluehands.EventSourcing.Commands@0.4.1-main-20250314.3
 - pkg:nuget/Bluehands.EventSourcing.Commands@0.4.2-main-20250314.6
+- pkg:nuget/Bluehands.EventSourcing.Commands@1.0.0--main-20261008.9

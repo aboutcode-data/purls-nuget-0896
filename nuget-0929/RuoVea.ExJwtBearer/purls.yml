@@ -1,5 +1,6 @@
 - pkg:nuget/RuoVea.ExJwtBearer@10.0.0.1
 - pkg:nuget/RuoVea.ExJwtBearer@10.0.0.6
+- pkg:nuget/RuoVea.ExJwtBearer@2.0.0.1
 - pkg:nuget/RuoVea.ExJwtBearer@5.0.0
 - pkg:nuget/RuoVea.ExJwtBearer@5.0.1
 - pkg:nuget/RuoVea.ExJwtBearer@5.0.1.1

@@ -26,6 +26,7 @@
 - pkg:nuget/Musoq.Plugins@17.0.13-alpha.1
 - pkg:nuget/Musoq.Plugins@17.0.14-alpha.2
 - pkg:nuget/Musoq.Plugins@17.0.16-alpha.1
+- pkg:nuget/Musoq.Plugins@17.0.16-beta.1
 - pkg:nuget/Musoq.Plugins@17.0.2-alpha.2
 - pkg:nuget/Musoq.Plugins@17.0.4-alpha.1
 - pkg:nuget/Musoq.Plugins@2.0.0

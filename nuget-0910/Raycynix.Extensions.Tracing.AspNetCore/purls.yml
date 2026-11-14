@@ -1,1 +1,2 @@
 - pkg:nuget/Raycynix.Extensions.Tracing.AspNetCore@1.0.0
+- pkg:nuget/Raycynix.Extensions.Tracing.AspNetCore@3.0.1

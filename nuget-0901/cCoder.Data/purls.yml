@@ -1,3 +1,4 @@
+- pkg:nuget/cCoder.Data@2026.10.14.1440
 - pkg:nuget/cCoder.Data@2026.4.28.1240
 - pkg:nuget/cCoder.Data@2026.7.23.1914
 - pkg:nuget/cCoder.Data@2026.7.30.1204
@@ -7,3 +8,6 @@
 - pkg:nuget/cCoder.Data@2026.8.3.610
 - pkg:nuget/cCoder.Data@2026.8.4.2132
 - pkg:nuget/cCoder.Data@2026.9.12.1246
+- pkg:nuget/cCoder.Data@2026.9.22.1438
+- pkg:nuget/cCoder.Data@2026.9.27.1304
+- pkg:nuget/cCoder.Data@2026.9.29.1100

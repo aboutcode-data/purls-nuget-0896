@@ -1,0 +1,10 @@
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.13
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.14
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.15
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.23
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.31
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.53
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.54
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.58
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.60
+- pkg:nuget/Lakona.Rpc.Transport.Kcp@0.11.63

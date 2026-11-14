@@ -8,3 +8,4 @@
 - pkg:nuget/Google.Apis.BigQueryConnectionService.v1@1.68.0.3395
 - pkg:nuget/Google.Apis.BigQueryConnectionService.v1@1.68.0.3433
 - pkg:nuget/Google.Apis.BigQueryConnectionService.v1@1.68.0.3495
+- pkg:nuget/Google.Apis.BigQueryConnectionService.v1@1.77.0.4282

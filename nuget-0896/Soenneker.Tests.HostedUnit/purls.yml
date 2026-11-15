@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Tests.HostedUnit@11.0.352
+- pkg:nuget/Soenneker.Tests.HostedUnit@11.0.366
+- pkg:nuget/Soenneker.Tests.HostedUnit@11.0.367
+- pkg:nuget/Soenneker.Tests.HostedUnit@11.0.372
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.1
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.108
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.12
@@ -35,6 +39,8 @@
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.329
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.330
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.332
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.336
+- pkg:nuget/Soenneker.Tests.HostedUnit@4.0.337
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.41
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.42
 - pkg:nuget/Soenneker.Tests.HostedUnit@4.0.59

@@ -88,3 +88,4 @@
 - pkg:nuget/libplctag@1.6.0-alpha.3
 - pkg:nuget/libplctag@1.6.0-alpha.4
 - pkg:nuget/libplctag@1.6.0-alpha.5
+- pkg:nuget/libplctag@2.0.0-alpha.2

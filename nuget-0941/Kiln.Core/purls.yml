@@ -1,3 +1,6 @@
 - pkg:nuget/Kiln.Core@1.0.1-beta.1
+- pkg:nuget/Kiln.Core@1.2.0
 - pkg:nuget/Kiln.Core@1.2.0-beta.1
 - pkg:nuget/Kiln.Core@1.2.0-beta.3
+- pkg:nuget/Kiln.Core@1.2.0-beta.8
+- pkg:nuget/Kiln.Core@2.0.0-beta.3

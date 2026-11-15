@@ -12,3 +12,4 @@
 - pkg:nuget/Elarion.Sql.Sqlite@0.2.7-preview.136.1
 - pkg:nuget/Elarion.Sql.Sqlite@0.2.7-preview.151.1
 - pkg:nuget/Elarion.Sql.Sqlite@0.2.8-preview.155.2
+- pkg:nuget/Elarion.Sql.Sqlite@0.3.1-preview.193.1

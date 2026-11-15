@@ -53,3 +53,4 @@
 - pkg:nuget/eQuantic.Core.Api.Error@1.9.1
 - pkg:nuget/eQuantic.Core.Api.Error@1.9.2
 - pkg:nuget/eQuantic.Core.Api.Error@1.9.3
+- pkg:nuget/eQuantic.Core.Api.Error@6.0.0

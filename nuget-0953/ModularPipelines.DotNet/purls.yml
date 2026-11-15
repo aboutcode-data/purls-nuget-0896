@@ -199,3 +199,4 @@
 - pkg:nuget/ModularPipelines.DotNet@2.8.23
 - pkg:nuget/ModularPipelines.DotNet@2.8.4
 - pkg:nuget/ModularPipelines.DotNet@2.9.0
+- pkg:nuget/ModularPipelines.DotNet@4.0.0

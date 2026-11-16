@@ -1758,6 +1758,7 @@
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.10.2.1035
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.10.21.1043
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.10.5.1037
+- pkg:nuget/GDL.IDAS.WebApi.Client@2026.11.16.1053
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.2.18.955
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.3.11.964
 - pkg:nuget/GDL.IDAS.WebApi.Client@2026.3.12.967

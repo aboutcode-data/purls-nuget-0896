@@ -25,3 +25,4 @@
 - pkg:nuget/FastEndpoints.HealthChecks@8.4.0-beta.8
 - pkg:nuget/FastEndpoints.HealthChecks@9.0.0-beta.10
 - pkg:nuget/FastEndpoints.HealthChecks@9.0.0-beta.11
+- pkg:nuget/FastEndpoints.HealthChecks@9.1.0-beta.1

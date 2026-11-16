@@ -102,3 +102,5 @@
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.79
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.9
 - pkg:nuget/Rask.Mail@0.23.1-alpha.0.92
+- pkg:nuget/Rask.Mail@0.24.0
+- pkg:nuget/Rask.Mail@0.24.1-alpha.0.51

@@ -54,3 +54,4 @@
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Abstractions@8.2.852
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Abstractions@9.0.855
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Abstractions@9.0.857
+- pkg:nuget/VpnHood.Core.Client.VpnServices.Abstractions@9.1.875

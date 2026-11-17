@@ -51,6 +51,7 @@
 - pkg:nuget/VendoStandard@1.13.2
 - pkg:nuget/VendoStandard@1.13.23
 - pkg:nuget/VendoStandard@1.13.24
+- pkg:nuget/VendoStandard@1.13.26
 - pkg:nuget/VendoStandard@1.13.3
 - pkg:nuget/VendoStandard@1.13.4
 - pkg:nuget/VendoStandard@1.13.5

@@ -29,6 +29,7 @@
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@10.5.4.5
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@10.5.5.8
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@10.5.8.5
+- pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@10.6.12.1
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@10.6.3.6
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@2.0.0
 - pkg:nuget/Skyline.DataMiner.Utils.InteractiveAutomationScriptToolkit@2.0.1

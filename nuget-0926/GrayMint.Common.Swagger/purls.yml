@@ -88,3 +88,4 @@
 - pkg:nuget/GrayMint.Common.Swagger@2.1.297
 - pkg:nuget/GrayMint.Common.Swagger@2.1.300
 - pkg:nuget/GrayMint.Common.Swagger@2.1.302
+- pkg:nuget/GrayMint.Common.Swagger@2.1.306

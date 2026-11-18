@@ -94,6 +94,9 @@
 - pkg:nuget/CrispyWaffle@10.4.5
 - pkg:nuget/CrispyWaffle@10.4.8
 - pkg:nuget/CrispyWaffle@10.4.9
+- pkg:nuget/CrispyWaffle@10.5.10
+- pkg:nuget/CrispyWaffle@10.5.11
+- pkg:nuget/CrispyWaffle@10.5.12
 - pkg:nuget/CrispyWaffle@2.0.6
 - pkg:nuget/CrispyWaffle@2.0.7
 - pkg:nuget/CrispyWaffle@2.0.9

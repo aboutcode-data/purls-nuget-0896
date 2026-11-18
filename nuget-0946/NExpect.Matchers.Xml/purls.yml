@@ -76,6 +76,7 @@
 - pkg:nuget/NExpect.Matchers.Xml@2.0.127
 - pkg:nuget/NExpect.Matchers.Xml@2.0.128
 - pkg:nuget/NExpect.Matchers.Xml@2.0.13
+- pkg:nuget/NExpect.Matchers.Xml@2.0.132
 - pkg:nuget/NExpect.Matchers.Xml@2.0.14
 - pkg:nuget/NExpect.Matchers.Xml@2.0.15
 - pkg:nuget/NExpect.Matchers.Xml@2.0.16

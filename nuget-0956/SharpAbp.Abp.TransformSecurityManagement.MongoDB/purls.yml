@@ -82,3 +82,4 @@
 - pkg:nuget/SharpAbp.Abp.TransformSecurityManagement.MongoDB@4.6.8
 - pkg:nuget/SharpAbp.Abp.TransformSecurityManagement.MongoDB@4.6.9
 - pkg:nuget/SharpAbp.Abp.TransformSecurityManagement.MongoDB@4.7.10
+- pkg:nuget/SharpAbp.Abp.TransformSecurityManagement.MongoDB@4.8.0

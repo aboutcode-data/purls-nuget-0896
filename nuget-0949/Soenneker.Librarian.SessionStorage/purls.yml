@@ -19,6 +19,7 @@
 - pkg:nuget/Soenneker.Librarian.SessionStorage@11.0.196
 - pkg:nuget/Soenneker.Librarian.SessionStorage@11.0.204
 - pkg:nuget/Soenneker.Librarian.SessionStorage@11.0.230
+- pkg:nuget/Soenneker.Librarian.SessionStorage@11.0.236
 - pkg:nuget/Soenneker.Librarian.SessionStorage@4.0.100
 - pkg:nuget/Soenneker.Librarian.SessionStorage@4.0.108
 - pkg:nuget/Soenneker.Librarian.SessionStorage@4.0.68

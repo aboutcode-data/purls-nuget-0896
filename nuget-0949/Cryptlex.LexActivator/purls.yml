@@ -105,6 +105,7 @@
 - pkg:nuget/Cryptlex.LexActivator@3.40.0
 - pkg:nuget/Cryptlex.LexActivator@3.46.1
 - pkg:nuget/Cryptlex.LexActivator@3.48.1
+- pkg:nuget/Cryptlex.LexActivator@3.48.2
 - pkg:nuget/Cryptlex.LexActivator@3.5.0
 - pkg:nuget/Cryptlex.LexActivator@3.5.1
 - pkg:nuget/Cryptlex.LexActivator@3.5.2

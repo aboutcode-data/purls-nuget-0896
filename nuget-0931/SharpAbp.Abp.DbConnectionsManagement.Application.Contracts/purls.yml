@@ -189,4 +189,5 @@
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Application.Contracts@4.6.9
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Application.Contracts@4.7.10
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Application.Contracts@4.7.5
+- pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Application.Contracts@4.8.0
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Application.Contracts@6.0.1

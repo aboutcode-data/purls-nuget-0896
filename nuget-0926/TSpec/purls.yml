@@ -5,3 +5,4 @@
 - pkg:nuget/TSpec@4.0.3
 - pkg:nuget/TSpec@4.3.1
 - pkg:nuget/TSpec@5.4.1
+- pkg:nuget/TSpec@5.6.0

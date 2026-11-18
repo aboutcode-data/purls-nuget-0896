@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@11.0.122
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@11.0.123
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@11.0.126
+- pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@11.0.130
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@4.0.14
 - pkg:nuget/Soenneker.HealthSherpa.OpenApiClientUtil@4.0.16

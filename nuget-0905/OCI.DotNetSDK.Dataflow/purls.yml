@@ -60,6 +60,7 @@
 - pkg:nuget/OCI.DotNetSDK.Dataflow@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataflow@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Dataflow@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Dataflow@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataflow@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataflow@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataflow@17.1.0

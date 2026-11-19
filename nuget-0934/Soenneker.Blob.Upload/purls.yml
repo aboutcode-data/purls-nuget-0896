@@ -245,6 +245,7 @@
 - pkg:nuget/Soenneker.Blob.Upload@11.0.3346
 - pkg:nuget/Soenneker.Blob.Upload@11.0.3355
 - pkg:nuget/Soenneker.Blob.Upload@11.0.3356
+- pkg:nuget/Soenneker.Blob.Upload@11.0.3362
 - pkg:nuget/Soenneker.Blob.Upload@2.0.1
 - pkg:nuget/Soenneker.Blob.Upload@2.0.2
 - pkg:nuget/Soenneker.Blob.Upload@2.0.241

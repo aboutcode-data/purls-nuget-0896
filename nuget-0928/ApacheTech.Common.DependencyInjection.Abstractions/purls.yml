@@ -7,3 +7,4 @@
 - pkg:nuget/ApacheTech.Common.DependencyInjection.Abstractions@2.5.0
 - pkg:nuget/ApacheTech.Common.DependencyInjection.Abstractions@2.5.1
 - pkg:nuget/ApacheTech.Common.DependencyInjection.Abstractions@2.5.2
+- pkg:nuget/ApacheTech.Common.DependencyInjection.Abstractions@2.5.4

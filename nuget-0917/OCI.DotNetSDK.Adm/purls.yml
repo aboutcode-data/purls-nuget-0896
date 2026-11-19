@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Adm@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Adm@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Adm@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Adm@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Adm@37.1.0
 - pkg:nuget/OCI.DotNetSDK.Adm@38.0.0
 - pkg:nuget/OCI.DotNetSDK.Adm@38.1.0

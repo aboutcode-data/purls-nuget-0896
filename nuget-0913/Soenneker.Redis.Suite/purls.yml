@@ -281,6 +281,8 @@
 - pkg:nuget/Soenneker.Redis.Suite@11.0.3644
 - pkg:nuget/Soenneker.Redis.Suite@11.0.3645
 - pkg:nuget/Soenneker.Redis.Suite@11.0.3655
+- pkg:nuget/Soenneker.Redis.Suite@11.0.3662
+- pkg:nuget/Soenneker.Redis.Suite@11.0.3665
 - pkg:nuget/Soenneker.Redis.Suite@2.0.1
 - pkg:nuget/Soenneker.Redis.Suite@2.0.2
 - pkg:nuget/Soenneker.Redis.Suite@2.0.278

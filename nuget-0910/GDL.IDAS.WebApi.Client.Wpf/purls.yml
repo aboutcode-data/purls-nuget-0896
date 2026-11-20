@@ -1419,6 +1419,7 @@
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.10.5.1037
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.11.16.1053
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.11.19.1056
+- pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.11.20.1057
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.2.18.955
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.3.11.964
 - pkg:nuget/GDL.IDAS.WebApi.Client.Wpf@2026.3.12.967

@@ -4,3 +4,4 @@
 - pkg:nuget/PiwiTests.Instrumentation.Core@0.59.0
 - pkg:nuget/PiwiTests.Instrumentation.Core@0.60.0
 - pkg:nuget/PiwiTests.Instrumentation.Core@0.65.0
+- pkg:nuget/PiwiTests.Instrumentation.Core@0.73.0

@@ -3,3 +3,4 @@
 - pkg:nuget/StructureMap.Microsoft.DependencyInjection.Forked@2.1.0
 - pkg:nuget/StructureMap.Microsoft.DependencyInjection.Forked@2.2.0
 - pkg:nuget/StructureMap.Microsoft.DependencyInjection.Forked@3.0.0
+- pkg:nuget/StructureMap.Microsoft.DependencyInjection.Forked@4.0.0

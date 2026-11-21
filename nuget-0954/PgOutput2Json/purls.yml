@@ -42,3 +42,4 @@
 - pkg:nuget/PgOutput2Json@1.1.2
 - pkg:nuget/PgOutput2Json@1.2.0
 - pkg:nuget/PgOutput2Json@1.5.0
+- pkg:nuget/PgOutput2Json@2.1.1

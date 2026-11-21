@@ -64,6 +64,7 @@
 - pkg:nuget/CefSharp.Wpf.HwndHost@140.1.140
 - pkg:nuget/CefSharp.Wpf.HwndHost@144.0.270
 - pkg:nuget/CefSharp.Wpf.HwndHost@146.0.70
+- pkg:nuget/CefSharp.Wpf.HwndHost@150.0.240
 - pkg:nuget/CefSharp.Wpf.HwndHost@156.0.300
 - pkg:nuget/CefSharp.Wpf.HwndHost@83.4.20-pre
 - pkg:nuget/CefSharp.Wpf.HwndHost@84.4.10

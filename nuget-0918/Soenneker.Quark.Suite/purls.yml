@@ -23,6 +23,8 @@
 - pkg:nuget/Soenneker.Quark.Suite@11.0.1740
 - pkg:nuget/Soenneker.Quark.Suite@11.0.1752
 - pkg:nuget/Soenneker.Quark.Suite@11.0.1760
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1762
+- pkg:nuget/Soenneker.Quark.Suite@11.0.1763
 - pkg:nuget/Soenneker.Quark.Suite@3.0.1
 - pkg:nuget/Soenneker.Quark.Suite@3.0.10
 - pkg:nuget/Soenneker.Quark.Suite@3.0.100

@@ -41,3 +41,5 @@
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration.Metadata@2.26.206.44
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration.Metadata@2.26.226.81
 - pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration.Metadata@2.26.249.144
+- pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration.Metadata@2.26.282.289
+- pkg:nuget/SourceCrafter.DependencyInjection.MsConfiguration.Metadata@2.26.286.181

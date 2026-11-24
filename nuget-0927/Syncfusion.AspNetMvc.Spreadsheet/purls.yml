@@ -1,2 +1,3 @@
 - pkg:nuget/Syncfusion.AspNetMvc.Spreadsheet@34.1.29
 - pkg:nuget/Syncfusion.AspNetMvc.Spreadsheet@34.2.5
+- pkg:nuget/Syncfusion.AspNetMvc.Spreadsheet@35.2.13

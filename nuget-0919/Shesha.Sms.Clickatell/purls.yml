@@ -208,6 +208,7 @@
 - pkg:nuget/Shesha.Sms.Clickatell@0.45.0
 - pkg:nuget/Shesha.Sms.Clickatell@0.45.1
 - pkg:nuget/Shesha.Sms.Clickatell@0.46.2
+- pkg:nuget/Shesha.Sms.Clickatell@0.46.4
 - pkg:nuget/Shesha.Sms.Clickatell@0.6.0
 - pkg:nuget/Shesha.Sms.Clickatell@0.6.1
 - pkg:nuget/Shesha.Sms.Clickatell@0.7.0

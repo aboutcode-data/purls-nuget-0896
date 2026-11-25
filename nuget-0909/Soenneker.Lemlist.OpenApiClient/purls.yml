@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@11.0.77
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@11.0.80
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@11.0.87
+- pkg:nuget/Soenneker.Lemlist.OpenApiClient@11.0.96
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@4.0.21
 - pkg:nuget/Soenneker.Lemlist.OpenApiClient@4.0.24

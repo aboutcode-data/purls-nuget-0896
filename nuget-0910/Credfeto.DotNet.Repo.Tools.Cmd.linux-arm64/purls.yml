@@ -238,6 +238,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.33.4415-native-aot-upda
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.33.4422-native-aot-upda
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.33.4423-native-aot-upda
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.33.4432
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.34.4431-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.4.3186-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.4.3205-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.linux-arm64@1.5.4.3206-main

@@ -16,4 +16,6 @@
 - pkg:nuget/Webority.Azure.Storage@0.43.0
 - pkg:nuget/Webority.Azure.Storage@0.46.1
 - pkg:nuget/Webority.Azure.Storage@0.46.2
+- pkg:nuget/Webority.Azure.Storage@0.47.1
+- pkg:nuget/Webority.Azure.Storage@0.47.2
 - pkg:nuget/Webority.Azure.Storage@0.5.0

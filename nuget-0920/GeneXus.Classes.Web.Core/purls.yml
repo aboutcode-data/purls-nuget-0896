@@ -173,3 +173,5 @@
 - pkg:nuget/GeneXus.Classes.Web.Core@1.37.2
 - pkg:nuget/GeneXus.Classes.Web.Core@1.37.21
 - pkg:nuget/GeneXus.Classes.Web.Core@1.37.23
+- pkg:nuget/GeneXus.Classes.Web.Core@1.38.15
+- pkg:nuget/GeneXus.Classes.Web.Core@1.39.4

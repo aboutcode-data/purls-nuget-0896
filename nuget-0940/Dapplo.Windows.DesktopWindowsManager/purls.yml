@@ -163,5 +163,6 @@
 - pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.23.3
 - pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.24.2
 - pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.25.2
+- pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.26.3
 - pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.8.2
 - pkg:nuget/Dapplo.Windows.DesktopWindowsManager@3.9.2

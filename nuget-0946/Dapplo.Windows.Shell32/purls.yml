@@ -157,4 +157,5 @@
 - pkg:nuget/Dapplo.Windows.Shell32@3.23.3
 - pkg:nuget/Dapplo.Windows.Shell32@3.24.2
 - pkg:nuget/Dapplo.Windows.Shell32@3.25.2
+- pkg:nuget/Dapplo.Windows.Shell32@3.26.3
 - pkg:nuget/Dapplo.Windows.Shell32@3.9.2

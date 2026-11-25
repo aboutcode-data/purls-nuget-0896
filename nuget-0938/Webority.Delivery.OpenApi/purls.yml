@@ -8,3 +8,5 @@
 - pkg:nuget/Webority.Delivery.OpenApi@0.67.0
 - pkg:nuget/Webority.Delivery.OpenApi@0.70.0
 - pkg:nuget/Webority.Delivery.OpenApi@0.70.1
+- pkg:nuget/Webority.Delivery.OpenApi@0.70.3
+- pkg:nuget/Webority.Delivery.OpenApi@0.71.0

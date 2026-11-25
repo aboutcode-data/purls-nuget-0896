@@ -190,6 +190,7 @@
 - pkg:nuget/AmbientServices@0.9.330
 - pkg:nuget/AmbientServices@0.9.345
 - pkg:nuget/AmbientServices@0.9.354
+- pkg:nuget/AmbientServices@0.9.355
 - pkg:nuget/AmbientServices@1.0.0
 - pkg:nuget/AmbientServices@1.0.1
 - pkg:nuget/AmbientServices@1.0.10

@@ -21,5 +21,6 @@
 - pkg:nuget/FlowOrchestrator.PostgreSQL@1.31.2
 - pkg:nuget/FlowOrchestrator.PostgreSQL@1.31.2-preview.174
 - pkg:nuget/FlowOrchestrator.PostgreSQL@1.32.2-preview.188
+- pkg:nuget/FlowOrchestrator.PostgreSQL@1.34.5
 - pkg:nuget/FlowOrchestrator.PostgreSQL@1.9.0-preview.44
 - pkg:nuget/FlowOrchestrator.PostgreSQL@1.9.0-preview.45

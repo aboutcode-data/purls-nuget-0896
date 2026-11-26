@@ -19,6 +19,8 @@
 - pkg:nuget/CdCSharp.Pangea@1.0.41
 - pkg:nuget/CdCSharp.Pangea@1.0.42
 - pkg:nuget/CdCSharp.Pangea@1.0.5
+- pkg:nuget/CdCSharp.Pangea@1.0.55
+- pkg:nuget/CdCSharp.Pangea@1.0.59
 - pkg:nuget/CdCSharp.Pangea@1.0.6
 - pkg:nuget/CdCSharp.Pangea@1.0.8
 - pkg:nuget/CdCSharp.Pangea@1.0.9

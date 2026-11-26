@@ -2,3 +2,9 @@
 - pkg:nuget/Volo.Abp.Mapperly@10.1.1
 - pkg:nuget/Volo.Abp.Mapperly@10.2.0
 - pkg:nuget/Volo.Abp.Mapperly@10.3.0-rc.1
+- pkg:nuget/Volo.Abp.Mapperly@10.5.0
+- pkg:nuget/Volo.Abp.Mapperly@10.5.0-rc.1
+- pkg:nuget/Volo.Abp.Mapperly@10.5.0-rc.4
+- pkg:nuget/Volo.Abp.Mapperly@10.6.0-rc.3
+- pkg:nuget/Volo.Abp.Mapperly@10.7.0-rc.1
+- pkg:nuget/Volo.Abp.Mapperly@10.7.1

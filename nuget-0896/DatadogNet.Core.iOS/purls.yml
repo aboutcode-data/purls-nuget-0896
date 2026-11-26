@@ -1,0 +1,5 @@
+- pkg:nuget/DatadogNet.Core.iOS@2.30.2.2
+- pkg:nuget/DatadogNet.Core.iOS@3.14.0.2-beta.5.10
+- pkg:nuget/DatadogNet.Core.iOS@3.14.0.5-beta.11.23
+- pkg:nuget/DatadogNet.Core.iOS@3.14.0.5-beta.8.19
+- pkg:nuget/DatadogNet.Core.iOS@3.14.0.5-beta.9.20

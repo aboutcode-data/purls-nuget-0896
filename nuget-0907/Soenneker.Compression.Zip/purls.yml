@@ -1,0 +1,15 @@
+- pkg:nuget/Soenneker.Compression.Zip@11.0.60
+- pkg:nuget/Soenneker.Compression.Zip@11.0.68
+- pkg:nuget/Soenneker.Compression.Zip@11.0.70
+- pkg:nuget/Soenneker.Compression.Zip@11.0.74
+- pkg:nuget/Soenneker.Compression.Zip@11.0.78
+- pkg:nuget/Soenneker.Compression.Zip@11.0.81
+- pkg:nuget/Soenneker.Compression.Zip@4.0.11
+- pkg:nuget/Soenneker.Compression.Zip@4.0.13
+- pkg:nuget/Soenneker.Compression.Zip@4.0.16
+- pkg:nuget/Soenneker.Compression.Zip@4.0.21
+- pkg:nuget/Soenneker.Compression.Zip@4.0.25
+- pkg:nuget/Soenneker.Compression.Zip@4.0.33
+- pkg:nuget/Soenneker.Compression.Zip@4.0.34
+- pkg:nuget/Soenneker.Compression.Zip@4.0.38
+- pkg:nuget/Soenneker.Compression.Zip@4.0.9

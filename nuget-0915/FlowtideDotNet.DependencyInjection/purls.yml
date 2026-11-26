@@ -63,6 +63,7 @@
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha12
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha15
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha20
+- pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha21
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha7
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha8
 - pkg:nuget/FlowtideDotNet.DependencyInjection@0.16.0-alpha9

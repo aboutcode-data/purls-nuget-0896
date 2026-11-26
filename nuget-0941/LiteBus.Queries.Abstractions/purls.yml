@@ -63,3 +63,4 @@
 - pkg:nuget/LiteBus.Queries.Abstractions@7.0.0-preview.3
 - pkg:nuget/LiteBus.Queries.Abstractions@8.0.0-preview.2
 - pkg:nuget/LiteBus.Queries.Abstractions@8.0.0-preview.3
+- pkg:nuget/LiteBus.Queries.Abstractions@8.0.0-preview.8

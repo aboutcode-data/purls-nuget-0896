@@ -40,4 +40,6 @@
 - pkg:nuget/CloudStreams.Gateway.Application@0.63.0
 - pkg:nuget/CloudStreams.Gateway.Application@0.7.0
 - pkg:nuget/CloudStreams.Gateway.Application@0.8.0
+- pkg:nuget/CloudStreams.Gateway.Application@0.81.0
+- pkg:nuget/CloudStreams.Gateway.Application@0.82.0
 - pkg:nuget/CloudStreams.Gateway.Application@0.9.0

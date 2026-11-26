@@ -2,6 +2,7 @@
 - pkg:nuget/ddsWrapper@1.0.1
 - pkg:nuget/ddsWrapper@1.0.111
 - pkg:nuget/ddsWrapper@1.0.147
+- pkg:nuget/ddsWrapper@1.0.156
 - pkg:nuget/ddsWrapper@1.0.2
 - pkg:nuget/ddsWrapper@1.0.37
 - pkg:nuget/ddsWrapper@1.0.38

@@ -355,3 +355,4 @@
 - pkg:nuget/RestSharp@114.0.1-alpha.0.8
 - pkg:nuget/RestSharp@114.0.1-alpha.0.9
 - pkg:nuget/RestSharp@114.1.0
+- pkg:nuget/RestSharp@114.1.1-alpha.0.10

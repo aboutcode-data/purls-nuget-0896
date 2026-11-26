@@ -93,3 +93,5 @@
 - pkg:nuget/VeeFriends.ShopifySync.EBay@5.0.79
 - pkg:nuget/VeeFriends.ShopifySync.EBay@5.0.8
 - pkg:nuget/VeeFriends.ShopifySync.EBay@5.0.9
+- pkg:nuget/VeeFriends.ShopifySync.EBay@5.1.5
+- pkg:nuget/VeeFriends.ShopifySync.EBay@5.2.2

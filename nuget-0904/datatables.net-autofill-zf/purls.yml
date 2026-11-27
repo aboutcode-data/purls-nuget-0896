@@ -9,3 +9,5 @@
 - pkg:nuget/datatables.net-autofill-zf@2.6.0
 - pkg:nuget/datatables.net-autofill-zf@2.7.0
 - pkg:nuget/datatables.net-autofill-zf@2.7.1
+- pkg:nuget/datatables.net-autofill-zf@3.1.2
+- pkg:nuget/datatables.net-autofill-zf@3.1.3

@@ -9,6 +9,7 @@
 - pkg:nuget/YS.Knife.Sms.Core@0.0.135
 - pkg:nuget/YS.Knife.Sms.Core@0.0.141
 - pkg:nuget/YS.Knife.Sms.Core@0.0.142
+- pkg:nuget/YS.Knife.Sms.Core@0.0.148
 - pkg:nuget/YS.Knife.Sms.Core@0.0.27
 - pkg:nuget/YS.Knife.Sms.Core@0.0.28
 - pkg:nuget/YS.Knife.Sms.Core@0.0.29

@@ -1,0 +1,3 @@
+- pkg:nuget/RemoteFrame.Office.Runtime.win-x64@0.3.0-preview.12
+- pkg:nuget/RemoteFrame.Office.Runtime.win-x64@0.3.0-preview.13
+- pkg:nuget/RemoteFrame.Office.Runtime.win-x64@0.3.0-preview.17

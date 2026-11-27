@@ -1,0 +1,3 @@
+- pkg:nuget/Corely.Billing.DataAccessMigrations.Cli@2.0.4
+- pkg:nuget/Corely.Billing.DataAccessMigrations.Cli@3.0.1
+- pkg:nuget/Corely.Billing.DataAccessMigrations.Cli@4.0.0

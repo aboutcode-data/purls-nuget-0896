@@ -14,3 +14,4 @@
 - pkg:nuget/Luxoft.Bss.Platform.Kubernetes@1.5.8.1
 - pkg:nuget/Luxoft.Bss.Platform.Kubernetes@1.6.7
 - pkg:nuget/Luxoft.Bss.Platform.Kubernetes@1.6.8
+- pkg:nuget/Luxoft.Bss.Platform.Kubernetes@1.7.0-preview3

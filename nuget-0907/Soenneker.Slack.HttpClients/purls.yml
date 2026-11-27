@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Slack.HttpClients@11.0.154
 - pkg:nuget/Soenneker.Slack.HttpClients@11.0.157
 - pkg:nuget/Soenneker.Slack.HttpClients@11.0.159
+- pkg:nuget/Soenneker.Slack.HttpClients@11.0.168
 - pkg:nuget/Soenneker.Slack.HttpClients@4.0.100
 - pkg:nuget/Soenneker.Slack.HttpClients@4.0.114
 - pkg:nuget/Soenneker.Slack.HttpClients@4.0.143

@@ -1,0 +1,3 @@
+- pkg:nuget/Doka.EntityFrameworkCore.SafeMigrations.MySql@10.1.2
+- pkg:nuget/Doka.EntityFrameworkCore.SafeMigrations.MySql@10.4.4
+- pkg:nuget/Doka.EntityFrameworkCore.SafeMigrations.MySql@10.6.0

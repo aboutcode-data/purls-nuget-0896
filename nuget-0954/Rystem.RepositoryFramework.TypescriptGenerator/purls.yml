@@ -1,3 +1,4 @@
 - pkg:nuget/Rystem.RepositoryFramework.TypescriptGenerator@10.0.3-preview.12
 - pkg:nuget/Rystem.RepositoryFramework.TypescriptGenerator@10.0.3-preview.6
 - pkg:nuget/Rystem.RepositoryFramework.TypescriptGenerator@10.0.8
+- pkg:nuget/Rystem.RepositoryFramework.TypescriptGenerator@11.0.0

@@ -7,3 +7,12 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.5.0-UpdateFeedback.2
 - pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.5.1
 - pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.5.1-essentials-update.1
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.6.0-feature-add-ir-remote-control.5
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.6.0-feature-add-ir-remote-control.6
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.6.0-feature-add-ir-remote-control.7
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-feature-add-mock-device.3
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-feature-add-mock-device.8
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-fix-input-commands.3
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-fix-simple-ip-parser.3
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-fix-volume-command-copy.3
+- pkg:nuget/PepperDash.Essentials.Plugins.Sony.Bravia@2.7.0-fix-volume-command-copy.7

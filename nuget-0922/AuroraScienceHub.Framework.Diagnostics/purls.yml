@@ -1,2 +1,4 @@
 - pkg:nuget/AuroraScienceHub.Framework.Diagnostics@10.0.4
+- pkg:nuget/AuroraScienceHub.Framework.Diagnostics@10.0.6
+- pkg:nuget/AuroraScienceHub.Framework.Diagnostics@11.0.1-feature-nuget-trusted-publishing.179
 - pkg:nuget/AuroraScienceHub.Framework.Diagnostics@9.0.6

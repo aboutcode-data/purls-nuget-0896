@@ -2,6 +2,8 @@
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.2.0-preview
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.21.0-preview
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.22.0-preview
+- pkg:nuget/Am.Keyward.Ui.Blazor@0.32.0-preview
+- pkg:nuget/Am.Keyward.Ui.Blazor@0.35.0-preview
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.6.0-preview
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.7.0-preview
 - pkg:nuget/Am.Keyward.Ui.Blazor@0.7.1-preview

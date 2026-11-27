@@ -1,1 +1,2 @@
 - pkg:nuget/TestFramework.LocalIO@0.1.4
+- pkg:nuget/TestFramework.LocalIO@0.4.0

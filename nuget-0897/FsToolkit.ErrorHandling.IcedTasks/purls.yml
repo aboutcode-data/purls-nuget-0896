@@ -72,3 +72,6 @@
 - pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@5.1.0-beta001
 - pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@6.0.0-beta002
 - pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@6.0.0-beta003
+- pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@6.0.0-beta006
+- pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@6.0.0-beta008
+- pkg:nuget/FsToolkit.ErrorHandling.IcedTasks@6.0.0-beta009

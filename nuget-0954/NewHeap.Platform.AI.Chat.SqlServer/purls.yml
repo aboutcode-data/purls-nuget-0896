@@ -3,6 +3,7 @@
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@23.0.1
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@34.0.0
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@37.0.0
+- pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@39.3.1
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@7.7.0
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@7.8.2
 - pkg:nuget/NewHeap.Platform.AI.Chat.SqlServer@8.0.0

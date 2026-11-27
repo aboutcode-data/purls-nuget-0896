@@ -1,2 +1,7 @@
 - pkg:nuget/CSharpEssentials.Mediator@3.0.7
 - pkg:nuget/CSharpEssentials.Mediator@3.1.0
+- pkg:nuget/CSharpEssentials.Mediator@4.1.0
+- pkg:nuget/CSharpEssentials.Mediator@5.2.1
+- pkg:nuget/CSharpEssentials.Mediator@6.0.0
+- pkg:nuget/CSharpEssentials.Mediator@6.3.0
+- pkg:nuget/CSharpEssentials.Mediator@7.0.0

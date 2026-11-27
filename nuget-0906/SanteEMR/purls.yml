@@ -11,3 +11,6 @@
 - pkg:nuget/SanteEMR@3.0.2092-alpha
 - pkg:nuget/SanteEMR@3.0.2094-alpha
 - pkg:nuget/SanteEMR@3.0.2095-alpha
+- pkg:nuget/SanteEMR@3.0.2119.1
+- pkg:nuget/SanteEMR@3.0.2120.4
+- pkg:nuget/SanteEMR@3.0.2121.1

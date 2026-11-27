@@ -1,4 +1,5 @@
 - pkg:nuget/YouBIM.Common.HttpClient.Lib@1.0.0
 - pkg:nuget/YouBIM.Common.HttpClient.Lib@1.0.1
+- pkg:nuget/YouBIM.Common.HttpClient.Lib@10.0.14
 - pkg:nuget/YouBIM.Common.HttpClient.Lib@9.0.14.1
 - pkg:nuget/YouBIM.Common.HttpClient.Lib@9.0.6

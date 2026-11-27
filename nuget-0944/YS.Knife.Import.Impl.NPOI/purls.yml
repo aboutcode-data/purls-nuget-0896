@@ -11,6 +11,7 @@
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.14
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.141
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.142
+- pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.148
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.15
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.16
 - pkg:nuget/YS.Knife.Import.Impl.NPOI@0.0.17

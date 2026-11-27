@@ -10,3 +10,5 @@
 - pkg:nuget/SwiftCollections@1.0.9
 - pkg:nuget/SwiftCollections@2.0.0
 - pkg:nuget/SwiftCollections@5.0.1
+- pkg:nuget/SwiftCollections@9.0.0
+- pkg:nuget/SwiftCollections@9.0.1

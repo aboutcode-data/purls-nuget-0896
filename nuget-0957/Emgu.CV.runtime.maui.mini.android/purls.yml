@@ -8,3 +8,4 @@
 - pkg:nuget/Emgu.CV.runtime.maui.mini.android@4.8.0.5324
 - pkg:nuget/Emgu.CV.runtime.maui.mini.android@4.8.1.5350
 - pkg:nuget/Emgu.CV.runtime.maui.mini.android@4.9.0.5494
+- pkg:nuget/Emgu.CV.runtime.maui.mini.android@5.0.0.6584

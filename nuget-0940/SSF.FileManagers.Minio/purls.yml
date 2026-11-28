@@ -21,3 +21,6 @@
 - pkg:nuget/SSF.FileManagers.Minio@2.48.0
 - pkg:nuget/SSF.FileManagers.Minio@2.50.0
 - pkg:nuget/SSF.FileManagers.Minio@2.58.0
+- pkg:nuget/SSF.FileManagers.Minio@2.62.0
+- pkg:nuget/SSF.FileManagers.Minio@2.64.0
+- pkg:nuget/SSF.FileManagers.Minio@2.67.0

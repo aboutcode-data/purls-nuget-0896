@@ -135,6 +135,7 @@
 - pkg:nuget/browserstack-sdk@1.52.0
 - pkg:nuget/browserstack-sdk@1.52.2
 - pkg:nuget/browserstack-sdk@1.55.0
+- pkg:nuget/browserstack-sdk@1.58.1
 - pkg:nuget/browserstack-sdk@1.6.0
 - pkg:nuget/browserstack-sdk@1.6.1
 - pkg:nuget/browserstack-sdk@1.6.2

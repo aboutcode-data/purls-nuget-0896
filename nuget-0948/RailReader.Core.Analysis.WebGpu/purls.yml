@@ -11,3 +11,5 @@
 - pkg:nuget/RailReader.Core.Analysis.WebGpu@0.81.0
 - pkg:nuget/RailReader.Core.Analysis.WebGpu@0.82.2
 - pkg:nuget/RailReader.Core.Analysis.WebGpu@0.83.1
+- pkg:nuget/RailReader.Core.Analysis.WebGpu@0.88.0
+- pkg:nuget/RailReader.Core.Analysis.WebGpu@0.89.0

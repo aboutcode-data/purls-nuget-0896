@@ -1,1 +1,4 @@
 - pkg:nuget/Optris.Sdk@12.0.27
+- pkg:nuget/Optris.Sdk@12.0.31
+- pkg:nuget/Optris.Sdk@12.0.32
+- pkg:nuget/Optris.Sdk@12.0.35

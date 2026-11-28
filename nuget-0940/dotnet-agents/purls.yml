@@ -8,3 +8,7 @@
 - pkg:nuget/dotnet-agents@0.1.234
 - pkg:nuget/dotnet-agents@0.1.245
 - pkg:nuget/dotnet-agents@0.1.250
+- pkg:nuget/dotnet-agents@0.1.261
+- pkg:nuget/dotnet-agents@0.1.269
+- pkg:nuget/dotnet-agents@0.1.272
+- pkg:nuget/dotnet-agents@0.1.291

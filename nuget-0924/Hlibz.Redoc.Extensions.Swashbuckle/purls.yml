@@ -1,0 +1,3 @@
+- pkg:nuget/Hlibz.Redoc.Extensions.Swashbuckle@2.1.0-preview.2
+- pkg:nuget/Hlibz.Redoc.Extensions.Swashbuckle@2.5.0
+- pkg:nuget/Hlibz.Redoc.Extensions.Swashbuckle@2.6.0

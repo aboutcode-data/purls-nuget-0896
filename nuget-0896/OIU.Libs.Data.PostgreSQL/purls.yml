@@ -1,1 +1,2 @@
 - pkg:nuget/OIU.Libs.Data.PostgreSQL@3.5.0.27
+- pkg:nuget/OIU.Libs.Data.PostgreSQL@3.5.0.39

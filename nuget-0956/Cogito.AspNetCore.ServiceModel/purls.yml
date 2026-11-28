@@ -24,3 +24,4 @@
 - pkg:nuget/Cogito.AspNetCore.ServiceModel@1.1.7
 - pkg:nuget/Cogito.AspNetCore.ServiceModel@1.1.9
 - pkg:nuget/Cogito.AspNetCore.ServiceModel@1.2.0-alpha0001
+- pkg:nuget/Cogito.AspNetCore.ServiceModel@1.2.3

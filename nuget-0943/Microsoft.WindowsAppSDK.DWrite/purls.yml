@@ -3,3 +3,4 @@
 - pkg:nuget/Microsoft.WindowsAppSDK.DWrite@1.8.25052801-experimental3
 - pkg:nuget/Microsoft.WindowsAppSDK.DWrite@1.8.25073101-preview
 - pkg:nuget/Microsoft.WindowsAppSDK.DWrite@1.8.25090401
+- pkg:nuget/Microsoft.WindowsAppSDK.DWrite@2.7.0

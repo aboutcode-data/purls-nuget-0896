@@ -4,3 +4,4 @@
 - pkg:nuget/CSharpEssentials.Endpoints@6.3.0
 - pkg:nuget/CSharpEssentials.Endpoints@6.5.0
 - pkg:nuget/CSharpEssentials.Endpoints@7.0.0
+- pkg:nuget/CSharpEssentials.Endpoints@9.0.0

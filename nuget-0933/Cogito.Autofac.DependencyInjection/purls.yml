@@ -59,3 +59,4 @@
 - pkg:nuget/Cogito.Autofac.DependencyInjection@5.0.5
 - pkg:nuget/Cogito.Autofac.DependencyInjection@6.0.0
 - pkg:nuget/Cogito.Autofac.DependencyInjection@6.1.0
+- pkg:nuget/Cogito.Autofac.DependencyInjection@6.1.4

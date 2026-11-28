@@ -1,2 +1,4 @@
 - pkg:nuget/lucnd.icloud.client.gateways@6.1.293
+- pkg:nuget/lucnd.icloud.client.gateways@6.11.100
+- pkg:nuget/lucnd.icloud.client.gateways@6.11.160
 - pkg:nuget/lucnd.icloud.client.gateways@6.6.250

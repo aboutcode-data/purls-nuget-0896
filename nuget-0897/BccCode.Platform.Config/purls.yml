@@ -100,3 +100,15 @@
 - pkg:nuget/BccCode.Platform.Config@1.0.0.99-beta
 - pkg:nuget/BccCode.Platform.Config@1.0.1.1
 - pkg:nuget/BccCode.Platform.Config@1.0.1.5
+- pkg:nuget/BccCode.Platform.Config@2.0.0.18-pr36
+- pkg:nuget/BccCode.Platform.Config@2.0.0.19-pr36
+- pkg:nuget/BccCode.Platform.Config@2.0.0.20
+- pkg:nuget/BccCode.Platform.Config@2.0.0.23-pr44
+- pkg:nuget/BccCode.Platform.Config@2.0.0.24
+- pkg:nuget/BccCode.Platform.Config@2.0.1.25-pr71
+- pkg:nuget/BccCode.Platform.Config@2.0.1.26
+- pkg:nuget/BccCode.Platform.Config@2.0.1.31-pr77
+- pkg:nuget/BccCode.Platform.Config@2.0.1.32-pr78
+- pkg:nuget/BccCode.Platform.Config@2.0.1.33-pr77
+- pkg:nuget/BccCode.Platform.Config@2.0.1.36
+- pkg:nuget/BccCode.Platform.Config@2.0.1.37

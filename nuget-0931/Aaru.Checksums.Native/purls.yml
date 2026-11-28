@@ -2,3 +2,4 @@
 - pkg:nuget/Aaru.Checksums.Native@6.0.0-alpha.11
 - pkg:nuget/Aaru.Checksums.Native@6.0.0-alpha6
 - pkg:nuget/Aaru.Checksums.Native@6.0.0-alpha9
+- pkg:nuget/Aaru.Checksums.Native@6.0.0-beta.2

@@ -8,3 +8,5 @@
 - pkg:nuget/SOFTURE.Contract.Common@0.0.9
 - pkg:nuget/SOFTURE.Contract.Common@0.1.1
 - pkg:nuget/SOFTURE.Contract.Common@0.2.1
+- pkg:nuget/SOFTURE.Contract.Common@1.7.1
+- pkg:nuget/SOFTURE.Contract.Common@2.0.0
